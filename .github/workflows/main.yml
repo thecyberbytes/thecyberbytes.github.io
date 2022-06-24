@@ -23,14 +23,14 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout code
-        uses: actions/checkout@worker
+        uses: actions/checkout@v2
         with:
           persist-credentials: false
           fetch-depth: 0
       
       # If using Python:
       - name: Set up Python 3.8
-        uses: actions/setup-python@worker
+        uses: actions/setup-python@v2
         with:
           python-version: "3.8"
       
@@ -48,7 +48,7 @@ jobs:
       - name: Git commit
         run: |
           git add news_data -A
-          if ! git diff-index --quiet worker; then
+          if ! git diff-index --quiet HEAD; then
             git config --local user.email "mailcyberbytes@gmail.com"
             git config --local user.name "GitHub Action"
             git commit -m "Commiting data"
@@ -59,6 +59,6 @@ jobs:
         run: |
           echo ${GITHUB_ACTOR}
           echo ${TOKEN}
-          git push "https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
+          git push "https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:worker
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
