@@ -36,11 +36,11 @@ jobs:
       
       # If using Python:
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r news_data/requirements.txt
         
       # If using Python:
       - name: Pull data
-        run: python3 main.py
+        run: python3 news_data/main.py
       
       #
       #    
