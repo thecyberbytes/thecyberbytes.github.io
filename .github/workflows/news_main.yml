@@ -40,11 +40,7 @@ jobs:
         
       # If using Python:
       - name: Install nltk downloads
-        run: |
-          nltk.download('stopwords')
-          nltk.download('punkt')
-          nltk.download('wordnet')
-          nltk.download('omw-1.4')        
+        run: python3 -m nltk.downloader punkt stopwords wordnet omw-1.4
         
       # If using Python:
       - name: Pull data
