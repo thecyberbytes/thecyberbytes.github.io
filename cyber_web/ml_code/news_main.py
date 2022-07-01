@@ -3,9 +3,9 @@ import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-def generate_news_html():
+def generate_news_html(cat_news_filename):
     # read the news feed
-    news_df = pd.read_excel("cyber_web/excels/Book2.xlsx")#/content/news_articles.xlsx")
+    news_df = pd.read_excel(cat_news_filename)
     news_df.dropna(axis=0, inplace=True)
     # clean the new line character
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace('\n',""))
@@ -166,7 +166,7 @@ def generate_card_trending(df, start, end):
 
   return
     
-def categorize_news():
+def categorize_news(news_filename, feed_filename):
     filename = 'cyber_web/models/trained_model.pkl'  # the trained model
     tdidf_filename = 'cyber_web/models/trained_tfidf.pkl'  # the trained TD-IDF vector
     cat_filename = 'cyber_web/models/category_dict.pkl'  # the news category dict
@@ -181,7 +181,7 @@ def categorize_news():
     loaded_category_to_id = pickle.load(open(cat_filename, "rb" ) )
 
     # load the test data
-    news_test_df = pd.read_excel("cyber_web/excels/Book3.xlsx")
+    news_test_df = pd.read_excel(feed_filename)
 
     # perform TFIDF 
     news_test_df_tfidf = loaded_tfidf.transform(news_test_df['Title'].str.lower())
@@ -194,11 +194,13 @@ def categorize_news():
     #submit_test = ["Correct" if y_test.to_list()[i] == y_pred[i] else "X" for i in range(len(y_pred)) ]
     submit_test = pd.concat([news_test_df['Title'], pd.DataFrame(y_pred_cat_name)], axis=1)
     submit_test.columns=['Title', 'Category']
-    submit_test.to_excel("cyber_web/excels/news_categorized.xlsx", index=False)
+    submit_test.to_excel(news_filename, index=False)
     
 def main():
-    categorize_news()
-    generate_news_html()
+    news_categorized_file = "cyber_web/excels/news_categorized.xlsx"
+    news_feed_file = "cyber_web/excels/Book3.xlsx"
+    categorize_news(news_categorized_file, news_feed_file)
+    generate_news_html(news_categorized_file)
         
 if __name__ == "__main__":
     main()
