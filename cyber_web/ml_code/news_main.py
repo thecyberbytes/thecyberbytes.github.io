@@ -197,7 +197,7 @@ def categorize_news(news_filename, feed_filename):
     
 def main():
     news_categorized_file = "cyber_web/excels/news_categorized.xlsx"
-    news_feed_file = "cyber_web/excels/Book3.xlsx"
+    news_feed_file = "cyber_web/excels/news_feed.xlsx"
     categorize_news(news_categorized_file, news_feed_file)
     generate_news_html(news_categorized_file)
         
