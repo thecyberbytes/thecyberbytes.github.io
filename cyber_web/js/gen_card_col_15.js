@@ -2,22 +2,22 @@ document.write(' \
 <div class="container-fluid border border-dark border-0 p-0 m-0 align-items-center justify-content-between"> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.intezer.com/blog/incident-response/automate-analysis-phishing-email-files/" target="_blank" style="text-decoration:none"> \
-<img src="https://149520725.v2.pressablecdn.com/wp-content/uploads/2022/05/email-phishing-investigation-pipeline-blog-graphic-1.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://threatpost.com/google-hermit-spyware-android-ios/180062/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/03/02173641/mobile-malware-scaled-e1646260625640.jpeg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>May 24, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">Detecting Phishing Emails with Email Headers, Attachments, and URLs</h2> \
+<small class="text-uppercase font-weight-bold"><span>Hacking</span> <span class="mx-1">&bullet;</span> <span>2022-06-24</span></small> \
+<h2 class="card-link text-dark font-weight-bold my-3">Google Warns Spyware Being Deployed Against Android, iOS Users</h2> \
 </div> \
 </a> \
 </div> \
 </div> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/editorial/its-time-to-talk-about-conversational-customer-service/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/featured/2021/09/shutterstock_1705078873-750x375_1.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://nakedsecurity.sophos.com/2022/06/24/openssl-issues-a-bugfix-for-the-previous-bugfix/" target="_blank" style="text-decoration:none"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/ossl-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 2, 2021</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">It’s time to talk about conversational customer service</h2> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>2022-06-24</span></small> \
+<h2 class="card-link text-dark font-weight-bold my-3">OpenSSL issues a bugfix for the previous bugfix</h2> \
 </div> \
 </a> \
 </div> \
