@@ -39,6 +39,14 @@ jobs:
         run: pip install -r cyber_web/ml_code/requirements.txt
         
       # If using Python:
+      - name: Install nltk downloads
+        run: |
+          nltk.download('stopwords')
+          nltk.download('punkt')
+          nltk.download('wordnet')
+          nltk.download('omw-1.4')        
+        
+      # If using Python:
       - name: Pull data
         run: python3 cyber_web/ml_code/news_main.py
       
