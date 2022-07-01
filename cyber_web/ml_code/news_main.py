@@ -191,10 +191,8 @@ def categorize_news(news_filename, feed_filename):
     for cat_pred, cat_pred_val in enumerate(y_pred_cat):
       y_pred_cat_name.append([cat for cat, cat_id in loaded_category_to_id.items() if cat_id == cat_pred_val][0])
 
-    #submit_test = ["Correct" if y_test.to_list()[i] == y_pred[i] else "X" for i in range(len(y_pred)) ]
-    submit_test = pd.concat([news_test_df['Title'], pd.DataFrame(y_pred_cat_name)], axis=1)
-    submit_test.columns=['Title', 'Category']
-    submit_test.to_excel(news_filename, index=False)
+    news_test_df['Category'] = y_pred_cat_name
+    news_test_df.to_excel(news_filename, index=False)
     
 def main():
     news_categorized_file = "cyber_web/excels/news_categorized.xlsx"
