@@ -1,37 +1,37 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://thehackernews.com/2022/07/microsoft-warns-about-evolving.html" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36Wz8FPLgDMYg86C4q6DBBzmivooP2G_B96G3z-oiYNkQS_U77Mt2MNKF2ekO6cjyMgdoAKipryi37zMUGGu-U6h5WQSP514B97ZiQkWJcaA7A6aMvQyBVKEpkTUdyADXiFd2PaP-LJlT0EQWKPosS3ypgiXl3RcFfHPhSDp1VPI_GAb4Cvo4LODj/s260-e100/android.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://thehackernews.com/2022/07/hackers-used-fake-job-offer-to-hack-and.html" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbs3jHyJvX7UshuM-Svxe92SVkAw9W_glVlWuyitbSosMUAj3ZfDBBpIJHoIQAhhJ3mKhtyYsx7lnsJOW7fV7rY1oc-2ru2j9bSlOjxlkpVthDPDUMZlKjaICUVMFdyLbrYFlSkQ8m9VHXL1Rp5SAfdbNsIXCV5kwVrVVf_ixcMHWtVHWeM---hHXS/s260-e100/hack.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Microsoft Warns About Evolving Capabilities of Toll Fraud Android Malware Apps</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">2022-07-01</p> \
+<h2>Hackers Used Fake Job Offer to Hack and Steal $540 Million from Axie Infinity</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 10, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://thehackernews.com/2022/07/new-sessionmanager-backdoor-targeting.html" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj96E6Nc-uFcyKCw15Hq3QBwDakTl-hyqpqBpmksCbkIQA8ZjSKGGv7-JrpJHutb3RKNF2vt2tEdYAgJPEystG9OT4Aok82WvD-vaKgxWORnecDBkVM98iS7DYoGbmd4fBo0UfwKy-B3_pvW9qjTEtyN3ZBxtK0CRizbA2jRHQeHFiXh_v_4X-LLl91/s260-e100/ms.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://thehackernews.com/2022/07/pypi-repository-makes-2af-security.html" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYc5WPIiioyeQXyRfSBVy4PZB7Dl7u_zFeyqTCAoMMPyaU2x0Q-0CBe6_Wy9wnDwiCgYmMOv2GmFWb5VPI7XMIBsJSrqLQHS2dR6fdxhmz69zWSxeDGPsjdyF6HrKNHYO4cNO6XvBBXFtpH9B3rwJ6wxdBiUtzIeDhFzOsHve0MvhHdGuU3xAlYrJb/s260-e100/python.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>New \'SessionManager\' Backdoor Targeting Microsoft IIS Servers in the Wild</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">2022-07-01</p> \
+<h2>PyPI Repository Makes 2FA Security Mandatory for Critical Python Projects</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 10, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://thehackernews.com/2022/07/solving-indirect-vulnerability-enigma.html" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBz3IT6BU8eGspTJ_mqNmAFNjrhqryniEtc2585T1nSMNZzcIX730qaA1HrO7NlWBPSd9946O_RYaOEEx11UzzP-b6t8rLK5ZWhTw7jkND7kr6vypFg2t697iyhy074_yos1kdBx_0Z_4Vh9RkUrBr2zprivIXxJ4oDamfBrNoUJo2v7a2iDu-iohH/s260-e100/flaw.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://thehackernews.com/2022/07/hackers-exploiting-follina-bug-to.html" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqkZlda0c2g2igRLTOdrEftzHnVaYPBW5GyWFxmq2gYpwQJC85xMudeBpTILNLmjRqpCEQzJ1BHrUDtlNVaYEIjBIszT-yfr5cd_4eB48Ayxqg8tZogsoHViYpX26Bhq8NdJI9qMvqSr-H6uCMSDiHFlPWqQDWupWrWorWtPcyR3TFN-oXdcQihirY/s260-e100/hacking.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Solving the indirect vulnerability enigma - fixing indirect vulnerabilities without breaking your dependency tree</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">2022-07-01</p> \
+<h2>Hackers Exploiting Follina Bug to Deploy Rozena Backdoor</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 09, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://thehackernews.com/2022/07/amazon-quietly-patches-high-severity.html" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzQVlonJf_XqhWGctqBadliStgZ5BfPcXrV2M5NMVhbx55llKoFb7y5LJNOQAXGesOZEbTU_tWzesgNJVO3WxklVO0_XospeR23Hm7CFyt3ymBVCrAOj0K5Unwn5j32ppll-VKr-gn3ahUJhOqUdkQtpZJIfXZxMvrI1CL5ShIOpzbZ6-xxnkbvkST/s260-e100/amazon.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://thehackernews.com/2022/07/researchers-warn-of-raspberry-robins.html" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi47_8OVRZZdZZlDfWC2P7MpstPt-XpZ4ZKygowRYnW7DLw73QEaoDbMbnJCtBj7iJCgp3dqVgeURxgVx04odZ4vhc4lA6xto5G5t2j7wbcqWwX6qrNMc4zrr9zLnHK4h8yu2Y5uis4JkWZJdE1hRl30HrrqRrgW6NAVUPg1OKcEGhzIe8udEQhQgjT/s260-e100/windows.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Amazon Quietly Patches \'High Severity\' Vulnerability in Android Photos App</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">2022-07-01</p> \
+<h2>Researchers Warn of Raspberry Robin\'s Worm Targeting Windows Users</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 08, 2022</p> \
 </div> \
 </a> \
 </div> \
