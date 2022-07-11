@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://thehackernews.com/2022/07/what-it-takes-to-tackle-your-saas.html" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGYq-XqGQpJYE5LRSY8pMtgQU6aVBmag35C3JxKPXh76OHy5HhTpnqhSy7N6KluAnrtnwfOLgd9a-HKKbNu3W4sv7m0wL8rv1iyLvMYQe9bblhT6PrVS5YqX1k-vVzjysjGZ8qFe0NiL1tWPo3U6Cw_e8zD4hvslOlFPOcJ83NW-ygEyy6INj6ekTL/s260-e100/hack-1.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>What It Takes to Tackle Your SaaS Security</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 11, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://thehackernews.com/2022/07/hackers-used-fake-job-offer-to-hack-and.html" target="_blank"> \
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbs3jHyJvX7UshuM-Svxe92SVkAw9W_glVlWuyitbSosMUAj3ZfDBBpIJHoIQAhhJ3mKhtyYsx7lnsJOW7fV7rY1oc-2ru2j9bSlOjxlkpVthDPDUMZlKjaICUVMFdyLbrYFlSkQ8m9VHXL1Rp5SAfdbNsIXCV5kwVrVVf_ixcMHWtVHWeM---hHXS/s260-e100/hack.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Hackers Exploiting Follina Bug to Deploy Rozena Backdoor</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 09, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://thehackernews.com/2022/07/researchers-warn-of-raspberry-robins.html" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi47_8OVRZZdZZlDfWC2P7MpstPt-XpZ4ZKygowRYnW7DLw73QEaoDbMbnJCtBj7iJCgp3dqVgeURxgVx04odZ4vhc4lA6xto5G5t2j7wbcqWwX6qrNMc4zrr9zLnHK4h8yu2Y5uis4JkWZJdE1hRl30HrrqRrgW6NAVUPg1OKcEGhzIe8udEQhQgjT/s260-e100/windows.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Researchers Warn of Raspberry Robin\'s Worm Targeting Windows Users</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 08, 2022</p> \
 </div> \
 </a> \
 </div> \
