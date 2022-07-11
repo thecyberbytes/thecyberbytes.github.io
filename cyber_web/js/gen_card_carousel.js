@@ -1,7 +1,7 @@
 document.write(' \
 <div class="carousel-item active"> \
 <a href="https://thehackernews.com/2022/07/what-it-takes-to-tackle-your-saas.html" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGYq-XqGQpJYE5LRSY8pMtgQU6aVBmag35C3JxKPXh76OHy5HhTpnqhSy7N6KluAnrtnwfOLgd9a-HKKbNu3W4sv7m0wL8rv1iyLvMYQe9bblhT6PrVS5YqX1k-vVzjysjGZ8qFe0NiL1tWPo3U6Cw_e8zD4hvslOlFPOcJ83NW-ygEyy6INj6ekTL/s260-e100/hack-1.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPxHMLcSa4WRg601fefW0w0Zs5Bt-rwpEX74LRStGPM4otf6xSAdoUTGL2grSomfeKmT-IPqAusfY4X62m76d7OZybhqdWS61ytOXMpfVTxqUl6i-9lnXknAiUzpW7VyFPdCIRpINy80Ir7hHC-OIEgo_EwkfQ_KGcqep1t2EHlC2GgcFW_ahH21Hn2w/s260-e100/adaptive.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>What It Takes to Tackle Your SaaS Security</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 11, 2022</p> \
