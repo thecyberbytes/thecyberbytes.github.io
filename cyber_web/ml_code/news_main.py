@@ -52,8 +52,8 @@ def generate_news_html(cat_news_filename):
         
       # generate trending nres section
       # start - 0 and end - 6
-      start_card_index = 0
-      generate_card_trending(trending_df, start_card_index, trending_cards_count)
+      #start_card_index = 0
+      generate_card_trending(trending_df, 0, trending_cards_count)
     
 def write_file(file, data):
   # Writing to file
