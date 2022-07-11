@@ -6,4 +6,3 @@ openpyxl
 requests
 bs4
 lxml
-html
