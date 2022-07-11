@@ -153,7 +153,7 @@ def generate_card_trending(df, start, end):
   
   print(df.shape)
   
-  for i in range(start, end):
+  for i in range(start, df.shape[0]):
       print(i)
       print(df['Title'][i])
       lines.append('<li class="list-group-item" style="background: #fafafa;"> \\\n')
