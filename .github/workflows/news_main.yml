@@ -63,6 +63,8 @@ jobs:
         run: |
           echo ${GITHUB_ACTOR}
           echo ${TOKEN}
+          echo ${GITHUB_REPOSITORY}
+          echo "https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git push "https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:worker
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
