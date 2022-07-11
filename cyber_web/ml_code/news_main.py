@@ -204,7 +204,7 @@ def generate_news_feed(feed_filename):
     news_df = pd.DataFrame(columns=['Date Created', 'Title', 'URL', 'Image'])
 
     print(f"Pulling data from {URL}...")
-    news_df = gen_feed.pull_hackernews_data(pull_data(URL), news_df)
+    news_df = gen_feed.pull_hackernews_data(gen_feed.pull_data(URL), news_df)
     print(f"Done pulling data.")
     print(news_df.shape)
     
