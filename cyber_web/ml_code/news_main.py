@@ -2,6 +2,7 @@ import pickle
 import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
+import feed_file_generator as gen_feed
 
 def generate_news_html(cat_news_filename):
     # read the news feed
@@ -195,9 +196,22 @@ def categorize_news(news_filename, feed_filename):
     news_test_df['Category'] = y_pred_cat_name
     news_test_df.to_excel(news_filename, index=False)
     
+# Make Excel Feed File
+def generate_news_feed(feed_filename):
+    URL = "https://thehackernews.com/feeds/posts/default"
+
+    #create empty dataframe
+    news_df = pd.DataFrame(columns=['Date Created', 'Title', 'URL', 'Image'])
+
+    print(f"Pulling data from {URL}...")
+    news_df = gen_feed.pull_hackernews_data(pull_data(URL), news_df)
+    print(f"Done pulling data.")
+    print(news_df.shape)
+    
 def main():
     news_categorized_file = "cyber_web/excels/news_categorized.xlsx"
     news_feed_file = "cyber_web/excels/news_feed.xlsx"
+    generate_news_feed(news_feed_file)
     categorize_news(news_categorized_file, news_feed_file)
     generate_news_html(news_categorized_file)
         
