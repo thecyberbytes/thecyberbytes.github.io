@@ -9,7 +9,8 @@ def generate_news_html(cat_news_filename):
     news_df = pd.read_excel(cat_news_filename)
     news_df.dropna(axis=0, inplace=True)
     # clean the new line character
-    news_df['Title'] = news_df['Title'].apply(lambda x: x.replace('\n',""))
+    news_df = news_df.apply(lambda x: x.replace('\n',""))
+    #news_df['Title'] = news_df['Title'].apply(lambda x: x.replace('\n',""))
     # clean the quotes
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace("\'","\\'"))
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace('\"','\\"'))
