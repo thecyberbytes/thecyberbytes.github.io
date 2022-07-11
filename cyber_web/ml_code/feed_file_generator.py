@@ -46,7 +46,7 @@ def pull_cybernews_data(pageContent, df):
     This is the meat of your web scraper:
     Pulling out the data you want from the HTML of the web page
     """
-    webpage_parsed = BeautifulSoup(pageContent, 'lxml-xml')
+    webpage_parsed = BeautifulSoup(pageContent, 'html')
     webpage_title = webpage_parsed.title
     print(webpage_title)
     #index = len(df)
