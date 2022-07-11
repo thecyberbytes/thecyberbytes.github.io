@@ -1,10 +1,18 @@
-print("Hello you are in explore_data file")
+print("Hello you are in feed_file_generator file")
 
 from datetime import datetime
 import pandas as pd
 
 import requests
 from bs4 import BeautifulSoup
+
+def pull_data:
+    response = requests.get(url)
+    response.raise_for_status()
+
+    content = response.content#resp.content.decode('utf8')
+    #print(content)
+    return content
 
 def pull_hackernews_data(pageContent, df):
     """
