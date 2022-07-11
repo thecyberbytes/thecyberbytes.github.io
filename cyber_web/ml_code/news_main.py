@@ -153,6 +153,7 @@ def generate_card_trending(df, start, end):
 
   for i in range(start, end):
       print(i)
+      print(df['Title'][i])
       lines.append('<li class="list-group-item" style="background: #fafafa;"> \\\n')
       lines.append('<a href="' + df['URL'][i] + '" target="_blank" style="text-decoration:none"> \\\n')
       lines.append('<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \\\n')
