@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-def pull_data:
+def pull_data(url):
     response = requests.get(url)
     response.raise_for_status()
 
