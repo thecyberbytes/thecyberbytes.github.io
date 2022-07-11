@@ -150,7 +150,9 @@ def generate_card_col_2_and_3(df, start, end, file_name):
 def generate_card_trending(df, start, end):
   lines = []
   lines.append("document.write(' \\\n")
-
+  
+  print(df.shape)
+  
   for i in range(start, end):
       print(i)
       print(df['Title'][i])
