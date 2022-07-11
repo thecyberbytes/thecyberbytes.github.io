@@ -205,7 +205,7 @@ def pull_welive_data(pageContent, df):
       df.loc[len(df)] = [date, title_text, link_text, image_src]
     return df
 
-def gen_feed_file():
+def gen_feed_file(file_name):
     #create empty dataframe
     news_df = pd.DataFrame(columns=['Date Created', 'Title', 'URL', 'Image'])
 
@@ -251,4 +251,5 @@ def gen_feed_file():
     print(f"Done pulling data.")
     print(news_df.shape)
     
-    return news_df
+    news_df.to_excel(file_name, index=False)
+    return
