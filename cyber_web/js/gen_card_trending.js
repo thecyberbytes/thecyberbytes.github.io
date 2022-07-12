@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://thehackernews.com/2022/07/hackers-exploiting-follina-bug-to.html" target="_blank" style="text-decoration:none"> \
+<a href="https://thehackernews.com/2022/07/microsoft-windows-autopatch-is-now.html" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Hackers Exploiting Follina Bug to Deploy Rozena Backdoor</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Windows Autopatch is Now Generally Available for Enterprise Systems</h6> \
 </div> \
 </a> \
 </li> \
