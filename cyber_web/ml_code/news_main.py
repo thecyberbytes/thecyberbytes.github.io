@@ -29,6 +29,14 @@ def generate_news_html(cat_news_filename):
     total_news = 52
     total_section = 6
     
+    # generate category cards
+    generate_single_category('Data Breach', news_df)
+    generate_single_category('Cyber Knowledge', news_df)
+    generate_single_category('Ransomware', news_df)
+    generate_single_category('Vulnerability', news_df)
+    generate_single_category('Crypto Currency', news_df)
+    generate_single_category('Hacking', news_df)
+
     # start - 0 and end - 4
     end_card_index = start_card_index + carousel_cards_count
     generate_carousel(news_df, start_card_index, end_card_index)
@@ -74,6 +82,37 @@ def read_file(file, data):
       # Reading from a file
       print(card_file.read())
   card_file.close()
+
+def generate_single_category(cat_name, df):
+    cat_df = df[df['Category']==cat_name]
+    print(cat_df.shape)
+    lines = []
+    lines.append("document.write(' \\\n")
+    
+    for i in range(cat_df.shape[0]):
+      print(i)
+      lines.append('<div class="d-md-flex post-entry-2 small-img"> \\\n')
+      lines.append('<a href="' + cat_df.iloc[i]['URL'] + '" class="me-4 thumbnail"> \\\n')
+      lines.append('<img src="' + cat_df.iloc[i]['Image'] + '" alt="" class="img-fluid"> \\\n')
+      lines.append('</a> \\\n')
+      lines.append('<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \\\n')
+      lines.append('<h3 class="card-link text-dark font-weight-bold"> \\\n')
+      lines.append('<a href="' + cat_df.iloc[i]['URL'] + '"> ' + cat_df.iloc[i]['Title'] + ' </a> \\\n')
+      lines.append('</h3> \\\n')
+      lines.append('<small class="text-uppercase font-weight-bold">  \\\n')
+      lines.append('<span>' + cat_df.iloc[i]['Date Created'] + '</span></small> \\\n')
+      lines.append('</div> \\\n')
+      lines.append('</div> \\\n')
+    
+    if len(cat_df) == 0:
+      lines.append('<h3>No relevant news article for this category</h3> \\\n')
+
+    lines.append("');")
+    
+    file_name = "cyber_web/js/"+"gen_card_cat_"+cat_name+".js"
+    write_file(file_name, lines)
+
+    return
 
 def generate_carousel(df, start, end):
   lines = []
