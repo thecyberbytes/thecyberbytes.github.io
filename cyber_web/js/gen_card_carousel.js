@@ -1,7 +1,16 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://thehackernews.com/2022/07/cloud-based-cryptocurrency-miners.html" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsScxx5lrEQfbCWFs0LL3YwLbAckiMuNSNVSj4Omh9y7t6hBlaO_A6W3i3-h8DTXr3qLYmgGe6_0Rtcf1r1nr8GhXQymONb3lJx43bcg2JJevnRerCZ0F5hkfiVBkcgDnHVzxOJNTWdsD2PRAAaB1xWgrjGOgK4Hv-fXCtLirQqu2d2suiXccZUxxI/s260-e100/ss.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Cloud-based Cryptocurrency Miners Targeting GitHub Actions and Azure VMs</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 11, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://thehackernews.com/2022/07/what-it-takes-to-tackle-your-saas.html" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPxHMLcSa4WRg601fefW0w0Zs5Bt-rwpEX74LRStGPM4otf6xSAdoUTGL2grSomfeKmT-IPqAusfY4X62m76d7OZybhqdWS61ytOXMpfVTxqUl6i-9lnXknAiUzpW7VyFPdCIRpINy80Ir7hHC-OIEgo_EwkfQ_KGcqep1t2EHlC2GgcFW_ahH21Hn2w/s260-e100/adaptive.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vEHIOun6Tw_9GuFL-KDCja1j633fyd2qyewJioJEWdHI43-vgYEe36KKfggeathmKEMI0vJiB_fQEgTf95EZo--HY51CQayzm81HMXDY7IJvn2oYcwT1CCMN7e3qaKv21v5nqpYlFRjBQXVyO8kgAbd7QgtN3e5VsMM2aRuzSAtGLn9e9SRwLzgIQQ/s260-e100/adaptive.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>What It Takes to Tackle Your SaaS Security</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 11, 2022</p> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>PyPI Repository Makes 2FA Security Mandatory for Critical Python Projects</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 10, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://thehackernews.com/2022/07/hackers-exploiting-follina-bug-to.html" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqkZlda0c2g2igRLTOdrEftzHnVaYPBW5GyWFxmq2gYpwQJC85xMudeBpTILNLmjRqpCEQzJ1BHrUDtlNVaYEIjBIszT-yfr5cd_4eB48Ayxqg8tZogsoHViYpX26Bhq8NdJI9qMvqSr-H6uCMSDiHFlPWqQDWupWrWorWtPcyR3TFN-oXdcQihirY/s260-e100/hacking.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Hackers Exploiting Follina Bug to Deploy Rozena Backdoor</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 09, 2022</p> \
 </div> \
 </a> \
 </div> \
