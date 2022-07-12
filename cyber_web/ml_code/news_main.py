@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 import feed_file_generator as gen_feed
 
-def generate_news_html(cat_news_filename):
+def generate_news_html(cat_news_filename, blogs_file_name):
     # read the news feed
     news_df = pd.read_excel(cat_news_filename)
     news_df.dropna(axis=0, inplace=True)
@@ -37,6 +37,9 @@ def generate_news_html(cat_news_filename):
     generate_single_category('Crypto Currency', news_df)
     generate_single_category('Hacking', news_df)
 
+    blogs_df = pd.read_excel(blogs_file_name)
+    generate_blogs(blogs_df)
+    
     # start - 0 and end - 4
     end_card_index = start_card_index + carousel_cards_count
     generate_carousel(news_df, start_card_index, end_card_index)
@@ -82,6 +85,32 @@ def read_file(file, data):
       # Reading from a file
       print(card_file.read())
   card_file.close()
+
+def generate_blogs(df):
+    lines = []
+    lines.append("document.write(' \\\n")
+    
+    for i in range(df.shape[0]):
+      print(i)
+      lines.append('<div class="d-md-flex post-entry-2 small-img"> \\\n')
+      lines.append('<a href="' + df.iloc[i]['URL'] + '" class="me-4 thumbnail" target="_blank"> \\\n')
+      lines.append('<img src="' + df.iloc[i]['Image'] + '" alt="" class="img-fluid"> \\\n')
+      lines.append('</a> \\\n')
+      lines.append('<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \\\n')
+      lines.append('<h3 class="card-link text-dark font-weight-bold"> \\\n')
+      lines.append('<a href="' + df.iloc[i]['URL'] + '" target="_blank"> ' + df.iloc[i]['Title'] + ' </a> \\\n')
+      lines.append('</h3> \\\n')
+      lines.append('<small class="text-uppercase font-weight-bold">  \\\n')
+      lines.append('<span>' + df.iloc[i]['Date Created'] + '</span></small> \\\n')
+      lines.append('</div> \\\n')
+      lines.append('</div> \\\n')
+    
+    lines.append("');")
+    
+    file_name = "cyber_web/js/"+"gen_blogs.js"
+    write_file(file_name, lines)
+
+    return
 
 def generate_single_category(cat_name, df):
     cat_df = df[df['Category']==cat_name]
@@ -243,10 +272,11 @@ def categorize_news(news_filename, feed_filename):
     
 def main():
     news_categorized_file = "cyber_web/excels/news_categorized.xlsx"
+    blogs_file = "cyber_web/excels/blog_feed.xlsx"
     news_feed_file = "cyber_web/excels/news_feed.xlsx"
-    gen_feed.gen_feed_file(news_feed_file)
+    gen_feed.gen_feed_file(news_feed_file, blogs_file)
     categorize_news(news_categorized_file, news_feed_file)
-    generate_news_html(news_categorized_file)
+    generate_news_html(news_categorized_file, blogs_file)
         
 if __name__ == "__main__":
     main()
