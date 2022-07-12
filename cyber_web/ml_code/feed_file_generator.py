@@ -14,6 +14,29 @@ def pull_data(url):
     #print(content)
     return content
 
+def pull_blog_data(pageContent, df):
+    """
+    This is the meat of your web scraper:
+    Pulling out the data you want from the HTML of the web page
+    """
+    webpage_parsed = BeautifulSoup(pageContent, 'lxml-xml')
+    webpage_title = webpage_parsed.title
+    print(webpage_title)
+    
+    for ind, item in enumerate(webpage_parsed.findAll('item')):
+      title_text = item.findChildren('title')[0].getText()
+      link_text = item.findChildren('link')[0].getText()
+      date = item.findChildren('pubDate')[0].getText()
+      date = datetime.strptime(item.findChildren('pubDate')[0].getText(), "%a, %d %b %Y %H:%M:%S %Z")
+      date = datetime.strftime(date.date(), "%m/%d/%Y")
+      image_content = item.findChildren('content:encoded')[0].getText()
+      image_parsed = BeautifulSoup(image_content, 'html.parser')
+      image_src = image_parsed.img['src']
+      df.loc[len(df)] = [date, title_text, link_text, image_src]
+      #print(f"-----------Card values {ind}-----------------")
+      #print(date, "\n", title_text, "\n", link_text, "\n", image_src)
+    return df
+
 def pull_hackernews_data(pageContent, df):
     """
     This is the meat of your web scraper:
@@ -46,7 +69,7 @@ def pull_cybernews_data(pageContent, df):
     This is the meat of your web scraper:
     Pulling out the data you want from the HTML of the web page
     """
-    webpage_parsed = BeautifulSoup(pageContent, 'html')
+    webpage_parsed = BeautifulSoup(pageContent, 'html.parser')
     webpage_title = webpage_parsed.title
     print(webpage_title)
     #index = len(df)
@@ -206,6 +229,16 @@ def pull_welive_data(pageContent, df):
     return df
 
 def gen_feed_file(file_name):
+    #create empty dataframe
+    blog_df = pd.DataFrame(columns=['Date Created', 'Title', 'URL', 'Image'])
+
+    URL = "https://medium.com/feed/@vinothu"
+    print(f"Pulling data from {URL}...")
+    blog_df = pull_blog_data(pull_data(URL), blog_df)
+    print(f"Done pulling data.")
+    print(blog_df.shape)
+    blog_df.to_excel("blog_"+file_name, index=False)
+    
     #create empty dataframe
     news_df = pd.DataFrame(columns=['Date Created', 'Title', 'URL', 'Image'])
 
