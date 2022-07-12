@@ -1,5 +1,17 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/avoiding-death-by-thousand-scripts.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKaOGmbeT0oS2MDjYoIbq4H7ksZ-N2W3F9S_EqefumLKqFc8pe6bxo-x-FtkJX81cUTzmdON9iVa5v2IZ7YAaZBZba1ObVnPKNX3RTHj8rAUdwl8ZVDGQmUZvAam0XTQk4-PWmSm6eLzZOVxYNLcdU22BCnDimyeQd8tp92o-QsmTegIc0adEckNOC/s260-e100/csp.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/avoiding-death-by-thousand-scripts.html" target="_blank"> Avoiding Death by a Thousand Scripts: Using Automated Content Security Policies </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://thehackernews.com/2022/07/what-it-takes-to-tackle-your-saas.html" class="me-4 thumbnail" target="_blank"> \
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vEHIOun6Tw_9GuFL-KDCja1j633fyd2qyewJioJEWdHI43-vgYEe36KKfggeathmKEMI0vJiB_fQEgTf95EZo--HY51CQayzm81HMXDY7IJvn2oYcwT1CCMN7e3qaKv21v5nqpYlFRjBQXVyO8kgAbd7QgtN3e5VsMM2aRuzSAtGLn9e9SRwLzgIQQ/s260-e100/adaptive.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -36,32 +48,20 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/microsoft-quietly-rolls-back-plan-to.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1d84epDv4jgHnm-m03FayWvFIKm2Ed6cgfOfjJoaza0WC0Pn8mX-HPBjJyej-DSFK5XKbQ8rViQut9fZfVTdjTjp8OgiLhYur3XJIxGscvdjro-pYY3GxVecFTCp3suYxsMSUZM3UluwuTciSC8dKh4tY7UssVL0HCXk2szm-BdMSS4_hWABKvWW_/s260-e100/ms.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/shutterstock_1688057260.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/microsoft-quietly-rolls-back-plan-to.html" target="_blank"> Microsoft Temporarily Rolls Back Plan to Block Office VBA Macros by Default </a> \
+<a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" target="_blank"> TikTok halts privacy policy update aimed at tracking users’ behavior without consent </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 08, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/why-developers-hate-changing-language.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2T_LeUBbsKjXN48gXP4ySosNQDmjrSqqmBT4vqw1e1aHEfDtl0gYMk5uni0txHO3LWQbZBbCOiq8WZTvg_UHb-biK0U5LM98Pgy8NvHWDnkFdwpokpDnMPs-avE9wP9O_Hz8boQyYCmWHQZ2OJzo-fTWET2NVcYGemrj7ztx4g7rHedoZscgrZ2F_/s260-e100/code.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/why-developers-hate-changing-language.html" target="_blank"> Why Developers Hate Changing Language Versions </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 08, 2022</span></small> \
+<span>12 July 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/nothing-left-to-imagination-nothing-phone-1-launch/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/nothing_phone.jpg" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/nothing_phone.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -72,27 +72,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/uk-health-officials-accused-of-sharing-pandemic-related-information-over-private-channels/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/shutterstock_2010297977.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/nothing-left-to-imagination-nothing-phone-1-launch/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/nothing_phone.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/uk-health-officials-accused-of-sharing-pandemic-related-information-over-private-channels/" target="_blank"> UK health officials accused of sharing pandemic-related information over private channels </a> \
+<a href="https://cybernews.com/news/nothing-left-to-imagination-nothing-phone-1-launch/" target="_blank"> UK health officials accused of sharing pandemic-related information over private channels </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>12 July 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/apple-watch-series-8-rumored-to-include-pro-model-feature-body-temperature-sensor/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/apple_watch_7.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/uk-health-officials-accused-of-sharing-pandemic-related-information-over-private-channels/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/shutterstock_2010297977.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/apple-watch-series-8-rumored-to-include-pro-model-feature-body-temperature-sensor/" target="_blank"> Apple Watch Series 8 rumored to go \'pro\', feature body temperature sensor </a> \
+<a href="https://cybernews.com/news/uk-health-officials-accused-of-sharing-pandemic-related-information-over-private-channels/" target="_blank"> Apple Watch Series 8 rumored to go \'pro\', feature body temperature sensor </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>11 July 2022</span></small> \
+<span>12 July 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -156,15 +156,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/millions-affected-as-ransomware-knocks-out-french-telecom-firm/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/French-Post-LaPoste.png" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/war-impact-cyber-insurance/180185/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/07/19123143/Security_Cyber_Insurance.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/millions-affected-as-ransomware-knocks-out-french-telecom-firm/" target="_blank"> Disneyland\'s Instagram hacked to display racist and homophobic slurs </a> \
+<a href="https://threatpost.com/war-impact-cyber-insurance/180185/" target="_blank"> How War Impacts Cyber Insurance </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>11 July 2022</span></small> \
+<span>July 12, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -225,18 +225,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 06, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/zuorat-soho-routers/180113/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/03/02102431/ObliqueRAT-.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/zuorat-soho-routers/180113/" target="_blank"> ZuoRAT Can Take Over Widely Used SOHO Routers </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 30, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -336,6 +324,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/police-pull-indian-payments-data/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62cda89b4847c5414f1e3dd1/master/pass/Alt-News-India-Security-GettyImages-1232704377.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/police-pull-indian-payments-data/" target="_blank"> A Privacy Panic Flares Up in India After Police Pull Payment Data </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/january-6-insurrection-hearings-heating-up/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/62cc445bd8350505ad2d7c0d/master/pass/Jan6_Hearing_Biz_GettyImages-1241442014.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -429,18 +429,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 05, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/worst-hacks-breaches-2022/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62bf58d55499d31d645ccb8d/master/pass/Worst-Hacks-2022-Security-GettyImages-1395219171.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/worst-hacks-breaches-2022/" target="_blank"> The Worst Hacks and Breaches of 2022 So Far </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 04, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -549,18 +537,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 30, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/06/29/firefox-102-fixes-address-bar-spoofing-security-hole/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/04/ff-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/06/29/firefox-102-fixes-address-bar-spoofing-security-hole/" target="_blank"> Firefox 102 fixes address bar spoofing security hole (and helps with Follina!) </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 29, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
