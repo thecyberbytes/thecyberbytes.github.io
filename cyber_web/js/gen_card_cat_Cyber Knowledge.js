@@ -60,8 +60,32 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/nothing-left-to-imagination-nothing-phone-1-launch/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/nothing_phone.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/nothing-left-to-imagination-nothing-phone-1-launch/" target="_blank"> Nothing left to imagination ahead of Nothing Phone 1 launch </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>12 July 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/uk-health-officials-accused-of-sharing-pandemic-related-information-over-private-channels/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/shutterstock_2010297977.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/uk-health-officials-accused-of-sharing-pandemic-related-information-over-private-channels/" target="_blank"> UK health officials accused of sharing pandemic-related information over private channels </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>12 July 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/apple-watch-series-8-rumored-to-include-pro-model-feature-body-temperature-sensor/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/apple_watch_7.png" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/apple_watch_7.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -72,24 +96,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/man-charged-for-generating-millions-in-selling-fraudulent-cisco-devices/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/shutterstock_1338116366.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/apple-watch-series-8-rumored-to-include-pro-model-feature-body-temperature-sensor/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/apple_watch_7.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/man-charged-for-generating-millions-in-selling-fraudulent-cisco-devices/" target="_blank"> Man charged for generating millions in selling fraudulent Cisco devices </a> \
+<a href="https://cybernews.com/news/apple-watch-series-8-rumored-to-include-pro-model-feature-body-temperature-sensor/" target="_blank"> Man charged for generating millions in selling fraudulent Cisco devices </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>11 July 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/binance-ignored-us-sanctions-by-serving-crypto-traders-in-iran-clients-say/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Binance-crypto-logo.JPG" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/man-charged-for-generating-millions-in-selling-fraudulent-cisco-devices/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/shutterstock_1338116366.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/binance-ignored-us-sanctions-by-serving-crypto-traders-in-iran-clients-say/" target="_blank"> Binance ignored US sanctions by serving crypto traders in Iran, clients say </a> \
+<a href="https://cybernews.com/news/man-charged-for-generating-millions-in-selling-fraudulent-cisco-devices/" target="_blank"> Binance ignored US sanctions by serving crypto traders in Iran, clients say </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>11 July 2022</span></small> \
@@ -141,30 +165,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>11 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/disneylands-instagram-hacked-to-display-racist-and-homophobic-slurs/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2021/11/mickey mouse.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/disneylands-instagram-hacked-to-display-racist-and-homophobic-slurs/" target="_blank"> Twitter vows legal fight after Musk pulls out of $44 billion deal </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>11 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/twitter-vows-legal-fight-after-musk-pulls-out-of-44-billion-deal/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/04/ElonMuskbuysTwitter.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/twitter-vows-legal-fight-after-musk-pulls-out-of-44-billion-deal/" target="_blank"> Meta rolls out new login system for entering the metaverse </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>09 July 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
