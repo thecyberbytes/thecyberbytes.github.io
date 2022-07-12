@@ -208,4 +208,49 @@ a.article, a.article:hover {
     margin: 5px auto;
 }
 
+.post-entry-2 {
+  margin-bottom: 30px;
+}
+.post-entry-2 .post-meta {
+  font-size: 11px;
+  letter-spacing: 0.07rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-secondary);
+  color: rgba(var(--color-black-rgb), 0.4);
+  margin-bottom: 10px;
+}
+.post-entry-2 .author {
+  color: rgba(var(--color-black-rgb), 0.7);
+  font-weight: 500;
+  margin-bottom: 20px;
+  display: block;
+}
+.post-entry-2 .thumbnail {
+  flex: 0 0 65%;
+}
+@media (max-width: 960px) {
+  .post-entry-2 .thumbnail {
+    flex: 0 0 100%;
+    margin-bottom: 20px;
+  }
+}
+.post-entry-2.half .thumbnail {
+  flex: 0 0 50%;
+}
+@media (max-width: 768px) {
+  .post-entry-2.half .thumbnail {
+    flex: 0 0 100%;
+    margin-bottom: 20px;
+  }
+}
+.post-entry-2.small-img .thumbnail {
+  flex: 0 0 30%;
+}
+@media (max-width: 768px) {
+  .post-entry-2.small-img .thumbnail {
+    flex: 0 0 100%;
+    margin-bottom: 20px;
+  }
+}
 
