@@ -1,5 +1,53 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj99hURM7p8UjuvAPRUCPZEYm50BKJ3LJ8CUqoqkTVh28vJ-Sbbgu5VZ5sRZdmw3XxjwNRHVeWSjwiQzJuTzu8vHEQQWoyVAhDO0GxtAYTCybsDVFFDnYWGJteRJlmrv2qcHafQX88lBxzIvl28XHy4aRqIDv6CU-w3qxGkWP0joupgmUhpEc1RVHTM/s260-e100/intel-amd.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html" target="_blank"> New \'Retbleed\' Speculative Execution Attack Affects AMD and Intel CPUs </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 13, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/new-uefi-firmware-vulnerabilities.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU4KZzypeOJBoJ8yu-1lDpqUgayjqKrmX1n54zjitMm_xPR1SUpkBC2fZkJGhieTwockSWWNN6VXvbSleKFvKSYkUyXc0XQUMtAjTOWvAUrV2Bw7be9JyX6jllNJnu3YNHe40G3jKZVufHd0yor7wfa4uvBRhUy6Ykk2jS_P0R8D36P8w0-5qJ87RG/s260-e100/lenovo.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/new-uefi-firmware-vulnerabilities.html" target="_blank"> New UEFI Firmware Vulnerabilities Impact Several Lenovo Notebook Models </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 13, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/5-questions-you-need-to-ask-about-your.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio33-PIOhkpFs5xxXoCHCswxyuos9VsKnhwXCbl347BkhJy4ZLQnpdQO9h_CtDzmaEf5BnRBB7Ovb1NzCmlbkq0Y-qn39A5hiSqZpyqo7wlImiibrIqcb9267_BqyY6rmtYUPvHRtsrLYNGG2kuBf8YNMcdywmMH66429YktMUIpta4nItoagADdxz/s260-e100/hacking-2.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/5-questions-you-need-to-ask-about-your.html" target="_blank"> 5 Questions You Need to Ask About Your Firewall Security </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 13, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/researchers-uncover-new-variants-of.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ZarETP9VVbzsFeRsVQ6O3V97eGkRG1wTwKsLEXN8-1Myjp6Sabp1fmLlXRJnr56BhcpJenTOvifHJrCILTjwQ_J9-qudu7h7plTvEcf6NRcAe0CRiQVAQl6lEPJXpEHcd6h5BtLsgx12_5UZJR21fV5BQWWM08qUe4M1PdaWxD9A02J3vKhYvYeM/s260-e100/hackers.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/researchers-uncover-new-variants-of.html" target="_blank"> Researchers Uncover New Variants of the ChromeLoader Browser Hijacking Malware </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 13, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://thehackernews.com/2022/07/researchers-uncover-new-attempts-by.html" class="me-4 thumbnail" target="_blank"> \
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCFlTvwYRkS8v4M8WXuVGXE6Ym1co6dwvAvedhQEyF1Pz4kKdpHIhva_UsuIm9_dv2WDwaNTSUrHPLiymlrHKgIBAsF_MOeP5mHJcpN6Y6aeBhIMHGRsdz-3qBhh7iBCckeZrdXEEecZlLAkVX0iy51l5jc5zxQuEQd8G4VYNyt5DwYTcnWNcrYP13/s260-e100/hacking.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -24,60 +72,60 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/what-it-takes-to-tackle-your-saas.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vEHIOun6Tw_9GuFL-KDCja1j633fyd2qyewJioJEWdHI43-vgYEe36KKfggeathmKEMI0vJiB_fQEgTf95EZo--HY51CQayzm81HMXDY7IJvn2oYcwT1CCMN7e3qaKv21v5nqpYlFRjBQXVyO8kgAbd7QgtN3e5VsMM2aRuzSAtGLn9e9SRwLzgIQQ/s260-e100/adaptive.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/over-70-lenovo-notebook-models-vulnerable-to-ace-attacks-eset/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/Lenovo-laptop-store.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/what-it-takes-to-tackle-your-saas.html" target="_blank"> What It Takes to Tackle Your SaaS Security </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/hackers-used-fake-job-offer-to-hack-and.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbs3jHyJvX7UshuM-Svxe92SVkAw9W_glVlWuyitbSosMUAj3ZfDBBpIJHoIQAhhJ3mKhtyYsx7lnsJOW7fV7rY1oc-2ru2j9bSlOjxlkpVthDPDUMZlKjaICUVMFdyLbrYFlSkQ8m9VHXL1Rp5SAfdbNsIXCV5kwVrVVf_ixcMHWtVHWeM---hHXS/s260-e100/hack.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/hackers-used-fake-job-offer-to-hack-and.html" target="_blank"> Hackers Used Fake Job Offer to Hack and Steal $540 Million from Axie Infinity </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/pypi-repository-makes-2af-security.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYc5WPIiioyeQXyRfSBVy4PZB7Dl7u_zFeyqTCAoMMPyaU2x0Q-0CBe6_Wy9wnDwiCgYmMOv2GmFWb5VPI7XMIBsJSrqLQHS2dR6fdxhmz69zWSxeDGPsjdyF6HrKNHYO4cNO6XvBBXFtpH9B3rwJ6wxdBiUtzIeDhFzOsHve0MvhHdGuU3xAlYrJb/s260-e100/python.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/pypi-repository-makes-2af-security.html" target="_blank"> PyPI Repository Makes 2FA Security Mandatory for Critical Python Projects </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 10, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/cyber-college-falls-for-password-hacking-scam/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/BadPassword.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/cyber-college-falls-for-password-hacking-scam/" target="_blank"> Cyber-college falls for password-hacking scam </a> \
+<a href="https://cybernews.com/news/over-70-lenovo-notebook-models-vulnerable-to-ace-attacks-eset/" target="_blank"> Over 70 Lenovo notebook models vulnerable to ACE attacks – ESET </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>13 July 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/shutterstock_1688057260.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/quantum-platform-to-boost-scientific-research/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/QuantumComputer.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" target="_blank"> TikTok halts privacy policy update aimed at tracking users’ behavior without consent </a> \
+<a href="https://cybernews.com/news/quantum-platform-to-boost-scientific-research/" target="_blank"> Quantum platform to boost scientific research </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>13 July 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/quantum-platform-to-boost-scientific-research/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/QuantumComputer.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/quantum-platform-to-boost-scientific-research/" target="_blank"> Amazon launches cancer vaccine trial </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>13 July 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/microsoft-records-a-phishing-campaign-targeting-over-10k-organizations/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/office365phishing.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/microsoft-records-a-phishing-campaign-targeting-over-10k-organizations/" target="_blank"> Cyber-college falls for password-hacking scam </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>13 July 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/microsoft-says-windows-autopatch-tool-is-generally-live/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Windows-Micorosft-Autopach.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/microsoft-says-windows-autopatch-tool-is-generally-live/" target="_blank"> TikTok halts privacy policy update aimed at tracking users’ behavior without consent </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>12 July 2022</span></small> \
@@ -89,82 +137,10 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" target="_blank"> Nothing left to imagination ahead of Nothing Phone 1 launch </a> \
+<a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" target="_blank"> Nothing left to imagination as Nothing Phone 1 launches </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>12 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/nothing-left-to-imagination-nothing-phone-1-launch/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/nothing_phone.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/nothing-left-to-imagination-nothing-phone-1-launch/" target="_blank"> UK health officials accused of sharing pandemic-related information over private channels </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>12 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/uk-health-officials-accused-of-sharing-pandemic-related-information-over-private-channels/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/shutterstock_2010297977.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/uk-health-officials-accused-of-sharing-pandemic-related-information-over-private-channels/" target="_blank"> Apple Watch Series 8 rumored to go \'pro\', feature body temperature sensor </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>12 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/apple-watch-series-8-rumored-to-include-pro-model-feature-body-temperature-sensor/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/apple_watch_7.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/apple-watch-series-8-rumored-to-include-pro-model-feature-body-temperature-sensor/" target="_blank"> Man charged for generating millions in selling fraudulent Cisco devices </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>11 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/man-charged-for-generating-millions-in-selling-fraudulent-cisco-devices/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/shutterstock_1338116366.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/man-charged-for-generating-millions-in-selling-fraudulent-cisco-devices/" target="_blank"> Binance ignored US sanctions by serving crypto traders in Iran, clients say </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>11 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/binance-ignored-us-sanctions-by-serving-crypto-traders-in-iran-clients-say/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Binance-crypto-logo.JPG" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/binance-ignored-us-sanctions-by-serving-crypto-traders-in-iran-clients-say/" target="_blank"> Human rights activists call for action against Big Tech </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>11 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/human-rights-activists-call-for-action-against-big-tech/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/bigtechbrands.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/human-rights-activists-call-for-action-against-big-tech/" target="_blank"> AI-written academic paper submitted to peer review </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>11 July 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -420,15 +396,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/end-to-end-encryption-abortion-privacy/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62bca88d9c301780cc329699/master/pass/End-to-End-Encryption-Security-GettyImages-1353088770.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/07/13/facebook-2fa-scammers-return-this-time-in-just-21-minutes/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/fb-21-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/end-to-end-encryption-abortion-privacy/" target="_blank"> End-to-End Encryption\'s Central Role in Modern Self-Defense </a> \
+<a href="https://nakedsecurity.sophos.com/2022/07/13/facebook-2fa-scammers-return-this-time-in-just-21-minutes/" target="_blank"> Facebook 2FA scammers return – this time in just 21 minutes </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 05, 2022</span></small> \
+<span>July 13, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -525,18 +501,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 01, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/06/30/s3-ep89-sextortion-blockchain-blunder-and-an-openssl-bugfix-podcast-transcript/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/pod3-89-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/06/30/s3-ep89-sextortion-blockchain-blunder-and-an-openssl-bugfix-podcast-transcript/" target="_blank"> S3 Ep89: Sextortion, blockchain blunder, and an OpenSSL bugfix [Podcast + Transcript] </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 30, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
