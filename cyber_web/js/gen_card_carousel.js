@@ -1,5 +1,23 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://thehackernews.com/2022/07/researchers-uncover-new-attempts-by.html" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCFlTvwYRkS8v4M8WXuVGXE6Ym1co6dwvAvedhQEyF1Pz4kKdpHIhva_UsuIm9_dv2WDwaNTSUrHPLiymlrHKgIBAsF_MOeP5mHJcpN6Y6aeBhIMHGRsdz-3qBhh7iBCckeZrdXEEecZlLAkVX0iy51l5jc5zxQuEQd8G4VYNyt5DwYTcnWNcrYP13/s260-e100/hacking.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Researchers Uncover New Attempts by Qakbot Malware to Evade Detection</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 12, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://thehackernews.com/2022/07/microsoft-releases-fix-for-zero-day.html" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMVV60incjQemAA8K9lAWSescsqjqG2a3UdVc4GiCMmXBd6175xW7cZiTJONSGUB1N9s-MMZARqaZP7h-OdKy4jUdvvT_H-aPCCLF9TKLu1S1Xcj8NZh673Hir7VOwNMNdOLjEU6LSXewzYkJXyX0Y0dpIn7L1WK7IuD61f1iG8uajyHoBwST8KVh/s260-e100/windows-update.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Microsoft Releases Fix for Zero-Day Flaw in July 2022 Security Patch Rollout</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 12, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://thehackernews.com/2022/07/tiktok-postpones-privacy-policy-update.html" target="_blank"> \
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2QnzBXssO-V8X8EmHlkV-iSmpePPKUGUi88suysnAq1qfCqAtn7IJp60yPeTEyatczygEAwO_msXwzgPrqI64L2yMmHZKaDWl01IoQiMVh3GSziIGOuV4LUzMLWoKRCWfZHQkkre-codX12ltderr0u6I9yQJxAbOsGg2Jk1oeEVEwSseZgCtJ2CF/s260-e100/tiktok.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -14,24 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Avoiding Death by a Thousand Scripts: Using Automated Content Security Policies</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 12, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://thehackernews.com/2022/07/microsoft-windows-autopatch-is-now.html" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9KjyGiZkovo9wOo7POBgk_x691SByK9twjr6I_SHLfMHvaOwYzzv6YUuC6sKcH35ek5Vvcf77yRBuSRFI9ltPE7eyia04sl5tMBD_O4jhEjXV3ZbpQ22jrIWzLCdOF4CCd_3UrEo2tIM9zCedgCn0dPk_tVLb-2jAs9hJFojvFk0QCfSjeHsFnpqe/s260-e100/windows-autopatch.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Microsoft Windows Autopatch is Now Generally Available for Enterprise Systems</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 11, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://thehackernews.com/2022/07/cloud-based-cryptocurrency-miners.html" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsScxx5lrEQfbCWFs0LL3YwLbAckiMuNSNVSj4Omh9y7t6hBlaO_A6W3i3-h8DTXr3qLYmgGe6_0Rtcf1r1nr8GhXQymONb3lJx43bcg2JJevnRerCZ0F5hkfiVBkcgDnHVzxOJNTWdsD2PRAAaB1xWgrjGOgK4Hv-fXCtLirQqu2d2suiXccZUxxI/s260-e100/ss.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Cloud-based Cryptocurrency Miners Targeting GitHub Actions and Azure VMs</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 11, 2022</p> \
 </div> \
 </a> \
 </div> \

@@ -1,5 +1,17 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/researchers-uncover-new-attempts-by.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCFlTvwYRkS8v4M8WXuVGXE6Ym1co6dwvAvedhQEyF1Pz4kKdpHIhva_UsuIm9_dv2WDwaNTSUrHPLiymlrHKgIBAsF_MOeP5mHJcpN6Y6aeBhIMHGRsdz-3qBhh7iBCckeZrdXEEecZlLAkVX0iy51l5jc5zxQuEQd8G4VYNyt5DwYTcnWNcrYP13/s260-e100/hacking.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/researchers-uncover-new-attempts-by.html" target="_blank"> Researchers Uncover New Attempts by Qakbot Malware to Evade Detection </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://thehackernews.com/2022/07/avoiding-death-by-thousand-scripts.html" class="me-4 thumbnail" target="_blank"> \
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKaOGmbeT0oS2MDjYoIbq4H7ksZ-N2W3F9S_EqefumLKqFc8pe6bxo-x-FtkJX81cUTzmdON9iVa5v2IZ7YAaZBZba1ObVnPKNX3RTHj8rAUdwl8ZVDGQmUZvAam0XTQk4-PWmSm6eLzZOVxYNLcdU22BCnDimyeQd8tp92o-QsmTegIc0adEckNOC/s260-e100/csp.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -48,8 +60,20 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/cyber-college-falls-for-password-hacking-scam/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/BadPassword.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/cyber-college-falls-for-password-hacking-scam/" target="_blank"> Cyber-college falls for password-hacking scam </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>13 July 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/shutterstock_1688057260.png" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/shutterstock_1688057260.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -60,12 +84,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/nothing-left-to-imagination-nothing-phone-1-launch/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/nothing_phone.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/shutterstock_1688057260.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/nothing-left-to-imagination-nothing-phone-1-launch/" target="_blank"> Nothing left to imagination ahead of Nothing Phone 1 launch </a> \
+<a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" target="_blank"> Nothing left to imagination ahead of Nothing Phone 1 launch </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>12 July 2022</span></small> \
@@ -138,18 +162,6 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://cybernews.com/news/human-rights-activists-call-for-action-against-big-tech/" target="_blank"> AI-written academic paper submitted to peer review </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>11 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/ai-written-academic-paper-submitted-to-peer-review/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/ai_learning.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/ai-written-academic-paper-submitted-to-peer-review/" target="_blank"> Honda plays down key fob bug report </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>11 July 2022</span></small> \
@@ -309,18 +321,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 07, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/06/what-counts-as-good-faith-security-research/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/06/cyberjustice.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/06/what-counts-as-good-faith-security-research/" target="_blank"> What Counts as “Good Faith Security Research?” </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 03, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -540,6 +540,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/07/12/play-it-safe-5-reasons-not-download-pirated-games/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/pirated-games-cybersecurity-privacy-risks.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/07/12/play-it-safe-5-reasons-not-download-pirated-games/" target="_blank"> Play it safe: 5 reasons not to download pirated games </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/avoid-travel-digital-disasters-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/0-12.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -633,18 +645,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 27, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/instagrams-new-age-verification-tool-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/06/0-23.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/instagrams-new-age-verification-tool-week-security-tony-anscombe/" target="_blank"> Instagram’s new age verification tool – Week in security with Tony Anscombe </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 24, 2022</span></small> \
 </div> \
 </div> \
 ');
