@@ -92,7 +92,8 @@ def pull_cybernews_data(pageContent, df):
             image_list.append(image_src)
             url_list.append(link_text)
         if item.time is not None:
-          date = item.time.getText()
+          date = item.time.getText().replace('\n',"").strip()
+          date = datetime.strptime(date, "%d %B %Y").strftime("%B %d, %Y")
           date_list.append(date)
       
       if div_heading == 'focus-articles__info':
@@ -104,7 +105,8 @@ def pull_cybernews_data(pageContent, df):
         titles_list.append(title_text)
         
       if div_heading == 'focus-articles__meta':
-        date = item.getText()
+        date = item.getText().replace('\n',"").strip()
+        date = datetime.strptime(date, "%d %B %Y").strftime("%B %d, %Y")
         date_list.append(date)
 
     for item in webpage_parsed.findAll('h3'):
