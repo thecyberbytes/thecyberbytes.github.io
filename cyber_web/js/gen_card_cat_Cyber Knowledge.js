@@ -1,5 +1,53 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/former-cia-engineer-convicted-of.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRFEvgrtXM5HXNORqgmwOkMQ277uaxEwdvfC-u9AFlGjMnZfwdGQ7ewHr7EI4P1lBWU4F3pwSb33xafA9T8grh3TLBtdywjBRJwpaxUujSz__lZ3VYAy4ToMqcMRVm_hV_st72Uzt_Rd4hz_K2a6lhCocU50S8bRUoES_Wer1npA8k52PjZ3mBYEO5/s260-e100/cia.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/former-cia-engineer-convicted-of.html" target="_blank"> Former CIA Engineer Convicted of Leaking \'Vault 7\' Hacking Secrets to Wikileaks </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/state-backed-hackers-targeting.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSa_j9jSSEONCWYw8K7_w9Ie1gg2kqtouKoaWFM0gSB8yH8Q_HUC3QJtjIwOv7GLytKt64Bl_0JI4UX6pYjGCQcsO0cUh-Lzhanv4xVSdpFuU1rNFfTVQ7EuBMmjFpBaEBSNaLifwldcVfz9N5wfTbAL61CdjgtqRrOu00JOT1D2tgltFHFBMoomwO/s260-e100/papers.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/state-backed-hackers-targeting.html" target="_blank"> State-Backed Hackers Targeting Journalists in Widespread Espionage Campaigns </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/a-simple-formula-for-getting-your-it.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VKbNfZUMeaNuQQkQWMxIKq-A7CAgQrNP0zSfEhdOGDhmtHsxQRxWeSRMTQ6nXkIY10_-VSwHF7zjSjz99g0QvzZwMU2xkA4dLuw2iQWXcHQ5JT_jZ5xJO7wHULo41FpA4RBCU0NHdw1mjVAvWkdJi6z_SXwauWPRNqj49NYiMSTpwa7SPb2JrHJE/s260-e100/cybersecurity-budget.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/a-simple-formula-for-getting-your-it.html" target="_blank"> A Simple Formula for Getting Your IT Security Budget Approved </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/pakistani-hackers-targeting-indian.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZAH2KaPXSOIJ1y9sH173pY85O1H5tn2mIcal5zmcbIhzA_ANkj9BwUz3SBLlDfLMB0uTsMF9R1wo1M2foKTiSfinmqkGAPtDdYFmhYbmjX9__9dTdnc34yq7-FDFm5xfLJHfDdtF9Bd6DAnHL5TU0OVzGWiDkMxa_-tGcSuMZTx1B87lHbiWODRBS/s260-e100/hackers.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/pakistani-hackers-targeting-indian.html" target="_blank"> Pakistani Hackers Targeting Indian Students in Latest Malware Campaign </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html" class="me-4 thumbnail" target="_blank"> \
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj99hURM7p8UjuvAPRUCPZEYm50BKJ3LJ8CUqoqkTVh28vJ-Sbbgu5VZ5sRZdmw3XxjwNRHVeWSjwiQzJuTzu8vHEQQWoyVAhDO0GxtAYTCybsDVFFDnYWGJteRJlmrv2qcHafQX88lBxzIvl28XHy4aRqIDv6CU-w3qxGkWP0joupgmUhpEc1RVHTM/s260-e100/intel-amd.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -8,7 +56,7 @@ document.write(' \
 <a href="https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html" target="_blank"> New \'Retbleed\' Speculative Execution Attack Affects AMD and Intel CPUs </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 13, 2022</span></small> \
+<span>July 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -20,7 +68,7 @@ document.write(' \
 <a href="https://thehackernews.com/2022/07/new-uefi-firmware-vulnerabilities.html" target="_blank"> New UEFI Firmware Vulnerabilities Impact Several Lenovo Notebook Models </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 13, 2022</span></small> \
+<span>July 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -36,87 +84,63 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/researchers-uncover-new-variants-of.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-ZarETP9VVbzsFeRsVQ6O3V97eGkRG1wTwKsLEXN8-1Myjp6Sabp1fmLlXRJnr56BhcpJenTOvifHJrCILTjwQ_J9-qudu7h7plTvEcf6NRcAe0CRiQVAQl6lEPJXpEHcd6h5BtLsgx12_5UZJR21fV5BQWWM08qUe4M1PdaWxD9A02J3vKhYvYeM/s260-e100/hackers.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/twitter-down-for-thousands-of-users-worldwide/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/Twitter-down-mobile.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/researchers-uncover-new-variants-of.html" target="_blank"> Researchers Uncover New Variants of the ChromeLoader Browser Hijacking Malware </a> \
+<a href="https://cybernews.com/news/twitter-down-for-thousands-of-users-worldwide/" target="_blank"> Twitter down for thousands of users worldwide </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 13, 2022</span></small> \
+<span>July 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/researchers-uncover-new-attempts-by.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCFlTvwYRkS8v4M8WXuVGXE6Ym1co6dwvAvedhQEyF1Pz4kKdpHIhva_UsuIm9_dv2WDwaNTSUrHPLiymlrHKgIBAsF_MOeP5mHJcpN6Y6aeBhIMHGRsdz-3qBhh7iBCckeZrdXEEecZlLAkVX0iy51l5jc5zxQuEQd8G4VYNyt5DwYTcnWNcrYP13/s260-e100/hacking.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/chinese-hackers-targeted-us-journalists-ahead-of-the-capitol-riots/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/US-Capitol-Riot2.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/researchers-uncover-new-attempts-by.html" target="_blank"> Researchers Uncover New Attempts by Qakbot Malware to Evade Detection </a> \
+<a href="https://cybernews.com/news/chinese-hackers-targeted-us-journalists-ahead-of-the-capitol-riots/" target="_blank"> Chinese hackers targeted US journalists ahead of the Capitol riots </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 12, 2022</span></small> \
+<span>July 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/avoiding-death-by-thousand-scripts.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKaOGmbeT0oS2MDjYoIbq4H7ksZ-N2W3F9S_EqefumLKqFc8pe6bxo-x-FtkJX81cUTzmdON9iVa5v2IZ7YAaZBZba1ObVnPKNX3RTHj8rAUdwl8ZVDGQmUZvAam0XTQk4-PWmSm6eLzZOVxYNLcdU22BCnDimyeQd8tp92o-QsmTegIc0adEckNOC/s260-e100/csp.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/russia-takes-coercive-measures-against-twitch/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/russia-against-twitch.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/avoiding-death-by-thousand-scripts.html" target="_blank"> Avoiding Death by a Thousand Scripts: Using Automated Content Security Policies </a> \
+<a href="https://cybernews.com/news/russia-takes-coercive-measures-against-twitch/" target="_blank"> Russia takes “coercive” measures against Twitch </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 12, 2022</span></small> \
+<span>July 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/ftc-will-vigorously-enforce-the-law-to-protect-consumer-data/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/ftcprotectsuserdata.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/threat-actors-impersonate-crowdstrike-to-extort-data-and-deploy-ransomware/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/crowdstrike-phishing-email.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/ftc-will-vigorously-enforce-the-law-to-protect-consumer-data/" target="_blank"> Over 70 Lenovo notebook models vulnerable to ACE attacks – ESET </a> \
+<a href="https://cybernews.com/news/threat-actors-impersonate-crowdstrike-to-extort-data-and-deploy-ransomware/" target="_blank"> UK police arrest three people by using facial recognition in central London </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>13 July 2022</span></small> \
+<span>July 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/over-70-lenovo-notebook-models-vulnerable-to-ace-attacks-eset/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Lenovo-laptop-store.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/ex-cia-hacker-convicted-of-wikileaks-data-crime/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/CIApic.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/over-70-lenovo-notebook-models-vulnerable-to-ace-attacks-eset/" target="_blank"> Quantum platform to boost scientific research </a> \
+<a href="https://cybernews.com/news/ex-cia-hacker-convicted-of-wikileaks-data-crime/" target="_blank"> Elden Ring publisher Bandai Namco confirms cyberattack </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>13 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/quantum-platform-to-boost-scientific-research/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/QuantumComputer.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/quantum-platform-to-boost-scientific-research/" target="_blank"> Amazon launches cancer vaccine trial </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>13 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/microsoft-records-a-phishing-campaign-targeting-over-10k-organizations/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/office365phishing.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/microsoft-records-a-phishing-campaign-targeting-over-10k-organizations/" target="_blank"> Cyber-college falls for password-hacking scam </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>13 July 2022</span></small> \
+<span>July 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -276,6 +300,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62cdfdd823adf8a37bfae65d/master/pass/Attackers-Could-De-Anonymize-Web-Users-With-Sleight-of-Hand-Security-GettyImages-481812949.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/" target="_blank"> A New Attack Can Unmask Anonymous Users on Any Major Browser </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/police-pull-indian-payments-data/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/62cda89b4847c5414f1e3dd1/master/pass/Alt-News-India-Security-GettyImages-1232704377.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -360,15 +396,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/how-to-avoid-instagram-scams/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62c4c61642b8e26ab6b1a18b/master/pass/Instagram-Scams-Security-GettyImages-1041568908.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/07/14/s3-ep91-codered-openssl-java-bugs-and-office-macros-podcast-transcript/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/nsp-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/how-to-avoid-instagram-scams/" target="_blank"> How to Avoid the Worst Instagram Scams </a> \
+<a href="https://nakedsecurity.sophos.com/2022/07/14/s3-ep91-codered-openssl-java-bugs-and-office-macros-podcast-transcript/" target="_blank"> S3 Ep91: CodeRed, OpenSSL, Java bugs and Office macros [Podcast + Transcript] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 06, 2022</span></small> \
+<span>July 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -462,18 +498,6 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2022/07/01/facebook-2fa-phish-arrives-just-28-minutes-after-scam-domain-created/" target="_blank"> Facebook 2FA phish arrives just 28 minutes after scam domain created </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 01, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/01/missing-cryptoqueen-hits-the-fbis-ten-most-wanted-list/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/mcq-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/01/missing-cryptoqueen-hits-the-fbis-ten-most-wanted-list/" target="_blank"> “Missing Cryptoqueen” hits the FBI’s Ten Most Wanted list </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 01, 2022</span></small> \

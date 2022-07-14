@@ -1,15 +1,8 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/conman-used-phishing-techniques-to-defraud-insurers-out-of-millions/" target="_blank" style="text-decoration:none"> \
+<a href="https://thehackernews.com/2022/07/former-cia-engineer-convicted-of.html" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Conman used phishing techniques to defraud insurers out of millions</h6> \
-</div> \
-</a> \
-</li> \
-<li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html" target="_blank" style="text-decoration:none"> \
-<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">New \'Retbleed\' Speculative Execution Attack Affects AMD and Intel CPUs</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Former CIA Engineer Convicted of Leaking \'Vault 7\' Hacking Secrets to Wikileaks</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,16 +14,23 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/06/ransomware-group-debuts-searchable-victim-data/" target="_blank" style="text-decoration:none"> \
+<a href="https://threatpost.com/journalists-target-apts/180224/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Ransomware Group Debuts Searchable Victim Data</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Journalists Emerge as Favored Attack Target for APTs</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://thehackernews.com/2022/07/microsoft-warns-of-large-scale-aitm.html" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/microsoft-uncovered-exploit-for-macos-sandbox-escape-bug/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Warns of Large-Scale AiTM Phishing Attacks Against Over 10,000 Organizations</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Threat actors impersonate Crowdstrike to extort data and deploy ransomware</h6> \
+</div> \
+</a> \
+</li> \
+<li class="list-group-item" style="background: #fafafa;"> \
+<a href="https://thehackernews.com/2022/07/microsoft-details-app-sandbox-escape.html" target="_blank" style="text-decoration:none"> \
+<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Details App Sandbox Escape Bug Impacting Apple iOS, iPadOS, macOS Devices</h6> \
 </div> \
 </a> \
 </li> \
