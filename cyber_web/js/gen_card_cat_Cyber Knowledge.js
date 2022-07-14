@@ -72,24 +72,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/over-70-lenovo-notebook-models-vulnerable-to-ace-attacks-eset/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/Lenovo-laptop-store.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/ftc-will-vigorously-enforce-the-law-to-protect-consumer-data/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/ftcprotectsuserdata.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/over-70-lenovo-notebook-models-vulnerable-to-ace-attacks-eset/" target="_blank"> Over 70 Lenovo notebook models vulnerable to ACE attacks – ESET </a> \
+<a href="https://cybernews.com/news/ftc-will-vigorously-enforce-the-law-to-protect-consumer-data/" target="_blank"> Over 70 Lenovo notebook models vulnerable to ACE attacks – ESET </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>13 July 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/quantum-platform-to-boost-scientific-research/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/QuantumComputer.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/over-70-lenovo-notebook-models-vulnerable-to-ace-attacks-eset/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Lenovo-laptop-store.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/quantum-platform-to-boost-scientific-research/" target="_blank"> Quantum platform to boost scientific research </a> \
+<a href="https://cybernews.com/news/over-70-lenovo-notebook-models-vulnerable-to-ace-attacks-eset/" target="_blank"> Quantum platform to boost scientific research </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>13 July 2022</span></small> \
@@ -117,30 +117,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>13 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/microsoft-says-windows-autopatch-tool-is-generally-live/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Windows-Micorosft-Autopach.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/microsoft-says-windows-autopatch-tool-is-generally-live/" target="_blank"> TikTok halts privacy policy update aimed at tracking users’ behavior without consent </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>12 July 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/shutterstock_1688057260.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/tiktok-halts-privacy-policy-update-aimed-at-tracking-users-behavior-without-consent/" target="_blank"> Nothing left to imagination as Nothing Phone 1 launches </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>12 July 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -504,6 +480,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/07/13/collaboration-knowledge-sharing-key-progress-cybersecurity/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/06/colaboración-divulgación-información-ciberseguridad.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/07/13/collaboration-knowledge-sharing-key-progress-cybersecurity/" target="_blank"> Collaboration and knowledge sharing key to progress in cybersecurity </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 13, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/07/12/play-it-safe-5-reasons-not-download-pirated-games/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/pirated-games-cybersecurity-privacy-risks.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -597,18 +585,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 29, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/06/27/5-ways-cybercriminals-steal-credit-card-details/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/06/credit-card-theft-hackers.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/06/27/5-ways-cybercriminals-steal-credit-card-details/" target="_blank"> 5 ways cybercriminals steal credit card details </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 27, 2022</span></small> \
 </div> \
 </div> \
 ');

@@ -1,5 +1,12 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
+<a href="https://cybernews.com/news/conman-used-phishing-techniques-to-defraud-insurers-out-of-millions/" target="_blank" style="text-decoration:none"> \
+<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
+<h6 class="card-link text-dark font-weight-bold my-3">Conman used phishing techniques to defraud insurers out of millions</h6> \
+</div> \
+</a> \
+</li> \
+<li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
 <h6 class="card-link text-dark font-weight-bold my-3">New \'Retbleed\' Speculative Execution Attack Affects AMD and Intel CPUs</h6> \
