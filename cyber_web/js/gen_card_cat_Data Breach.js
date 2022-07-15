@@ -8,7 +8,7 @@ document.write(' \
 <a href="https://thehackernews.com/2022/07/us-ftc-vows-to-crack-down-on-illegal.html" target="_blank"> U.S. FTC Vows to Crack Down on illegal Use and Sharing of Citizens\' Sensitive Data </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 13, 2022</span></small> \
+<span>July 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -30,18 +30,6 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://cybernews.com/news/uk-police-arrest-three-people-by-using-facial-recognition-in-central-london/" target="_blank"> Ex-CIA hacker convicted of WikiLeaks data crime </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 14, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/elden-ring-publisher-bandai-namco-confirms-cyberattack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Bandai-Namco-Logo.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/elden-ring-publisher-bandai-namco-confirms-cyberattack/" target="_blank"> Over 1.9m people impacted in one of this year’s biggest medical data breaches </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 14, 2022</span></small> \

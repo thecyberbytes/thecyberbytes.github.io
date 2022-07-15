@@ -2,7 +2,7 @@ document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://thehackernews.com/2022/07/former-cia-engineer-convicted-of.html" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Former CIA Engineer Convicted of Leaking \'Vault 7\' Hacking Secrets to Wikileaks</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Former CIA Engineer Convicted of Leaking \'Vault 7\' Hacking Secrets to WikiLeaks</h6> \
 </div> \
 </a> \
 </li> \
@@ -14,9 +14,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/journalists-target-apts/180224/" target="_blank" style="text-decoration:none"> \
+<a href="https://thehackernews.com/2022/07/mantis-botnet-behind-largest-https-ddos.html" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Journalists Emerge as Favored Attack Target for APTs</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Mantis Botnet Behind the Largest HTTPS DDoS Attack Targeting Cloudflare Customers</h6> \
 </div> \
 </a> \
 </li> \

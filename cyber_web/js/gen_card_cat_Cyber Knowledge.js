@@ -5,7 +5,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/former-cia-engineer-convicted-of.html" target="_blank"> Former CIA Engineer Convicted of Leaking \'Vault 7\' Hacking Secrets to Wikileaks </a> \
+<a href="https://thehackernews.com/2022/07/former-cia-engineer-convicted-of.html" target="_blank"> Former CIA Engineer Convicted of Leaking \'Vault 7\' Hacking Secrets to WikiLeaks </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 14, 2022</span></small> \
@@ -72,20 +72,32 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/5-questions-you-need-to-ask-about-your.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio33-PIOhkpFs5xxXoCHCswxyuos9VsKnhwXCbl347BkhJy4ZLQnpdQO9h_CtDzmaEf5BnRBB7Ovb1NzCmlbkq0Y-qn39A5hiSqZpyqo7wlImiibrIqcb9267_BqyY6rmtYUPvHRtsrLYNGG2kuBf8YNMcdywmMH66429YktMUIpta4nItoagADdxz/s260-e100/hacking-2.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/metas-make-a-scene-ai-will-bring-imagination-to-life-in-the-metaverse/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/shutterstock_1494515318.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/5-questions-you-need-to-ask-about-your.html" target="_blank"> 5 Questions You Need to Ask About Your Firewall Security </a> \
+<a href="https://cybernews.com/news/metas-make-a-scene-ai-will-bring-imagination-to-life-in-the-metaverse/" target="_blank"> Meta\'s ‘Make-A-Scene’ AI will bring imagination to life in the metaverse </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 13, 2022</span></small> \
+<span>July 15, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/imposter-immigration-officers-threaten-to-have-you-deported/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/imposterimigrationofficers.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/imposter-immigration-officers-threaten-to-have-you-deported/" target="_blank"> Imposter immigration officers threaten to have you deported </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 15, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/twitter-down-for-thousands-of-users-worldwide/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/Twitter-down-mobile.png" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Twitter-down-mobile.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -96,24 +108,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/chinese-hackers-targeted-us-journalists-ahead-of-the-capitol-riots/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/US-Capitol-Riot2.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/twitter-down-for-thousands-of-users-worldwide/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Twitter-down-mobile.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/chinese-hackers-targeted-us-journalists-ahead-of-the-capitol-riots/" target="_blank"> Chinese hackers targeted US journalists ahead of the Capitol riots </a> \
+<a href="https://cybernews.com/news/twitter-down-for-thousands-of-users-worldwide/" target="_blank"> Chinese hackers targeted US journalists ahead of the Capitol riots </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/russia-takes-coercive-measures-against-twitch/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/russia-against-twitch.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/chinese-hackers-targeted-us-journalists-ahead-of-the-capitol-riots/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/US-Capitol-Riot2.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/russia-takes-coercive-measures-against-twitch/" target="_blank"> Russia takes “coercive” measures against Twitch </a> \
+<a href="https://cybernews.com/news/chinese-hackers-targeted-us-journalists-ahead-of-the-capitol-riots/" target="_blank"> Russia takes “coercive” measures against Twitch </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 14, 2022</span></small> \
@@ -126,18 +138,6 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://cybernews.com/news/threat-actors-impersonate-crowdstrike-to-extort-data-and-deploy-ransomware/" target="_blank"> UK police arrest three people by using facial recognition in central London </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 14, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/ex-cia-hacker-convicted-of-wikileaks-data-crime/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/CIApic.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/ex-cia-hacker-convicted-of-wikileaks-data-crime/" target="_blank"> Elden Ring publisher Bandai Namco confirms cyberattack </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 14, 2022</span></small> \
@@ -504,6 +504,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/07/14/api-security-moves-mainstream/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/api-security-software.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/07/14/api-security-moves-mainstream/" target="_blank"> API security moves mainstream </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/07/13/collaboration-knowledge-sharing-key-progress-cybersecurity/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/06/colaboración-divulgación-información-ciberseguridad.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -597,18 +609,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 30, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/06/29/do-back-offices-mean-backdoors/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/06/shared-service-centers-cybersecurity-risks.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/06/29/do-back-offices-mean-backdoors/" target="_blank"> Do back offices mean backdoors? </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 29, 2022</span></small> \
 </div> \
 </div> \
 ');
