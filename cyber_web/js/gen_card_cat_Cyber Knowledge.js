@@ -1,5 +1,29 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/5-key-things-we-learned-from-cisos-of.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGYZP3qllmSW2-xnkSbk6MnlWutbFJeuc2-47jQgVdi7YghgpVvR5uTSe1rYN8N5uQSxFEg3d-findrTFD_OTV-pi6Ys8QbQ4dWBaXoCSO8WopZxiCKX56i0LQlbIa2GVQjrBK6N8fzf-kB3DAvK-0TZX3waSzvpVFVNbCsH_uC9tC-Sa3dCTv45i/s260-e100/cisa.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/5-key-things-we-learned-from-cisos-of.html" target="_blank"> 5 Key Things We Learned from CISOs of Smaller Enterprises Survey </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 15, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/new-cache-side-channel-attack-can-de.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMItEIi4COgRD4RmhFiDCDc6wIjaMUMhWGBuCyAIZwWVKHsayBIs3PlNT0fWR-MWUt6aHGdxAJgmwdaXHCXsauIEwISvoNbXcX6NmcbKzPVIc1dl44afCmVG6xx-MSVZgVttnReHxOBnQVqtJKEvqZ6Yng6eBP_FLCY8cpG5UDG1JFaqEC6JTW8Dwz/s260-e100/anonymous.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/new-cache-side-channel-attack-can-de.html" target="_blank"> New Cache Side Channel Attack Can De-Anonymize Targeted Online Users </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 15, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://thehackernews.com/2022/07/former-cia-engineer-convicted-of.html" class="me-4 thumbnail" target="_blank"> \
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRFEvgrtXM5HXNORqgmwOkMQ277uaxEwdvfC-u9AFlGjMnZfwdGQ7ewHr7EI4P1lBWU4F3pwSb33xafA9T8grh3TLBtdywjBRJwpaxUujSz__lZ3VYAy4ToMqcMRVm_hV_st72Uzt_Rd4hz_K2a6lhCocU50S8bRUoES_Wer1npA8k52PjZ3mBYEO5/s260-e100/cia.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -60,20 +84,8 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/new-uefi-firmware-vulnerabilities.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU4KZzypeOJBoJ8yu-1lDpqUgayjqKrmX1n54zjitMm_xPR1SUpkBC2fZkJGhieTwockSWWNN6VXvbSleKFvKSYkUyXc0XQUMtAjTOWvAUrV2Bw7be9JyX6jllNJnu3YNHe40G3jKZVufHd0yor7wfa4uvBRhUy6Ykk2jS_P0R8D36P8w0-5qJ87RG/s260-e100/lenovo.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/new-uefi-firmware-vulnerabilities.html" target="_blank"> New UEFI Firmware Vulnerabilities Impact Several Lenovo Notebook Models </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 14, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/metas-make-a-scene-ai-will-bring-imagination-to-life-in-the-metaverse/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/shutterstock_1494515318.png" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/290601794_1176479646540355_5132798628346215961_n.jpeg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -85,7 +97,7 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/imposter-immigration-officers-threaten-to-have-you-deported/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/imposterimigrationofficers.png" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/imposterimigrationofficers.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -96,15 +108,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/twitter-down-for-thousands-of-users-worldwide/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Twitter-down-mobile.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/imposter-immigration-officers-threaten-to-have-you-deported/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/imposterimigrationofficers.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/twitter-down-for-thousands-of-users-worldwide/" target="_blank"> Twitter down for thousands of users worldwide </a> \
+<a href="https://cybernews.com/news/imposter-immigration-officers-threaten-to-have-you-deported/" target="_blank"> Twitter down for thousands of users worldwide </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 14, 2022</span></small> \
+<span>July 15, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -201,18 +213,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 07, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/hbillion-records/180125/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/03/28142445/oops-scaled-e1648491903225.jpeg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/hbillion-records/180125/" target="_blank"> Human Error Blamed for Leak of 1 Billion Records of Chinese Citizens </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 06, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -396,6 +396,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/07/15/7-cybersecurity-tips-for-your-summer-vacation/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/copa-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/07/15/7-cybersecurity-tips-for-your-summer-vacation/" target="_blank"> 7 cybersecurity tips for your summer vacation! </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 15, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/07/14/s3-ep91-codered-openssl-java-bugs-and-office-macros-podcast-transcript/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/nsp-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
@@ -492,15 +504,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/01/facebook-2fa-phish-arrives-just-28-minutes-after-scam-domain-created/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/fb-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/think-twice-downloading-pirated-games-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/0-19.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/01/facebook-2fa-phish-arrives-just-28-minutes-after-scam-domain-created/" target="_blank"> Facebook 2FA phish arrives just 28 minutes after scam domain created </a> \
+<a href="https://www.welivesecurity.com/videos/think-twice-downloading-pirated-games-week-security-tony-anscombe/" target="_blank"> Think twice before downloading pirated games – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 01, 2022</span></small> \
+<span>July 15, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -597,18 +609,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 01, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/06/30/costco-40th-anniversary-scam-targets-whatsapp-users/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/06/costco-40th-anniversary-whatsapp-scam.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/06/30/costco-40th-anniversary-scam-targets-whatsapp-users/" target="_blank"> Costco 40th anniversary scam targets WhatsApp users </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 30, 2022</span></small> \
 </div> \
 </div> \
 ');
