@@ -1,5 +1,17 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/google-removes-app-permissions-list.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdKufFyMGZC64cnCm_HBsH24fsPQH_gwGTsRT2P17DIbNWhUs9-jt_2XPS9pyViywkRfzCrYugxV87WT7jUIYnYWS3DdkRAt14nH8g6MYdyP_lyBgZ2kwUfr-Xjp2pPAOgbNpmmAIz_SnB0ZOTbXPkIKg4FkAFu2KoZsYnbRbYXijb93OY8jXku_pX/s260-e100/google.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/google-removes-app-permissions-list.html" target="_blank"> Google Removes \"App Permissions\" List from Play Store for New \"Data Safety\" Section </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 15, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/russia-takes-coercive-measures-against-twitch/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.cybernews.com/images/thumbnail/2022/07/russia-against-twitch.png" alt="" class="img-fluid"> \
 </a> \

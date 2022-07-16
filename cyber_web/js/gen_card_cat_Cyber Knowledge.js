@@ -288,6 +288,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/amazon-ring-police-videos-security-roundup/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62d1e18b96c3152eeee90558/master/pass/Ring-Doorbell-Cops-Security-Alamy-PAYKGF.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/amazon-ring-police-videos-security-roundup/" target="_blank"> Amazon Handed Ring Videos to Cops Without Warrants </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 16, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/62cdfdd823adf8a37bfae65d/master/pass/Attackers-Could-De-Anonymize-Web-Users-With-Sleight-of-Hand-Security-GettyImages-481812949.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -369,18 +381,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 07, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/apple-ios-16-lockdown-mode/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62c4d4d359880327aa662746/master/pass/Apple-Lockdown-Mode-Security-GettyImages-564494353.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/apple-ios-16-lockdown-mode/" target="_blank"> Apple’s Lockdown Mode Aims to Counter Spyware Threats </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 06, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
