@@ -1,5 +1,17 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/hackers-targeting-voip-servers-by.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi032-DxeAuxNtuKhGxPDFYqv-j-dQONuQvVtPvXvxiKpSO2yBdcjrSnt4-CF-XGBVvxGUoeMo0iOvBe_m9OOxQT9YHJXWO0iPBq7blSQLEe1jmoB1jE2rMQ8N1XHA_xnSrIIiN1JTR19eDohM0d0SmAozqHM1sTLOCnH47l72YFslceiNdSwTYs_Ol/s260-e100/voip-hacking.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/hackers-targeting-voip-servers-by.html" target="_blank"> Hackers Targeting VoIP Servers By Exploiting Digium Phone Software </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 15, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://thehackernews.com/2022/07/5-key-things-we-learned-from-cisos-of.html" class="me-4 thumbnail" target="_blank"> \
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGYZP3qllmSW2-xnkSbk6MnlWutbFJeuc2-47jQgVdi7YghgpVvR5uTSe1rYN8N5uQSxFEg3d-findrTFD_OTV-pi6Ys8QbQ4dWBaXoCSO8WopZxiCKX56i0LQlbIa2GVQjrBK6N8fzf-kB3DAvK-0TZX3waSzvpVFVNbCsH_uC9tC-Sa3dCTv45i/s260-e100/cisa.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -54,30 +66,6 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://thehackernews.com/2022/07/a-simple-formula-for-getting-your-it.html" target="_blank"> A Simple Formula for Getting Your IT Security Budget Approved </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 14, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/pakistani-hackers-targeting-indian.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZAH2KaPXSOIJ1y9sH173pY85O1H5tn2mIcal5zmcbIhzA_ANkj9BwUz3SBLlDfLMB0uTsMF9R1wo1M2foKTiSfinmqkGAPtDdYFmhYbmjX9__9dTdnc34yq7-FDFm5xfLJHfDdtF9Bd6DAnHL5TU0OVzGWiDkMxa_-tGcSuMZTx1B87lHbiWODRBS/s260-e100/hackers.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/pakistani-hackers-targeting-indian.html" target="_blank"> Pakistani Hackers Targeting Indian Students in Latest Malware Campaign </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 14, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj99hURM7p8UjuvAPRUCPZEYm50BKJ3LJ8CUqoqkTVh28vJ-Sbbgu5VZ5sRZdmw3XxjwNRHVeWSjwiQzJuTzu8vHEQQWoyVAhDO0GxtAYTCybsDVFFDnYWGJteRJlmrv2qcHafQX88lBxzIvl28XHy4aRqIDv6CU-w3qxGkWP0joupgmUhpEc1RVHTM/s260-e100/intel-amd.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/new-retbleed-speculative-execution.html" target="_blank"> New \'Retbleed\' Speculative Execution Attack Affects AMD and Intel CPUs </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 14, 2022</span></small> \
@@ -216,6 +204,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2022/07/why-8kun-went-offline-during-the-january-6-hearings/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/07/j6wide.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2022/07/why-8kun-went-offline-during-the-january-6-hearings/" target="_blank"> Why 8kun Went Offline During the January 6 Hearings </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 15, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2015/07/experian.png" alt="" class="img-fluid"> \
 </a> \
@@ -285,18 +285,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/06/krebsonsecurity-in-new-netflix-series-on-cybercrime/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/06/netflixseries.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/06/krebsonsecurity-in-new-netflix-series-on-cybercrime/" target="_blank"> KrebsOnSecurity in New Netflix Series on Cybercrime </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 07, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \

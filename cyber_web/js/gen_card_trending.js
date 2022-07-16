@@ -1,8 +1,8 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://thehackernews.com/2022/07/5-key-things-we-learned-from-cisos-of.html" target="_blank" style="text-decoration:none"> \
+<a href="https://thehackernews.com/2022/07/hackers-targeting-voip-servers-by.html" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">5 Key Things We Learned from CISOs of Smaller Enterprises Survey</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Hackers Targeting VoIP Servers By Exploiting Digium Phone Software</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://thehackernews.com/2022/07/microsoft-details-app-sandbox-escape.html" target="_blank" style="text-decoration:none"> \
+<a href="https://thehackernews.com/2022/07/new-netwrix-auditor-bug-could-let.html" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Details App Sandbox Escape Bug Impacting Apple iOS, iPadOS, macOS Devices</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">New Netwrix Auditor Bug Could Let Attackers Compromise Active Directory Domain</h6> \
 </div> \
 </a> \
 </li> \
