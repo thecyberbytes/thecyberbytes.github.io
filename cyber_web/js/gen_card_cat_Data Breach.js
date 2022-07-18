@@ -8,7 +8,7 @@ document.write(' \
 <a href="https://thehackernews.com/2022/07/google-removes-app-permissions-list.html" target="_blank"> Google Removes \"App Permissions\" List from Play Store for New \"Data Safety\" Section </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 15, 2022</span></small> \
+<span>July 17, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \

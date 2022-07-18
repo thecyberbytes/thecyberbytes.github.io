@@ -1,5 +1,17 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://thehackernews.com/2022/07/juniper-releases-patches-for-critical.html" class="me-4 thumbnail" target="_blank"> \
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8-VVIS2lxymG5RrXfW4A9rcXCdSCFPFYcWfEQ-Xpf0G4l7dKc6WfZONaHPfyiGLqveNCesv7Ep8KItbQO4BnJuyIvP6PsqVPieQsKuf2H6qVbfpGGXyW9mfDMClzWxqXIdd6O-lazHX18bCzNZj0V2pNZY1fuNq2mSiNU0P27qRJA2ShDFE9nEX_f/s260-e100/juniper.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://thehackernews.com/2022/07/juniper-releases-patches-for-critical.html" target="_blank"> Juniper Releases Patches for Critical Flaws in Junos OS and Contrail Networking </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 17, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://thehackernews.com/2022/07/hackers-targeting-voip-servers-by.html" class="me-4 thumbnail" target="_blank"> \
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi032-DxeAuxNtuKhGxPDFYqv-j-dQONuQvVtPvXvxiKpSO2yBdcjrSnt4-CF-XGBVvxGUoeMo0iOvBe_m9OOxQT9YHJXWO0iPBq7blSQLEe1jmoB1jE2rMQ8N1XHA_xnSrIIiN1JTR19eDohM0d0SmAozqHM1sTLOCnH47l72YFslceiNdSwTYs_Ol/s260-e100/voip-hacking.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -54,18 +66,6 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://thehackernews.com/2022/07/state-backed-hackers-targeting.html" target="_blank"> State-Backed Hackers Targeting Journalists in Widespread Espionage Campaigns </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 14, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://thehackernews.com/2022/07/a-simple-formula-for-getting-your-it.html" class="me-4 thumbnail" target="_blank"> \
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VKbNfZUMeaNuQQkQWMxIKq-A7CAgQrNP0zSfEhdOGDhmtHsxQRxWeSRMTQ6nXkIY10_-VSwHF7zjSjz99g0QvzZwMU2xkA4dLuw2iQWXcHQ5JT_jZ5xJO7wHULo41FpA4RBCU0NHdw1mjVAvWkdJi6z_SXwauWPRNqj49NYiMSTpwa7SPb2JrHJE/s260-e100/cybersecurity-budget.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://thehackernews.com/2022/07/a-simple-formula-for-getting-your-it.html" target="_blank"> A Simple Formula for Getting Your IT Security Budget Approved </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 14, 2022</span></small> \
