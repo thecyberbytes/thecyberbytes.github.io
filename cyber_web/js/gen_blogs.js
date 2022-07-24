@@ -1,5 +1,29 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://vinothu.medium.com/defi-and-cybersecurity-what-future-holds-fc55f7fb336a?source=rss-25a06010c94f------2" class="me-4 thumbnail" target="_blank"> \
+<img src="https://cdn-images-1.medium.com/max/1024/0*hGD_bD9GBWq7vcLO" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://vinothu.medium.com/defi-and-cybersecurity-what-future-holds-fc55f7fb336a?source=rss-25a06010c94f------2" target="_blank"> DeFi and Cybersecurity: What Future Holds? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>07/12/2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://vinothu.medium.com/disable-ad-tracking-in-ios-and-android-reasons-to-do-it-now-50afca9272bf?source=rss-25a06010c94f------2" class="me-4 thumbnail" target="_blank"> \
+<img src="https://cdn-images-1.medium.com/max/1024/0*I9kx72nvtwe36fSj" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://vinothu.medium.com/disable-ad-tracking-in-ios-and-android-reasons-to-do-it-now-50afca9272bf?source=rss-25a06010c94f------2" target="_blank"> Disable Ad Tracking in iOS and Android — Reasons to do it now </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>07/05/2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://vinothu.medium.com/how-to-remove-your-personal-information-from-googles-search-results-f6093b47812a?source=rss-25a06010c94f------2" class="me-4 thumbnail" target="_blank"> \
 <img src="https://cdn-images-1.medium.com/max/1024/0*x2QMOap5oh3OgkeW" alt="" class="img-fluid"> \
 </a> \
@@ -93,30 +117,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>12/30/2021</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://medium.com/dark-sky-technology/chainjacking-new-type-of-supply-chain-attack-e088b296868c?source=rss-25a06010c94f------2" class="me-4 thumbnail" target="_blank"> \
-<img src="https://cdn-images-1.medium.com/max/1024/0*GvZlbVC0y9cJoZir.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://medium.com/dark-sky-technology/chainjacking-new-type-of-supply-chain-attack-e088b296868c?source=rss-25a06010c94f------2" target="_blank"> ChainJacking — New Type of Supply Chain Attack </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>12/16/2021</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://vinothu.medium.com/mobile-device-cybersecurity-checklist-for-consumers-6c19ac51df85?source=rss-25a06010c94f------2" class="me-4 thumbnail" target="_blank"> \
-<img src="https://cdn-images-1.medium.com/max/1024/0*UzkS7Eg-0dLqnHjX" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://vinothu.medium.com/mobile-device-cybersecurity-checklist-for-consumers-6c19ac51df85?source=rss-25a06010c94f------2" target="_blank"> Mobile Device Cybersecurity Checklist for Consumers </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>12/03/2021</span></small> \
 </div> \
 </div> \
 ');
