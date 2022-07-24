@@ -2,6 +2,7 @@ print("Hello you are in feed_file_generator file")
 
 from datetime import datetime
 import pandas as pd
+import re
 
 import requests
 from bs4 import BeautifulSoup
@@ -38,6 +39,32 @@ def pull_blog_data(pageContent, df):
     return df
 
 def pull_hackernews_data(pageContent, df):
+    """
+    This is the meat of your web scraper:
+    Pulling out the data you want from the HTML of the web page
+    """
+    webpage_parsed = BeautifulSoup(pageContent, 'html.parser')
+    webpage_title = webpage_parsed.title
+    print(webpage_title)
+    
+    for ind, item in enumerate(webpage_parsed.findAll("div", {"class": "body-post"})):
+      if ind == 10:
+        break
+      title_text = item.findChildren('h2', {"class": "home-title"})[0].getText()
+      title_text = item.a['href']
+      link_text = item.h2.getText()
+      date = item.findAll("div", {"class": "item-label"})[0].getText()
+      date = re.sub('[^A-Za-z0-9]+', ' ', date)
+      date = date[0:[d.start() for d in re.finditer(r" ", date)][3]].strip()
+      # date format July 22 2022 want July 01, 2022
+      datetime.strptime(date, "%B %d %Y").strftime("%B %d, %Y")
+      image_src = item.img['data-src']
+      df.loc[len(df)] = [date, title_text, link_text, image_src]
+      #print(f"-----------Card values {ind}-----------------")
+      #print(date, "\n", title_text, "\n", link_text, "\n", image_src)
+    return df
+
+def pull_hackernews_data_old(pageContent, df):
     """
     This is the meat of your web scraper:
     Pulling out the data you want from the HTML of the web page
@@ -249,13 +276,7 @@ def gen_feed_file(file_name, blog_file):
     news_df = pull_hackernews_data(pull_data(URL), news_df)
     print(f"Done pulling data.")
     print(news_df.shape)
-    
-    URL = "https://cybernews.com/news/"
-    print(f"Pulling data from {URL}...")
-    news_df = pull_cybernews_data(pull_data(URL), news_df)
-    print(f"Done pulling data.")
-    print(news_df.shape)
-    
+
     URL = "https://threatpost.com/feed/"
     print(f"Pulling data from {URL}...")
     news_df = pull_threatpost_data(pull_data(URL), news_df)
@@ -285,6 +306,12 @@ def gen_feed_file(file_name, blog_file):
     news_df = pull_welive_data(pull_data(URL), news_df)
     print(f"Done pulling data.")
     print(news_df.shape)
-    
+        
+    URL = "https://cybernews.com/news/"
+    print(f"Pulling data from {URL}...")
+    news_df = pull_cybernews_data(pull_data(URL), news_df)
+    print(f"Done pulling data.")
+    print(news_df.shape)
+
     news_df.to_excel(file_name, index=False)
     return
