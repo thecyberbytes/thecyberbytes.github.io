@@ -156,6 +156,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/how-to-safely-lend-someone-else-your-phone/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62db1ab3a1dc74857a8582c1/master/pass/takingphoto_GettyImages-1156016738-Science.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/how-to-safely-lend-someone-else-your-phone/" target="_blank"> How to Safely Lend Someone Else Your Phone </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 24, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/secret-service-jan-6-text-scandal/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/62db3603a524e4ef61bb6889/master/pass/January-6-Secret-Service-Security-GettyImages-1230451801.jpg" alt="" class="img-fluid"> \
 </a> \
