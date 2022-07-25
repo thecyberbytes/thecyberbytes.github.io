@@ -1,8 +1,8 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/hackers-cyber-mercenaries/180263/" target="_blank" style="text-decoration:none"> \
+<a href="https://threatpost.com/physical-security-maintenance/180269/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Hackers for Hire: Adversaries Employ ‘Cyber Mercenaries’</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Why Physical Security Maintenance Should Never Be an Afterthought</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/large-scale-hishing-bypasses-mfa/180212/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/07/microsoft-patch-tuesday-july-2022-edition/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Large-Scale Phishing Campaign Bypasses MFA</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, July 2022 Edition</h6> \
 </div> \
 </a> \
 </li> \

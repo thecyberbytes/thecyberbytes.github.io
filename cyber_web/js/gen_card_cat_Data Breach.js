@@ -24,15 +24,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/cyber-merc-outfit-claims-to-have-police-insiders/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/CorruptCopper.png" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/07/25/t-mobile-to-cough-up-500-million-over-2021-data-breach/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/tm-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/cyber-merc-outfit-claims-to-have-police-insiders/" target="_blank"> European Commission sued for violating data protection laws it created </a> \
+<a href="https://nakedsecurity.sophos.com/2022/07/25/t-mobile-to-cough-up-500-million-over-2021-data-breach/" target="_blank"> T-Mobile to cough up $500 million over 2021 data breach </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 20, 2022</span></small> \
+<span>July 25, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/t-mobile-to-pay-350m-for-a-massive-data-breach/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/Shutterstock_719314423.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/t-mobile-to-pay-350m-for-a-massive-data-breach/" target="_blank"> T-Mobile to pay $350m for a massive data breach </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 25, 2022</span></small> \
 </div> \
 </div> \
 ');
