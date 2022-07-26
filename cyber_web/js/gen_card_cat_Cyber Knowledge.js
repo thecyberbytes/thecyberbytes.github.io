@@ -1,5 +1,29 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://threatpost.com/malware-hijacks-facebook/180285/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/03/20140155/face-face.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://threatpost.com/malware-hijacks-facebook/180285/" target="_blank"> Novel Malware Hijacks Facebook Business Accounts </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 26, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://threatpost.com/ddos-attacks-prepared/180273/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/07/25090220/IoT-Botnets-Fuels-DDoS-Attacks-Are-You-Prepared.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://threatpost.com/ddos-attacks-prepared/180273/" target="_blank"> IoT Botnets Fuels DDoS Attacks – Are You Prepared? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 26, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://threatpost.com/physical-security-maintenance/180269/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2016/12/06095327/01_intro_iot-e1520348007355.png" alt="" class="img-fluid"> \
 </a> \
@@ -69,18 +93,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 19, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/cisa-urges-patch-11-bug/180235/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/07/18080631/windows-11.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/cisa-urges-patch-11-bug/180235/" target="_blank"> CISA Urges Patch of Exploited Windows 11 Bug by Aug. 2 </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 18, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -468,24 +480,60 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/hackers-claim-to-have-breached-italys-revenue-agency/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/07/Agenzia-Entrate-Breach.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/ex-school-heads-jailed-for-virtual-learning-fraud/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/VirtualSchool.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/hackers-claim-to-have-breached-italys-revenue-agency/" target="_blank"> Hackers claim to have breached Italy’s revenue agency </a> \
+<a href="https://cybernews.com/news/ex-school-heads-jailed-for-virtual-learning-fraud/" target="_blank"> Ex school heads jailed for virtual learning fraud </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 25, 2022</span></small> \
+<span>July 26, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/lockbit-targets-small-canadian-town-with-extortion/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/06/Darkweb-hacker-keyboard.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/russia-fines-google-additional-34-m-for-abusing-its-dominant-position/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/Shutterstock_2111602964.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/lockbit-targets-small-canadian-town-with-extortion/" target="_blank"> LockBit targets small Canadian town with extortion </a> \
+<a href="https://cybernews.com/news/russia-fines-google-additional-34-m-for-abusing-its-dominant-position/" target="_blank"> Russia fines Google additional $34m for abusing its dominant position </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 26, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/attackers-exploit-prestashop-vulnerability-to-steal-payment-data/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Credit-Card-Theft.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/attackers-exploit-prestashop-vulnerability-to-steal-payment-data/" target="_blank"> Blockchain boss convicted of $21m crypto fraud </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 26, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/blockchain-boss-convicted-of-21m-crypto-fraud/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/CryptoFraudTitanium.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/blockchain-boss-convicted-of-21m-crypto-fraud/" target="_blank"> Hackers claim to have breached Italy’s revenue agency </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 26, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/t-mobile-to-pay-350m-for-a-massive-data-breach/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Shutterstock_719314423.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/t-mobile-to-pay-350m-for-a-massive-data-breach/" target="_blank"> LockBit targets small Canadian town with extortion </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 25, 2022</span></small> \
@@ -513,66 +561,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 25, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/software-cracks-used-to-peddle-amadey-malware-through-smokeloader/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Computer-screen-headphones.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/software-cracks-used-to-peddle-amadey-malware-through-smokeloader/" target="_blank"> Honor among cyber-thieves: a criminal career based on trust </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 25, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/honor-among-cyber-thieves-a-criminal-career-based-on-trust/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/HandshakeDark.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/honor-among-cyber-thieves-a-criminal-career-based-on-trust/" target="_blank"> Google booted engineer who deemed AI chatbot sentient </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 25, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/google-booted-engineer-who-deemed-ai-chatbot-sentient/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Google-office-logo.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/google-booted-engineer-who-deemed-ai-chatbot-sentient/" target="_blank"> Rogers to invest C$10bn in AI </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 25, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/rogers-to-invest-10bn-ai/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/AIRogers.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/rogers-to-invest-10bn-ai/" target="_blank"> Thai pro-democracy activists targeted with Pegasus spyware </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 25, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/thai-pro-democracy-activists-targeted-with-pegasus-spyware/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Shutterstock_2133712661.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/thai-pro-democracy-activists-targeted-with-pegasus-spyware/" target="_blank"> NSO Group sold spyware to 14 EU governments </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 22, 2022</span></small> \
 </div> \
 </div> \
 ');
