@@ -1,8 +1,8 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/malware-hijacks-facebook/180285/" target="_blank" style="text-decoration:none"> \
+<a href="https://threatpost.com/messaging-apps-cybercriminals/180303/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Novel Malware Hijacks Facebook Business Accounts</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Messaging Apps Tapped as Platform for Cybercriminal Activity</h6> \
 </div> \
 </a> \
 </li> \
@@ -14,9 +14,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/google-boots-malware-marketplace/180241/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/france-paris-internet-cable-cuts-attack/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Google Boots Multiple Malware-laced Android Apps from Marketplace</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Unsolved Mystery Attack on Internet Cables in Paris</h6> \
 </div> \
 </a> \
 </li> \
