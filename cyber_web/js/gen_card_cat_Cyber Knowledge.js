@@ -96,18 +96,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/fbi-warns-fake-crypto-apps/180245/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/02/06221502/AdobeStock_22333231-680x400.jpeg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/fbi-warns-fake-crypto-apps/180245/" target="_blank"> FBI Warns Fake Crypto Apps are Bilking Investors of Millions </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 19, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2022/07/massive-losses-define-epidemic-of-pig-butchering/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2022/04/cryptopeople.png" alt="" class="img-fluid"> \
 </a> \
@@ -189,6 +177,18 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 20, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/tor-browser-russia-blocks/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62e29de658719fe5c578ebf6/master/pass/Russia-Tor-Censorship-Security-GettyImages-1145262128.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/tor-browser-russia-blocks/" target="_blank"> How Tor Is Fighting—and Beating—Russian Censorship </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 28, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -360,18 +360,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/14/s3-ep91-codered-openssl-java-bugs-and-office-macros-podcast-transcript/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/nsp-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/14/s3-ep91-codered-openssl-java-bugs-and-office-macros-podcast-transcript/" target="_blank"> S3 Ep91: CodeRed, OpenSSL, Java bugs, Office macros [Audio + Text] </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 14, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/07/27/cash-app-fraud-scams-watch-out/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/cashapp-scams-fraud.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -492,51 +480,51 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/microsoft-and-facebook-top-the-list-of-most-impersonated-brands/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Meta-Microsoft-logo.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/attackers-employ-telegram-and-discord-to-peddle-malware/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/07/Telegram-Discord-App.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/microsoft-and-facebook-top-the-list-of-most-impersonated-brands/" target="_blank"> Ex school heads jailed for virtual learning fraud </a> \
+<a href="https://cybernews.com/news/attackers-employ-telegram-and-discord-to-peddle-malware/" target="_blank"> Attackers employ Telegram and Discord to peddle malware </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 26, 2022</span></small> \
+<span>July 28, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/ex-school-heads-jailed-for-virtual-learning-fraud/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/VirtualSchool.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/man-pleads-guilty-to-social-media-harassment-against-r-kelly-abuse-victim/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/RKellyUnhappy.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/ex-school-heads-jailed-for-virtual-learning-fraud/" target="_blank"> Russia fines Google additional $34m for abusing its dominant position </a> \
+<a href="https://cybernews.com/news/man-pleads-guilty-to-social-media-harassment-against-r-kelly-abuse-victim/" target="_blank"> Man pleads guilty to using social media in terror campaign against R. Kelly abuse victim </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 26, 2022</span></small> \
+<span>July 28, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/attackers-exploit-prestashop-vulnerability-to-steal-payment-data/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Credit-Card-Theft.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/microsoft-says-austrian-firm-targets-banks-law-firms-with-spyware/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Microsoft-lock-DSIRF.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/attackers-exploit-prestashop-vulnerability-to-steal-payment-data/" target="_blank"> Blockchain boss convicted of $21m crypto fraud </a> \
+<a href="https://cybernews.com/news/microsoft-says-austrian-firm-targets-banks-law-firms-with-spyware/" target="_blank"> EU found evidence employee phones compromised with Pegasus spyware </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 26, 2022</span></small> \
+<span>July 28, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/blockchain-boss-convicted-of-21m-crypto-fraud/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/CryptoFraudTitanium.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/attackers-shut-down-wordfly-siphon-arts-institutions-data/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Toronto-Symphony-Orchestra.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/blockchain-boss-convicted-of-21m-crypto-fraud/" target="_blank"> Hackers claim to have breached Italy’s revenue agency </a> \
+<a href="https://cybernews.com/news/attackers-shut-down-wordfly-siphon-arts-institutions-data/" target="_blank"> The US doubles the bounty for North Korean hackers </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 26, 2022</span></small> \
+<span>July 27, 2022</span></small> \
 </div> \
 </div> \
 ');
