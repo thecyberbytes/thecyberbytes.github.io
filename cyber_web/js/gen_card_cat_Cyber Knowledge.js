@@ -168,6 +168,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/cyber-tax-data-breach-cost-security-roundup/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62e43e598ad26c5c0a000cc9/master/pass/You-Pay-More-Companies-Hacked-Security-GettyImages-1355761959.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/cyber-tax-data-breach-cost-security-roundup/" target="_blank"> You Pay More When Companies Get Hacked </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 30, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/tor-browser-russia-blocks/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/62e29de658719fe5c578ebf6/master/pass/Russia-Tor-Censorship-Security-GettyImages-1145262128.jpg" alt="" class="img-fluid"> \
 </a> \
