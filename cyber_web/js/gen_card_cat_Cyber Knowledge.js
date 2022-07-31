@@ -168,6 +168,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/apple-ios-google-chrome-security-updates-july-2022/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62e45603d7368105da057d95/master/pass/Apple-Security-Bugs-Patch-Security-GettyImages-946607422.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/apple-ios-google-chrome-security-updates-july-2022/" target="_blank"> Apple Just Patched 37 iPhone Security Bugs </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 31, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/cyber-tax-data-breach-cost-security-roundup/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/62e43e598ad26c5c0a000cc9/master/pass/You-Pay-More-Companies-Hacked-Security-GettyImages-1355761959.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -258,18 +270,6 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/2022-midterms-election-security-election-worker-threats/" target="_blank"> The 2022 US Midterm Elections\' Top Security Issue: Death Threats </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 21, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/american-data-privacy-protection-act-adppa/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62d8828addaaa99a1df8e636/master/pass/Privacy-Bill-Security-GettyImages-1409246062-alt.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/american-data-privacy-protection-act-adppa/" target="_blank"> Congress Might Pass an Actually Good Privacy Bill </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 21, 2022</span></small> \
