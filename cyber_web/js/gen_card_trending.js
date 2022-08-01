@@ -1,8 +1,15 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/malicious-npm-discord/180327/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/01/gnutls-patches-memory-mismanagement-bug-update-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Malicious Npm Packages Tapped Again to Target Discord Users</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">GnuTLS patches memory mismanagement bug – update now!</h6> \
+</div> \
+</a> \
+</li> \
+<li class="list-group-item" style="background: #fafafa;"> \
+<a href="https://threatpost.com/secure-move-cloud/180335/" target="_blank" style="text-decoration:none"> \
+<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
+<h6 class="card-link text-dark font-weight-bold my-3">Securing Your Move to the Hybrid Cloud</h6> \
 </div> \
 </a> \
 </li> \
