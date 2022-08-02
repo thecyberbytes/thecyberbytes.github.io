@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 import feed_file_generator as gen_feed
+from datetime import datetime
 
 def generate_news_html(cat_news_filename, blog_file_name, blog_df, news_df):
     # read the news feed
