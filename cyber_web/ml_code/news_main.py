@@ -8,6 +8,7 @@ from datetime import datetime
 def generate_news_html(cat_news_filename, blog_file_name, blog_df, news_df):
     # read the news feed
     if news_df.shape[0] == 0:
+        print("reading the categorized news file as dataframe is empty")
         news_df = pd.read_excel(cat_news_filename)
     
     # drop empty rows
@@ -42,6 +43,7 @@ def generate_news_html(cat_news_filename, blog_file_name, blog_df, news_df):
     generate_single_category('Hacking', news_df)
 
     if blog_df.shape[0] == 0:
+        print("reading the blog file as dataframe is empty")
         blog_df = pd.read_excel(blog_file_name)
     generate_blog(blog_df)
     
@@ -263,6 +265,7 @@ def categorize_news(news_filename, feed_filename, news_test_df):
 
     # load the test data
     if news_test_df.shape[0] == 0:
+        print("reading the news file as dataframe is empty")
         news_test_df = pd.read_excel(feed_filename)
 
     # perform TFIDF 
@@ -276,13 +279,14 @@ def categorize_news(news_filename, feed_filename, news_test_df):
     news_test_df['Category'] = y_pred_cat_name
     
     # load the test data
+    print("reading the previous categorized news file ")
     prev_news_df = pd.read_excel(news_filename)
     
     print(f"Total news earlier-->{prev_news_df.shape}")
     print(f"Total news to add-->{news_test_df.shape}")
     # A continuous index value will be maintained
     # across the rows in the new appended data frame.
-    news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
+    news_test_df.append(prev_news_df, ignore_index=True, inplace=True)    # to collect data for retraining
     print(f"Total news later-->{news_test_df.shape}")
     
     # convert the 'Date Created' column to datetime format
