@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/06/the-link-between-awm-proxy-the-glupteba-botnet/" target="_blank" style="text-decoration:none"> \
+<a href="https://threatpost.com/secure-move-cloud/180335/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Link Between AWM Proxy & the Glupteba Botnet</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Securing Your Move to the Hybrid Cloud</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">911 Proxy Service Implodes After Disclosing Breach</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Missile maker MBDA denies being hacked, admits to data loss</h6> \
 </div> \
 </a> \
 </li> \
