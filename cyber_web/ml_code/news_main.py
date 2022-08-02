@@ -284,12 +284,20 @@ def categorize_news(news_filename, feed_filename, news_test_df):
     news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
     print(f"Total news later-->{news_test_df.shape}")
     
-    # convert the 'Date' column to datetime format
-    news_test_df['Date Created']= pd.to_datetime(news_test_df['Date Created'])
+    # convert the 'Date Created' column to datetime format
+    news_test_df['Date Created'] = pd.to_datetime(news_test_df['Date Created'])
 
-    # sort the dataframe by Date
     news_test_df = news_test_df.sort_values(by=['Date Created'], ascending=False)
+
+    # convert the 'Date Created' column to string format
+    news_test_df['Date Created'] = news_test_df['Date Created'].astype(str)
+
+    # date format 2022-08-01 want July 01, 2022
+    news_test_df['Date Created'] = news_test_df['Date Created'].apply(lambda date : 
+                                    datetime.strptime(date, "%Y-%m-%d").strftime("%B %d, %Y"))
     print(news_test_df.head())
+    
+    # write all records to file
     news_test_df.to_excel(news_filename, index=False)
     
     return news_test_df
