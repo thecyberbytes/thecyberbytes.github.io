@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/01/gnutls-patches-memory-mismanagement-bug-update-now/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/gnutls-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://threatpost.com/malware-hijacks-facebook/180285/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/03/20140155/face-face.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Crypto Currency</span> <span class="mx-1">&bullet;</span> <span>August 01, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">GnuTLS patches memory mismanagement bug – update now!</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>July 26, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Novel Malware Hijacks Facebook Business Accounts</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/29/how-to-celebrate-sysadmin-day/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/heros-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://threatpost.com/popular-bait-in-phishing-attacks/180281/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/09/23070332/phishing-farm.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Vulnerability</span> <span class="mx-1">&bullet;</span> <span>July 29, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">How to celebrate SysAdmin Day!</h5> \
+<small class="text-uppercase font-weight-bold"><span>Vulnerability</span> <span class="mx-1">&bullet;</span> <span>July 26, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Phishing Attacks Skyrocket with Microsoft and Facebook as Most Abused Brands</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/28/s3-ep93-office-security-breach-costs-and-leisurely-patches-audio-text/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/s3-ep93-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://threatpost.com/ddos-attacks-prepared/180273/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/07/25090220/IoT-Botnets-Fuels-DDoS-Attacks-Are-You-Prepared.png" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>July 28, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">S3 Ep93: Office security, breach costs, and leisurely patches [Audio + Text]</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>July 26, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">IoT Botnets Fuels DDoS Attacks – Are You Prepared?</h5> \
 </div> \
 </a> \
 </div> \
