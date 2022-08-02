@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/secure-move-cloud/180335/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/06/the-link-between-awm-proxy-the-glupteba-botnet/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Securing Your Move to the Hybrid Cloud</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Link Between AWM Proxy & the Glupteba Botnet</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/threat-pivot-microsofts-macro/180319/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/07/29/how-to-celebrate-sysadmin-day/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Threat Actors Pivot Around Microsoft’s Macro-Blocking in Office</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How to celebrate SysAdmin Day!</h6> \
 </div> \
 </a> \
 </li> \
