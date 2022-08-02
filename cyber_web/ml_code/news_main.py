@@ -282,15 +282,20 @@ def categorize_news(news_filename, feed_filename, news_test_df):
     
     # load the test data
     print("reading the previous categorized news file ")
-    prev_news_df = pd.read_excel(news_filename)
-    
-    print(f"Total news earlier-->{prev_news_df.shape}")
-    print(f"Total news to add-->{news_test_df.shape}")
-    # A continuous index value will be maintained
-    # across the rows in the new appended data frame.
-    news_test_df = news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
-    news_test_df.drop_duplicates(inplace=True)      #drop the duplicates
-    print(f"Total news later-->{news_test_df.shape}")
+    # use the try statement where error may occur
+    try:
+        prev_news_df = pd.read_excel(news_filename)
+
+        print(f"Total news earlier-->{prev_news_df.shape}")
+        print(f"Total news to add-->{news_test_df.shape}")
+        # A continuous index value will be maintained
+        # across the rows in the new appended data frame.
+        news_test_df = news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
+        news_test_df.drop_duplicates(inplace=True)      #drop the duplicates
+        print(f"Total news later-->{news_test_df.shape}")
+     # if the error occurs, handle it !!
+     except FileNotFoundError:
+        print("No file!!")
     
     # convert the 'Date Created' column to datetime format
     news_test_df['Date Created'] = pd.to_datetime(news_test_df['Date Created'])
