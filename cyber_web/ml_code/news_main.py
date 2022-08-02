@@ -276,7 +276,6 @@ def categorize_news(news_filename, feed_filename, news_test_df):
     
     # load the test data
     prev_news_df = pd.read_excel(news_filename)
-    news_test_df.to_excel(news_filename, index=False)
     
     # A continuous index value will be maintained
     # across the rows in the new appended data frame.
@@ -284,7 +283,9 @@ def categorize_news(news_filename, feed_filename, news_test_df):
     
     # sort the dataframe by Date
     news_test_df = news_test_df.sort_values(by=['Date Created'], ascending=False)
-
+    print(news_test_df.head())
+    news_test_df.to_excel(news_filename, index=False)
+    
     return news_test_df
     
 def main():
