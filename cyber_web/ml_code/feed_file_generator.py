@@ -314,4 +314,5 @@ def gen_feed_file(file_name, blog_file):
     print(news_df.shape)
 
     news_df.to_excel(file_name, index=False)
-    return
+    
+    return blog_df, news_df
