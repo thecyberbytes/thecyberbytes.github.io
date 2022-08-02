@@ -128,7 +128,7 @@ def generate_single_category(cat_name, df):
     lines.append("document.write(' \\\n")
     
     for i in range(cat_df.shape[0]):
-      print(i)
+      print(f"Generating single category {i}")
       lines.append('<div class="d-md-flex post-entry-2 small-img"> \\\n')
       lines.append('<a href="' + cat_df.iloc[i]['URL'] + '" class="me-4 thumbnail" target="_blank"> \\\n')
       lines.append('<img src="' + cat_df.iloc[i]['Image'] + '" alt="" class="img-fluid"> \\\n')
@@ -157,7 +157,7 @@ def generate_carousel(df, start, end):
   lines.append("document.write(' \\\n")
 
   for i in range(start, end):
-      print(i)
+      print(f"Generating carousel {i}")
       item_status = ""
       if i == 0:
         item_status = "active"
@@ -185,7 +185,7 @@ def generate_card_col_1(df, start, end, file_name):
     lines.append('<div class="container-fluid border border-dark border-0 p-0 m-0 align-items-center justify-content-between"> \\\n')
     
     for i in range(start, end):
-      print(i)
+      print(f"Generating card column one--> {i}")
       lines.append('<div> \\\n')
       lines.append('<div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \\\n')
       lines.append('<a href="' + df['URL'][i] + '" target="_blank" style="text-decoration:none"> \\\n')
@@ -210,7 +210,7 @@ def generate_card_col_2_and_3(df, start, end, file_name):
     lines.append("document.write(' \\\n")
     
     for i in range(start, end):
-      print(i)
+      print(f"Generating card column two and three--> {i}")
       lines.append('<div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \\\n')
       lines.append('<a href="' + df['URL'][i] + '" target="_blank" style="text-decoration:none"> \\\n')
       lines.append('<img src="' + df['Image'][i] + '" class="card-img-top img-fluid" alt="..."> \\\n')
@@ -234,7 +234,7 @@ def generate_card_trending(df, start, end):
   print(df.shape)
   
   for i in range(start, df.shape[0]):
-      print(i)
+      print(f"Generating card trending--> {i}")
       print(df['Title'][i])
       lines.append('<li class="list-group-item" style="background: #fafafa;"> \\\n')
       lines.append('<a href="' + df['URL'][i] + '" target="_blank" style="text-decoration:none"> \\\n')
