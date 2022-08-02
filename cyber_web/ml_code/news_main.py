@@ -4,9 +4,12 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 import feed_file_generator as gen_feed
 
-def generate_news_html(cat_news_filename, blogs_file_name):
+def generate_news_html(cat_news_filename, blog_file_name, blog_df, news_df):
     # read the news feed
-    news_df = pd.read_excel(cat_news_filename)
+    if news_df.shape[0] == 0:
+        news_df = pd.read_excel(cat_news_filename)
+    
+    # drop empty rows
     news_df.dropna(axis=0, inplace=True)
     # clean the new line character
     news_df['Date Created'] = news_df['Date Created'].apply(lambda x: x.replace('\n',""))
@@ -37,8 +40,9 @@ def generate_news_html(cat_news_filename, blogs_file_name):
     generate_single_category('Crypto Currency', news_df)
     generate_single_category('Hacking', news_df)
 
-    blogs_df = pd.read_excel(blogs_file_name)
-    generate_blogs(blogs_df)
+    if blog_df.shape[0] == 0:
+        blog_df = pd.read_excel(blog_file_name)
+    generate_blog(blog_df)
     
     # start - 0 and end - 4
     end_card_index = start_card_index + carousel_cards_count
@@ -86,7 +90,7 @@ def read_file(file, data):
       print(card_file.read())
   card_file.close()
 
-def generate_blogs(df):
+def generate_blog(df):
     lines = []
     lines.append("document.write(' \\\n")
     
@@ -242,7 +246,7 @@ def generate_card_trending(df, start, end):
 
   return
     
-def categorize_news(news_filename, feed_filename):
+def categorize_news(news_filename, feed_filename, news_test_df):
     filename = 'cyber_web/models/trained_model.pkl'  # the trained model
     tdidf_filename = 'cyber_web/models/trained_tfidf.pkl'  # the trained TD-IDF vector
     cat_filename = 'cyber_web/models/category_dict.pkl'  # the news category dict
@@ -257,7 +261,8 @@ def categorize_news(news_filename, feed_filename):
     loaded_category_to_id = pickle.load(open(cat_filename, "rb" ) )
 
     # load the test data
-    news_test_df = pd.read_excel(feed_filename)
+    if news_test_df.shape[0] == 0:
+        news_test_df = pd.read_excel(feed_filename)
 
     # perform TFIDF 
     news_test_df_tfidf = loaded_tfidf.transform(news_test_df['Title'].str.lower())
@@ -269,14 +274,15 @@ def categorize_news(news_filename, feed_filename):
 
     news_test_df['Category'] = y_pred_cat_name
     news_test_df.to_excel(news_filename, index=False)
+    return news_test_df
     
 def main():
     news_categorized_file = "cyber_web/excels/news_categorized.xlsx"
     blogs_file = "cyber_web/excels/blog_feed.xlsx"
     news_feed_file = "cyber_web/excels/news_feed.xlsx"
-    gen_feed.gen_feed_file(news_feed_file, blogs_file)
-    categorize_news(news_categorized_file, news_feed_file)
-    generate_news_html(news_categorized_file, blogs_file)
+    blog_df, news_df = gen_feed.gen_feed_file(news_feed_file, blogs_file)
+    news_df = categorize_news(news_categorized_file, news_feed_file, news_df)
+    generate_news_html(news_categorized_file, blogs_file, blog_df, news_df)
         
 if __name__ == "__main__":
     main()
