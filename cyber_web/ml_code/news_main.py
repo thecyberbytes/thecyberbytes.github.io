@@ -273,7 +273,9 @@ def categorize_news(news_filename, feed_filename, news_test_df):
       y_pred_cat_name.append([cat for cat, cat_id in loaded_category_to_id.items() if cat_id == cat_pred_val][0])
 
     news_test_df['Category'] = y_pred_cat_name
+    news_test_df = news_test_df.sort_values(by=['Date Created'], ascending=False)
     news_test_df.to_excel(news_filename, index=False)
+    
     return news_test_df
     
 def main():
