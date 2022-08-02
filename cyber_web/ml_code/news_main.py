@@ -293,8 +293,7 @@ def categorize_news(news_filename, feed_filename, news_test_df):
         news_test_df = news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
         news_test_df.drop_duplicates(inplace=True)      #drop the duplicates
         print(f"Total news later-->{news_test_df.shape}")
-     # if the error occurs, handle it !!
-     except FileNotFoundError:
+    except FileNotFoundError:
         print("No file!!")
     
     # convert the 'Date Created' column to datetime format
