@@ -155,9 +155,10 @@ def generate_single_category(cat_name, df):
 def generate_carousel(df, start, end):
   lines = []
   lines.append("document.write(' \\\n")
-
+  print(f"Generating carousel {start}, {end}")
+  print(df.head(2))
+    
   for i in range(start, end):
-      print(f"Generating carousel {i}")
       item_status = ""
       if i == 0:
         item_status = "active"
@@ -299,7 +300,7 @@ def categorize_news(news_filename, feed_filename, news_test_df):
     # convert the 'Date Created' column to datetime format
     news_test_df['Date Created'] = pd.to_datetime(news_test_df['Date Created'])
 
-    news_test_df = news_test_df.sort_values(by=['Date Created'], ascending=False)
+    news_test_df = news_test_df.sort_values(by=['Date Created'], ascending=False).reset_index(drop=True)
 
     # convert the 'Date Created' column to string format
     news_test_df['Date Created'] = news_test_df['Date Created'].astype(str)
