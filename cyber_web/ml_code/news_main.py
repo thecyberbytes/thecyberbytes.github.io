@@ -277,10 +277,16 @@ def categorize_news(news_filename, feed_filename, news_test_df):
     # load the test data
     prev_news_df = pd.read_excel(news_filename)
     
+    print(f"Total news earlier-->{prev_news_df.shape}")
+    print(f"Total news to add-->{news_test_df.shape}")
     # A continuous index value will be maintained
     # across the rows in the new appended data frame.
     news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
+    print(f"Total news later-->{news_test_df.shape}")
     
+    # convert the 'Date' column to datetime format
+    news_test_df['Date Created']= pd.to_datetime(news_test_df['Date Created'])
+
     # sort the dataframe by Date
     news_test_df = news_test_df.sort_values(by=['Date Created'], ascending=False)
     print(news_test_df.head())
