@@ -22,6 +22,8 @@ def generate_news_html(cat_news_filename, blog_file_name, blog_df, news_df):
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace("\'","\\'"))
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace('\"','\\"'))
     
+    print("Generating htmls")
+    print(news_df.head())
     # one news per category df
     trending_df = news_df.groupby(['Category']).first()
     
@@ -286,7 +288,7 @@ def categorize_news(news_filename, feed_filename, news_test_df):
     print(f"Total news to add-->{news_test_df.shape}")
     # A continuous index value will be maintained
     # across the rows in the new appended data frame.
-    news_test_df.append(prev_news_df, ignore_index=True, inplace=True)    # to collect data for retraining
+    news_test_df = news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
     print(f"Total news later-->{news_test_df.shape}")
     
     # convert the 'Date Created' column to datetime format
