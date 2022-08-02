@@ -273,9 +273,18 @@ def categorize_news(news_filename, feed_filename, news_test_df):
       y_pred_cat_name.append([cat for cat, cat_id in loaded_category_to_id.items() if cat_id == cat_pred_val][0])
 
     news_test_df['Category'] = y_pred_cat_name
-    news_test_df = news_test_df.sort_values(by=['Date Created'], ascending=False)
+    
+    # load the test data
+    prev_news_df = pd.read_excel(news_filename)
     news_test_df.to_excel(news_filename, index=False)
     
+    # A continuous index value will be maintained
+    # across the rows in the new appended data frame.
+    news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
+    
+    # sort the dataframe by Date
+    news_test_df = news_test_df.sort_values(by=['Date Created'], ascending=False)
+
     return news_test_df
     
 def main():
