@@ -48,24 +48,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/07/breach-exposes-users-of-microleaves-proxy-service/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/07/microleaves.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/07/breach-exposes-users-of-microleaves-proxy-service/" target="_blank"> Breach Exposes Users of Microleaves Proxy Service </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 28, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/07/28/s3-ep93-office-security-breach-costs-and-leisurely-patches-audio-text/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/s3-ep93-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2022/07/28/s3-ep93-office-security-breach-costs-and-leisurely-patches-audio-text/" target="_blank"> S3 Ep93: Office security, breach costs, and leisurely patches [Audio + Text] </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 28, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2022/07/breach-exposes-users-of-microleaves-proxy-service/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/07/microleaves.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2022/07/breach-exposes-users-of-microleaves-proxy-service/" target="_blank"> Breach Exposes Users of Microleaves Proxy Service </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 28, 2022</span></small> \
