@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/tutanota-calls-for-a-tighter-grip-on-big-tech/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/08/class-action-targets-experian-over-account-security/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Tutanota calls for a tighter grip on Big Tech</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Class Action Targets Experian Over Account Security</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/samsung-launches-self-repair-program/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/league-of-legends-players-targeted-with-file-locking-malware/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Taiwan\'s presidential website hit by a cyberattack shortly before Pelosi\'s visit</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">German semiconductor maker Semikron hit by cyberattack</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/reddit-awards-hero-hacker-10k-bounty/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/nomad-knew-of-a-flaw-resulting-in-a-190m-heist-two-months-beforehand-report/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Nomad: a flaw outlined by the audit firm is not related to a recent hack</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Nomad knew of a flaw resulting in a $190m heist two months beforehand - report</h6> \
 </div> \
 </a> \
 </li> \
