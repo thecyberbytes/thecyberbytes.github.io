@@ -7,21 +7,21 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/08/class-action-targets-experian-over-account-security/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/charter-record-labels-piracy-lawsuits-settlements/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Class Action Targets Experian Over Account Security</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">An ISP Settled Piracy Lawsuits. Could Users Take the Hit?</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Open Redirect Flaw Snags Amex, Snapchat User Data</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Sensitive records of over 280m Indian citizens exposed</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/league-of-legends-players-targeted-with-file-locking-malware/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/german-semiconductor-maker-semikron-hit-by-cyberattack/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
 <h6 class="card-link text-dark font-weight-bold my-3">German semiconductor maker Semikron hit by cyberattack</h6> \
 </div> \
