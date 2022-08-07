@@ -7,21 +7,21 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/charter-record-labels-piracy-lawsuits-settlements/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/how-to-use-lockdown-mode-ios-16/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">An ISP Settled Piracy Lawsuits. Could Users Take the Hit?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How to Use Lockdown Mode in iOS 16 to Make Your Phone More Secure</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/ring-doorbell-camera-amazon-privacy/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Sensitive records of over 280m Indian citizens exposed</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">All the Data Amazon\'s Ring Cameras Collect About You</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/german-semiconductor-maker-semikron-hit-by-cyberattack/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/league-of-legends-players-targeted-with-file-locking-malware/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
 <h6 class="card-link text-dark font-weight-bold my-3">German semiconductor maker Semikron hit by cyberattack</h6> \
 </div> \
