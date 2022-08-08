@@ -1,22 +1,22 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/02/cryptocoin-token-swapper-nomad-loses-200-million-in-coding-blunder/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Cryptocoin “token swapper” Nomad loses $200 million in coding blunder</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Bitcoin Fog Case Could Put Cryptocurrency Tracing on Trial</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/how-to-use-lockdown-mode-ios-16/" target="_blank" style="text-decoration:none"> \
+<a href="https://threatpost.com/phishers-2fa-coinbase/180356/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">How to Use Lockdown Mode in iOS 16 to Make Your Phone More Secure</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Phishers Swim Around 2FA in Coinbase Account Heists</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ring-doorbell-camera-amazon-privacy/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/north-korean-hackers-use-fake-coinbase-job-ads-to-lure-crypto-buffs/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">All the Data Amazon\'s Ring Cameras Collect About You</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Sensitive records of over 280m Indian citizens exposed</h6> \
 </div> \
 </a> \
 </li> \

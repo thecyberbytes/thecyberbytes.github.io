@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/08/no-socks-no-shoes-no-malware-proxy-services/" target="_blank" style="text-decoration:none"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2015/06/proxy.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://cybernews.com/news/samsung-launches-self-repair-program/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/samsung_repair.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 02, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">No SOCKS, No Shoes, No Malware Proxy Services!</h5> \
+<small class="text-uppercase font-weight-bold"><span>Hacking</span> <span class="mx-1">&bullet;</span> <span>August 03, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Taiwan\'s presidential website hit by a cyberattack shortly before Pelosi\'s visit</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/02/cryptocoin-token-swapper-nomad-loses-200-million-in-coding-blunder/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/nomad-img-1200.jpg?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://cybernews.com/news/nomad-knew-of-a-flaw-resulting-in-a-190m-heist-two-months-beforehand-report/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/cryptocoinnomadhack.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Crypto Currency</span> <span class="mx-1">&bullet;</span> <span>August 02, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Cryptocoin “token swapper” Nomad loses $200 million in coding blunder</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 03, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Samsung launches self-repair program</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://threatpost.com/universities-email-cyber-risk/180342/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/02/11095955/Business-Email-Compromise.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://cybernews.com/news/reddit-awards-hero-hacker-10k-bounty/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/RedditRedditReddit.png" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 02, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Universities Put Email Users at Cyber Risk</h5> \
+<small class="text-uppercase font-weight-bold"><span>Vulnerability</span> <span class="mx-1">&bullet;</span> <span>August 03, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Nomad: a flaw outlined by the audit firm is not related to a recent hack</h5> \
 </div> \
 </a> \
 </div> \

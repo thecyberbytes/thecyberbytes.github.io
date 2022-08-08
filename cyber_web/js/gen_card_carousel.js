@@ -1,37 +1,37 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/how-to-use-lockdown-mode-ios-16/" target="_blank"> \
-<img src="https://media.wired.com/photos/62ed79aa3787a50a7ae8c8a4/master/pass/iOS-Lockdown-Mode-Security-GettyImages-1240776751.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://threatpost.com/phishers-2fa-coinbase/180356/" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/01/11104331/2FA_two-factor-authentication.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>How to Use Lockdown Mode in iOS 16 to Make Your Phone More Secure</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 07, 2022</p> \
+<h2>Phishers Swim Around 2FA in Coinbase Account Heists</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 08, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/fema-emergency-alert-flaws-security-roundup/" target="_blank"> \
-<img src="https://media.wired.com/photos/62edb7e154d910713ee4f20c/master/pass/US-Emergency-Alert-System-Security-GettyImages-1166460347.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://cybernews.com/news/north-korean-hackers-use-fake-coinbase-job-ads-to-lure-crypto-buffs/" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/coinbase-logo-app.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>The US Emergency Alert System Has Dangerous Flaws</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 06, 2022</p> \
+<h2>Sensitive records of over 280m Indian citizens exposed</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 08, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/charter-record-labels-piracy-lawsuits-settlements/" target="_blank"> \
-<img src="https://media.wired.com/photos/62edb0349a81878b183eb016/master/pass/Record-Labels-Battle-With-Charter-Business-91770819.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/08/slack-admits-to-leaking-hashed-passwords-for-three-months/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/slk-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>An ISP Settled Piracy Lawsuits. Could Users Take the Hit?</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 06, 2022</p> \
+<h2>Slack admits to leaking hashed passwords for five years</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 08, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2022/08/class-action-targets-experian-over-account-security/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/08/exp-ca.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/pretty-good-phone-privacy-android/" target="_blank"> \
+<img src="https://media.wired.com/photos/62e4690aa524e4ef61bb692a/master/pass/A-Carrier-That-Doesn't-See-Your-Browsing-or-Where-You-Are-Security-GettyImages-966479188.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Class Action Targets Experian Over Account Security</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 06, 2022</p> \
+<h2>A Phone Carrier That Doesn’t Track Your Browsing or Location</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 08, 2022</p> \
 </div> \
 </a> \
 </div> \
