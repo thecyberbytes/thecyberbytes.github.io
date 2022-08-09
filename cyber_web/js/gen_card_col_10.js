@@ -2,22 +2,22 @@ document.write(' \
 <div class="container-fluid border border-dark border-0 p-0 m-0 align-items-center justify-content-between"> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/no-human-at-wheel-baidu-secures-fully-driverless-robotaxi-license-in-china/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/baidu_car.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://nakedsecurity.sophos.com/2022/08/08/slack-admits-to-leaking-hashed-passwords-for-three-months/" target="_blank" style="text-decoration:none"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/slk-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 08, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">No human at wheel: Baidu secures fully driverless robotaxi license in China</h2> \
+<h2 class="card-link text-dark font-weight-bold my-3">Slack admits to leaking hashed passwords for five years</h2> \
 </div> \
 </a> \
 </div> \
 </div> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/german-chambers-of-industry-and-commerce-hit-by-a-massive-cyberattack/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/systemhackedsigndihk.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/pretty-good-phone-privacy-android/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/62e4690aa524e4ef61bb692a/master/pass/A-Carrier-That-Doesn't-See-Your-Browsing-or-Where-You-Are-Security-GettyImages-966479188.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 08, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">German Chambers of Industry and Commerce hit by a massive cyberattack</h2> \
+<h2 class="card-link text-dark font-weight-bold my-3">A Phone Carrier That Doesn’t Track Your Browsing or Location</h2> \
 </div> \
 </a> \
 </div> \
