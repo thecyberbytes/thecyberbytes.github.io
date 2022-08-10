@@ -21,7 +21,7 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/german-semiconductor-maker-semikron-hit-by-cyberattack/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/league-of-legends-players-targeted-with-file-locking-malware/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
 <h6 class="card-link text-dark font-weight-bold my-3">German semiconductor maker Semikron hit by cyberattack</h6> \
 </div> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/reddit-awards-hero-hacker-10k-bounty/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/08/microsoft-patch-tuesday-august-2022-edition/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Nomad: a flaw outlined by the audit firm is not related to a recent hack</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, August 2022 Edition</h6> \
 </div> \
 </a> \
 </li> \

@@ -2,22 +2,22 @@ document.write(' \
 <div class="container-fluid border border-dark border-0 p-0 m-0 align-items-center justify-content-between"> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/reddit-awards-hero-hacker-10k-bounty/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/RedditRedditReddit.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/" target="_blank" style="text-decoration:none"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/08/rideawaits.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 03, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">Reddit awards hero hacker $10k bounty</h2> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 04, 2022</span></small> \
+<h2 class="card-link text-dark font-weight-bold my-3">Scammers Sent Uber to Take Elderly Lady to the Bank</h2> \
 </div> \
 </a> \
 </div> \
 </div> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/uk-to-invest-6m-in-quantum-computing/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/atominaneye.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://nakedsecurity.sophos.com/2022/08/04/github-blighted-by-researcher-who-created-thousands-of-malicious-projects/" target="_blank" style="text-decoration:none"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/ppcp-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 03, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">Reddit awards hero hacker $10k bounty</h2> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 04, 2022</span></small> \
+<h2 class="card-link text-dark font-weight-bold my-3">GitHub blighted by “researcher” who created thousands of malicious projects</h2> \
 </div> \
 </a> \
 </div> \
