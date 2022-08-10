@@ -7,37 +7,37 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/virtual-currency-platform-tornado-cash-accused-of-aiding-apts/180367/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/ofrak-iot-reverse-engineering-tool/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Virtual Currency Platform ‘Tornado Cash’ Accused of Aiding APTs</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">A Long-Awaited IoT Reverse Engineering Tool Is Finally Here</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/north-korean-hackers-use-fake-coinbase-job-ads-to-lure-crypto-buffs/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Sensitive records of over 280m Indian citizens exposed</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Russian threat group targets online vendors in Singapore</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/league-of-legends-players-targeted-with-file-locking-malware/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/cloudflare-targeted-by-a-sophisticated-phishing-attack/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">German semiconductor maker Semikron hit by cyberattack</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Cloudflare targeted by a sophisticated phishing attack</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/ransomware-gang-says-it-hit-luxembourgs-energy-supplier/" target="_blank" style="text-decoration:none"> \
+<a href="https://cybernews.com/news/metas-new-ai-chatbot-exposes-anti-semite-homophobic-views/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Ransomware gang says it hit Luxembourg’s energy supplier</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">British architecture firm suffers a ransomware attack</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/08/microsoft-patch-tuesday-august-2022-edition/" target="_blank" style="text-decoration:none"> \
+<a href="https://threatpost.com/microsoft-patches-dogwalk-zero-day-and-17-critical-flaws/180378/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, August 2022 Edition</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patches ‘Dogwalk’ Zero-Day and 17 Critical Flaws</h6> \
 </div> \
 </a> \
 </li> \

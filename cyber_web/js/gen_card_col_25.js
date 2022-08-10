@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/nomad-knew-of-a-flaw-resulting-in-a-190m-heist-two-months-beforehand-report/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/cryptocoinnomadhack.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.welivesecurity.com/2022/08/04/protect-yourself-scammers-tinder-dating-app/" target="_blank" style="text-decoration:none"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/wls_tinder-scams_1000x667.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Vulnerability</span> <span class="mx-1">&bullet;</span> <span>August 03, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Nomad knew of a flaw resulting in a $190m heist two months beforehand - report</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 04, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Don’t get singed by scammers while you’re carrying the torch for Tinder</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://threatpost.com/vmware-patch-critical-bug/180346/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2016/11/06232507/vmware-patch.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/iran-cyberattack-albania/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/62ec1b9d08728a31e5d3d1d0/master/pass/Attack-on-Albanian-Government-Security-GettyImages-1132369974.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 03, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">VMWare Urges Users to Patch Critical Authentication Bypass Bug</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 04, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">An Attack on Albanian Government Suggests New Iranian Aggression</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/reddit-awards-hero-hacker-10k-bounty/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/RedditRedditReddit.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://cybernews.com/news/winamp-is-back-after-revamp-nostalgia-inducing-looks-intact/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/winamp.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 03, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Reddit awards hero hacker $10k bounty</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 04, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Winamp is back after revamp; nostalgia-inducing looks intact</h5> \
 </div> \
 </a> \
 </div> \

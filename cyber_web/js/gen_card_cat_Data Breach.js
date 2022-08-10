@@ -1,5 +1,17 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Classified.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" target="_blank"> Russian threat group targets online vendors in Singapore </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 09, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/north-korean-hackers-use-fake-coinbase-job-ads-to-lure-crypto-buffs/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.cybernews.com/images/thumbnail/2022/08/coinbase-logo-app.png" alt="" class="img-fluid"> \
 </a> \
@@ -12,12 +24,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/ring-doorbell-camera-amazon-privacy/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62ec3110e450f63c28dddee6/master/pass/Ring-Doorbell-Camera-Data-Security-shutterstock_1205704129.jpg" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/07/06100249/email-3249062_1280.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/ring-doorbell-camera-amazon-privacy/" target="_blank"> All the Data Amazon\'s Ring Cameras Collect About You </a> \
+<a href="https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/" target="_blank"> Open Redirect Flaw Snags Amex, Snapchat User Data </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 05, 2022</span></small> \
@@ -36,12 +48,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/07/06100249/email-3249062_1280.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/ring-doorbell-camera-amazon-privacy/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62ec3110e450f63c28dddee6/master/pass/Ring-Doorbell-Camera-Data-Security-shutterstock_1205704129.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/" target="_blank"> Open Redirect Flaw Snags Amex, Snapchat User Data </a> \
+<a href="https://www.wired.com/story/ring-doorbell-camera-amazon-privacy/" target="_blank"> All the Data Amazon\'s Ring Cameras Collect About You </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 05, 2022</span></small> \
@@ -84,12 +96,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/cyberattack-on-radiation-alert-system-ends-with-double-arrest/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Spain-nuclear-power.png" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/07/s5now.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/cyberattack-on-radiation-alert-system-ends-with-double-arrest/" target="_blank"> Russia fines Snapchat owner for data law breach </a> \
+<a href="https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/" target="_blank"> 911 Proxy Service Implodes After Disclosing Breach </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 29, 2022</span></small> \
@@ -108,27 +120,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/07/s5now.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/cyberattack-on-radiation-alert-system-ends-with-double-arrest/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Spain-nuclear-power.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/" target="_blank"> 911 Proxy Service Implodes After Disclosing Breach </a> \
+<a href="https://cybernews.com/news/cyberattack-on-radiation-alert-system-ends-with-double-arrest/" target="_blank"> Russia fines Snapchat owner for data law breach </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 29, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/28/s3-ep93-office-security-breach-costs-and-leisurely-patches-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/s3-ep93-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/28/s3-ep93-office-security-breach-costs-and-leisurely-patches-audio-text/" target="_blank"> S3 Ep93: Office security, breach costs, and leisurely patches [Audio + Text] </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 28, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -138,6 +138,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://krebsonsecurity.com/2022/07/breach-exposes-users-of-microleaves-proxy-service/" target="_blank"> Breach Exposes Users of Microleaves Proxy Service </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 28, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/07/28/s3-ep93-office-security-breach-costs-and-leisurely-patches-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/s3-ep93-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/07/28/s3-ep93-office-security-breach-costs-and-leisurely-patches-audio-text/" target="_blank"> S3 Ep93: Office security, breach costs, and leisurely patches [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 28, 2022</span></small> \
