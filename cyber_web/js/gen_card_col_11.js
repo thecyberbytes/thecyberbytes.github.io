@@ -2,22 +2,22 @@ document.write(' \
 <div class="container-fluid border border-dark border-0 p-0 m-0 align-items-center justify-content-between"> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://threatpost.com/virtual-currency-platform-tornado-cash-accused-of-aiding-apts/180367/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/08/11103228/crypto-hack.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://nakedsecurity.sophos.com/2022/08/11/s3-ep95-slack-leak-github-onslaught-and-post-quantum-crypto-audio-text/" target="_blank" style="text-decoration:none"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/schroe-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 09, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">Virtual Currency Platform ‘Tornado Cash’ Accused of Aiding APTs</h2> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 11, 2022</span></small> \
+<h2 class="card-link text-dark font-weight-bold my-3">S3 Ep95: Slack leak, Github onslaught, and post-quantum crypto [Audio + Text]</h2> \
 </div> \
 </a> \
 </div> \
 </div> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2022/08/09/howto-check-hacked-pc/" target="_blank" style="text-decoration:none"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/hack-1080x1080-e1659649293308.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://threatpost.com/cisco-network-breach-google/180385/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/06/20102756/cisco-patch.png" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 09, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">How to check if your PC has been hacked, and what to do next</h2> \
+<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>August 11, 2022</span></small> \
+<h2 class="card-link text-dark font-weight-bold my-3">Cisco Confirms Network Breach Via Hacked Employee Google Account</h2> \
 </div> \
 </a> \
 </div> \
