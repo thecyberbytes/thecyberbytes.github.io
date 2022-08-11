@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ofrak-iot-reverse-engineering-tool/" target="_blank" style="text-decoration:none"> \
+<a href="https://threatpost.com/inside-hackers-toolkit/180360/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">A Long-Awaited IoT Reverse Engineering Tool Is Finally Here</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Podcast: Inside the Hackers’ Toolkit</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/cloudflare-targeted-by-a-sophisticated-phishing-attack/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/android-red-team-pixel-6/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Cloudflare targeted by a sophisticated phishing attack</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Google\'s Android Red Team Had a Full Pixel 6 Pwn Before Launch</h6> \
 </div> \
 </a> \
 </li> \
