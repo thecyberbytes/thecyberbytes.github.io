@@ -14,9 +14,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/cisco-network-breach-google/180385/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/08/it-might-be-our-data-but-its-not-our-breach/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Cisco Confirms Network Breach Via Hacked Employee Google Account</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">It Might Be Our Data, But It’s Not Our Breach</h6> \
 </div> \
 </a> \
 </li> \
