@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2022/08/11/building-trust-zero-trust-channelcon/" target="_blank" style="text-decoration:none"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1958585461-thumb.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://cybernews.com/news/ftc-zeroes-in-on-big-tech-with-public-consultation/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/FTCHQ_1.png" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 11, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">An eighties classic – Zero Trust</h5> \
+<small class="text-uppercase font-weight-bold"><span>Ransomware</span> <span class="mx-1">&bullet;</span> <span>August 12, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Zeppelin ransom gang executes malware multiple times within a victim’s network</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/public-healthcare-service-in-uk-hit-by-ransomware/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/HospitalAnE.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://cybernews.com/news/zeppelin-ransom-gang-executes-malware-multiple-times-within-a-victims-network/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/ransomencryptedfilesnote.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 11, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Public healthcare service in UK hit by ransomware</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 12, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Study reveals AI prediction model that could help save firefighter lives</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://threatpost.com/pro-ukraine-forum/180387/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/12/07083811/data-dump.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://cybernews.com/news/study-reveals-ai-prediction-model-that-could-help-save-firefighter-lives/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Flashover.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Hacking</span> <span class="mx-1">&bullet;</span> <span>August 11, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">New Hacker Forum Takes Pro-Ukraine Stance</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 12, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Boston crook jailed for scamming elderly online</h5> \
 </div> \
 </a> \
 </div> \

@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://threatpost.com/starlink-hack/180389/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2022/08/12/black-hat-2022-cyberdefense-ukraine/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Starlink Successfully Hacked Using $25 Modchip</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Black Hat 2022‑ Cyberdefense in a global threats era</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/conti-group-ransomware-members-reward-target/" target="_blank" style="text-decoration:none"> \
+<a href="https://threatpost.com/zeppelin-ransomware-resurfaces/180405/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The US Offers a $10M Bounty for Intel on Conti Ransomware Gang</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Feds: Zeppelin Ransomware Resurfaces with New Compromise, Encryption Tactics</h6> \
 </div> \
 </a> \
 </li> \
