@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2022/08/12/black-hat-2022-cyberdefense-ukraine/" target="_blank" style="text-decoration:none"> \
+<a href="https://threatpost.com/facebook-ios-tracks-anything/180395/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Black Hat 2022‑ Cyberdefense in a global threats era</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Facebook’s In-app Browser on iOS Tracks ‘Anything You Do on Any Website’</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/08/it-might-be-our-data-but-its-not-our-breach/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/videos/data-breach-romance-scams-week-in-security-with-tony-anscombe/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">It Might Be Our Data, But It’s Not Our Breach</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The potential consequences of data breach, and romance scams – Week in security with Tony Anscombe</h6> \
 </div> \
 </a> \
 </li> \
