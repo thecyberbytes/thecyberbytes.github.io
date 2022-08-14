@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ftc-privacy-crackdown-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Feds Gear Up for a Privacy Crackdown</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">A New Tractor Jailbreak Rides the Right-to-Repair Wave</h6> \
 </div> \
 </a> \
 </li> \
