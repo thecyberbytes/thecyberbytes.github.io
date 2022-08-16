@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/08/sounding-the-alarm-on-emergency-alert-system-flaws/" target="_blank" style="text-decoration:none"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/08/das-eas.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.welivesecurity.com/videos/data-breach-romance-scams-week-in-security-with-tony-anscombe/" target="_blank" style="text-decoration:none"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/ESET_welivesecurity_square_6_12_August-e1660321006126.jpg" class="card-img-top img-fluid" alt="..."> \
+<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
+<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>August 12, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">The potential consequences of data breach, and romance scams – Week in security with Tony Anscombe</h5> \
+</div> \
+</a> \
+</div> \
+<div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
+<a href="https://www.welivesecurity.com/2022/08/12/safety-first-how-to-tweak-the-settings-on-your-dating-apps/" target="_blank" style="text-decoration:none"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1850354170-1-e1660262759567.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
 <small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 12, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Sounding the Alarm on Emergency Alert System Flaws</h5> \
+<h5 class="card-link text-dark font-weight-bold my-3">Safety first: how to tweak the settings on your dating apps</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://threatpost.com/zeppelin-ransomware-resurfaces/180405/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/09/09162237/zeppelin-e1599682968641.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://cybernews.com/news/study-reveals-ai-prediction-model-that-could-help-save-firefighter-lives/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Flashover.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Ransomware</span> <span class="mx-1">&bullet;</span> <span>August 12, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Feds: Zeppelin Ransomware Resurfaces with New Compromise, Encryption Tactics</h5> \
-</div> \
-</a> \
-</div> \
-<div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://threatpost.com/cisco-network-breach-google/180385/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/06/20102756/cisco-patch.png" class="card-img-top img-fluid" alt="..."> \
-<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>August 11, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Cisco Confirms Network Breach Via Hacked Employee Google Account</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 12, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Boston crook jailed for scamming elderly online</h5> \
 </div> \
 </a> \
 </div> \
