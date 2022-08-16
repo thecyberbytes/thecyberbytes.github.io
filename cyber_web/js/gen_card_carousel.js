@@ -18,20 +18,20 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/how-to-create-secure-folder-phone/" target="_blank"> \
-<img src="https://media.wired.com/photos/62f6b1ad23d2b53441872efe/master/pass/Locked-Folder-Phone-Security-GettyImages-911065982.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/2022/08/15/black-hat-2022-burnout-significant-issue/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1434785840.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>How to Create a Secure Folder on Your Phone</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 14, 2022</p> \
+<h2>Black Hat USA 2022: Burnout, a significant issue</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 15, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/" target="_blank"> \
-<img src="https://media.wired.com/photos/62f6aa031037f5e51b672927/master/pass/John-Deere-Security-2JKP8MA.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/2022/08/15/black-hat-cloud-hacking-casualty-platform/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_495781054.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>A New Tractor Jailbreak Rides the Right-to-Repair Wave</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 14, 2022</p> \
+<h2>Black Hat – Windows isn’t the only mass casualty platform anymore</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 15, 2022</p> \
 </div> \
 </a> \
 </div> \
