@@ -36,24 +36,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/cisco-network-breach-google/180385/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/06/20102756/cisco-patch.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/cisco-network-breach-google/180385/" target="_blank"> Cisco Confirms Network Breach Via Hacked Employee Google Account </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2022/08/it-might-be-our-data-but-its-not-our-breach/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2022/08/mysterydb.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://krebsonsecurity.com/2022/08/it-might-be-our-data-but-its-not-our-breach/" target="_blank"> It Might Be Our Data, But It’s Not Our Breach </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 11, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://threatpost.com/cisco-network-breach-google/180385/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/06/20102756/cisco-patch.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://threatpost.com/cisco-network-breach-google/180385/" target="_blank"> Cisco Confirms Network Breach Via Hacked Employee Google Account </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 11, 2022</span></small> \
@@ -96,12 +96,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/07/06100249/email-3249062_1280.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/India-hacker-data.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/" target="_blank"> Open Redirect Flaw Snags Amex, Snapchat User Data </a> \
+<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" target="_blank"> Sensitive records of over 280m Indian citizens exposed </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 05, 2022</span></small> \
@@ -120,12 +120,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/India-hacker-data.png" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/07/06100249/email-3249062_1280.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" target="_blank"> Sensitive records of over 280m Indian citizens exposed </a> \
+<a href="https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/" target="_blank"> Open Redirect Flaw Snags Amex, Snapchat User Data </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 05, 2022</span></small> \
@@ -144,24 +144,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/MBDA-missile-breach2.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" target="_blank"> Missile maker MBDA denies being hacked, admits to data loss </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 02, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/11-people-charged-in-a-massive-ponzi-pyramid-scheme/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_2155625321.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://cybernews.com/news/11-people-charged-in-a-massive-ponzi-pyramid-scheme/" target="_blank"> Missile maker MBDA denies being hacked, admits to data loss </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 02, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/MBDA-missile-breach2.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" target="_blank"> Missile maker MBDA denies being hacked, admits to data loss </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 02, 2022</span></small> \
@@ -180,24 +180,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/attackers-exploit-atlassians-hard-coded-password-bug/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Atlassian-Confluence-Exploit.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/attackers-exploit-atlassians-hard-coded-password-bug/" target="_blank"> US probing federal court records system breach </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 29, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/cyberattack-on-radiation-alert-system-ends-with-double-arrest/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.cybernews.com/images/thumbnail/2022/07/Spain-nuclear-power.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://cybernews.com/news/cyberattack-on-radiation-alert-system-ends-with-double-arrest/" target="_blank"> Russia fines Snapchat owner for data law breach </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 29, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/attackers-exploit-atlassians-hard-coded-password-bug/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Atlassian-Confluence-Exploit.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/attackers-exploit-atlassians-hard-coded-password-bug/" target="_blank"> US probing federal court records system breach </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 29, 2022</span></small> \

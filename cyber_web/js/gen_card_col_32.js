@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/zeppelin-ransom-gang-executes-malware-multiple-times-within-a-victims-network/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/ransomencryptedfilesnote.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.welivesecurity.com/2022/08/15/black-hat-2022-burnout-significant-issue/" target="_blank" style="text-decoration:none"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1434785840.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 12, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Study reveals AI prediction model that could help save firefighter lives</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 15, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Black Hat USA 2022: Burnout, a significant issue</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/ftc-zeroes-in-on-big-tech-with-public-consultation/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/FTCHQ_1.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/62f6aa031037f5e51b672927/master/pass/John-Deere-Security-2JKP8MA.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Ransomware</span> <span class="mx-1">&bullet;</span> <span>August 12, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Zeppelin ransom gang executes malware multiple times within a victim’s network</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 14, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">A New Tractor Jailbreak Rides the Right-to-Repair Wave</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/us-unmasks-conti-suspect-for-first-time-asks-public-help-to-identify-him/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/AmericanJusticesSystem.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/how-to-create-secure-folder-phone/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/62f6b1ad23d2b53441872efe/master/pass/Locked-Folder-Phone-Security-GettyImages-911065982.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 12, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Meta failing to stamp out cyberbullying, says report</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 14, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">How to Create a Secure Folder on Your Phone</h5> \
 </div> \
 </a> \
 </div> \
