@@ -18,19 +18,19 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://cybernews.com/news/mailchimp-admits-to-being-hijacked/" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/MailChimpistheGimp.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://cybernews.com/news/bruce-lee-to-get-an-address-in-the-metaverse/" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/bruce_lee.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>UK water supplier with over a million customers hit by cyberattack</h2> \
+<h2>Russian cyber-espionage gang targets NATO, NGOs, and think tanks – Microsoft</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 17, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://cybernews.com/news/redwire-developing-first-commercial-space-greenhouse/" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/ISS.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://cybernews.com/news/mailchimp-admits-to-being-hijacked/" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/MailChimpistheGimp.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Mailchimp admits to being hijacked</h2> \
+<h2>UK water supplier with over a million customers hit by cyberattack</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 17, 2022</p> \
 </div> \
 </a> \
