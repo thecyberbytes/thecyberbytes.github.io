@@ -1,37 +1,37 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/07/31115247/chrome_patch.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/19112256/always-update-safari-on-iphone-featured.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Google Patches Chrome’s Fifth Zero-Day of the Year</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 18, 2022</p> \
+<h2>iPhone Users Urged to Update to Patch 2 Zero-Days</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 19, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/" target="_blank"> \
-<img src="https://media.wired.com/photos/62f413c41037f5e51b672909/master/pass/macOS_Sec_GettyImages-1401408918-(1).jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://cybernews.com/news/ee-claims-to-block-one-million-scam-calls-daily/" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_1147243904.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Spyware Hunters Are Expanding Their Toolset</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 18, 2022</p> \
+<h2>EE claims to block one million scam calls daily</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 19, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/pentagon-data-profit-freedom-information-of-information-act/" target="_blank"> \
-<img src="https://media.wired.com/photos/62fbd2c8922c62d7df489f6a/master/pass/1.%20The%20Poseys%20vs%20the%20Pentagon%20-Web%20Hero%202400%20x%201600%20v2.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://cybernews.com/news/google-blocks-record-ddos-attack-46-million-requests-per-second/" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/GooglethwartsrecordDDoSattack.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>The Family That Mined the Pentagon\'s Data for Profit</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 18, 2022</p> \
+<h2>Google blocks a record DDoS attack of 46 million requests per second</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 19, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2022/08/18/apple-patches-double-zero-day-in-browser-and-kernel-update-now/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/apple-ios-vpn-data-leak/" target="_blank"> \
+<img src="https://media.wired.com/photos/62fedab1ffbf585589d594cc/master/pass/iOS-VPN-Security-GettyImages-964895234.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Apple patches double zero-day in browser and kernel – update now!</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 18, 2022</p> \
+<h2>iOS Can Stop VPNs From Working as Expected—and Expose Your Data</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 19, 2022</p> \
 </div> \
 </a> \
 </div> \
