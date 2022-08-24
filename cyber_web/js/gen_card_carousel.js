@@ -18,20 +18,20 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://cybernews.com/news/lockbit-hit-by-ddos-after-entrust-hack/" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/Entrustdatacardlogo.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/mudge-twitter-whistleblower-security/" target="_blank"> \
+<img src="https://media.wired.com/photos/63050c6235e945940dec1c8e/master/pass/Twitter-Whistleblower-Business-GettyImages-1236173576.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>LockBit hit by DDoS after Entrust hack</h2> \
+<h2>The Most Damning Allegation in the Twitter Whistleblower’s Report</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 23, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://cybernews.com/news/viasat-hack-impacted-french-critical-services/" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Ambulancecarinfrance.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://cybernews.com/news/lockbit-hit-by-ddos-after-entrust-hack/" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/Entrustdatacardlogo.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>VIASAT hack impacted French critical services</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 22, 2022</p> \
+<h2>LockBit hit by DDoS after Entrust hack</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 23, 2022</p> \
 </div> \
 </a> \
 </div> \

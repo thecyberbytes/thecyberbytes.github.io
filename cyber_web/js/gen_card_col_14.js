@@ -2,22 +2,22 @@ document.write(' \
 <div class="container-fluid border border-dark border-0 p-0 m-0 align-items-center justify-content-between"> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/18/apple-patches-double-zero-day-in-browser-and-kernel-update-now/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/62f413c41037f5e51b672909/master/pass/macOS_Sec_GettyImages-1401408918-(1).jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 18, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">Apple patches double zero-day in browser and kernel – update now!</h2> \
+<h2 class="card-link text-dark font-weight-bold my-3">Spyware Hunters Are Expanding Their Tool Set</h2> \
 </div> \
 </a> \
 </div> \
 </div> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/62f413c41037f5e51b672909/master/pass/macOS_Sec_GettyImages-1401408918-(1).jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/signal-tips-private-messaging-encryption/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/5ed96cccb63c1cc1a08d94be/master/pass/Security_signal_813099398.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 18, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">Spyware Hunters Are Expanding Their Tool Set</h2> \
+<h2 class="card-link text-dark font-weight-bold my-3">How to Use Signal Encrypted Messaging</h2> \
 </div> \
 </a> \
 </div> \
