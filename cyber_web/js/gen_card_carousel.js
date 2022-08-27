@@ -9,6 +9,15 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
+<a href="https://www.welivesecurity.com/videos/french-hospital-cyberattack-week-security-tony-anscombe/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/0-10.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>French hospital crippled by cyberattack – Week in security with Tony Anscombe</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 26, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://cybernews.com/news/twitter-to-roll-out-podcasts/" target="_blank"> \
 <img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_666017836.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -22,15 +31,6 @@ document.write(' \
 <img src="https://media.cybernews.com/images/featured/2022/08/doordash.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>DoorDash customer and driver information exposed in data breach</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 26, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://cybernews.com/news/lastpass-confirms-breach/" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/lastpassadmitsbreach.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>LastPass confirms breach</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 26, 2022</p> \
 </div> \
 </a> \
