@@ -1,18 +1,18 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/12/24125329/Ransomware_700_420.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/us-propaganda-russia-china-memes-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/630940a4f89e2120665180ef/master/pass/Russia-China-Propaganda-Attacks-Security-GettyImages-1399591352.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Ransomware Attacks are on the Rise</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 26, 2022</p> \
+<h2>A US Propaganda Operation Hit Russia and China With Memes</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 27, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/videos/french-hospital-cyberattack-week-security-tony-anscombe/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/0-10.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/twilio-breach-phishing-supply-chain-attacks/" target="_blank"> \
+<img src="https://media.wired.com/photos/630921ccf64c675d6d1a5056/master/pass/Twilio-Hack-Security-GettyImages-1281229452.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>French hospital crippled by cyberattack – Week in security with Tony Anscombe</h2> \
+<h2>Why the Twilio Breach Cuts So Deep</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 26, 2022</p> \
 </div> \
 </a> \
