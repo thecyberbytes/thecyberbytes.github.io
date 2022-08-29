@@ -1,37 +1,37 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/us-propaganda-russia-china-memes-security-roundup/" target="_blank"> \
-<img src="https://media.wired.com/photos/630940a4f89e2120665180ef/master/pass/Russia-China-Propaganda-Attacks-Security-GettyImages-1399591352.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://threatpost.com/0ktapus-victimize-130-firms/180487/" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2020/06/02111030/octopus-e1591110643368.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>A US Propaganda Operation Hit Russia and China With Memes</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 27, 2022</p> \
+<h2>Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 29, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/twilio-breach-phishing-supply-chain-attacks/" target="_blank"> \
-<img src="https://media.wired.com/photos/630921ccf64c675d6d1a5056/master/pass/Twilio-Hack-Security-GettyImages-1281229452.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/february-morning-russia-ukraine-war/" target="_blank"> \
+<img src="https://media.wired.com/photos/6303eb981814a994d3a6340b/master/pass/Telegram-Russian-Forces-Security-AP_22173448993355.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Why the Twilio Breach Cuts So Deep</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 26, 2022</p> \
+<h2>The Telegram-Powered News Outlet Waging Guerrilla War on Russia</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 29, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://cybernews.com/news/twitter-to-roll-out-podcasts/" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_666017836.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://cybernews.com/news/jack-dorseys-company-block-sued-over-security-breach/" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/Square-Block-Dorsey.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Twitter to roll out podcasts</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 26, 2022</p> \
+<h2>Jack Dorsey’s company Block sued over security breach</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 29, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://cybernews.com/news/doordash-customer-and-driver-information-exposed-in-data-breach/" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/doordash.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://cybernews.com/news/italian-firm-accused-of-running-pegasus-style-spyware/" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/RCSLabHack.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>DoorDash customer and driver information exposed in data breach</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 26, 2022</p> \
+<h2>Akasa Air confirms the company was breached</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">August 29, 2022</p> \
 </div> \
 </a> \
 </div> \

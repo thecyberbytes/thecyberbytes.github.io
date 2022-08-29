@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2022/08/23/personal-data-all-over-internet-7-steps-cleaning-up-online-presence/" target="_blank" style="text-decoration:none"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/clean-up-digital-footprint-1.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/remote-testing-student-room-scans-privacy/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/6306b01a35e945940dec1d27/master/pass/Students-Remote-Scans-Security-GettyImages-1262169826.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>August 23, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Is your personal data all over the internet? 7 steps to cleaning up your online presence</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 25, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Scans of Students’ Homes During Tests Are Deemed Unconstitutional</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/lockbit-hit-by-ddos-after-entrust-hack/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Entrustdatacardlogo.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://nakedsecurity.sophos.com/2022/08/25/s3-ep97-did-your-iphone-get-pwned-how-would-you-know-audio-text/" target="_blank" style="text-decoration:none"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/iph-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>August 23, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Hackers post data dump from UK water company cyberattack, says Twitter pundit</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 25, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">S3 Ep97: Did your iPhone get pwned? How would you know? [Audio + Text]</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://cybernews.com/news/microsoft-and-google-email-accounts-targeted-by-iran-threat-actor-says-analyst/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/06/Microsoft-Logo-Reuters.JPG" class="card-img-top img-fluid" alt="..."> \
+<a href="https://nakedsecurity.sophos.com/2022/08/24/breaching-airgap-security-using-your-phones-compass-as-a-microphone/" target="_blank" style="text-decoration:none"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/sig-1200.png.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 23, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">One-third of American parents think TikTok should be banned in the US</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>August 24, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Breaching airgap security: using your phone’s compass as a microphone!</h5> \
 </div> \
 </a> \
 </div> \
