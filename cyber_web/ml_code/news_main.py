@@ -164,11 +164,12 @@ def generate_carousel(df, start, end):
         item_status = "active"
 
       lines.append('<div class="carousel-item ' + item_status + '"> \\\n')
-      lines.append('<a href="' + df['URL'][i] + '" target="_blank"> \\\n')
-      lines.append('<img src="' + df['Image'][i] + '" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \\\n')
+      lines.append('<a href="' + df.iloc[i]['URL'] + '" target="_blank"> \\\n')
+      lines.append('<img src="' + df.iloc[i]['Image'] + '" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \\\n')
       lines.append('<div class="carousel-caption"> \\\n')
-      lines.append('<h2>' + df['Title'][i] + '</h2> \\\n')
-      lines.append('<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">' + df['Date Created'][i] + '</p> \\\n')
+      lines.append('<h2>' + df.iloc[i]['Title'] + '</h2> \\\n')
+      lines.append('<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">' 
+                   + df.iloc[i]['Date Created'] + '</p> \\\n')
       lines.append('</div> \\\n')
       lines.append('</a> \\\n')
       lines.append('</div> \\\n')
@@ -189,11 +190,12 @@ def generate_card_col_1(df, start, end, file_name):
       print(f"Generating card column one--> {i}")
       lines.append('<div> \\\n')
       lines.append('<div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \\\n')
-      lines.append('<a href="' + df['URL'][i] + '" target="_blank" style="text-decoration:none"> \\\n')
-      lines.append('<img src="' + df['Image'][i] + '" class="card-img-top img-fluid" alt="..."> \\\n')
+      lines.append('<a href="' + df.iloc[i]['URL'] + '" target="_blank" style="text-decoration:none"> \\\n')
+      lines.append('<img src="' + df.iloc[i]['Image'] + '" class="card-img-top img-fluid" alt="..."> \\\n')
       lines.append('<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \\\n')
-      lines.append('<small class="text-uppercase font-weight-bold"><span>' + df['Category'][i] + '</span> <span class="mx-1">&bullet;</span> <span>' + df['Date Created'][i] + '</span></small> \\\n')
-      lines.append('<h2 class="card-link text-dark font-weight-bold my-3">' + df['Title'][i] + '</h2> \\\n')
+      lines.append('<small class="text-uppercase font-weight-bold"><span>' + df.iloc[i]['Category'] 
+                   + '</span> <span class="mx-1">&bullet;</span> <span>' + df.iloc[i]['Date Created'] + '</span></small> \\\n')
+      lines.append('<h2 class="card-link text-dark font-weight-bold my-3">' + df.iloc[i]['Title'] + '</h2> \\\n')
       lines.append('</div> \\\n')
       lines.append('</a> \\\n')
       lines.append('</div> \\\n')
@@ -213,11 +215,13 @@ def generate_card_col_2_and_3(df, start, end, file_name):
     for i in range(start, end):
       print(f"Generating card column two and three--> {i}")
       lines.append('<div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \\\n')
-      lines.append('<a href="' + df['URL'][i] + '" target="_blank" style="text-decoration:none"> \\\n')
-      lines.append('<img src="' + df['Image'][i] + '" class="card-img-top img-fluid" alt="..."> \\\n')
+      lines.append('<a href="' + df.iloc[i]['URL'] + '" target="_blank" style="text-decoration:none"> \\\n')
+      lines.append('<img src="' + df.iloc[i]['Image'] + '" class="card-img-top img-fluid" alt="..."> \\\n')
       lines.append('<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \\\n')
-      lines.append('<small class="text-uppercase font-weight-bold"><span>' + df['Category'][i] + '</span> <span class="mx-1">&bullet;</span> <span>' + df['Date Created'][i] + '</span></small> \\\n')
-      lines.append('<h5 class="card-link text-dark font-weight-bold my-3">' + df['Title'][i] + '</h5> \\\n')
+      lines.append('<small class="text-uppercase font-weight-bold"><span>' + df.iloc[i]['Category'] 
+                   + '</span> <span class="mx-1">&bullet;</span> <span>' + df.iloc[i]['Date Created'] 
+                   + '</span></small> \\\n')
+      lines.append('<h5 class="card-link text-dark font-weight-bold my-3">' + df.iloc[i]['Title'] + '</h5> \\\n')
       lines.append('</div> \\\n')
       lines.append('</a> \\\n')
       lines.append('</div> \\\n')
