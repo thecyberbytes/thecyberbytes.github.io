@@ -307,11 +307,11 @@ def gen_feed_file(file_name, blog_file):
     print(f"Done pulling data.")
     print(news_df.shape)
         
-    URL = "https://cybernews.com/news/"
-    print(f"Pulling data from {URL}...")
-    news_df = pull_cybernews_data(pull_data(URL), news_df)
-    print(f"Done pulling data.")
-    print(news_df.shape)
+    #URL = "https://cybernews.com/news/"
+    #print(f"Pulling data from {URL}...")
+    #news_df = pull_cybernews_data(pull_data(URL), news_df)
+    #print(f"Done pulling data.")
+    #print(news_df.shape)
 
     news_df.to_excel(file_name, index=False)
     
