@@ -2,14 +2,14 @@ document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://nakedsecurity.sophos.com/2022/08/15/zoom-for-mac-patches-get-root-bug-update-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Zoom for Mac patches get-root bug – update now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Zoom for Mac patches critical bug – update now!</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/apple-ios-16-safety-check-lockdown-mode/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/whistleblower-safety-mudge-twitter-senate-hearing/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">iOS 16 Has 2 New Security Features for Worst-Case Scenarios</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How Whistleblowers Navigate a Security Minefield</h6> \
 </div> \
 </a> \
 </li> \
