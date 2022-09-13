@@ -13,11 +13,11 @@ document.write(' \
 </div> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/05/chrome-fixes-zero-day-security-hole-reported-anonymously-update-now/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/ce-1200-1.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/tiktok-nationa-security-threat-why/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/631253e1ba2a66af641b1326/master/pass/security-tik-tok.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 05, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">Chrome and Edge fix zero-day security hole – update now!</h2> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 06, 2022</span></small> \
+<h2 class="card-link text-dark font-weight-bold my-3">It’s Time to Get Real About TikTok’s Risks</h2> \
 </div> \
 </a> \
 </div> \
