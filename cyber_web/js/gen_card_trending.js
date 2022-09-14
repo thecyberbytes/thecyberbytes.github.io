@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/whistleblower-safety-mudge-twitter-senate-hearing/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/13/serious-security-browser-in-the-browser-attacks-watch-out-for-windows-that-arent/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">How Whistleblowers Navigate a Security Minefield</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Serious Security: Browser-in-the-browser attacks – watch out for windows that aren’t!</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/04/peter-eckersley-co-creator-of-lets-encrypt-dies-at-just-43/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/09/wormable-flaw-0days-lead-sept-2022-patch-tuesday/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Peter Eckersley, co-creator of Let’s Encrypt, dies at just 43</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Wormable Flaw, 0days Lead Sept. 2022 Patch Tuesday</h6> \
 </div> \
 </a> \
 </li> \
