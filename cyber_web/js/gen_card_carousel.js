@@ -9,29 +9,29 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2022/09/wormable-flaw-0days-lead-sept-2022-patch-tuesday/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/09/computerguys.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2022/09/say-hello-to-crazy-thin-deep-insert-atm-skimmers/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/09/nyinsertskimmer.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Wormable Flaw, 0days Lead Sept. 2022 Patch Tuesday</h2> \
+<h2>Say Hello to Crazy Thin ‘Deep Insert’ ATM Skimmers</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 14, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2022/09/13/why-is-my-wifi-slow-how-make-it-faster/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/wifi-speed-faster.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/2022/09/14/you-never-walk-alone-sidewalk-backdoor-linux-variant/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/sidewalk-sparklinggoblin-malware-linux.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Why is my Wi‑Fi slow and how do I make it faster?</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 13, 2022</p> \
+<h2>You never walk alone: The SideWalk backdoor gets a Linux variant</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 14, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2022/09/13/serious-security-browser-in-the-browser-attacks-watch-out-for-windows-that-arent/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/pipe-light-not-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/peiter-mudge-zatko-twitter-senate-judiciary-testimony/" target="_blank"> \
+<img src="https://media.wired.com/photos/632115df20bc56769c4130e7/master/pass/Congress's%20takeaways%20from%20the%20Twitter%20whistleblower%20hearing-GettyImages-1423404059.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Serious Security: Browser-in-the-browser attacks – watch out for windows that aren’t!</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 13, 2022</p> \
+<h2>The Twitter Whistleblower’s Testimony Has Senators Out for Blood</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 14, 2022</p> \
 </div> \
 </a> \
 </div> \
