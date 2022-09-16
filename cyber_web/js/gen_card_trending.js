@@ -2,14 +2,14 @@ document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://nakedsecurity.sophos.com/2022/08/15/zoom-for-mac-patches-get-root-bug-update-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Zoom for Mac patches critical bug – update now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Zoom for Mac patches get-root bug – update now!</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/videos/sparklinggoblin-apt-new-linux-backdoor-week-security-special/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/09/botched-crypto-mugging-lands-three-u-k-men-in-jail/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">SparklingGoblin deploys new Linux backdoor – Week in security, special edition</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Botched Crypto Mugging Lands Three U.K. Men in Jail</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/15/s3-ep100-imagine-you-went-to-the-moon-how-would-you-prove-it-audio-text/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/16/uber-has-been-hacked-boasts-hacker-how-to-stop-it-happening-to-you/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep100: Browser-in-the-Browser – how to spot an attack  [Audio + Text]</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">UBER HAS BEEN HACKED, boasts hacker – how to stop it happening to you</h6> \
 </div> \
 </a> \
 </li> \
