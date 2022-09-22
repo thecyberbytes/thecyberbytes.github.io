@@ -2,14 +2,14 @@ document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://nakedsecurity.sophos.com/2022/08/15/zoom-for-mac-patches-get-root-bug-update-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Zoom for Mac patches get-root bug – update now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Zoom for Mac patches critical bug – update now!</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/09/sim-swapper-abducted-beaten-held-for-200k-ransom/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/21/interested-in-cybersecurity-join-us-for-security-sos-week-2022/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">SIM Swapper Abducted, Beaten, Held for $200k Ransom</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Interested in cybersecurity? Join us for Security SOS Week 2022!</h6> \
 </div> \
 </a> \
 </li> \
