@@ -2,14 +2,14 @@ document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://nakedsecurity.sophos.com/2022/08/15/zoom-for-mac-patches-get-root-bug-update-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Zoom for Mac patches critical bug – update now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Zoom for Mac patches get-root bug – update now!</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/covenant-eyes-anti-porn-accountability-monitoring-apps/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/23/morgan-stanley-fined-millions-for-selling-off-devices-full-of-customer-pii/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Ungodly Surveillance of Anti-Porn ‘Shameware’ Apps</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Morgan Stanley fined millions for selling off devices full of customer PII</h6> \
 </div> \
 </a> \
 </li> \

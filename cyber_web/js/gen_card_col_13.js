@@ -13,11 +13,11 @@ document.write(' \
 </div> \
 <div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/13/serious-security-browser-in-the-browser-attacks-watch-out-for-windows-that-arent/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/pipe-light-not-1200.jpg?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/yurii-shchyhol-urkaine-cyberwar-russia/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/6320f08c62435d269fdbdb39/master/pass/Ukraine%E2%80%99s-Cyberwar-Chief-Sounds-Like-He%E2%80%99s-Winning-Security-GettyImages-1242260474-GettyImages-1242283013.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 13, 2022</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">Serious Security: Browser-in-the-browser attacks – watch out for windows that aren’t!</h2> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 14, 2022</span></small> \
+<h2 class="card-link text-dark font-weight-bold my-3">Ukraine’s Cyberwar Chief Sounds Like He’s Winning</h2> \
 </div> \
 </a> \
 </div> \

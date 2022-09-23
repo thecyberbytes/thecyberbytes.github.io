@@ -1,28 +1,28 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/covenant-eyes-anti-porn-accountability-monitoring-apps/" target="_blank"> \
-<img src="https://media.wired.com/photos/632ba19662435d269fdbdba4/master/pass/security-shameware.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/23/morgan-stanley-fined-millions-for-selling-off-devices-full-of-customer-pii/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/hdd-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>The Ungodly Surveillance of Anti-Porn ‘Shameware’ Apps</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 22, 2022</p> \
+<h2>Morgan Stanley fined millions for selling off devices full of customer PII</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 23, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2022/09/22/s3-ep101-uber-and-lastpass-breaches-is-2fa-all-its-cracked-up-to-be-audio-text/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/s3-ep101-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/iran-protests-2022-internet-shutdown-whatsapp/" target="_blank"> \
+<img src="https://media.wired.com/photos/632dcedd36c33c0247a2f0ee/master/pass/Iran-Internet-Shutdown-Security-AP_22264589595157.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>S3 Ep101: Uber and LastPass breaches – is 2FA all it’s cracked up to be? [Audio + Text]</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 22, 2022</p> \
+<h2>Iran’s Internet Shutdown Hides a Deadly Crackdown</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 23, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/chainguard-wolfi-linux-distribution/" target="_blank"> \
-<img src="https://media.wired.com/photos/632bbd9cd884b4dcc941656d/master/pass/Security-Open-Source-Linux-1403599186.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/slack-microsoft-teams-app-security/" target="_blank"> \
+<img src="https://media.wired.com/photos/632d0df220bc56769c4131d5/master/pass/security-slack-teams.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>A New Linux Tool Aims to Guard Against Supply Chain Attacks</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 22, 2022</p> \
+<h2>Slack and Teams’ Lax App Security Raises Alarms</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 23, 2022</p> \
 </div> \
 </a> \
 </div> \
