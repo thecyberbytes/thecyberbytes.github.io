@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/23/morgan-stanley-fined-millions-for-selling-off-devices-full-of-customer-pii/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/iran-protests-2022-internet-shutdown-whatsapp/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Morgan Stanley fined millions for selling off devices full of customer PII</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Iran’s Internet Shutdown Hides a Deadly Crackdown</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/16/uber-has-been-hacked-boasts-hacker-how-to-stop-it-happening-to-you/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/09/accused-russian-rsocks-botmaster-arrested-requests-extradition-to-u-s/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">UBER HAS BEEN HACKED, boasts hacker – how to stop it happening to you</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Accused Russian RSOCKS Botmaster Arrested, Requests Extradition to U.S.</h6> \
 </div> \
 </a> \
 </li> \
