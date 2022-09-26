@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/24/uber-and-rockstar-has-a-lapsus-linchpin-just-been-busted-again/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2022/09/26/what-happens-hacked-instagram-account-how-recover/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Uber and Rockstar – has a LAPSUS$ linchpin just been busted (again)?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">What happens with a hacked Instagram account – and how to recover it</h6> \
 </div> \
 </a> \
 </li> \
