@@ -1,10 +1,28 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.welivesecurity.com/2022/09/26/what-happens-hacked-instagram-account-how-recover/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/instagram-account-hacked-recovery.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/how-to-advocate-your-tech-privacy/" target="_blank"> \
+<img src="https://media.wired.com/photos/6332328740fe1e8870aa3bbe/master/pass/Advocate-for-Online-Privacy-Gear-GettyImages-1248994811.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>What happens with a hacked Instagram account – and how to recover it</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 26, 2022</p> \
+<h2>How to Advocate for Data Privacy and Users\' Rights</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 27, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/lapsusdollar-uber-rockstar-breach-multifactor-authentication-weaknesses/" target="_blank"> \
+<img src="https://media.wired.com/photos/632cf155eecde8c117e7f5cc/master/pass/Uber-Slack-Hack-Cautiounary-Tale-Security-GettyImages-1418158773.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>The Dire Warnings in the Lapsus$ Hacker Joyride</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 27, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://nakedsecurity.sophos.com/2022/09/27/whatsapp-zero-day-exploit-news-scare-what-you-need-to-know/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/wa-1200-1.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>WhatsApp “zero-day exploit” news scare – what you need to know</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 27, 2022</p> \
 </div> \
 </a> \
 </div> \
@@ -14,24 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>This Vote Could Change the Course of Internet History</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 26, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/best-vpn/" target="_blank"> \
-<img src="https://media.wired.com/photos/5e586f50ffd9380009895d8d/master/pass/feature_art-best_vpn.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The Best VPNs to Protect Yourself Online</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 26, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/vpn-firms-flee-india-data-collection-law/" target="_blank"> \
-<img src="https://media.wired.com/photos/632e4a76f2203b5586fac01f/master/pass/VPNs-Flee-India-Security-GettyImages-1217160311.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>VPN Providers Flee India as a New Data Law Takes Hold</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 25, 2022</p> \
 </div> \
 </a> \
 </div> \

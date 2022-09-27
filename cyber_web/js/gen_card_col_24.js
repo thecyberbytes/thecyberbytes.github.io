@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/09/wormable-flaw-0days-lead-sept-2022-patch-tuesday/" target="_blank" style="text-decoration:none"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/09/computerguys.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/adppa-roe-democrats-congress/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/63226c3020bc56769c4130ee/master/pass/security-roe-530562743.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Vulnerability</span> <span class="mx-1">&bullet;</span> <span>September 14, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Wormable Flaw, 0days Lead Sept. 2022 Patch Tuesday</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 15, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">The Shaky Future of a Post-Roe Federal Privacy Law</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/09/say-hello-to-crazy-thin-deep-insert-atm-skimmers/" target="_blank" style="text-decoration:none"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/09/nyinsertskimmer.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.welivesecurity.com/videos/sparklinggoblin-apt-new-linux-backdoor-week-security-special/" target="_blank" style="text-decoration:none"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/0-22.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 14, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Say Hello to Crazy Thin ‘Deep Insert’ ATM Skimmers</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 15, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">SparklingGoblin deploys new Linux backdoor – Week in security, special edition</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/yurii-shchyhol-urkaine-cyberwar-russia/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/6320f08c62435d269fdbdb39/master/pass/Ukraine%E2%80%99s-Cyberwar-Chief-Sounds-Like-He%E2%80%99s-Winning-Security-GettyImages-1242260474-GettyImages-1242283013.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://nakedsecurity.sophos.com/2022/09/15/s3-ep100-imagine-you-went-to-the-moon-how-would-you-prove-it-audio-text/" target="_blank" style="text-decoration:none"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/s3-ep100-js-1200-2.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 14, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Ukraine’s Cyberwar Chief Sounds Like He’s Winning</h5> \
+<small class="text-uppercase font-weight-bold"><span>Hacking</span> <span class="mx-1">&bullet;</span> <span>September 15, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">S3 Ep100: Browser-in-the-Browser – how to spot an attack  [Audio + Text]</h5> \
 </div> \
 </a> \
 </div> \
