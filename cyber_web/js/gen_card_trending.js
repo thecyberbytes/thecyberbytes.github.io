@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/27/whatsapp-zero-day-exploit-news-scare-what-you-need-to-know/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/pornhub-search-child-abuse-chatbot/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">WhatsApp “zero-day exploit” news scare – what you need to know</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">This Chatbot Aims to Steer People Away From Child Abuse Material</h6> \
 </div> \
 </a> \
 </li> \
