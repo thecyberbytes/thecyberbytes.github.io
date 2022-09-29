@@ -1,19 +1,28 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/28/optus-breach-aussie-telco-told-it-will-have-to-pay-to-replace-ids/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/optus-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/hyperjacking-vmware-mandiant/" target="_blank"> \
+<img src="https://media.wired.com/photos/6334ee97a546819a4885f458/master/pass/Mystery-Hackers-Are-%E2%80%98Hyperjacking%E2%80%99-Targets-for-Insidious-Spying-Security-GettyImages-507287054.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Optus breach – Aussie telco told it will have to pay to replace IDs</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 28, 2022</p> \
+<h2>Mystery Hackers Are ‘Hyperjacking’ Targets for Insidious Spying</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 29, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2022/09/28/protecting-teens-sextortion-what-parents-should-know/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/sextortion-teens-tips-parents.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/matrix-patches-vulnerabilities-that-completely-subvert-e2ee-guarantees/" target="_blank"> \
+<img src="https://media.wired.com/photos/6334eaf1ac1e13577068c083/master/pass/A-Matrix-Update-Will-Patch-Serious-End-to-End-Encryption-Flaws-GettyImages-1144627884.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Protecting teens from sextortion: What parents should know</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 28, 2022</p> \
+<h2>A Matrix Update Will Patch Serious End-to-End Encryption Flaws</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 29, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://nakedsecurity.sophos.com/2022/09/29/s3-ep102-sorting-fact-from-fiction-in-hyped-up-cybersecurity-news-stories/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/s3-ep102-cover.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>S3 Ep102: Cutting through cybersecurity news hype [Audio + Transcript]</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 29, 2022</p> \
 </div> \
 </a> \
 </div> \
@@ -22,15 +31,6 @@ document.write(' \
 <img src="https://media.wired.com/photos/63338f1d8990652479ff3a52/master/pass/Pornhub-Chatbot-Security-GettyImages-888275148.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>This Chatbot Aims to Steer People Away From Child Abuse Material</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 28, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/nord-stream-pipeline-sabotage-explosion-russia-gas/" target="_blank"> \
-<img src="https://media.wired.com/photos/6334a71977d6e939e5938aa4/master/pass/GasLeak_Science_GettyImages-1243544531.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The Race to Find the Nord Stream Saboteurs</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 28, 2022</p> \
 </div> \
 </a> \
