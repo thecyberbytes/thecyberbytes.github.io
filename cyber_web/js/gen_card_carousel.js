@@ -1,9 +1,18 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/cloudflare-captcha-turnstile/" target="_blank"> \
-<img src="https://media.wired.com/photos/6333880b62435d269fdbdc3c/master/pass/Cloudflare-Takes-a-Stab-at-a-Captcha-That-Doesn%E2%80%99t-Suck-Security-GettyImages-1415014574.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/28/optus-breach-aussie-telco-told-it-will-have-to-pay-to-replace-ids/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/optus-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Cloudflare Takes a Stab at a Captcha That Doesn’t Suck</h2> \
+<h2>Optus breach – Aussie telco told it will have to pay to replace IDs</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 28, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.welivesecurity.com/2022/09/28/protecting-teens-sextortion-what-parents-should-know/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/sextortion-teens-tips-parents.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Protecting teens from sextortion: What parents should know</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 28, 2022</p> \
 </div> \
 </a> \
@@ -18,20 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2022/09/28/optus-breach-aussie-telco-told-it-will-have-to-pay-to-replace-ids/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/optus-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/nord-stream-pipeline-sabotage-explosion-russia-gas/" target="_blank"> \
+<img src="https://media.wired.com/photos/6334a71977d6e939e5938aa4/master/pass/GasLeak_Science_GettyImages-1243544531.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Optus breach – Aussie telco told it will have to pay to replace IDs</h2> \
+<h2>The Race to Find the Nord Stream Saboteurs</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 28, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2022/09/27/whatsapp-zero-day-exploit-news-scare-what-you-need-to-know/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/wa-1200-1.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>WhatsApp “zero-day exploit” news scare – what you need to know</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 27, 2022</p> \
 </div> \
 </a> \
 </div> \
