@@ -7,23 +7,23 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/09/fake-ciso-profiles-on-linkedin-target-fortune-500s/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/videos/eset-research-uncovers-new-lazarus-campaigns-week-security-tony-anscombe/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Fake CISO Profiles on LinkedIn Target Fortune 500s</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">ESET Research into new attacks by Lazarus – Week in security with Tony Anscombe</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/28/optus-breach-aussie-telco-told-it-will-have-to-pay-to-replace-ids/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/29/s3-ep102-sorting-fact-from-fiction-in-hyped-up-cybersecurity-news-stories/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Optus breach – Aussie telco told it will have to pay to replace IDs</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep102: How to avoid a data breach [Audio + Transcript]</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/lapsusdollar-uber-rockstar-breach-multifactor-authentication-weaknesses/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/09/microsoft-two-new-0-day-flaws-in-exchange-server/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Dire Warnings in the Lapsus$ Hacker Joyride</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft: Two New 0-Day Flaws in Exchange Server</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/09/wormable-flaw-0days-lead-sept-2022-patch-tuesday/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/30/urgent-microsoft-exchange-double-zero-day-like-proxyshell-only-different/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Wormable Flaw, 0days Lead Sept. 2022 Patch Tuesday</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">URGENT! Microsoft Exchange double zero-day – “like ProxyShell, only different”</h6> \
 </div> \
 </a> \
 </li> \
