@@ -18,19 +18,19 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/ios-chrome-hp-whatsapp-critical-update-september/" target="_blank"> \
-<img src="https://media.wired.com/clips/63363df198d5e7918ce824a0/master/pass/security-critcal-update-september.mp4" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/30/urgent-microsoft-exchange-double-zero-day-like-proxyshell-only-different/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/exch-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Go Update iOS, Chrome, and HP Computers to Fix Serious Flaws</h2> \
+<h2>URGENT! Microsoft Exchange double zero-day – “like ProxyShell, only different”</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 30, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2022/09/30/amazon-themed-campaigns-lazarus-netherlands-belgium/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/lazarus-apt-eset-research-amazon-netherlands-belgium.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/ios-chrome-hp-whatsapp-critical-update-september/" target="_blank"> \
+<img src="https://media.wired.com/clips/63363df198d5e7918ce824a0/master/pass/security-critcal-update-september.mp4" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Amazon‑themed campaigns of Lazarus in the Netherlands and Belgium</h2> \
+<h2>Go Update iOS, Chrome, and HP Computers to Fix Serious Flaws</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 30, 2022</p> \
 </div> \
 </a> \
