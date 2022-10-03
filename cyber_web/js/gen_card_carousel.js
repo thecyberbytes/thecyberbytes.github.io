@@ -1,10 +1,19 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/microsoft-exchange-zero-day-cia-spies-security-roundup/" target="_blank"> \
-<img src="https://media.wired.com/photos/63378a6f58ae5223de1430c1/master/pass/Microsoft-Vulnerabilities-Security-GettyImages-1342142318.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/privacy-psychology-social-media/" target="_blank"> \
+<img src="https://media.wired.com/photos/63374b8cac1e13577068c0d5/master/pass/The-High-Cost-of-Living-Online-Security-GettyImages-1278930521.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Microsoft Exchange Server Has a Zero-Day Problem</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 01, 2022</p> \
+<h2>The High Cost of Living Your Life Online</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 03, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.welivesecurity.com/2022/10/03/8-questions-ask-yourself-getting-home-security-camera/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/security-camera-privacy-risks.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>8 questions to ask yourself before getting a home security camera</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 03, 2022</p> \
 </div> \
 </a> \
 </div> \
@@ -18,20 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/videos/eset-research-uncovers-new-lazarus-campaigns-week-security-tony-anscombe/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/0-41.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/microsoft-exchange-zero-day-cia-spies-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/63378a6f58ae5223de1430c1/master/pass/Microsoft-Vulnerabilities-Security-GettyImages-1342142318.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>ESET Research into new attacks by Lazarus – Week in security with Tony Anscombe</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 30, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/subvert-iran-internet-blackout/" target="_blank"> \
-<img src="https://media.wired.com/photos/63375014e9c6bcf59ec4c652/master/pass/Iran-Blackout-Security-GettyImages-1243372399.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The Challenge of Cracking Iran’s Internet Blockade</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 30, 2022</p> \
+<h2>Microsoft Exchange Server Has a Zero-Day Problem</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 01, 2022</p> \
 </div> \
 </a> \
 </div> \
