@@ -9,6 +9,15 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
+<a href="https://nakedsecurity.sophos.com/2022/10/04/romance-scammer-and-bec-fraudster-sent-to-prison-for-25-years/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/rs-1200-2.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Romance scammer and BEC fraudster sent to prison for 25 years</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 04, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/privacy-psychology-social-media/" target="_blank"> \
 <img src="https://media.wired.com/photos/63374b8cac1e13577068c0d5/master/pass/The-High-Cost-of-Living-Online-Security-GettyImages-1278930521.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>8 questions to ask yourself before getting a home security camera</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 03, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2022/10/01/s3-ep102-5-proxynotshell-exchange-bugs-an-expert-speaks-audio-text/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/pnc-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>S3 Ep102.5: “ProxyNotShell” Exchange bugs – an expert speaks [Audio + Text]</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 01, 2022</p> \
 </div> \
 </a> \
 </div> \
