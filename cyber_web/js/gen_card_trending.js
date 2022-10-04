@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2022/10/03/8-questions-ask-yourself-getting-home-security-camera/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/04/scammers-and-rogue-callers-can-anything-ever-stop-them/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">8 questions to ask yourself before getting a home security camera</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Scammers and rogue callers – can anything ever stop them?</h6> \
 </div> \
 </a> \
 </li> \
