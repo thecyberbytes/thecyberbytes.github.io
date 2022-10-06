@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/04/romance-scammer-and-bec-fraudster-sent-to-prison-for-25-years/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/06/former-uber-cso-convicted-of-covering-up-megabreach-back-in-2016/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Romance scammer and BEC fraudster sent to prison for 25 years</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Former Uber CSO convicted of covering up megabreach back in 2016</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/30/urgent-microsoft-exchange-double-zero-day-like-proxyshell-only-different/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2022/10/05/eset-threat-report-t2-2022/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">URGENT! Microsoft Exchange double zero-day – “like ProxyShell, only different”</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">ESET Threat Report T2 2022</h6> \
 </div> \
 </a> \
 </li> \
