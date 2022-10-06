@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/06/former-uber-cso-convicted-of-covering-up-megabreach-back-in-2016/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/swatting-schools-us-september-2022/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Former Uber CSO convicted of covering up megabreach back in 2016</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Swatted: A Shooting Hoax Spree Is Terrorizing Schools Across the US</h6> \
 </div> \
 </a> \
 </li> \
