@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/binance-hackers-minted-569-million/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/windows-11-automatic-phishing-protection/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Binance Hackers Minted $569M in Crypto—Then It Got Complicated</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Windows 11 Now Offers Automatic Phishing Protection</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/microsoft-exchange-zero-day-cia-spies-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/how-to-protect-yourself-school-surveillance-tech-privacy/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Exchange Server Has a Zero-Day Problem</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How to Protect Yourself If Your School Uses Surveillance Tech</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2022/10/05/eset-threat-report-t2-2022/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/10/serious-security-oauth-2-and-why-microsoft-is-finally-forcing-you-into-it/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">ESET Threat Report T2 2022</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Serious Security: OAuth 2 and why Microsoft is finally forcing you into it</h6> \
 </div> \
 </a> \
 </li> \
