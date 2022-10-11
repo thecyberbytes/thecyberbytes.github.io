@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/windows-11-automatic-phishing-protection/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/11/mystery-iphone-update-patches-against-ios-16-mail-crash-attack/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Windows 11 Now Offers Automatic Phishing Protection</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Mystery iPhone update patches against iOS 16 mail crash-attack</h6> \
 </div> \
 </a> \
 </li> \
