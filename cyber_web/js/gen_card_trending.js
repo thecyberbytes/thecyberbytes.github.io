@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/10/serious-security-oauth-2-and-why-microsoft-is-finally-forcing-you-into-it/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/11/move-over-patch-tuesday-its-ada-lovelace-day/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Serious Security: OAuth 2 and why Microsoft is finally forcing you into it</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Move over Patch Tuesday – it’s Ada Lovelace Day!</h6> \
 </div> \
 </a> \
 </li> \
