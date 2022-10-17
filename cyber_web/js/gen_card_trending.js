@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/how-to-use-passkeys-google-chrome-android/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/wikipedia-state-sponsored-disinformation/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">How to Use Passkeys in Google Chrome and Android</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Hunt for Wikipedia\'s Disinformation Moles</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/celsius-user-data-dump-crypto-tracing-scammers/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/17/fashion-brand-shein-fined-1-9m-for-lying-about-data-breach/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Celsius Exchange Data Dump Is a Gift to Crypto Sleuths—and Thieves</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Fashion brand SHEIN fined $1.9m for lying about data breach</h6> \
 </div> \
 </a> \
 </li> \
