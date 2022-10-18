@@ -1,8 +1,8 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/12/patch-tuesday-in-brief-one-0-day-fixed-but-no-patches-for-exchange/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/18/zoom-for-mac-patches-sneaky-spy-on-me-bug-update-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Patch Tuesday in brief – one 0-day fixed, but no patches for Exchange!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Zoom for Mac patches sneaky “spy-on-me” bug – update now!</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/10/microsoft-patch-tuesday-october-2022-edition/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/11/move-over-patch-tuesday-its-ada-lovelace-day/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, October 2022 Edition</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Move over Patch Tuesday – it’s Ada Lovelace Day!</h6> \
 </div> \
 </a> \
 </li> \
