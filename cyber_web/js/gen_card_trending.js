@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/19/women-in-cryptology-usps-celebrates-ww2-codebreakers/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/10/how-card-skimming-disproportionally-affects-those-most-in-need/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Women in Cryptology – USPS celebrates WW2 codebreakers</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How Card Skimming Disproportionally Affects Those Most In Need</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/17/fashion-brand-shein-fined-1-9m-for-lying-about-data-breach/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2022/10/19/dont-get-scammed-buying-tickets-online/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Fashion brand SHEIN fined $1.9m for lying about data breach</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Don’t get scammed when buying tickets online</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/11/move-over-patch-tuesday-its-ada-lovelace-day/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/10/microsoft-patch-tuesday-october-2022-edition/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Move over Patch Tuesday – it’s Ada Lovelace Day!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, October 2022 Edition</h6> \
 </div> \
 </a> \
 </li> \

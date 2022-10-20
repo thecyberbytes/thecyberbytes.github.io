@@ -1,9 +1,9 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/19/women-in-cryptology-usps-celebrates-ww2-codebreakers/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/stamps-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/2022/10/19/dont-get-scammed-buying-tickets-online/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/fake-online-tickets-scams.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Women in Cryptology – USPS celebrates WW2 codebreakers</h2> \
+<h2>Don’t get scammed when buying tickets online</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 19, 2022</p> \
 </div> \
 </a> \
@@ -18,11 +18,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> \
-<img src="https://media.wired.com/photos/5ce82f0838916bbaffa0c591/master/pass/Managing-Passwords.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/19/women-in-cryptology-usps-celebrates-ww2-codebreakers/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/stamps-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>5 Best Password Managers (2022): Features, Pricing, and Tips</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 18, 2022</p> \
+<h2>Women in Cryptology – USPS celebrates WW2 codebreakers</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 19, 2022</p> \
 </div> \
 </a> \
 </div> \
