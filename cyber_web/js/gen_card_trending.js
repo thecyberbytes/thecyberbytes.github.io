@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/27/s3-ep106-facial-recognition-without-consent-should-it-be-banned/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2022/10/27/why-your-phone-slow-how-speed-up/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep106: Facial recognition without consent – should it be banned?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Why your phone is slow – and how to speed it up</h6> \
 </div> \
 </a> \
 </li> \
