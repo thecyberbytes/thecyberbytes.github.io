@@ -9,6 +9,15 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
+<a href="https://www.wired.com/story/elon-musk-twitter-security-privacy-risks/" target="_blank"> \
+<img src="https://media.wired.com/photos/635c04a22315f22f918339e6/master/pass/musk_GettyImages-1242798684.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>If Musk Starts Firing Twitter\'s Security Team, Run</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 28, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.welivesecurity.com/2022/10/27/why-your-phone-slow-how-speed-up/" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/phone-android-ios-iphone-slow-tips-speeding-up-Copy.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>S3 Ep106: Facial recognition without consent – should it be banned?</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 27, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/us-midterm-election-disinformation-dragonbridge/" target="_blank"> \
-<img src="https://media.wired.com/photos/63583bdd3d83d1af9973abe2/master/pass/china_misinfo_sec_GettyImages-1432048934.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>A Pro-China Disinfo Campaign Is Targeting US Elections—Badly</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 26, 2022</p> \
 </div> \
 </a> \
 </div> \
