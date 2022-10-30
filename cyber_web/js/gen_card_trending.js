@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/china-police-stations-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/itu-2022-vote-russia-china-open-internet/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">China Operates Secret ‘Police Stations’ in Other Countries</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Election That Saved the Internet From Russia and China</h6> \
 </div> \
 </a> \
 </li> \
