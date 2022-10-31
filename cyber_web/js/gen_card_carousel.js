@@ -1,5 +1,23 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/google-chrome-windows-zoom-critical-update/" target="_blank"> \
+<img src="https://media.wired.com/clips/635c5bbe93ea9ed771dc51c5/master/pass/critical-update-october.mp4" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>You Need to Update Google Chrome, Windows, and Zoom Right Now</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 31, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://nakedsecurity.sophos.com/2022/10/31/psychotherapy-extortion-suspect-arrest-warrant-issued/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/hcuff-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Psychotherapy extortion suspect: arrest warrant issued</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 31, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/itu-2022-vote-russia-china-open-internet/" target="_blank"> \
 <img src="https://media.wired.com/photos/635c726a0d79c592e1a4c52b/master/pass/The-Election-That-Saved-the-Internet-From-Russia-and-China-Security-GettyImages-1310052459.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -14,24 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Chrome issues urgent zero-day fix – update now!</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 29, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/china-police-stations-security-roundup/" target="_blank"> \
-<img src="https://media.wired.com/photos/635c29153c668b3d58192325/master/pass/Secret-Chinese-Police-Security-GettyImages-647038906.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>China Operates Secret ‘Police Stations’ in Other Countries</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 29, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/videos/courts-vs-cybercrime-week-security-tony-anscombe/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/0-30.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Courts vs. cybercrime – Week in security with Tony Anscombe</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 28, 2022</p> \
 </div> \
 </a> \
 </div> \
