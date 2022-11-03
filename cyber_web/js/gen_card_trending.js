@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/03/the-openssl-security-update-story-how-can-you-tell-what-needs-fixing/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/soccer-world-cup-biometric-surveillance/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The OpenSSL security update story – how can you tell what needs fixing?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Soccer Fans, You\'re Being Watched</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/10/accused-raccoon-malware-developer-fled-ukraine-after-russian-invasion/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/11/hacker-charged-with-extorting-online-psychotherapy-service/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Accused ‘Raccoon’ Malware Developer Fled Ukraine After Russian Invasion</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Hacker Charged With Extorting Online Psychotherapy Service</h6> \
 </div> \
 </a> \
 </li> \
