@@ -1,27 +1,27 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/08/silk-road-drugs-market-hacker-pleads-guilty-faces-20-years-inside/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/1.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Silk Road drugs market hacker pleads guilty, faces 20 years inside</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 08, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/" target="_blank"> \
+<img src="https://media.wired.com/photos/6369a8f55835030b1507e8a3/master/pass/A-Peek-Inside-the-Most-Controversial-'Election-Integrity'-App-in-the-US-Security-GettyImages-1264542515.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Inside the ‘Election Integrity App’ Built to Purge US Voter Rolls</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 08, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/twitter-election-integrity-2022-midterms/" target="_blank"> \
 <img src="https://media.wired.com/photos/6365c3d87484c01b9b6e964f/master/pass/Twitter%E2%80%99s-Ex-Election-Chief-Is-Worried-About-the-US-Midterms-Security-GettyImages-83273505.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>Twitter’s Ex-Election Chief Is Worried About the US Midterms</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 07, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2022/11/07/hacking-baby-monitors-childs-play-how-stay-safe/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/baby-monitors-cybersecurity-privacy-risks.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Hacking baby monitors can be child’s play: Here’s how to stay safe</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 07, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/secret-ballot-voter-intimidation-2022-us-midterms/" target="_blank"> \
-<img src="https://media.wired.com/photos/6365b3fe5835030b1507e838/master/pass/The-Secret-Ballot-Is-US-Democracy%E2%80%99s-Last-Line-of-Defense-Security-GettyImages-138711424.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The Secret Ballot Is US Democracy’s Last Line of Defense</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 07, 2022</p> \
 </div> \
 </a> \
