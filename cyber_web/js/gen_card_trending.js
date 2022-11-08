@@ -1,8 +1,8 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/18/zoom-for-mac-patches-sneaky-spy-on-me-bug-update-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/silk-road-bitcoin-seizure-james-zhong/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Zoom for Mac patches sneaky “spy-on-me” bug – update now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">IRS Seizes Another Silk Road Hacker’s $3.36 Billion Bitcoin Stash</h6> \
 </div> \
 </a> \
 </li> \
