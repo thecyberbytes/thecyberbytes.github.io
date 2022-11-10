@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/26/online-ticketing-company-see-pwned-for-2-5-years-by-attackers/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/st-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/elon-musk-twitter-security-privacy-risks/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/635c04a22315f22f918339e6/master/pass/musk_GettyImages-1242798684.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>October 26, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Online ticketing company “See” pwned for 2.5 years by attackers</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>October 28, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">If Musk Starts Firing Twitter\'s Security Team, Run</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/us-midterm-election-disinformation-dragonbridge/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/63583bdd3d83d1af9973abe2/master/pass/china_misinfo_sec_GettyImages-1432048934.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://nakedsecurity.sophos.com/2022/10/28/updates-to-apples-zero-day-update-story-iphone-and-ipad-users-read-this/" target="_blank" style="text-decoration:none"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/ip-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Vulnerability</span> <span class="mx-1">&bullet;</span> <span>October 26, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">A Pro-China Disinfo Campaign Is Targeting US Elections—Badly</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>October 28, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Updates to Apple’s zero-day update story – iPhone and iPad users read this!</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/apple-macos-ventura-bug-security-tools/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/635981d43d7842cc349a21f2/master/pass/MacOS-Ventura-Security-GettyImages-1252420069.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.welivesecurity.com/videos/courts-vs-cybercrime-week-security-tony-anscombe/" target="_blank" style="text-decoration:none"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/0-30.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>October 26, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Apple MacOS Ventura Bug Breaks Third-Party Security Tools</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>October 28, 2022</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Courts vs. cybercrime – Week in security with Tony Anscombe</h5> \
 </div> \
 </a> \
 </div> \
