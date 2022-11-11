@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/russia-ukraine-cyberattacks-mandiant/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Russia’s New Cyberwarfare in Ukraine Is Fast, Dirty, and Relentless</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">‘Dark Ships’ Emerge From the Shadows of the Nord Stream Mystery</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/11/hacker-charged-with-extorting-online-psychotherapy-service/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/11/dangerous-sim-swap-lockscreen-bypass-update-android-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Hacker Charged With Extorting Online Psychotherapy Service</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Dangerous SIM-swap lockscreen bypass – update Android now!</h6> \
 </div> \
 </a> \
 </li> \
