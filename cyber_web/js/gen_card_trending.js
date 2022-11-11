@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/10/s3-ep108-you-hid-three-billion-dollars-in-a-popcorn-tin/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/russia-ukraine-cyberattacks-mandiant/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep108: You hid THREE BILLION dollars in a popcorn tin?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Russia’s New Cyberwarfare in Ukraine Is Fast, Dirty, and Relentless</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/alphabay-series-part-1-the-shadow/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/russia-ransomware-gang-connections/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Hunt for the Kingpin Behind AlphaBay, Part 1: The Shadow</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Russia’s Sway Over Criminal Ransomware Gangs Is Coming Into Focus</h6> \
 </div> \
 </a> \
 </li> \
