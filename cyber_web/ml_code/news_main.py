@@ -18,9 +18,17 @@ def generate_news_html(cat_news_filename, blog_file_name, blog_df, news_df):
     news_df['Date Created'] = news_df['Date Created'].apply(lambda x: x.strip())
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace('\n',""))
     news_df['Title'] = news_df['Title'].apply(lambda x: x.strip())
+    news_df['URL'] = news_df['URL'].apply(lambda x: x.replace('\n',""))
+    news_df['Image'] = news_df['Image'].apply(lambda x: x.replace('\n',""))
+    news_df['URL'] = news_df['URL'].apply(lambda x: x.strip())
+    news_df['Image'] = news_df['Image'].apply(lambda x: x.strip())
     # clean the quotes
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace("\'","\\'"))
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace('\"','\\"'))
+    news_df['URL'] = news_df['URL'].apply(lambda x: x.replace("\'","\\'"))
+    news_df['URL'] = news_df['URL'].apply(lambda x: x.replace('\"','\\"'))
+    news_df['Image'] = news_df['Image'].apply(lambda x: x.replace("\'","\\'"))
+    news_df['Image'] = news_df['Image'].apply(lambda x: x.replace('\"','\\"'))
     
     print("Generating htmls")
     print(news_df.head())
