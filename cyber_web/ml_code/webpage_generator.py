@@ -9,9 +9,15 @@ def generate_news_html(cat_news_filename):
     news_df.dropna(axis=0, inplace=True)
     # clean the new line character
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace('\n',""))
+    news_df['URL'] = news_df['URL'].apply(lambda x: x.replace('\n',""))
+    news_df['Image'] = news_df['Image'].apply(lambda x: x.replace('\n',""))
     # clean the quotes
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace("\'","\\'"))
     news_df['Title'] = news_df['Title'].apply(lambda x: x.replace('\"','\\"'))
+    news_df['URL'] = news_df['URL'].apply(lambda x: x.replace("\'","\\'"))
+    news_df['URL'] = news_df['URL'].apply(lambda x: x.replace('\"','\\"'))
+    news_df['Image'] = news_df['Image'].apply(lambda x: x.replace("\'","\\'"))
+    news_df['Image'] = news_df['Image'].apply(lambda x: x.replace('\"','\\"'))
     
     # one news per category df
     trending_df = news_df.groupby(['Category']).first()
