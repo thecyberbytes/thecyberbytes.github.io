@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/twitter-two-factor-sms-problems/" target="_blank"> \
+<img src="https://media.wired.com/photos/6372b86f0dce9984f0039c95/master/pass/Twtter-2FA-Broken-Security-GettyImages-1360341447.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Twitter’s SMS Two-Factor Authentication Is Melting Down</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 15, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.welivesecurity.com/2022/11/14/eset-apt-activity-report-t2-2022/" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/apt-activity-report-thumbnail2.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>The Hunt for the FTX Thieves Has Begun</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 13, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/elon-musk-twitter-security-mayhem-roundup/" target="_blank"> \
-<img src="https://media.wired.com/photos/636ec462afd174dfb5859600/master/pass/security-elon-musk-twitter.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Elon Musk Introduces Twitter Mayhem Mode</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 12, 2022</p> \
 </div> \
 </a> \
 </div> \
