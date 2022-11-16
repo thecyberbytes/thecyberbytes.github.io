@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/11/top-zeus-botnet-suspect-tank-arrested-in-geneva/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/11/disneyland-malware-team-its-a-puny-world-after-all/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Top Zeus Botnet Suspect “Tank” Arrested in Geneva</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Disneyland Malware Team: It’s a Puny World After All</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/tiktok-eu-privacy-policy-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/substance-abuse-telehealth-privacy-tracking-tech/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">TikTok Admits Staff in China Can Access Europeans’ Data</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Telehealth Sites Put Addiction Patient Data at Risk</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/01/openssl-patches-are-out-critical-bug-downgraded-to-high-but-patch-anyway/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/16/firefox-fixes-fullscreen-fakery-flaw-get-the-update-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">OpenSSL patches are out – CRITICAL bug downgraded to HIGH, but patch anyway!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Firefox fixes fullscreen fakery flaw – get the update now!</h6> \
 </div> \
 </a> \
 </li> \
