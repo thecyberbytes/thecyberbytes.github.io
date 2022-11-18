@@ -1,9 +1,9 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/11/zeppransom.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> \
+<img src="https://media.wired.com/photos/5ce82f0838916bbaffa0c591/master/pass/Managing-Passwords.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Researchers Quietly Cracked Zeppelin Ransomware Keys</h2> \
+<h2>5 Best Password Managers (2022): Features, Pricing, and Tips</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 18, 2022</p> \
 </div> \
 </a> \
@@ -18,11 +18,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2022/11/17/s3-ep109-how-one-leaked-email-password-could-drain-your-business/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/s3-ep109-image-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/11/zeppransom.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>S3 Ep109: How one leaked email password could drain your business [Audio + Transcript]</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 17, 2022</p> \
+<h2>Researchers Quietly Cracked Zeppelin Ransomware Keys</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 18, 2022</p> \
 </div> \
 </a> \
 </div> \
