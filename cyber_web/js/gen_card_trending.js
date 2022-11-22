@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/autonomous-vehicles-china-us-national-security/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2022/11/22/security-fatigue-real-how-overcome-it/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Autonomous Vehicles Join the List of US National Security Threats</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Security fatigue is real: Here’s how to overcome it</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/11/dangerous-sim-swap-lockscreen-bypass-update-android-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/22/how-to-hack-an-unpatched-exchange-server-with-rogue-powershell-code/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Dangerous SIM-swap lockscreen bypass – update Android now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How to hack an unpatched Exchange server with rogue PowerShell code</h6> \
 </div> \
 </a> \
 </li> \

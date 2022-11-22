@@ -1,19 +1,28 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/autonomous-vehicles-china-us-national-security/" target="_blank"> \
-<img src="https://media.wired.com/photos/637be42e08d21cc2614f8ae1/master/pass/AUTO_Biz_GettyImages-1240599777.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/2022/11/22/security-fatigue-real-how-overcome-it/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/security-fatigue-employees-overload-information.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Autonomous Vehicles Join the List of US National Security Threats</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 21, 2022</p> \
+<h2>Security fatigue is real: Here’s how to overcome it</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 22, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2022/11/21/how-social-media-scammers-buy-time-to-steal-your-2fa-codes/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/ffs-2fa-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/alphabay-series-part-5-takedown/" target="_blank"> \
+<img src="https://media.wired.com/photos/63531a11164b1ee55dd6a442/master/pass/WIRED_darkweb_5_final.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>How social media scammers buy time to steal your 2FA codes</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 21, 2022</p> \
+<h2>The Hunt for the Dark Web’s Biggest Kingpin, Part 5: Takedown</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 22, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://nakedsecurity.sophos.com/2022/11/22/how-to-hack-an-unpatched-exchange-server-with-rogue-powershell-code/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/exch-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>How to hack an unpatched Exchange server with rogue PowerShell code</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 22, 2022</p> \
 </div> \
 </a> \
 </div> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>A Leak Details Apple\'s Secret Dirt on Corellium, a Trusted Security Startup</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 21, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/moldova-leaks-google-privacy-settlement-world-cup-apps/" target="_blank"> \
-<img src="https://media.wired.com/photos/637823b284f5d2572f8d0ad0/master/pass/Moldova-Election-Hack-Security-1401716620.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>A Destabilizing Hack-and-Leak Operation Hits Moldova</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 19, 2022</p> \
 </div> \
 </a> \
 </div> \
