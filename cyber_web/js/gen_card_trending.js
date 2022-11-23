@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/us-bomb-dog-shortage/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/23/cryptorom-pig-butchering-scam-sites-seized-suspects-arrested-in-us/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The US Has a Bomb-Sniffing Dog Shortage</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">CryptoRom “pig butchering” scam sites seized, suspects arrested in US</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/22/how-to-hack-an-unpatched-exchange-server-with-rogue-powershell-code/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2022/11/23/bahamut-cybermercenary-group-targets-android-users-fake-vpn-apps/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">How to hack an unpatched Exchange server with rogue PowerShell code</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Bahamut cybermercenary group targets Android users with fake VPN apps</h6> \
 </div> \
 </a> \
 </li> \
