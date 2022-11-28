@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/28/chrome-fixes-8th-zero-day-of-2022-check-your-version-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/fbi-google-geofence-warrant-january-6/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Chrome fixes 8th zero-day of 2022 – check your version now</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">A Peek Inside the FBI\'s Unprecedented January 6 Geofence Dragnet</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2022/11/28/ransomboggs-new-ransomware-ukraine/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Researchers Quietly Cracked Zeppelin Ransomware Keys</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">RansomBoggs: New ransomware targeting Ukraine</h6> \
 </div> \
 </a> \
 </li> \
