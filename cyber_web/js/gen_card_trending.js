@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/30/serious-security-md5-considered-harmful-to-the-tune-of-600000/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/protests-in-iran-twitter/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Serious Security: MD5 considered harmful – to the tune of $600,000</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Iran’s Protests Reveal What’s Lost If Twitter Crumbles</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ios-android-windows-vulnerability-patches-november-2022/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/01/the-christma-exec-network-worm-35-years-and-counting/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Drop What You\'re Doing and Update iOS, Android, and Windows</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The CHRISTMA EXEC network worm – 35 years and counting!</h6> \
 </div> \
 </a> \
 </li> \
