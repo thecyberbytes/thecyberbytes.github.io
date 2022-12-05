@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/01/the-christma-exec-network-worm-35-years-and-counting/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/05/ping-of-death-freebsd-fixes-crashtastic-bug-in-network-tool/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The CHRISTMA EXEC network worm – 35 years and counting!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Ping of death! FreeBSD fixes crashtastic bug in network tool</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/12/connectwise-quietly-patches-flaw-that-helps-phishers/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2022/12/05/tractors-threat-actors-how-hack-farm/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">ConnectWise Quietly Patches Flaw That Helps Phishers</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Tractors vs. threat actors: How to hack a farm</h6> \
 </div> \
 </a> \
 </li> \
