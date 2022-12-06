@@ -9,7 +9,7 @@ document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://nakedsecurity.sophos.com/2022/12/05/number-nine-chrome-fixes-another-2022-zero-day-edge-not-patched-yet/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Number Nine! Chrome fixes another 2022 zero-day, Edge not patched yet</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Number Nine! Chrome fixes another 2022 zero-day, Edge patched too</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2022/11/28/ransomboggs-new-ransomware-ukraine/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/12/judge-orders-u-s-lawyer-in-russian-botnet-case-to-pay-google/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">RansomBoggs: New ransomware targeting Ukraine</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Judge Orders U.S. Lawyer in Russian Botnet Case to Pay Google</h6> \
 </div> \
 </a> \
 </li> \
