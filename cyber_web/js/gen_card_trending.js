@@ -7,23 +7,23 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/12/new-ransom-payment-schemes-target-executives-telemedicine/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/videos/diamond-industry-attack-week-security-tony-anscombe/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">New Ransom Payment Schemes Target Executives, Telemedicine</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Diamond industry under attack – Week in security with Tony Anscombe</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/sequoia-hr-data-breach/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/09/s3-ep112-data-breaches-can-haunt-you-more-than-once-audio-text/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Popular HR and Payroll Company Sequoia Discloses a Data Breach</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep112: Data breaches can haunt you more than once! [Audio + Text]</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/05/ping-of-death-freebsd-fixes-crashtastic-bug-in-network-tool/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/videos/xenomorph-what-know-android-banking-trojan/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Ping of death! FreeBSD fixes crashtastic bug in network tool</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Xenomorph: What to know about this Android banking trojan</h6> \
 </div> \
 </a> \
 </li> \
