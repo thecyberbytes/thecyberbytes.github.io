@@ -1,10 +1,19 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.welivesecurity.com/videos/diamond-industry-attack-week-security-tony-anscombe/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/0-26.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/attacks-us-electrical-grid-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/6393c02aaa4a1f0bae395c5b/master/pass/Another-Power-Grid-Attack-Hits-the-Southeastern-US--Security-GettyImages-1256905078.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Diamond industry under attack – Week in security with Tony Anscombe</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 09, 2022</p> \
+<h2>Attackers Keep Targeting the US Electric Grid</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 10, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/log4j-log4shell-one-year-later/" target="_blank"> \
+<img src="https://media.wired.com/photos/6389549f43ab6f113787ae97/master/pass/Hive-Is-an-Unfortunate-Example-of-Digital-Security%E2%80%99s-Stakes-Security-GettyImages-1286811622.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Log4j’s Log4Shell Vulnerability: One Year Later, It’s Still Lurking</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 10, 2022</p> \
 </div> \
 </a> \
 </div> \
@@ -18,19 +27,10 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/" target="_blank"> \
-<img src="https://media.wired.com/photos/6392663fdf2fe9c58ee95b55/master/pass/Security-LensaAI-Birth-Venus-92825836.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/videos/diamond-industry-attack-week-security-tony-anscombe/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/0-26.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Lensa AI and ‘Magic Avatars’: What to Know Before Using the App</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 09, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/videos/xenomorph-what-know-android-banking-trojan/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/0-27.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Xenomorph: What to know about this Android banking trojan</h2> \
+<h2>Diamond industry under attack – Week in security with Tony Anscombe</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 09, 2022</p> \
 </div> \
 </a> \

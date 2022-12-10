@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/videos/diamond-industry-attack-week-security-tony-anscombe/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/attacks-us-electrical-grid-security-roundup/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Diamond industry under attack – Week in security with Tony Anscombe</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Attackers Keep Targeting the US Electric Grid</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2022/12/05/tractors-threat-actors-how-hack-farm/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/log4j-log4shell-one-year-later/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Tractors vs. threat actors: How to hack a farm</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Log4j’s Log4Shell Vulnerability: One Year Later, It’s Still Lurking</h6> \
 </div> \
 </a> \
 </li> \
