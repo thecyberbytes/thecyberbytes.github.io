@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/attacks-us-electrical-grid-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/radicalization-extremism-us-uncertainty-social-media/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Attackers Keep Targeting the US Electric Grid</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Why Are People in the US Becoming Radicalized?</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/videos/xenomorph-what-know-android-banking-trojan/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/12/pwn2own-toronto-54-hacks-63-new-bugs-1-million-in-bounties/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Xenomorph: What to know about this Android banking trojan</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Pwn2Own Toronto: 54 hacks, 63 new bugs, $1 million in bounties</h6> \
 </div> \
 </a> \
 </li> \
