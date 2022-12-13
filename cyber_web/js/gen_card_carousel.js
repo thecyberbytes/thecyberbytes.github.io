@@ -18,19 +18,19 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/attacks-us-electrical-grid-security-roundup/" target="_blank"> \
-<img src="https://media.wired.com/photos/6393c02aaa4a1f0bae395c5b/master/pass/Another-Power-Grid-Attack-Hits-the-Southeastern-US--Security-GettyImages-1256905078.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/2022/12/12/cybersecurity-trends-2023-securing-our-hybrid-lives/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/cybersecurity-trends-2023-hybrid-lives.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Attackers Keep Targeting the US Electric Grid</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 10, 2022</p> \
+<h2>Cybersecurity Trends 2023: Securing our hybrid lives</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 12, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/log4j-log4shell-one-year-later/" target="_blank"> \
-<img src="https://media.wired.com/photos/6389549f43ab6f113787ae97/master/pass/Hive-Is-an-Unfortunate-Example-of-Digital-Security%E2%80%99s-Stakes-Security-GettyImages-1286811622.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/attacks-us-electrical-grid-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/6393c02aaa4a1f0bae395c5b/master/pass/Another-Power-Grid-Attack-Hits-the-Southeastern-US--Security-GettyImages-1256905078.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Log4j’s Log4Shell Vulnerability: One Year Later, It’s Still Lurking</h2> \
+<h2>Attackers Keep Targeting the US Electric Grid</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 10, 2022</p> \
 </div> \
 </a> \
