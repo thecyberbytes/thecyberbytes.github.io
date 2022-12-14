@@ -1,5 +1,17 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/mirrorface-liberalface-japan-political-entities-malware-cyberattack.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/" target="_blank"> Unmasking MirrorFace: Operation LiberalFace targeting Japanese political entities </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/12/06/sim-swapper-sent-to-prison-for-2fa-cryptocurrency-heist-of-over-20m/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/cuffs-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
@@ -65,7 +77,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/15/zoom-for-mac-patches-get-root-bug-update-now/" target="_blank"> Zoom for Mac patches critical bug – update now! </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/15/zoom-for-mac-patches-get-root-bug-update-now/" target="_blank"> Zoom for Mac patches get-root bug – update now! </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 15, 2022</span></small> \
@@ -77,7 +89,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/15/zoom-for-mac-patches-get-root-bug-update-now/" target="_blank"> Zoom for Mac patches get-root bug – update now! </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/15/zoom-for-mac-patches-get-root-bug-update-now/" target="_blank"> Zoom for Mac patches critical bug – update now! </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 15, 2022</span></small> \
@@ -96,24 +108,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62e95bada1dc74857a858363/master/pass/Bitcoin-Fog-Security-GettyImages-1241143235.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/" target="_blank"> Bitcoin Fog Case Could Put Cryptocurrency Tracing on Trial </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 02, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/08/02/cryptocoin-token-swapper-nomad-loses-200-million-in-coding-blunder/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/nomad-img-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2022/08/02/cryptocoin-token-swapper-nomad-loses-200-million-in-coding-blunder/" target="_blank"> Cryptocoin “token swapper” Nomad loses $200 million in coding blunder </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 02, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62e95bada1dc74857a858363/master/pass/Bitcoin-Fog-Security-GettyImages-1241143235.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/" target="_blank"> Bitcoin Fog Case Could Put Cryptocurrency Tracing on Trial </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 02, 2022</span></small> \

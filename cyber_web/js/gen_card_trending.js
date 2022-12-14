@@ -1,15 +1,15 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/06/sim-swapper-sent-to-prison-for-2fa-cryptocurrency-heist-of-over-20m/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">SIM swapper sent to prison for 2FA cryptocurrency heist of over $20m</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Unmasking MirrorFace: Operation LiberalFace targeting Japanese political entities</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/14/apple-patches-everything-finally-reveals-mystery-of-ios-16-1-2/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/meta-hate-speech-lawsuit-ethiopia/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Apple patches everything, finally reveals mystery of iOS 16.1.2</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">A New Lawsuit Accuses Meta of Inflaming Civil War in Ethiopia</h6> \
 </div> \
 </a> \
 </li> \
