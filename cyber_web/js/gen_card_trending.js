@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/12/six-charged-in-mass-takedown-of-ddos-for-hire-sites/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/meta-account-recovery-security/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Six Charged in Mass Takedown of DDoS-for-Hire Sites</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Meta’s Tricky Quest to Protect Your Account</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/12/fbis-vetted-info-sharing-network-infragard-hacked/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/gps-jamming-interference-russia-ukraine/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">FBI’s Vetted Info Sharing Network ‘InfraGard’ Hacked</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">GPS Signals Are Being Disrupted in Russian Cities</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/14/patch-tuesday-0-days-rce-bugs-and-a-curious-tale-of-signed-malware/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/15/s3-ep113-pwning-the-windows-kernel-the-crooks-who-hoodwinked-microsoft-audio-text/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Patch Tuesday: 0-days, RCE bugs, and a curious tale of signed malware</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep113: Pwning the Windows kernel – the crooks who hoodwinked Microsoft [Audio + Text]</h6> \
 </div> \
 </a> \
 </li> \
