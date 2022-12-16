@@ -1,9 +1,9 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/meta-account-recovery-security/" target="_blank"> \
-<img src="https://media.wired.com/photos/639a58ca51401b7ec2ec5f7a/master/pass/Sec-Meta-Breach-1236193840.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/gps-jamming-interference-russia-ukraine/" target="_blank"> \
+<img src="https://media.wired.com/photos/639a73517c49c6522b6130e2/master/pass/Russia_drone_satellite_Sec_GettyImages-1244031444.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Meta’s Tricky Quest to Protect Your Account</h2> \
+<h2>GPS Signals Are Being Disrupted in Russian Cities</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 15, 2022</p> \
 </div> \
 </a> \
@@ -18,20 +18,20 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/gps-jamming-interference-russia-ukraine/" target="_blank"> \
-<img src="https://media.wired.com/photos/639a73517c49c6522b6130e2/master/pass/Russia_drone_satellite_Sec_GettyImages-1244031444.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/meta-account-recovery-security/" target="_blank"> \
+<img src="https://media.wired.com/photos/639a58ca51401b7ec2ec5f7a/master/pass/Sec-Meta-Breach-1236193840.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>GPS Signals Are Being Disrupted in Russian Cities</h2> \
+<h2>Meta’s Tricky Quest to Protect Your Account</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 15, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/mirrorface-liberalface-japan-political-entities-malware-cyberattack.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/2022/12/15/traveling-holidays-stay-cyber-safe-tips/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/holidays-travel-cybersecurity-tips.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Unmasking MirrorFace: Operation LiberalFace targeting Japanese political entities</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 14, 2022</p> \
+<h2>Traveling for the holidays? Stay cyber‑safe with these tips</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 15, 2022</p> \
 </div> \
 </a> \
 </div> \
