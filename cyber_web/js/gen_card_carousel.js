@@ -1,28 +1,28 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/gps-jamming-interference-russia-ukraine/" target="_blank"> \
-<img src="https://media.wired.com/photos/639a73517c49c6522b6130e2/master/pass/Russia_drone_satellite_Sec_GettyImages-1244031444.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/russian-smuggling-ring-new-hampshire-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/639d1d1b302d795e5e6ef04c/master/pass/An-Alleged-Russian-Smuggling-Ring-Was-Uncovered-in-New-Hampshire-Security-GettyImages-1381429974.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>GPS Signals Are Being Disrupted in Russian Cities</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 15, 2022</p> \
+<h2>An Alleged Russian Smuggling Ring Was Uncovered in New Hampshire</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 17, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2022/12/15/s3-ep113-pwning-the-windows-kernel-the-crooks-who-hoodwinked-microsoft-audio-text/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/s3-ep113-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/2022/12/16/help-my-kid-asked-santa-smartphone/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/children-technology-smartphone-security-privacy.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>S3 Ep113: Pwning the Windows kernel – the crooks who hoodwinked Microsoft [Audio + Text]</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 15, 2022</p> \
+<h2>Help! My kid has asked Santa for a smartphone</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 16, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/meta-account-recovery-security/" target="_blank"> \
-<img src="https://media.wired.com/photos/639a58ca51401b7ec2ec5f7a/master/pass/Sec-Meta-Breach-1236193840.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/videos/mirrorface-aims-high-value-targets-japan-week-security-tony-anscombe/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/0-32.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Meta’s Tricky Quest to Protect Your Account</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 15, 2022</p> \
+<h2>MirrorFace aims for high‑value targets in Japan – Week in security with Tony Anscombe</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 16, 2022</p> \
 </div> \
 </a> \
 </div> \
