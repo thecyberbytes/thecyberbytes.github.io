@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/12/hacked-ring-cams-used-to-record-swatting-victims/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/elon-musk-elonjet-flight-tracker-transparency/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Hacked Ring Cams Used to Record Swatting Victims</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Elon Musk and the Dangers of Censoring Real-Time Flight Trackers</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/15/s3-ep113-pwning-the-windows-kernel-the-crooks-who-hoodwinked-microsoft-audio-text/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/20/microsoft-dishes-the-dirt-on-apples-achilles-heel-shortly-after-fixing-similar-windows-bug/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep113: Pwning the Windows kernel – the crooks who hoodwinked Microsoft [Audio + Text]</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft dishes the dirt on Apple’s “Achilles heel” shortly after fixing similar Windows bug</h6> \
 </div> \
 </a> \
 </li> \
