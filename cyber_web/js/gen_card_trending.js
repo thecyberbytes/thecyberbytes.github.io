@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/elon-musk-elonjet-flight-tracker-transparency/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/12/hacked-ring-cams-used-to-record-swatting-victims/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Elon Musk and the Dangers of Censoring Real-Time Flight Trackers</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Hacked Ring Cams Used to Record Swatting Victims</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/09/s3-ep112-data-breaches-can-haunt-you-more-than-once-audio-text/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2022/12/the-equifax-breach-settlement-offer-is-real-for-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep112: Data breaches can haunt you more than once! [Audio + Text]</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Equifax Breach Settlement Offer is Real, For Now</h6> \
 </div> \
 </a> \
 </li> \

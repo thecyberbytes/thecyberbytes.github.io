@@ -9,15 +9,6 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/elon-musk-elonjet-flight-tracker-transparency/" target="_blank"> \
-<img src="https://media.wired.com/photos/63a10032afe8b82f7154e62c/master/pass/Sec-planetail-musk-tracking-97843196.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Elon Musk and the Dangers of Censoring Real-Time Flight Trackers</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 20, 2022</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
 <a href="https://krebsonsecurity.com/2022/12/hacked-ring-cams-used-to-record-swatting-victims/" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2022/12/ringdoor.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -27,11 +18,20 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2022/12/19/how-set-up-parental-controls-childs-new-smartphone/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/children-smartphones-parental-controls-security-privacy.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2022/12/the-equifax-breach-settlement-offer-is-real-for-now/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/12/equifaxbreachsettlementletter.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>How to set up parental controls on your child’s new smartphone</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 19, 2022</p> \
+<h2>The Equifax Breach Settlement Offer is Real, For Now</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 20, 2022</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/elon-musk-elonjet-flight-tracker-transparency/" target="_blank"> \
+<img src="https://media.wired.com/photos/63a10032afe8b82f7154e62c/master/pass/Sec-planetail-musk-tracking-97843196.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Elon Musk and the Dangers of Censoring Real-Time Flight Trackers</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 20, 2022</p> \
 </div> \
 </a> \
 </div> \
