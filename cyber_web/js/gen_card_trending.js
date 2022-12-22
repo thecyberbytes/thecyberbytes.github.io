@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2022/12/21/tis-season-gaming-keeping-children-safe-parents-sane/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/22/s3-ep114-preventing-cyberthreats-stop-them-before-they-stop-you-audio-text/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">‘Tis the season for gaming: Keeping children safe (and parents sane)</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep114: Preventing cyberthreats – stop them before they stop you! [Audio + Text]</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/gps-jamming-interference-russia-ukraine/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/what-is-flipper-zero-tiktok/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">GPS Signals Are Being Disrupted in Russian Cities</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">What Is Flipper Zero? The Hacker Tool Going Viral on TikTok, Explained</h6> \
 </div> \
 </a> \
 </li> \
