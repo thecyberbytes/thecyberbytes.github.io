@@ -1,10 +1,10 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/23/lastpass-finally-admits-they-did-steal-your-password-vaults-after-all/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/vault-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/russia-jfk-taxi-hack-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/63a4910eaf98f8fb191c2456/master/pass/Sec-jfk-taxis-978846126.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>LastPass finally admits: They did steal your password vaults after all</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 23, 2022</p> \
+<h2>Russians Hacked JFK Airport Taxi Dispatch in Line-Skipping Scheme</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 24, 2022</p> \
 </div> \
 </a> \
 </div> \
@@ -18,11 +18,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/what-is-flipper-zero-tiktok/" target="_blank"> \
-<img src="https://media.wired.com/photos/639a3cfa97910e7b896daef8/master/pass/YearEndReview_FlipperZero.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/23/lastpass-finally-admits-they-did-steal-your-password-vaults-after-all/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/vault-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>What Is Flipper Zero? The Hacker Tool Going Viral on TikTok, Explained</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 22, 2022</p> \
+<h2>LastPass finally admits: They did steal your password vaults after all</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 23, 2022</p> \
 </div> \
 </a> \
 </div> \
