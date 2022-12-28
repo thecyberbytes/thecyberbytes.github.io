@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/hacktivism-russia-ukraine-ddos/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/russia-cyberwar-ukraine-target-civilians/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Hacktivism Is Back and Messier Than Ever</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Russia’s Cyberwar Foreshadowed Deadly Attacks on Civilians</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/12/the-equifax-breach-settlement-offer-is-real-for-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/28/twitter-data-of-400-million-unique-users-up-for-sale-what-to-do/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Equifax Breach Settlement Offer is Real, For Now</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Twitter data of “+400 million unique users” up for sale – what to do?</h6> \
 </div> \
 </a> \
 </li> \
