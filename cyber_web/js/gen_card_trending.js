@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/russia-cyberwar-ukraine-target-civilians/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/29/the-horror-the-horror-notepad-gets-tabbed-editing-very-briefly/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Russia’s Cyberwar Foreshadowed Deadly Attacks on Civilians</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The horror! The horror! NOTEPAD gets tabbed editing (very briefly)</h6> \
 </div> \
 </a> \
 </li> \
