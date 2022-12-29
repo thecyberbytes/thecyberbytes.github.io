@@ -18,19 +18,19 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2022/12/27/2022-review-10-biggest-cyberattacks/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/2022-biggest-cyberattacks-breaches.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/lastpass-breach-vaults-password-managers/" target="_blank"> \
+<img src="https://media.wired.com/photos/62f44a1f16995ea7b1a92d66/master/pass/security-code-theft.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>2022 in review: 10 of the year’s biggest cyberattacks</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 27, 2022</p> \
+<h2>LastPass Data Breach: It’s Time to Ditch This Password Manager</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 28, 2022</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/hacktivism-russia-ukraine-ddos/" target="_blank"> \
-<img src="https://media.wired.com/photos/63a38cef07a81437614e7763/master/pass/hactivism.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/27/critical-10-out-of-10-linux-kernel-smb-hole-should-you-worry/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/02/linux-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Hacktivism Is Back and Messier Than Ever</h2> \
+<h2>Critical “10-out-of-10” Linux kernel SMB hole – should you worry?</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 27, 2022</p> \
 </div> \
 </a> \
