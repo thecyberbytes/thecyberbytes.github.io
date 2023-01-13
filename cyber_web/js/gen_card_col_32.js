@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/elon-musk-elonjet-flight-tracker-transparency/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/63a10032afe8b82f7154e62c/master/pass/Sec-planetail-musk-tracking-97843196.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.welivesecurity.com/2023/01/03/gaming-how-much-too-much-children/" target="_blank" style="text-decoration:none"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/gaming-children-screen-time-excessive.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>December 20, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Elon Musk and the Dangers of Censoring Real-Time Flight Trackers</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>January 03, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Gaming: How much is too much for our children?</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/20/microsoft-dishes-the-dirt-on-apples-achilles-heel-shortly-after-fixing-similar-windows-bug/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/achilles-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://nakedsecurity.sophos.com/2023/01/03/inside-a-scammers-lair-ukraine-busts-40-in-fake-bank-call-centre-raid/" target="_blank" style="text-decoration:none"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/01/cc-1200.jpg?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Vulnerability</span> <span class="mx-1">&bullet;</span> <span>December 20, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Microsoft dishes the dirt on Apple’s “Achilles heel” shortly after fixing similar Windows bug</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>January 03, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Inside a scammers’ lair: Ukraine busts 40 in fake bank call-centre raid</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2022/12/hacked-ring-cams-used-to-record-swatting-victims/" target="_blank" style="text-decoration:none"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/12/ringdoor.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.welivesecurity.com/2023/01/02/most-common-passwords-what-do-if-yours-list/" target="_blank" style="text-decoration:none"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/common-worst-passwords.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>December 20, 2022</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Hacked Ring Cams Used to Record Swatting Victims</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>January 02, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">The world’s most common passwords: What to do if yours is on the list</h5> \
 </div> \
 </a> \
 </div> \
