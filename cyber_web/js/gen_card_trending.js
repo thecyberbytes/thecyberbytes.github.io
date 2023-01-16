@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/cyber-ambassadors-india/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/16/multi-million-investment-scammers-busted-in-four-country-europol-raid/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">In the Fight Against Scams, ‘Cyber Ambassadors’ Enter the Chat</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Multi-million investment scammers busted in four-country Europol raid</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/slack-data-breach-security-news-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/apple-privacy-data-collection/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Slack Discloses Breach of Its Github Code Repository</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">All the Data Apple Collects About You—and How to Limit It</h6> \
 </div> \
 </a> \
 </li> \
