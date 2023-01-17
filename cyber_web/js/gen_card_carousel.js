@@ -18,20 +18,20 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
+<a href="https://www.welivesecurity.com/2023/01/16/hybrid-commerce-blurring-lines-business-pleasure/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/hybrid-work-lives-cybersecurity-trends-2023-thumbnail.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Hybrid commerce: Blurring the lines between business and pleasure</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">January 16, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/royal-mail-ransomware-attack-security-roundup/" target="_blank"> \
 <img src="https://media.wired.com/photos/63c1b2c4ba53d80ea8aba4f9/master/pass/Biz-royal-mail-1373083882.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>Russian Ransomware Gang Attack Destabilizes UK Royal Mail</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">January 14, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/videos/strongpity-apt-telegram-shagle-week-security-tony-anscombe/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/0-13.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>APT group trojanizes Telegram app – Week in security with Tony Anscombe</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">January 13, 2023</p> \
 </div> \
 </a> \
 </div> \
