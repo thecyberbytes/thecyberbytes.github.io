@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/vastflux-ad-fraud/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/cloudflare-internet-blackouts-report/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">A Sneaky Ad Scam Tore Through 11 Million Phones</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Welcome to the Era of Internet Blackouts</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/apple-privacy-data-collection/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/01/new-t-mobile-breach-affects-37-million-accounts/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">All the Data Apple Collects About You—and How to Limit It</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">New T-Mobile Breach Affects 37 Million Accounts</h6> \
 </div> \
 </a> \
 </li> \
