@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/how-to-encrypt-any-file-folder-drive/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/23/serious-security-how-deliberate-typos-might-improve-dns-security/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">How to Encrypt any File, Folder, or Drive on Your System</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Serious Security: How dEliBeRaTe tYpOs might imProVe DNS security</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/tmobile-data-breach-again/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/diksha-india-education-app-data-exposure/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">T-Mobile\'s New Data Breach Shows Its $150 Million Security Investment Isn\'t Cutting It</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Flaw in Diksha App Exposed the Data of Millions of Indian Students</h6> \
 </div> \
 </a> \
 </li> \
