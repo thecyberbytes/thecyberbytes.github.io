@@ -1,10 +1,10 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/23/serious-security-how-deliberate-typos-might-improve-dns-security/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/01/rfc-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/24/apple-patches-are-out-old-iphones-get-an-old-zero-day-fix-at-last/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Serious Security: How dEliBeRaTe tYpOs might imProVe DNS security</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">January 23, 2023</p> \
+<h2>Apple patches are out – old iPhones get an old zero-day fix at last!</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">January 24, 2023</p> \
 </div> \
 </a> \
 </div> \
@@ -18,20 +18,20 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
+<a href="https://nakedsecurity.sophos.com/2023/01/23/serious-security-how-deliberate-typos-might-improve-dns-security/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/01/rfc-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Serious Security: How dEliBeRaTe tYpOs might imProVe DNS security</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">January 23, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/how-to-encrypt-any-file-folder-drive/" target="_blank"> \
 <img src="https://media.wired.com/photos/63cafa23ba53d80ea8aba60b/master/pass/How-to-Enccrypt-Any-File-Gear.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>How to Encrypt any File, Folder, or Drive on Your System</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">January 22, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/trac-money-transfer-surveillance-security-roundup/" target="_blank"> \
-<img src="https://media.wired.com/photos/63c9cf5b9b14ca84bad14821/master/pass/Sec-money-transfer-500921321.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The Biggest US Surveillance Program You Didn’t Know About</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">January 21, 2023</p> \
 </div> \
 </a> \
 </div> \

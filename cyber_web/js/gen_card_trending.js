@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/23/serious-security-how-deliberate-typos-might-improve-dns-security/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/24/apple-patches-are-out-old-iphones-get-an-old-zero-day-fix-at-last/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Serious Security: How dEliBeRaTe tYpOs might imProVe DNS security</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Apple patches are out – old iPhones get an old zero-day fix at last!</h6> \
 </div> \
 </a> \
 </li> \
