@@ -1,15 +1,15 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/cryptocurrency-money-laundering-chainalysis-report/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Unmasking MirrorFace: Operation LiberalFace targeting Japanese political entities</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Most Criminal Cryptocurrency Funnels Through Just 5 Exchanges</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/25/goto-admits-customer-cloud-backups-stolen-together-with-decryption-key/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/best-personal-safety-tech/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">GoTo admits: Customer cloud backups stolen together with decryption key</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Best Personal Safety Devices, Apps, and Alarms (2023)</h6> \
 </div> \
 </a> \
 </li> \
