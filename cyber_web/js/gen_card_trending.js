@@ -21,16 +21,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/01/10/strongpity-espionage-campaign-targeting-android-users/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/ads-b-exchange-jetnet-sale/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">StrongPity espionage campaign targeting Android users</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">ADS-B Exchange, the Flight Tracker That Powered @ElonJet, Sold to Jetnet</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/lockbit-ransomware-attacks/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/27/hive-ransomware-servers-shut-down-at-last-says-fbi/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Unrelenting Menace of the LockBit Ransomware Gang</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Hive ransomware servers shut down at last, says FBI</h6> \
 </div> \
 </a> \
 </li> \
