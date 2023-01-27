@@ -14,9 +14,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/diksha-india-education-app-data-exposure/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/26/dutch-suspect-locked-up-for-alleged-personal-data-megathefts/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Flaw in Diksha App Exposed the Data of Millions of Indian Students</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Dutch suspect locked up for alleged personal data megathefts</h6> \
 </div> \
 </a> \
 </li> \
