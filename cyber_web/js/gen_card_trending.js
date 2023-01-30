@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/meduza-russia-outlaw-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/30/serious-security-the-samba-logon-bug-caused-by-outdated-crypto/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">A Link to News Site Meduza Can (Technically) Land You in Russian Prison</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Serious Security: The Samba logon bug caused by outdated crypto</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/27/hive-ransomware-servers-shut-down-at-last-says-fbi/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/ransomware-attack-recovery-hackney/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Hive ransomware servers shut down at last, says FBI</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Untold Story of a Crippling Ransomware Attack</h6> \
 </div> \
 </a> \
 </li> \
