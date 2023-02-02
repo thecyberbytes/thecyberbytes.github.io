@@ -1,10 +1,10 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/01/password-stealing-vulnerability-reported-in-keypass-bug-or-feature/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/kp-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/02/s3-ep120-when-dud-crypto-simply-wont-let-go-audio-text/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/bn-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Password-stealing “vulnerability” reported in KeePass – bug or feature?</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 01, 2023</p> \
+<h2>S3 Ep120: When dud crypto simply won’t let go [Audio + Text]</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 02, 2023</p> \
 </div> \
 </a> \
 </div> \
@@ -12,7 +12,7 @@ document.write(' \
 <a href="https://nakedsecurity.sophos.com/2023/02/01/password-stealing-vulnerability-reported-in-keypass-bug-or-feature/" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/kp-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Password-stealing “vulnerability” reported in KeyPass – bug or feature?</h2> \
+<h2>Password-stealing “vulnerability” reported in KeePass – bug or feature?</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 01, 2023</p> \
 </div> \
 </a> \
@@ -27,11 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2023/01/31/eset-apt-activity-report-t3-2022/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/eset-t3-2022-apt-activity-report.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/01/password-stealing-vulnerability-reported-in-keypass-bug-or-feature/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/kp-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>ESET APT Activity Report T3 2022</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">January 31, 2023</p> \
+<h2>Password-stealing “vulnerability” reported in KeyPass – bug or feature?</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 01, 2023</p> \
 </div> \
 </a> \
 </div> \
