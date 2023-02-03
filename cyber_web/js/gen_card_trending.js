@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/netflix-password-sharing-crackdown-us-mistake/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/videos/key-takeaways-eset-apt-activity-report-t3-2022-week-security-tony-anscombe/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Netflix’s US Password-Sharing Crackdown Isn’t Happening—Yet</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Key takeaways from ESET’s new APT Activity Report – Week in security with Tony Anscombe</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ads-b-exchange-jetnet-sale/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/03/openssh-fixes-double-free-memory-bug-thats-pokable-over-the-network/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">ADS-B Exchange, the Flight Tracker That Powered @ElonJet, Sold to Jetnet</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">OpenSSH fixes double-free memory bug that’s pokable over the network</h6> \
 </div> \
 </a> \
 </li> \
@@ -37,7 +37,7 @@ document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://nakedsecurity.sophos.com/2023/02/01/password-stealing-vulnerability-reported-in-keypass-bug-or-feature/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Password-stealing “vulnerability” reported in KeePass – bug or feature?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Password-stealing “vulnerability” reported in KeyPass – bug or feature?</h6> \
 </div> \
 </a> \
 </li> \
