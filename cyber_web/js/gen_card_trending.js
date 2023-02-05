@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/03/openssh-fixes-double-free-memory-bug-thats-pokable-over-the-network/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">OpenSSH fixes double-free memory bug that’s pokable over the network</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Finland’s Most-Wanted Hacker Nabbed in France</h6> \
 </div> \
 </a> \
 </li> \
