@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/02/07/into-void-tech-security-digital-darkness/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/02/09/alexa-who-else-is-listening/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Into the void: Your tech and security in digital darkness</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Alexa, who else is listening?</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/02/finlands-most-wanted-hacker-nabbed-in-france/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/delete-twitter-dms-gdpr/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Finland’s Most-Wanted Hacker Nabbed in France</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Want to Delete Your Twitter DMs? Good Luck With That</h6> \
 </div> \
 </a> \
 </li> \
