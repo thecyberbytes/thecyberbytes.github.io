@@ -14,9 +14,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/fcra-letter-data-brokers-privacy-regulation/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/biden-2023-sotu-data-privacy/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">How the US Can Stop Data Brokers\' Worst Practices—Right Now</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Biden’s SOTU: Data Privacy Is Now a Must-Hit US State of the Union Topic</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/08/openssl-fixes-high-severity-data-stealing-bug-patch-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/02/08/eset-threat-report-t3-2022/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">OpenSSL fixes High Severity data-stealing bug – patch now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">ESET Threat Report T3 2022</h6> \
 </div> \
 </a> \
 </li> \
