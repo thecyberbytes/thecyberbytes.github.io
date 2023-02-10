@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/07/using-vmware-worried-about-esxi-ransomware-check-your-patches-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/conti-trickbot-ransomware-sanctions-uk-us/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">VMWare user? Worried about “ESXi ransomware”? Check your patches now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Russia’s Ransomware Gangs Are Being Named and Shamed</h6> \
 </div> \
 </a> \
 </li> \
