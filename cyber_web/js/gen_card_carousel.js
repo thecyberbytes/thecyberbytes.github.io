@@ -9,20 +9,20 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/" target="_blank"> \
-<img src="https://media.wired.com/photos/63e54dde552920ecdc857e5c/master/pass/sec-northkorea-1464338040.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/fbi-section-702/" target="_blank"> \
+<img src="https://media.wired.com/photos/63e562e6de59d567d5d7c66b/master/pass/FBI-Unlawfully-Searched-a-Classified-FISA-Database-Using-a-US-Congressman\'s-Name-Security-GettyImages-108198731.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Meet the Creator of North Korea’s Favorite Crypto Privacy Service</h2> \
+<h2>The FBI’s Most Controversial Surveillance Tool Is Under Threat</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 10, 2023</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2023/02/09/s3-ep121-can-you-get-hacked-and-then-prosecuted-for-it-audio-text/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/nsp-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/" target="_blank"> \
+<img src="https://media.wired.com/photos/63e54dde552920ecdc857e5c/master/pass/sec-northkorea-1464338040.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>S3 Ep121: Can you get hacked and then prosecuted for it? [Audio + Text]</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 09, 2023</p> \
+<h2>Meet the Creator of North Korea’s Favorite Crypto Privacy Service</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 10, 2023</p> \
 </div> \
 </a> \
 </div> \
