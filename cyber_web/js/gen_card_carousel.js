@@ -1,19 +1,19 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/how-to-not-accidentally-share-your-location/" target="_blank"> \
+<img src="https://media.wired.com/photos/63e6a368de5e9cf54ad7745c/master/pass/How-to-Make-Sure-You\'re-Not-Sharing-Location-Featured-Gear.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>How to Make Sure You’re Not Accidentally Sharing Your Location</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 12, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/north-korea-hacking-us-hospitals/" target="_blank"> \
 <img src="https://media.wired.com/photos/63e6cce31b87b32b35988bd8/master/pass/Sec-hospital-hackrs-177742282.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>North Korean Hackers Are Attacking US Hospitals</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 11, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/videos/key-findings-from-the-latest-eset-threat-report-week-in-security-with-tony-anscombe/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/0-11.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Key findings from the latest ESET Threat Report – Week in security with Tony Anscombe</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 10, 2023</p> \
 </div> \
 </a> \
 </div> \
