@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/pig-butchering-scams-evolving/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/13/serious-security-gnutls-follows-openssl-fixes-timing-attack-bug/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Pig Butchering Scams Are Evolving Fast</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Serious Security: GnuTLS follows OpenSSL, fixes timing attack bug</h6> \
 </div> \
 </a> \
 </li> \
