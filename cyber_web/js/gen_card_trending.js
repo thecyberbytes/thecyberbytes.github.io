@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/security-camera-tips-and-risks/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/02/16/these-arent-apps-youre-looking-for-fake-installers/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">What to Look for When Buying a Security Camera (2023): Tips and Risks</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">These aren’t the apps you’re looking for: fake installers targeting Southeast and East Asia</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/us-border-patrol-epassport-verification/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/16/s3-ep122-stop-calling-every-breach-sophisticated-audio-text/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">US Border Patrol Is Finally Able to Check E-Passport Data</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep122: Stop calling every breach “sophisticated”! [Audio + Text]</h6> \
 </div> \
 </a> \
 </li> \
