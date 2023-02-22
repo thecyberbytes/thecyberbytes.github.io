@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/21/coinbase-breached-by-social-engineers-employee-data-stolen/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/02/22/chatgpt-level-up-phishing-defenses/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Coinbase breached by social engineers, employee data stolen</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Writing like a boss using ChatGPT and how to get better at spotting phishing scams</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/wired-guide-to-data-breaches/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/02/21/eset-smb-digital-security-sentiment-report-damaging-effects-breach/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Data Breaches: The Complete WIRED Guide</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">ESET SMB Digital Security Sentiment Report: The damaging effects of a breach</h6> \
 </div> \
 </a> \
 </li> \
