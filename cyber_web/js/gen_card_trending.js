@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/22/npm-javascript-packages-abused-to-create-scambait-links-in-bulk/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/02/23/winordll64-backdoor-vast-lazarus-arsenal/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">NPM JavaScript packages abused to create scambait links in bulk</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">WinorDLL64: A backdoor from the vast Lazarus arsenal?</h6> \
 </div> \
 </a> \
 </li> \
