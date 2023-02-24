@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/02/23/winordll64-backdoor-vast-lazarus-arsenal/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/02/24/year-wiper-attacks-ukraine/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">WinorDLL64: A backdoor from the vast Lazarus arsenal?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">A year of wiper attacks in Ukraine</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/14/microsoft-patch-tuesday-36-rce-bugs-3-zero-days-75-cves/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/02/microsoft-patch-tuesday-february-2023-edition/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday: 36 RCE bugs, 3 zero-days, 75 CVEs</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, February 2023 Edition</h6> \
 </div> \
 </a> \
 </li> \
