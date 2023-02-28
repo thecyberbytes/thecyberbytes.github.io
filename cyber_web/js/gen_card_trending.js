@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/27/dutch-police-arrest-three-cyberextortion-suspects-who-allegedly-earned-millions/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/28/lastpass-the-crooks-used-a-keylogger-to-crack-a-corporatre-password-vault/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Dutch police arrest three cyberextortion suspects who allegedly earned millions</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">LastPass: The crooks used a keylogger to crack a corporatre password vault</h6> \
 </div> \
 </a> \
 </li> \
