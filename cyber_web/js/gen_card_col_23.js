@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/wired-guide-to-data-breaches/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/5c098e5fd146d62d209935fc/master/pass/Data-Breaches.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/twitter-sms-2fa-twitter-blue/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/63f073e89f6497cd1808ad5b/master/pass/Twitter-2-factor-1245209524.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>February 17, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Data Breaches: The Complete WIRED Guide</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>February 18, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Twitter’s Two-Factor Authentication Change ‘Doesn\'t Make Sense’</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/02/new-protections-for-food-benefits-stolen-by-skimmers/" target="_blank" style="text-decoration:none"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/02/ebtwelcome.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/godaddy-hacked-3-years/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/63f018977d87edd2f4f3512b/master/pass/Security-News-This-Week--Hackers-Ran-Amok-Inside-GoDaddy-for-Nearly-3-Years-Security-GettyImages-1363749400.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>February 17, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">New Protections for Food Benefits Stolen by Skimmers</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>February 18, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Hackers Ran Amok Inside GoDaddy for Nearly 3 Years</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/16/s3-ep122-stop-calling-every-breach-sophisticated-audio-text/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/eniac-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/twitter-sms-2fa-twitter-blue/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/63f073e89f6497cd1808ad5b/master/pass/Twitter-2-factor-1245209524.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>February 16, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">S3 Ep122: Stop calling every breach “sophisticated”! [Audio + Text]</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>February 18, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Twitter\'s Two-Factor Authentication Change \'Doesn\'t Make Sense\'</h5> \
 </div> \
 </a> \
 </div> \
