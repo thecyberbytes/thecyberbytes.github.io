@@ -9,14 +9,14 @@ document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://nakedsecurity.sophos.com/2023/02/28/lastpass-the-crooks-used-a-keylogger-to-crack-a-corporatre-password-vault/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">LastPass: Keylogger on home PC led to cracked corporate password vault</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">LastPass: The crooks used a keylogger to crack a corporatre password vault</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/02/21/eset-smb-digital-security-sentiment-report-damaging-effects-breach/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/02/28/eset-research-podcast-ransomware-trashed-data-android-threats/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">ESET SMB Digital Security Sentiment Report: The damaging effects of a breach</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">ESET Research Podcast: Ransomware trashed data, Android threats soared in T3 2022</h6> \
 </div> \
 </a> \
 </li> \
