@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/03/highlights-from-the-new-u-s-cybersecurity-strategy/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/russia-ncc-phone-android-sanctions/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Highlights from the New U.S. Cybersecurity Strategy</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Sketchy Plan to Build a Russian Android Phone</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/conti-trickbot-ransomware-sanctions-uk-us/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/03/feds-warn-about-right-royal-ransomware-rampage-that-runs-the-gamut-of-ttps/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Russia’s Ransomware Gangs Are Being Named and Shamed</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Feds warn about right Royal ransomware rampage that runs the gamut of TTPs</h6> \
 </div> \
 </a> \
 </li> \
