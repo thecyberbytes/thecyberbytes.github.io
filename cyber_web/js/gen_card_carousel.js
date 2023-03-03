@@ -1,18 +1,18 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/dji-droneid-operator-location-hacker-tool/" target="_blank"> \
-<img src="https://media.wired.com/photos/63ffb66b8320ec773f818fb3/master/pass/Radio-Hackers-Can-Eavesdrop-on-Any-DJI-Drone-to-Find-Its-Operator-GettyImages-1242282794.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2023/03/highlights-from-the-new-u-s-cybersecurity-strategy/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/nationalcyberstrategy2023.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>This Hacker Tool Can Pinpoint a DJI Drone Operator\'s Exact Location</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 02, 2023</p> \
+<h2>Highlights from the New U.S. Cybersecurity Strategy</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 03, 2023</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2023/03/02/mqsttang-mustang-panda-latest-backdoor-treads-new-ground-qt-mqtt/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/MQsTTang-apt-mustang-panda-backdoor.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/dji-droneid-operator-location-hacker-tool/" target="_blank"> \
+<img src="https://media.wired.com/photos/63ffb66b8320ec773f818fb3/master/pass/Radio-Hackers-Can-Eavesdrop-on-Any-DJI-Drone-to-Find-Its-Operator-GettyImages-1242282794.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>MQsTTang: Mustang Panda’s latest backdoor treads new ground with Qt and MQTT</h2> \
+<h2>This Hacker Tool Can Pinpoint a DJI Drone Operator\'s Exact Location</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 02, 2023</p> \
 </div> \
 </a> \
@@ -27,11 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/blacklotus-uefi-bootkit-secure-boot.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/2023/03/02/mqsttang-mustang-panda-latest-backdoor-treads-new-ground-qt-mqtt/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/MQsTTang-apt-mustang-panda-backdoor.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>BlackLotus UEFI bootkit: Myth confirmed</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 01, 2023</p> \
+<h2>MQsTTang: Mustang Panda’s latest backdoor treads new ground with Qt and MQTT</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 02, 2023</p> \
 </div> \
 </a> \
 </div> \
