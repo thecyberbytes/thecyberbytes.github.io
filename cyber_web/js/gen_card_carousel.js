@@ -1,28 +1,28 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/russia-ncc-phone-android-sanctions/" target="_blank"> \
-<img src="https://media.wired.com/photos/640119135ab66aa6140992ca/master/pass/Russia-Is-Building-Its-Own-Smartphone-Security-GettyImages-454395485.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/lastpass-engineer-breach-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/64024b39c8533bbdc5152a22/master/pass/Hackers-Compromised-LastPass-Engineer\'s-Personal-Computer-to-Ransack-Company-Cloud-Security-GettyImages-551984543.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>The Sketchy Plan to Build a Russian Android Phone</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 03, 2023</p> \
+<h2>The LastPass Hack Somehow Gets Worse</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 04, 2023</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2023/03/highlights-from-the-new-u-s-cybersecurity-strategy/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/nationalcyberstrategy2023.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/white-house-national-cybersecurity-strategy/" target="_blank"> \
+<img src="https://media.wired.com/photos/6400d9522ebbc2d0389fc291/master/pass/wh_cyber_sec_GettyImages-1244620702.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Highlights from the New U.S. Cybersecurity Strategy</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 03, 2023</p> \
+<h2>The High-Stakes Blame Game in the White House Cybersecurity Plan</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 04, 2023</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2023/03/03/feds-warn-about-right-royal-ransomware-rampage-that-runs-the-gamut-of-ttps/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/throne-1200-1.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/what-to-do-boss-spying-surveillance-bossware/" target="_blank"> \
+<img src="https://media.wired.com/photos/640261f7c8533bbdc5152a2f/master/pass/What-to-Do-When-Your-Boss-Is-Spying-on-You-Gear-GettyImages-BD6229-001.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Feds warn about right Royal ransomware rampage that runs the gamut of TTPs</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 03, 2023</p> \
+<h2>What to Do When Your Boss Is Spying on You</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 04, 2023</p> \
 </div> \
 </a> \
 </div> \
