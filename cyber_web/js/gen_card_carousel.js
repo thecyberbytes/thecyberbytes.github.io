@@ -1,10 +1,10 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/lastpass-engineer-breach-security-roundup/" target="_blank"> \
-<img src="https://media.wired.com/photos/64024b39c8533bbdc5152a22/master/pass/Hackers-Compromised-LastPass-Engineer\'s-Personal-Computer-to-Ransack-Company-Cloud-Security-GettyImages-551984543.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/peter-eckersley-ai-objectives-institute/" target="_blank"> \
+<img src="https://media.wired.com/photos/640263082ebbc2d0389fc29b/master/pass/A-Privacy-Hero\'s-Final-Wish-A-Project-To-Redirect-AI\'s-Future-Security.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>The LastPass Hack Somehow Gets Worse</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 04, 2023</p> \
+<h2>A Privacy Hero\'s Final Wish: An Institute to Redirect AI\'s Future</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 05, 2023</p> \
 </div> \
 </a> \
 </div> \
@@ -27,11 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/videos/what-does-5000-buy-you-on-a-hacking-forum-week-in-security-with-tony-anscombe/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/0-6.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/lastpass-engineer-breach-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/64024b39c8533bbdc5152a22/master/pass/Hackers-Compromised-LastPass-Engineer\'s-Personal-Computer-to-Ransack-Company-Cloud-Security-GettyImages-551984543.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>What does $5,000 buy you on a hacking forum? – Week in security with Tony Anscombe</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 03, 2023</p> \
+<h2>The LastPass Hack Somehow Gets Worse</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 04, 2023</p> \
 </div> \
 </a> \
 </div> \
