@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/03/07/love-scam-espionage-transparent-tribe-lures-indian-pakistani-officials/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Love scam or espionage? Transparent Tribe lures Indian and Pakistani officials</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Sued by Meta, Freenom Halts Domain Registrations</h6> \
 </div> \
 </a> \
 </li> \
