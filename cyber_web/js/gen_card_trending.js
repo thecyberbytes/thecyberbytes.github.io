@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/us-air-force-skyborg-vista-ai-fighter-jets/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/03/08/woman-mars-pursuit-of-space-exploration/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The US Air Force Is Moving Fast on AI-Piloted Fighter Jets</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">‘A woman from Mars’: Life in the pursuit of space exploration</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/02/28/eset-research-podcast-ransomware-trashed-data-android-threats/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/fbi-purchase-location-data-wray-senate/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">ESET Research Podcast: Ransomware trashed data, Android threats soared in T3 2022</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The FBI Just Admitted It Bought US Location Data</h6> \
 </div> \
 </a> \
 </li> \

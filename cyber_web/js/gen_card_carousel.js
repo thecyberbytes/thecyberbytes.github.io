@@ -1,9 +1,9 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/us-air-force-skyborg-vista-ai-fighter-jets/" target="_blank"> \
-<img src="https://media.wired.com/photos/6408aecdfedb0acc6b3c365c/master/pass/Air-Force-Skyborg-Security.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/fbi-purchase-location-data-wray-senate/" target="_blank"> \
+<img src="https://media.wired.com/photos/6408c40b15aacf925a9f4611/master/pass/ChrisWray_Sec_GettyImages-1242321671-.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>The US Air Force Is Moving Fast on AI-Piloted Fighter Jets</h2> \
+<h2>The FBI Just Admitted It Bought US Location Data</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 08, 2023</p> \
 </div> \
 </a> \
@@ -18,19 +18,19 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/algorithms-welfare-state-politics/" target="_blank"> \
-<img src="https://media.wired.com/photos/63ffb51fc2d9b959e78af226/master/pass/wired_welfarealgorithms_2a_BLK.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/us-air-force-skyborg-vista-ai-fighter-jets/" target="_blank"> \
+<img src="https://media.wired.com/photos/6408aecdfedb0acc6b3c365c/master/pass/Air-Force-Skyborg-Security.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>How Denmark’s Welfare State Became a Surveillance Nightmare</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 07, 2023</p> \
+<h2>The US Air Force Is Moving Fast on AI-Piloted Fighter Jets</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 08, 2023</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2023/03/07/love-scam-espionage-transparent-tribe-lures-indian-pakistani-officials/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/transparent-tribe-apt-espionage-india-pakistan.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/07/serious-security-tpm-2-0-vulns-is-your-super-secure-data-at-risk/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/tpm1-chip-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Love scam or espionage? Transparent Tribe lures Indian and Pakistani officials</h2> \
+<h2>Serious Security: TPM 2.0 vulns – is your super-secure data at risk?</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 07, 2023</p> \
 </div> \
 </a> \
