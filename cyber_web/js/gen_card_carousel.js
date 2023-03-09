@@ -1,19 +1,19 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/fbi-purchase-location-data-wray-senate/" target="_blank"> \
-<img src="https://media.wired.com/photos/6408c40b15aacf925a9f4611/master/pass/ChrisWray_Sec_GettyImages-1242321671-.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/09/s3-ep125-when-security-hardware-has-security-holes-audio-text/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/ns-1200-generic-featured-image-blue-digits.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>The FBI Just Admitted It Bought US Location Data</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 08, 2023</p> \
+<h2>S3 Ep125: When security hardware has security holes [Audio + Text]</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 09, 2023</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2023/03/08/woman-mars-pursuit-of-space-exploration/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/michaela-musilova-astrobiologist.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2023/03/whos-behind-the-netwire-remote-access-trojan/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/wwls.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>‘A woman from Mars’: Life in the pursuit of space exploration</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 08, 2023</p> \
+<h2>Who’s Behind the NetWire Remote Access Trojan?</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 09, 2023</p> \
 </div> \
 </a> \
 </div> \
@@ -27,11 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2023/03/07/serious-security-tpm-2-0-vulns-is-your-super-secure-data-at-risk/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/tpm1-chip-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/fbi-purchase-location-data-wray-senate/" target="_blank"> \
+<img src="https://media.wired.com/photos/6408c40b15aacf925a9f4611/master/pass/ChrisWray_Sec_GettyImages-1242321671-.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Serious Security: TPM 2.0 vulns – is your super-secure data at risk?</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 07, 2023</p> \
+<h2>The FBI Just Admitted It Bought US Location Data</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 08, 2023</p> \
 </div> \
 </a> \
 </div> \
