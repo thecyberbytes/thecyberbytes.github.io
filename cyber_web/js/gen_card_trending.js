@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/09/s3-ep125-when-security-hardware-has-security-holes-audio-text/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/darin-lahood-fbi-backdoor-search/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep125: When security hardware has security holes [Audio + Text]</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Congressman Darin LaHood Says FBI Targeted Him With Unlawful \'Backdoor\' Searches</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/02/microsoft-patch-tuesday-february-2023-edition/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/pig-butchering-fbi-ic3-2022-report/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, February 2023 Edition</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">‘Pig Butchering’ Scams Are Now a $3 Billion Threat</h6> \
 </div> \
 </a> \
 </li> \
