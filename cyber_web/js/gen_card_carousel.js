@@ -1,5 +1,23 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/13/linux-gets-double-quick-double-update-to-fix-kernel-oops/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/oops-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Linux gets double-quick double-update to fix kernel Oops!</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 13, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/ransomware-tactics-cancer-photos-student-records/" target="_blank"> \
+<img src="https://media.wired.com/photos/640a4cf030bc22745cd8c694/master/pass/Minneapolis-School-Ransomware-Attack-Signals-Chilling-Shift-Security-GettyImages-200415233-001.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Ransomware Attacks Have Entered a ‘Heinous’ New Phase</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 13, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/catholic-priest-doxing-security-roundup/" target="_blank"> \
 <img src="https://media.wired.com/photos/640bbc9cadfa3e75aa38e7f6/master/pass/Security-Roundup-Catholic-Priests-Security-GettyImages-1212540026.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -9,28 +27,10 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/videos/apt-hackers-honeytrap-ensnare-targets-week-security-tony-anscombe/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/0-14.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>APT hackers set a honeytrap to ensnare victims – Week in security with Tony Anscombe</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 10, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
 <a href="https://www.welivesecurity.com/2023/03/10/common-whatsapp-scams-how-avoid/" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/whatsapp-scams-avoiding.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>Common WhatsApp scams and how to avoid them</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 10, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/pig-butchering-fbi-ic3-2022-report/" target="_blank"> \
-<img src="https://media.wired.com/photos/640a858e1e5227e76c60c3bc/master/pass/IC3-report-highlights-romance-scams-Security-GettyImages-123648076.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>‘Pig Butchering’ Scams Are Now a $3 Billion Threat</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 10, 2023</p> \
 </div> \
 </a> \
