@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/13/linux-gets-double-quick-double-update-to-fix-kernel-oops/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/03/13/signs-scam-how-tell-what-do-next/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Linux gets double-quick double-update to fix kernel Oops!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">5 signs you’ve fallen for a scam – and what to do next</h6> \
 </div> \
 </a> \
 </li> \
