@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/03/13/signs-scam-how-tell-what-do-next/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/03/two-us-men-charged-in-2022-hacking-of-dea-portal/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">5 signs you’ve fallen for a scam – and what to do next</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Two U.S. Men Charged in 2022 Hacking of DEA Portal</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/pig-butchering-fbi-ic3-2022-report/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/15/microsoft-fixes-two-0-days-on-patch-tuesday-update-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">‘Pig Butchering’ Scams Are Now a $3 Billion Threat</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft fixes two 0-days on Patch Tuesday – update now!</h6> \
 </div> \
 </a> \
 </li> \
