@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/17/dangerous-android-phone-0-day-bugs-revealed-patch-or-work-around-them-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/amazon-ring-hacked-ransomware/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Dangerous Android phone 0-day bugs revealed – patch or work around them now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Security News This Week: Ring Is in a Standoff With Hackers</h6> \
 </div> \
 </a> \
 </li> \
