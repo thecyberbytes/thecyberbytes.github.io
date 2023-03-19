@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/amazon-ring-hacked-ransomware/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/secret-service-investigated-me-twitter/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Security News This Week: Ring Is in a Standoff With Hackers</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">I Got Investigated by the Secret Service. Here\'s How to Not Be Me</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/15/microsoft-fixes-two-0-days-on-patch-tuesday-update-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/03/microsoft-patch-tuesday-march-2023-edition/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft fixes two 0-days on Patch Tuesday – update now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, March 2023 Edition</h6> \
 </div> \
 </a> \
 </li> \
