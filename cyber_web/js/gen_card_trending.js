@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/03/20/twitter-free-sms-2fa-secure-account/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/iran-cyber-army-protests-disinformation/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Twitter ends free SMS 2FA: Here’s how you can protect your account now</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Scorched-Earth Tactics of Iran’s Cyber Army</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/03/why-you-should-opt-out-of-sharing-data-with-your-mobile-provider/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/21/google-pixel-phones-had-a-serious-data-leakage-bug-heres-what-to-do/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Why You Should Opt Out of Sharing Data With Your Mobile Provider</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Google Pixel phones had a serious data leakage bug – here’s what to do!</h6> \
 </div> \
 </a> \
 </li> \
