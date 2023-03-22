@@ -9,20 +9,20 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/iran-cyber-army-protests-disinformation/" target="_blank"> \
-<img src="https://media.wired.com/photos/6418bb1b413564e54490febe/master/pass/scorchedearth_eggs_iran_sec_GettyImages-1332056910.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/how-to-tell-fake-ai-images-donald-trump-arrest/" target="_blank"> \
+<img src="https://media.wired.com/photos/641a3cc41b037831fcc7504c/master/pass/How-You-Can-Tell-the-AI-Images-of-Trump%E2%80%99s-Arrest-Are-Deepfakes-Security-GettyImages-1248481192.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>The Scorched-Earth Tactics of Iran’s Cyber Army</h2> \
+<h2>How You Can Tell the AI Images of Trump’s Arrest Are Deepfakes</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 21, 2023</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/nord-steam-explosions-mystery-osint/" target="_blank"> \
-<img src="https://media.wired.com/photos/6414e5695842f211652a9f78/master/pass/Online-Sleuths-Untangle-the-Mystery-of-the-Nord-Stream-Sabotage-Security-GettyImages-1368238787.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/iran-cyber-army-protests-disinformation/" target="_blank"> \
+<img src="https://media.wired.com/photos/6418bb1b413564e54490febe/master/pass/scorchedearth_eggs_iran_sec_GettyImages-1332056910.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Online Sleuths Untangle the Mystery of the Nord Stream Sabotage</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 20, 2023</p> \
+<h2>The Scorched-Earth Tactics of Iran’s Cyber Army</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 21, 2023</p> \
 </div> \
 </a> \
 </div> \
