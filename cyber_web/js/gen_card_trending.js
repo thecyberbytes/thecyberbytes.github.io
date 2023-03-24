@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/23/s3-ep127-when-you-chop-someone-out-of-a-photo-but-there-they-are-anyway/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/tiktok-hearing-congress-us-privacy-law/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep127: When you chop someone out of a photo, but there they are anyway…</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The TikTok Hearing Revealed That Congress Is the Problem</h6> \
 </div> \
 </a> \
 </li> \
