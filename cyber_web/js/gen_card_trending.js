@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/videos/highlights-tiktok-ceo-congress-testimony-week-security-tony-anscombe/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/crypto-obfuscation-sxsw-2023/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Highlights from TikTok CEO’s Congress grilling – Week in security with Tony Anscombe</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Crypto Was Afraid to Show Its Face at SXSW 2023</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/03/microsoft-patch-tuesday-march-2023-edition/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/15/microsoft-fixes-two-0-days-on-patch-tuesday-update-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, March 2023 Edition</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft fixes two 0-days on Patch Tuesday – update now!</h6> \
 </div> \
 </a> \
 </li> \
