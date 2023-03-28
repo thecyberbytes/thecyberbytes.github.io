@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/us-authoritarian-movement-future/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/641df5773491f4dd17124cde/master/pass/The-Uniquely-American-Future-of-US-Authoritarianism-Security-GettyImages-1410363302.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/best-password-managers/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/641e1a1b43ffd37beea02cdf/master/pass/Best%20Password%20Managers%20Gear%20GettyImages-1408198405.png" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>March 26, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">The Uniquely American Future of US Authoritarianism</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>March 27, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">5 Best Password Managers (2022): Features, Pricing, and Tips</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/india-activist-manhunt-sikh-activist/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/641e24e082f9652fee187323/master/pass/India-Shut-Down-Cell-Service-for-27-Million-During-a-Manhunt-SecurityGettyImages-1248910680.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://nakedsecurity.sophos.com/2023/03/27/microsoft-assigns-cve-to-snipping-tool-bug-pushes-patch-to-store/" target="_blank" style="text-decoration:none"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/snip-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>March 25, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">India Shut Down Mobile Internet in Punjab Amid Manhunt for Amritpal Singh</h5> \
+<small class="text-uppercase font-weight-bold"><span>Vulnerability</span> <span class="mx-1">&bullet;</span> <span>March 27, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Microsoft assigns CVE to Snipping Tool bug, pushes patch to Store</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/03/24/what-tiktok-knows-you-should-know-tiktok/" target="_blank" style="text-decoration:none"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/tiktok-personal-data-congress-ceo-testimony.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/germany-twitter-porn-police/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/641e3f4c3491f4dd17124cf3/master/pass/Looking_Glass_3.png" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>March 24, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">What TikTok knows about you – and what you should know about TikTok</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>March 27, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">They Posted Porn on Twitter. German Authorities Called the Cops</h5> \
 </div> \
 </a> \
 </div> \
