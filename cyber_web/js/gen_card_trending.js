@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/27/in-memoriam-gordon-moore-who-put-the-more-in-moores-law/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/28/apple-patches-everything-including-a-zero-day-fix-for-ios-15-users/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">In Memoriam – Gordon Moore, who put the more in “Moore’s Law”</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Apple patches everything, including a zero-day fix for iOS 15 users</h6> \
 </div> \
 </a> \
 </li> \
