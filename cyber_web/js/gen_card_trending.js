@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/4chan-good-smile/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">UK Sets Up Fake Booter Sites To Muddy DDoS Market</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How Good Smile, a Major Toy Company, Kept 4chan Online</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/27/microsoft-assigns-cve-to-snipping-tool-bug-pushes-patch-to-store/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/03/29/pig-butchering-scams-anatomy-fast-growing-threat/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft assigns CVE to Snipping Tool bug, pushes patch to Store</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Pig butchering scams: The anatomy of a fast‑growing threat</h6> \
 </div> \
 </a> \
 </li> \
