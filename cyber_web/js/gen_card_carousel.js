@@ -1,10 +1,10 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/30/supply-chain-blunder-puts-3cx-telephone-app-users-at-risk/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/3cx-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/31/world-backup-day-is-here-again-5-tips-to-keep-your-precious-data-safe/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/03/hdd-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Supply chain blunder puts 3CX telephone app users at risk</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 30, 2023</p> \
+<h2>World Backup Day is here again – 5 tips to keep your precious data safe</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 31, 2023</p> \
 </div> \
 </a> \
 </div> \
@@ -27,10 +27,10 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://nakedsecurity.sophos.com/2023/03/30/s3-ep128-so-you-want-to-be-a-cybercriminal-audio-text/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/s3-ep128.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/trump-indictment-historical-reckoning/" target="_blank"> \
+<img src="https://media.wired.com/photos/642365243e203b149591e35a/master/pass/The-Reckoning-of-Trump\'s-Indictment_Security-GettyImages-1476355137.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>S3 Ep128: So you want to be a cyber­criminal? [Audio + Text]</h2> \
+<h2>Trump’s Indictment Marks a Historic Reckoning</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 30, 2023</p> \
 </div> \
 </a> \
