@@ -1,10 +1,10 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/31/world-backup-day-is-here-again-5-tips-to-keep-your-precious-data-safe/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/03/hdd-1200.jpg?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/vulkan-files-russia-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/6427186d4d1b8856e8647eee/master/pass/Security-News-This-Week--Major-Leak-Exposes-Russia\'s-Cyberwar-Tactics-Security-GettyImages-1245905982.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>World Backup Day is here again – 5 tips to keep your precious data safe</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 31, 2023</p> \
+<h2>‘Vulkan’ Leak Offers a Peek at Russia’s Cyberwar Playbook</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 01, 2023</p> \
 </div> \
 </a> \
 </div> \
