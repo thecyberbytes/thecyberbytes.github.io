@@ -308,7 +308,8 @@ def categorize_news(news_filename, feed_filename, news_test_df):
         # A continuous index value will be maintained
         # across the rows in the new appended data frame.
         print(f"Total news to add-->{news_test_df.shape}")
-        news_test_df = news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
+        #news_test_df = news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
+        news_test_df = pd.concat([news_test_df, prev_news_df, ignore_index=True)    # append is deprecated
         print(f"Dropping duplicates")
         news_test_df.drop_duplicates(inplace=True)      #drop the duplicates
         print(f"Total news later-->{news_test_df.shape}")
