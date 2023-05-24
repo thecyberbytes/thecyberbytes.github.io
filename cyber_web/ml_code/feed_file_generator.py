@@ -317,6 +317,10 @@ def gen_feed_file(file_name, blog_file):
     #print(f"Done pulling data.")
     #print(news_df.shape)
 
+    print(f"Saving the file {file_name}")
     news_df.to_excel(file_name, index=False)
+    print(f"Saved the file {file_name}")
+    
+    print(f"Exiting gen_feed_file method..")
     
     return blog_df, news_df
