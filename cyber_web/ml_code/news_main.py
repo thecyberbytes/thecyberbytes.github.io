@@ -307,11 +307,16 @@ def categorize_news(news_filename, feed_filename, news_test_df):
         print(f"Total news to add-->{news_test_df.shape}")
         # A continuous index value will be maintained
         # across the rows in the new appended data frame.
+        print(f"Total news to add-->{news_test_df.shape}")
         news_test_df = news_test_df.append(prev_news_df, ignore_index=True)    # to collect data for retraining
+        print(f"Dropping duplicates")
         news_test_df.drop_duplicates(inplace=True)      #drop the duplicates
         print(f"Total news later-->{news_test_df.shape}")
     except FileNotFoundError:
         print("No file!!")
+    except Exception as err:
+        print(f"Unexpected {err=}, {type(err)=}")
+        raise
     
     # convert the 'Date Created' column to datetime format
     news_test_df['Date Created'] = pd.to_datetime(news_test_df['Date Created'])
@@ -335,9 +340,15 @@ def main():
     news_categorized_file = "cyber_web/excels/news_categorized.xlsx"
     blogs_file = "cyber_web/excels/blog_feed.xlsx"
     news_feed_file = "cyber_web/excels/news_feed.xlsx"
+    print(f"Executing gen_feed_file method")
     blog_df, news_df = gen_feed.gen_feed_file(news_feed_file, blogs_file)
+    print(f"Executed gen_feed_file method")
+    print(f"Executing categorize_news method")
     news_df = categorize_news(news_categorized_file, news_feed_file, news_df)
+    print(f"Executed categorize_news method")
+    print(f"Executing generate_news_html method")
     generate_news_html(news_categorized_file, blogs_file, blog_df, news_df)
+    print(f"Executed generate_news_html method")
         
 if __name__ == "__main__":
     main()
