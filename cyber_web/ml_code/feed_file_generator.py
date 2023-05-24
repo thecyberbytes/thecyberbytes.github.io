@@ -4,6 +4,10 @@ from datetime import datetime
 import pandas as pd
 import re
 
+#filter the warning messages
+import warnings
+warnings.filterwarnings('ignore')
+
 import requests
 from bs4 import BeautifulSoup
 
