@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/container-registry-security-chainguard/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Interview With a Crypto Scam Investment Spammer</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">There’s Finally a Way to Improve Cloud Container Registry Security</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/05/17/us-offers-10m-bounty-for-russian-ransomware-suspect-outed-in-indictment/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/05/24/ransomware-tales-the-mitm-attack-that-really-had-a-man-in-the-middle/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">US offers $10m bounty for Russian ransomware suspect outed in indictment</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Ransomware tales: The MitM attack that really had a Man in the Middle</h6> \
 </div> \
 </a> \
 </li> \
