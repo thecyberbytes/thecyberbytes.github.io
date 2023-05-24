@@ -5,6 +5,10 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import feed_file_generator as gen_feed
 from datetime import datetime
 
+#filter the warning messages
+import warnings
+warnings.filterwarnings('ignore')
+
 def generate_news_html(cat_news_filename, blog_file_name, blog_df, news_df):
     # read the news feed
     if news_df.shape[0] == 0:
