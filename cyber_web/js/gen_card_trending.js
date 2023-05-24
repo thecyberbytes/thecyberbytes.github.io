@@ -7,37 +7,37 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/vulkan-files-russia-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">‘Vulkan’ Leak Offers a Peek at Russia’s Cyberwar Playbook</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Interview With a Crypto Scam Investment Spammer</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/03/31/world-backup-day-avoiding-data-disaster-forever-topic/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/04/many-public-salesforce-sites-are-leaking-private-data/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">World Backup Day: Avoiding a data disaster is a forever topic</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Many Public Salesforce Sites are Leaking Private Data</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/03/whos-behind-the-netwire-remote-access-trojan/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/turla-history-russia-fsb-hackers/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Who’s Behind the NetWire Remote Access Trojan?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Underground History of Turla, Russia\'s Most Ingenious Hacker Group</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/14/firefox-111-patches-11-holes-but-not-1-zero-day-among-them/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/05/17/us-offers-10m-bounty-for-russian-ransomware-suspect-outed-in-indictment/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Firefox 111 patches 11 holes, but not 1 zero-day among them…</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">US offers $10m bounty for Russian ransomware suspect outed in indictment</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/03/29/pig-butchering-scams-anatomy-fast-growing-threat/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/meta-gdpr-fine-ireland/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Pig butchering scams: The anatomy of a fast‑growing threat</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Meta’s $1.3 Billion Fine Is a Strike Against Surveillance Capitalism</h6> \
 </div> \
 </a> \
 </li> \
