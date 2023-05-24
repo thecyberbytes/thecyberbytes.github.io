@@ -5,4 +5,4 @@ nltk
 openpyxl
 requests
 bs4
-lxml
+XHTML
