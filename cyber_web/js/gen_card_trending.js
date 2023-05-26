@@ -1,15 +1,15 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/03/feds-charge-ny-man-as-breachforums-boss-pompompurin/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Feds Charge NY Man as BreachForums Boss “Pompompurin”</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Phishing Domains Tanked After Meta Sued Freenom</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/chatgpt-prompt-injection-attack-security/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/bcrypt-password-hashing-25-years/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Security Hole at the Heart of ChatGPT and Bing</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Bcrypt, a Popular Password Hashing Algorithm, Starts Its Long Goodbye</h6> \
 </div> \
 </a> \
 </li> \
