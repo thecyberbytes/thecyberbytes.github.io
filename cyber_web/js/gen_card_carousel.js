@@ -1,10 +1,19 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/us-iran-internet-freedom-sanctions/" target="_blank"> \
-<img src="https://media.wired.com/photos/647a278a82d37ced55dff521/master/pass/Iran_protests_sec_AP22268662810752.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/how-ai-protects-inbox-phishing/" target="_blank"> \
+<img src="https://media.wired.com/photos/647a458c8d6da8ab812d83e8/master/pass/How%C2%A0AI-Protects-(and-Attacks)-Your-Inbox-Gear-GettyImages-1350807277.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>The Messy US Influence That’s Helping Iranians Stay Online</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 02, 2023</p> \
+<h2>How AI Protects (and Attacks) Your Inbox</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 03, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/security-roundup-ai-scams-voice-cloning/" target="_blank"> \
+<img src="https://media.wired.com/photos/647a58662cc57777ec67f04a/master/pass/AI-Is-Being-Used-to-%E2%80%98Turbocharge%E2%80%99-Scams-Security-GettyImages-683670662.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>AI Is Being Used to ‘Turbocharge’ Scams</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 03, 2023</p> \
 </div> \
 </a> \
 </div> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Researchers claim Windows “backdoor” affects hundreds of Gigabyte motherboards</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 02, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2023/06/ask-fitis-the-bear-real-crooks-sign-their-malware/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/05/megatraffer.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Ask Fitis, the Bear: Real Crooks Sign Their Malware</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 01, 2023</p> \
 </div> \
 </a> \
 </div> \
