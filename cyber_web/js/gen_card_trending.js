@@ -1,15 +1,15 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/06/07/firefox-114-is-out-no-0-days-but-one-fascinating-teachable-moment-bug/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Phishing Domains Tanked After Meta Sued Freenom</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Firefox 114 is out: No 0-days, but one fascinating “teachable moment” bug</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/06/service-rents-email-addresses-for-account-signups/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/ut-austin-cybersecurity-clinic-311/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Service Rents Email Addresses for Account Signups</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Bold Plan to Create Cyber 311 Hotlines</h6> \
 </div> \
 </a> \
 </li> \
