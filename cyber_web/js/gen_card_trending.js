@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ut-austin-cybersecurity-clinic-311/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/06/08/s3-ep138-i-like-to-moveit-moveit/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Bold Plan to Create Cyber 311 Hotlines</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep138: I like to MOVEit, MOVEit</h6> \
 </div> \
 </a> \
 </li> \
