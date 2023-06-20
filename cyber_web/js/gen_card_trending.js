@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/19/megaupload-duo-will-go-to-prison-at-last-but-kim-dotcom-fights-on/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/06/20/passwords-out-passkeys-in-ready-make-switch/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Megaupload duo will go to prison at last, but Kim Dotcom fights on…</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Passwords out, passkeys in: are you ready to make the switch?</h6> \
 </div> \
 </a> \
 </li> \
