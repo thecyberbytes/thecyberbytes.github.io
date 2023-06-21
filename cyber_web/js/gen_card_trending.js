@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/06/20/passwords-out-passkeys-in-ready-make-switch/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/car-data-privacy-toyota-honda-ford/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Passwords out, passkeys in: are you ready to make the switch?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How the Most Popular Cars in the US Track Drivers</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/05/24/ransomware-tales-the-mitm-attack-that-really-had-a-man-in-the-middle/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/06/21/the-ransomware-documentary-brand-new-video-series-from-sophos-starting-now/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Ransomware tales: The MitM attack that really had a Man in the Middle</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">“The Ransomware Documentary” – brand new video series from Sophos starting now!</h6> \
 </div> \
 </a> \
 </li> \
