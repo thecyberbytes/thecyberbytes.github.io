@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/22/apple-patch-fixes-zero-day-kernel-hole-reported-by-kaspersky-update-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/fbi-cell-site-simulator-stingray-secrecy/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Apple patch fixes zero-day kernel hole reported by Kaspersky – update now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Docs Show FBI Pressures Cops to Keep Phone Surveillance Secrets</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/21/the-ransomware-documentary-brand-new-video-series-from-sophos-starting-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/06/22/s3-ep140-so-you-think-you-know-ransomware/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">“The Ransomware Documentary” – brand new video series from Sophos starting now!</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep140: So you think you know ransomware?</h6> \
 </div> \
 </a> \
 </li> \
