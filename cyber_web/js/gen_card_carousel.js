@@ -27,11 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/car-data-privacy-toyota-honda-ford/" target="_blank"> \
-<img src="https://media.wired.com/photos/64923c24e416fd283a85c3db/master/pass/How-Your-New-Car-Tracks-You-Security-GettyImages-1088377386.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.welivesecurity.com/2023/06/22/maltego-check-exposed-online/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2014/02/que-es-Maltego-como-funciona-herramienta-recopilar-información.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>How the Most Popular Cars in the US Track Drivers</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 21, 2023</p> \
+<h2>Maltego: Check how exposed you are online</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 22, 2023</p> \
 </div> \
 </a> \
 </div> \
