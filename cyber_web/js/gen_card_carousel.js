@@ -1,9 +1,18 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/telegram-abortion-pill-market/" target="_blank"> \
-<img src="https://media.wired.com/photos/648c917540f1b0ff5784460e/master/pass/Post_Roe_Final.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/apple-zero-day-spyware-patch-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/6495fa59d96882f74caa3efe/master/pass/Update-Your-iPhone-Right-Now-to-Fix-2-Apple-Zero-Days-Security-GettyImages-1421721189.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Inside the Dangerous Underground Abortion Pill Market Growing on Telegram</h2> \
+<h2>Update Your iPhone Right Now to Fix 2 Apple Zero Days</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 24, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.welivesecurity.com/videos/what-to-know-about-the-moveit-hack-week-in-security-with-tony-anscombe/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/0-19.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>What to know about the MoveIT hack – Week in security with Tony Anscombe</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 23, 2023</p> \
 </div> \
 </a> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Aussie PM says, “Shut down your phone every 24 hours for 5 mins” – but that’s not enough on its own</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 23, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.welivesecurity.com/2023/06/22/maltego-check-exposed-online/" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2014/02/que-es-Maltego-como-funciona-herramienta-recopilar-información.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Maltego: Check how exposed you are online</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 22, 2023</p> \
 </div> \
 </a> \
 </div> \
