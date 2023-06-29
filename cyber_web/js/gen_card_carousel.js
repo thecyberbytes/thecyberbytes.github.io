@@ -1,10 +1,28 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/28/interested-in-10000000-ready-to-turn-in-the-clop-ransomware-crew/" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/10m-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2023/06/russian-cybersecurity-executive-arrested-for-alleged-role-in-2012-megahacks/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/kislitsin.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Interested in $10,000,000? Ready to turn in the Clop ransomware crew?</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 28, 2023</p> \
+<h2>Russian Cybersecurity Executive Arrested for Alleged Role in 2012 Megahacks</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 29, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://nakedsecurity.sophos.com/2023/06/29/s3-ep141-what-was-steve-jobss-first-job/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/pong-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>S3 Ep141: What was Steve Jobs’s first job?</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 29, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/pornhub-tracking-cookies-gdpr-video-history/" target="_blank"> \
+<img src="https://media.wired.com/photos/649ccf8ac30f50376ee875b4/master/pass/Porn_hub_data.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Pornhub Accused of Illegal Data Collection</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 29, 2023</p> \
 </div> \
 </a> \
 </div> \
@@ -14,24 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Avoid juice jacking and recharge your batteries safely this summer</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 28, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/plane-ticket-booking-hold-scam/" target="_blank"> \
-<img src="https://media.wired.com/photos/649b37a582d37ced55dff641/master/pass/Plane-Ticket-Scam-Security-GettyImages-1376105896.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>How Your Real Flight Reservation Can Be Used to Scam You</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 28, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-gets-5-years-in-prison/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2021/07/plugwalkjoe.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>U.K. Cyber Thug “PlugwalkJoe” Gets 5 Years in Prison</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 27, 2023</p> \
 </div> \
 </a> \
 </div> \
