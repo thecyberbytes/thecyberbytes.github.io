@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.welivesecurity.com/videos/good-bad-ugly-ai-week-security-tony-anscombe/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/0-23.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>The good, the bad and the ugly of AI – Week in security with Tony Anscombe</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 30, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/apple-google-moveit-security-patches-june-2023-critical-update/" target="_blank"> \
 <img src="https://media.wired.com/photos/649e23b70cbc15924e602ce3/master/pass/062923-security-critical-updates-july.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -13,15 +22,6 @@ document.write(' \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/kislitsin.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>Russian Cybersecurity Executive Arrested for Alleged Role in 2012 Megahacks</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 29, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/pornhub-tracking-cookies-gdpr-video-history/" target="_blank"> \
-<img src="https://media.wired.com/photos/649ccf8ac30f50376ee875b4/master/pass/Porn_hub_data.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Pornhub Accused of Illegal Data Collection</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">June 29, 2023</p> \
 </div> \
 </a> \
