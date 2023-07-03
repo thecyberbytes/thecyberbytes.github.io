@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/cyberstalking-first-amendment-us-supreme-court-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/03/wordpress-plugin-lets-users-become-admins-patch-early-patch-often/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">US Supreme Court Hands Cyberstalkers a First Amendment Victory</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">WordPress plugin lets users become admins – Patch early, patch often!</h6> \
 </div> \
 </a> \
 </li> \
