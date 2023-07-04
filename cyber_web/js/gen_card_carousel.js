@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/04/ghostscript-bug-could-allow-rogue-documents-to-run-system-commands/" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/gs-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Ghostscript bug could allow rogue documents to run system commands</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 04, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.welivesecurity.com/2023/07/03/verizon-2023-dbir-whats-new-top-takeaways-smbs/" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/07/verizon-dbir-2023-data-breaches-smbs-takeaways.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Who’s Behind the DomainNetworks Snail Mail Scam?</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 03, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/cyberstalking-first-amendment-us-supreme-court-security-roundup/" target="_blank"> \
-<img src="https://media.wired.com/photos/649f0c479ec11a2433532c17/master/pass/Supreme-Court-Online-Harrassment-Security-GettyImages-1191792394.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>US Supreme Court Hands Cyberstalkers a First Amendment Victory</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 01, 2023</p> \
 </div> \
 </a> \
 </div> \

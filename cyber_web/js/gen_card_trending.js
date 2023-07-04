@@ -1,8 +1,8 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/07/firefox-114-is-out-no-0-days-but-one-fascinating-teachable-moment-bug/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/04/ghostscript-bug-could-allow-rogue-documents-to-run-system-commands/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Firefox 114 is out: No 0-days, but one fascinating “teachable moment” bug</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Ghostscript bug could allow rogue documents to run system commands</h6> \
 </div> \
 </a> \
 </li> \
