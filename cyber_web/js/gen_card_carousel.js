@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.welivesecurity.com/2023/07/04/deepfaking-it-deepfake-driven-sextortion-schemes/" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/07/ai-deepfakes-sextortion-criminals.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Deepfaking it: What to know about deepfake‑driven sextortion schemes</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 04, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://nakedsecurity.sophos.com/2023/07/04/ghostscript-bug-could-allow-rogue-documents-to-run-system-commands/" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/gs-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -22,15 +31,6 @@ document.write(' \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/um-1200.png?w=230&h=130&crop=1" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>WordPress plugin lets users become admins – Patch early, patch often!</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 03, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2023/07/whos-behind-the-domainnetworks-snail-mail-scam/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/domainnetworksletter.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Who’s Behind the DomainNetworks Snail Mail Scam?</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">July 03, 2023</p> \
 </div> \
 </a> \

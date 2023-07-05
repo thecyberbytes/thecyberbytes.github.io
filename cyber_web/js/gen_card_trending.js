@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/07/03/verizon-2023-dbir-whats-new-top-takeaways-smbs/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/07/04/deepfaking-it-deepfake-driven-sextortion-schemes/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Verizon 2023 DBIR: What’s new this year and top takeaways for SMBs</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Deepfaking it: What to know about deepfake‑driven sextortion schemes</h6> \
 </div> \
 </a> \
 </li> \
