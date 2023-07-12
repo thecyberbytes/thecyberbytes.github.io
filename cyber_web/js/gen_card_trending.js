@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/silk-road-variety-jones-sentencing/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/07/12/eset-research-podcast-finding-mythical-blacklotus-bootkit/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Silk Road’s Second-in-Command, Variety Jones, Gets 20 Years in Prison</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">ESET Research Podcast: Finding the mythical BlackLotus bootkit</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,16 +28,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/28/interested-in-10000000-ready-to-turn-in-the-clop-ransomware-crew/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/ransomware-attacks-rise-2023/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Interested in $10,000,000? Ready to turn in the Clop ransomware crew?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Ransomware Attacks Are on the Rise, Again</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/07/11/eset-threat-report-h1-2023/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/12/microsoft-patches-four-zero-days-finally-takes-action-against-crimeware-kernel-drivers/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">ESET Threat Report H1 2023</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft patches four zero-days, finally takes action against crimeware kernel drivers</h6> \
 </div> \
 </a> \
 </li> \
