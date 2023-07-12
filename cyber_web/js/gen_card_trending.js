@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/11/apple-silently-pulls-its-latest-zero-day-update-what-now/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/silk-road-variety-jones-sentencing/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Apple silently pulls its latest zero-day update – what now?</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Silk Road’s Second-in-Command, Variety Jones, Gets 20 Years in Prison</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/06/16/cyberbullying-prevention-everyones-responsibility/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.welivesecurity.com/2023/07/11/eset-threat-report-h1-2023/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Stop Cyberbullying Day: Prevention is everyone’s responsibility</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">ESET Threat Report H1 2023</h6> \
 </div> \
 </a> \
 </li> \
