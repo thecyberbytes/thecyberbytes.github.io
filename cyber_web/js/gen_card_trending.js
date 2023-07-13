@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/12/microsoft-patches-four-zero-days-finally-takes-action-against-crimeware-kernel-drivers/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/microsoft-cloud-attack-china-hackers/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft patches four zero-days, finally takes action against crimeware kernel drivers</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How a Cloud Flaw Gave Chinese Spies a Key to Microsoft’s Kingdom</h6> \
 </div> \
 </a> \
 </li> \
