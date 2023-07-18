@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/hikvision-cameras-telegram-children/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/fourth-amendment-is-not-for-sale-act-2023/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Nude Videos of Kids From Hacked Baby Monitors Were Sold on Telegram</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Fourth Amendment Is Not for Sale Act Goes Back to Congress</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/12/microsoft-patches-four-zero-days-finally-takes-action-against-crimeware-kernel-drivers/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/18/microsoft-hit-by-storm-season-a-tale-of-two-semi-zero-days/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft patches four zero-days, finally takes action against crimeware kernel drivers</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft hit by Storm season – a tale of two semi-zero days</h6> \
 </div> \
 </a> \
 </li> \
