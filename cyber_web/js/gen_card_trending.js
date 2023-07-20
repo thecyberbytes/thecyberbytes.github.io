@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/07/leakedsource-owner-quit-ashley-madison-a-month-before-2015-hack/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/satellites-basic-security-flaws/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">LeakedSource Owner Quit Ashley Madison a Month Before 2015 Hack</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Satellites Are Rife With Basic Security Flaws</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/18/microsoft-hit-by-storm-season-a-tale-of-two-semi-zero-days/" target="_blank" style="text-decoration:none"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/20/s3-ep144-when-threat-hunting-goes-down-a-rabbit-hole/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft hit by Storm season – a tale of two semi-zero days</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep144: When threat hunting goes down a rabbit hole</h6> \
 </div> \
 </a> \
 </li> \
