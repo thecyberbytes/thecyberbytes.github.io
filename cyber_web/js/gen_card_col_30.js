@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.welivesecurity.com/2023/07/18/protect-yourself-ticketing-scams-premier-league-summer-series-usa-tour/" target="_blank" style="text-decoration:none"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/07/ticketing-scams-premier-league-football-usa-tour.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/results-about-you-remove-personal-info-from-google/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/64d18a0295dece1de42c60df/master/pass/How-to-Use-%E2%80%9CResults-About-You%E2%80%9D-to-Remove-Info-from-Google-Security.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>July 18, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Protect yourself from ticketing scams ahead of the Premier League Summer Series USA Tour</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 03, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">How to Remove Your Personal Info From Google by Using Its ‘Results About You’ Tool</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/hikvision-cameras-telegram-children/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/64b1873906bd08d2f808b2f6/master/pass/Nude-Videos-of-Kids-From-Hacked-Baby-Monitors-Were-Sold-on-Telegram-Security-GettyImages-915861996.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/poland-train-radio-attack-security-roundup/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/64f24bed1ab9cbe7a0d76e0a/master/pass/2-Polish-Men-Arrested-for-Radio-Hack-That-Disrupted-Trains-Security-GettyImages-1238184586.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>July 15, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Nude Videos of Kids From Hacked Baby Monitors Were Sold on Telegram</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 02, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">2 Polish Men Arrested for Radio Hack That Disrupted Trains</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/14/zimbra-collaboration-suite-warning-patch-this-0-day-right-now-by-hand/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/z-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/" target="_blank" style="text-decoration:none"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/09/dotUS-b.png" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>July 14, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Zimbra Collaboration Suite warning: Patch this 0-day right now (by hand)!</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 01, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Why is .US Being Used to Phish So Many of Us?</h5> \
 </div> \
 </a> \
 </div> \

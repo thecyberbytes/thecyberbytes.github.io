@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/fourth-amendment-is-not-for-sale-act-2023/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/64b5a7206296ebb3f086152d/master/pass/US-Lawmakers-Introduce-New-Bill-to-Restrict-FBI-Warrantless-Surveillance-Security-GettyImages-475449513.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/" target="_blank" style="text-decoration:none"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/09/tayaug28.png" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>July 18, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Fourth Amendment Is Not for Sale Act Goes Back to Congress</h5> \
+<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>September 06, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/19/google-virus-total-leaks-list-of-spooky-email-addresses/" target="_blank" style="text-decoration:none"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/vt-1200.png?w=230&h=130&crop=1" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/prigozhin-wagner-dead-news-disinformation/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/64f74d1c66c00b1dbc2f86c6/master/pass/Prigozhin-Trolls-Security-GettyImages-1634274298.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>July 18, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Google Virus Total leaks list of spooky email addresses</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 05, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">The Strange Afterlife of Wagner’s Yevgeny Prigozhin</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/07/leakedsource-owner-quit-ashley-madison-a-month-before-2015-hack/" target="_blank" style="text-decoration:none"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/07/bloom-lambo.png" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/how-to-use-proton-sentinel/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/64f2589af642bdf2a5e76061/master/pass/How-to-Use-Proton-Sentinel-to-Keep-Your-Accounts-Safe-Security-GettyImages-1425164144.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>July 18, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">LeakedSource Owner Quit Ashley Madison a Month Before 2015 Hack</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>September 03, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">How to Use Proton Sentinel to Keep Your Accounts Safe</h5> \
 </div> \
 </a> \
 </div> \

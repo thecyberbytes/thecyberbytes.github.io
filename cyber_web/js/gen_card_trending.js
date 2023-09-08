@@ -1,43 +1,43 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/04/ghostscript-bug-could-allow-rogue-documents-to-run-system-commands/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Ghostscript bug could allow rogue documents to run system commands</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Teach a Man to Phish and He’s Set for Life</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/satellites-basic-security-flaws/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/icc-cyberwar-crimes/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Satellites Are Rife With Basic Security Flaws</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The International Criminal Court Will Now Prosecute Cyberwar Crimes</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/nypd-george-floyd-nyc-protester-settlement/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">NYPD Body Cam Data Shows the Scale of Violence Against Protesters</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Facebook Trains Its AI on Your Data. Opting Out May Be Futile</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/the-night-17-million-precious-military-records-went-up-in-smoke/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/08/tourists-give-themselves-away-by-looking-up-so-do-most-network-intruders/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Night 17 Million Precious Military Records Went Up in Smoke</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Tourists Give Themselves Away by Looking Up. So Do Most Network Intruders.</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ransomware-attacks-rise-2023/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/trickbot-conti-sanctions-indictments/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Ransomware Attacks Are on the Rise, Again</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">US and UK Mount Aggressive Crackdown on Trickbot and Conti Ransomware Gangs</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/20/s3-ep144-when-threat-hunting-goes-down-a-rabbit-hole/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/china-backed-hackers-steal-microsofts-signing-key-post-mortem/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">S3 Ep144: When threat hunting goes down a rabbit hole</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Comedy of Errors That Let China-Backed Hackers Steal Microsoft’s Signing Key</h6> \
 </div> \
 </a> \
 </li> \
