@@ -52,7 +52,7 @@ def pull_hackernews_data(pageContent, df):
     print(webpage_title)
     
     for ind, item in enumerate(webpage_parsed.findAll("div", {"class": "body-post"})):
-      if ind == 10:
+      if ind == 15:
         break
       title_text = item.findChildren('h2', {"class": "home-title"})[0].getText()
       title_text = item.a['href']
@@ -78,7 +78,7 @@ def pull_hackernews_data_old(pageContent, df):
     print(webpage_title)
     
     for ind, item in enumerate(webpage_parsed.findAll('item')):
-      if ind == 10:
+      if ind == 15:
         break
       title_text = item.findChildren('title')[0].getText()
       link_text = item.findChildren('link')[0].getText()
@@ -163,7 +163,7 @@ def pull_threatpost_data(pageContent, df):
     print(webpage_title)
     
     for ind, item in enumerate(webpage_parsed.findAll('item')):
-      if ind == 10:
+      if ind == 15:
         break
       title_text = item.findChildren('title')[0].getText()
       link_text = item.findChildren('link')[0].getText()
@@ -190,7 +190,7 @@ def pull_krebs_data(pageContent, df):
     print(webpage_title)
     
     for ind, item in enumerate(webpage_parsed.findAll('item')):
-      if ind == 10:
+      if ind == 15:
         break
       title_text = item.findChildren('title')[0].getText()
       link_text = item.findChildren('link')[0].getText()
@@ -211,7 +211,7 @@ def pull_wired_data(pageContent, df):
     print(webpage_title)
     
     for ind, item in enumerate(webpage_parsed.findAll('item')):
-      if ind == 10:
+      if ind == 15:
         break
       title_text = item.findChildren('title')[0].getText()
       link_text = item.findChildren('link')[0].getText()
@@ -230,7 +230,7 @@ def pull_nakedsec_data(pageContent, df):
     print(webpage_title)
     
     for ind, item in enumerate(webpage_parsed.findAll('item')):
-      if ind == 10:
+      if ind == 15:
         break
       title_text = item.findChildren('title')[0].getText()
       link_text = item.findChildren('link')[0].getText()
@@ -305,11 +305,11 @@ def gen_feed_file(file_name, blog_file):
     print(f"Done pulling data.")
     print(news_df.shape)
     
-    URL = "https://www.welivesecurity.com/feed/"
-    print(f"Pulling data from {URL}...")
-    news_df = pull_welive_data(pull_data(URL), news_df)
-    print(f"Done pulling data.")
-    print(news_df.shape)
+    #URL = "https://www.welivesecurity.com/feed/"
+    #print(f"Pulling data from {URL}...")
+    #news_df = pull_welive_data(pull_data(URL), news_df)
+    #print(f"Done pulling data.")
+    #print(news_df.shape)
         
     #URL = "https://cybernews.com/news/"
     #print(f"Pulling data from {URL}...")
