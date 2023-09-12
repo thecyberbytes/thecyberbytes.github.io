@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/china-redfly-power-grid-cyberattack-asia/" target="_blank"> \
+<img src="https://media.wired.com/photos/64ff9e624791854bc671b769/master/pass/China-Linked-Hackers-Breached-a-Power-Grid%E2%80%94Again-Security-GettyImages-1449552774.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>China-Linked Hackers Breached a Power Grid—Again</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 12, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/local-governments-generative-ai/" target="_blank"> \
 <img src="https://media.wired.com/photos/64fbb7617ced5356bad14626/master/pass/AI-Chatbots-Are-Invading-Your-Local-Government%E2%80%94and-Making-Everyone-Nervous-Security-GettyImages-1384459158.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -14,15 +23,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Mozilla: Your New Car Is a Data Privacy Nightmare</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 09, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/section-702-privacy-meeting/" target="_blank"> \
-<img src="https://media.wired.com/photos/64fb816788d1d593902bec22/master/pass/Top-US-Spies-Meet-With-Privacy-Experts-Over-Surveillance-%E2%80%98Crown-Jewel%E2%80%99-Security-GettyImages-1383965396.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Top US Spies Meet With Privacy Experts Over Surveillance \'Crown Jewel\'</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 08, 2023</p> \
 </div> \
 </a> \
 </div> \
