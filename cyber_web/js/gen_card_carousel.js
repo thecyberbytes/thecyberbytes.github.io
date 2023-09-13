@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://krebsonsecurity.com/2023/09/adobe-apple-google-microsoft-patch-0-day-bugs/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2020/08/zeroday.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Adobe, Apple, Google & Microsoft Patch 0-Day Bugs</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 12, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/china-redfly-power-grid-cyberattack-asia/" target="_blank"> \
 <img src="https://media.wired.com/photos/64ff9e624791854bc671b769/master/pass/China-Linked-Hackers-Breached-a-Power-Grid%E2%80%94Again-Security-GettyImages-1449552774.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Mozilla: Your New Car Is a Data Privacy Nightmare</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 09, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/section-702-privacy-meeting/" target="_blank"> \
-<img src="https://media.wired.com/photos/64fb51d83a1537924fc88316/master/pass/Top-Intelligence-Officials-and-Privacy-Experts-Gather-to-Discuss-Surveillance-Blunders-Security-GettyImages-1239035941.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Top US Spies Meet With Privacy Experts Over Surveillance \'Crown Jewel\'</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 08, 2023</p> \
 </div> \
 </a> \
 </div> \
