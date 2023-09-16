@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/buenos-aires-facial-recognition-scandal/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/libwebp-flaw-browser-updates/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Twisted Eye in the Sky Over Buenos Aires</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">You Need to Update Google Chrome or Whatever Browser You Use</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/trickbot-conti-sanctions-indictments/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/mgm-ceasars-hack-ransomware/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">US and UK Mount Aggressive Crackdown on Trickbot and Conti Ransomware Gangs</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Massive MGM and Caesars Hacks Epitomize a Vicious Ransomware Cycle</h6> \
 </div> \
 </a> \
 </li> \
