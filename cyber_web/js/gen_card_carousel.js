@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/sudan-conflict-satellites/" target="_blank"> \
+<img src="https://media.wired.com/photos/650db712f4c0c10b17229956/master/pass/Satellite-Images-Show-the-Devastating-Cost-of-Sudan%E2%80%99s-Drone-War-1-Maxar-Security.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Satellite Images Show the Devastating Cost of Sudan’s Aerial War</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 22, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://krebsonsecurity.com/2023/09/whos-behind-the-8base-ransomware-website/" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2023/09/8Basehome.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -14,15 +23,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Chinese Spies Infected Dozens of Networks With Thumb Drive Malware</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 19, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/mgm-ceasars-hack-ransomware/" target="_blank"> \
-<img src="https://media.wired.com/photos/65035270627d7faed0001693/master/pass/MGM-Hack-Security-GettyImages-1226684896.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Massive MGM and Caesars Hacks Epitomize a Vicious Ransomware Cycle</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 16, 2023</p> \
 </div> \
 </a> \
 </div> \
