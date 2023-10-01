@@ -1,10 +1,19 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/apple-google-microsoft-zero-days-september-2023/" target="_blank"> \
-<img src="https://media.wired.com/photos/651760fa540791b359043b2a/master/pass/security_critical-update-september.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/phone-ios-android-security-updates/" target="_blank"> \
+<img src="https://media.wired.com/photos/65175c3fcb3588ab805640b9/master/pass/How-To-Phone-Security-Updates-Security-595478851.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Apple, Microsoft, and Google Just Fixed Multiple Zero-Day Flaws</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 30, 2023</p> \
+<h2>How to Tell When Your Phone Will Stop Getting Security Updates</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 01, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/google-bard-location-data-tracking-ai/" target="_blank"> \
+<img src="https://media.wired.com/photos/65175aef0de7768141220d4a/master/pass/Google-Bard-Data-Removal-Security-1124778123.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>How to Stop Google Bard From Storing Your Data and Location</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 01, 2023</p> \
 </div> \
 </a> \
 </div> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>A Closer Look at the Snatch Data Ransom Group</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 30, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/shotspotter-doj-letter-epic/" target="_blank"> \
-<img src="https://media.wired.com/photos/6514d6ba6ee21b244d2ce584/master/pass/Shot_Spot_Final.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>US Justice Department Urged to Investigate Gunshot Detector Purchases</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">September 28, 2023</p> \
 </div> \
 </a> \
 </div> \
