@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/best-password-managers/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">6 Best Password Managers (2023): Features, Pricing, and Tips</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How Neuralink Keeps Dead Monkey Photos Secret</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/sudan-conflict-satellites/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/android-tv-streaming-boxes-china-backdoor/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Satellite Images Show the Devastating Cost of Sudan’s Aerial War</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Your Cheap Android TV Streaming Box May Have a Dangerous Backdoor</h6> \
 </div> \
 </a> \
 </li> \
