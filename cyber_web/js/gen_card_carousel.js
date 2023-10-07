@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/23andme-credential-stuffing-data-stolen/" target="_blank"> \
+<img src="https://media.wired.com/photos/65207cec948b4a60f532e175/master/pass/23andMe-Data-Breach-Security-GettyImages-1230824354.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>23andMe User Data Stolen in Targeted Attack on Ashkenazi Jews</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 06, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/the-experts-helping-women-fight-digital-domestic-abuse/" target="_blank"> \
 <img src="https://media.wired.com/photos/651c4152ff50c54b5a401580/master/pass/EmmaPickering_07.14_AK_026_CCISO.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>How Neuralink Keeps Dead Monkey Photos Secret</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 04, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> \
-<img src="https://media.wired.com/photos/641e1a1b43ffd37beea02cdf/master/pass/Best%20Password%20Managers%20Gear%20GettyImages-1408198405.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>6 Best Password Managers (2023): Features, Pricing, and Tips</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 03, 2023</p> \
 </div> \
 </a> \
 </div> \
