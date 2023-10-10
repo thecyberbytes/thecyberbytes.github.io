@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/10/phishers-spoof-usps-12-other-natl-postal-services/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/google-passkey-default/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Phishers Spoof USPS, 12 Other Natl’ Postal Services</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Google Makes Passkeys Default, Stepping Up Its Push to Kill Passwords</h6> \
 </div> \
 </a> \
 </li> \
