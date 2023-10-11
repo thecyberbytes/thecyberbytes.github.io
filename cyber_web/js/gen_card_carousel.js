@@ -9,20 +9,20 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/elon-musk-israel-hamas-war-disinformation-x/" target="_blank"> \
-<img src="https://media.wired.com/photos/65254f75f67f65dcab972644/master/pass/musk-gear-asap-GettyImages-1258663927.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2023/10/patch-tuesday-october-2023-edition/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2020/08/windowsec.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Elon Musk Is Personally Undermining X’s Efforts to Curb Israel-Hamas War Disinformation</h2> \
+<h2>Patch Tuesday, October 2023 Edition</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 10, 2023</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/israel-hamas-war-hacktivism/" target="_blank"> \
-<img src="https://media.wired.com/photos/652475a1e80ea4e8f65267bb/master/pass/Israel%E2%80%99s-War-Brings-Out-Hacktivists-on-All-Sides-Security-GettyImages-1715335536.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/elon-musk-israel-hamas-war-disinformation-x/" target="_blank"> \
+<img src="https://media.wired.com/photos/65254f75f67f65dcab972644/master/pass/musk-gear-asap-GettyImages-1258663927.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Activist Hackers Are Racing Into the Israel-Hamas War—for Both Sides</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 09, 2023</p> \
+<h2>Elon Musk Is Personally Undermining X’s Efforts to Curb Israel-Hamas War Disinformation</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 10, 2023</p> \
 </div> \
 </a> \
 </div> \
