@@ -9,11 +9,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/google-passkey-default/" target="_blank"> \
-<img src="https://media.wired.com/photos/6524a856e550e5079cd54a31/master/pass/Google-Passkey-Push-Security-1384541738.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/x-community-notes-failures/" target="_blank"> \
+<img src="https://media.wired.com/photos/6526b0585f11119fb77b3ab8/master/pass/Community-Notes-Is-Making-X\'s-Disinformation-Problem-Worse-Not-Better-Security-GettyImages-1535931872.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Google Makes Passkeys Default, Stepping Up Its Push to Kill Passwords</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 10, 2023</p> \
+<h2>A Graphic Hamas Video Donald Trump Jr. Shared on X Is Actually Real, Research Confirms</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 11, 2023</p> \
 </div> \
 </a> \
 </div> \
@@ -27,10 +27,10 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/elon-musk-israel-hamas-war-disinformation-x/" target="_blank"> \
-<img src="https://media.wired.com/photos/65254f75f67f65dcab972644/master/pass/musk-gear-asap-GettyImages-1258663927.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/google-passkey-default/" target="_blank"> \
+<img src="https://media.wired.com/photos/6524a856e550e5079cd54a31/master/pass/Google-Passkey-Push-Security-1384541738.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Elon Musk Is Personally Undermining X’s Efforts to Curb Israel-Hamas War Disinformation</h2> \
+<h2>Google Makes Passkeys Default, Stepping Up Its Push to Kill Passwords</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 10, 2023</p> \
 </div> \
 </a> \
