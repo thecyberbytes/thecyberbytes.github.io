@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/hamas-drones-israel-war/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Hackers Stole Access Tokens from Okta’s Support Unit</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Dangerous Mystery of Hamas’ Missing ‘Suicide Drones’</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/23andme-credential-stuffing-data-stolen/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/23andme-data-leak-gets-worse-security-roundup/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">23andMe User Data Stolen in Targeted Attack on Ashkenazi Jews</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The 23andMe User Data Leak May Be Far Worse Than Believed</h6> \
 </div> \
 </a> \
 </li> \
