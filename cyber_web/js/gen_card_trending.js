@@ -1,15 +1,15 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/10/nj-man-hired-online-to-firebomb-shoot-at-homes-gets-13-years-in-prison/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">NJ Man Hired Online to Firebomb, Shoot at Homes Gets 13 Years in Prison</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/livestream-hostages-israel-hamas-war/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/section-702-nsa-abuses-reauthorization/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Hamas Threat of Hostage Execution Videos Looms Large Over Social Media</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">A Powerful Tool US Spies Misused to Stalk Women Faces Its Potential Demise</h6> \
 </div> \
 </a> \
 </li> \
