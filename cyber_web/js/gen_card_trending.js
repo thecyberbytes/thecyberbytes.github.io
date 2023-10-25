@@ -7,23 +7,23 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/generative-ai-images-child-sexual-abuse/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/section-702-nsa-abuses-reauthorization/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The AI-Generated Child Abuse Nightmare Is Here</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">A Powerful Tool US Spies Misused to Stalk Women Faces Its Potential Demise</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/23andme-data-leak-gets-worse-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/okta-support-system-breach-disclosure/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The 23andMe User Data Leak May Be Far Worse Than Believed</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Okta\'s Latest Security Breach Is Haunted by the Ghost of Incidents Past</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/israel-hamas-war-surveillance/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/elon-musk-mocked-ukraine-russian-trolls-went-wild/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Israel\'s Failure to Stop the Hamas Attack Shows the Danger of Too Much Surveillance</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Elon Musk Mocked Ukraine, and Russian Trolls Went Wild</h6> \
 </div> \
 </a> \
 </li> \
