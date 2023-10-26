@@ -1,5 +1,23 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/maine-mass-shooting-disinformation/" target="_blank"> \
+<img src="https://media.wired.com/photos/653a6ad0cab1e3af96faa78b/master/pass/GettyImages-1745433694.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Maine Mass Shooting Disinformation Floods Social Media as Suspect Remains at Large</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 26, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/tiktok-live-matches-israel-hamas-war/" target="_blank"> \
+<img src="https://media.wired.com/photos/65391d90f266870eb807db16/master/pass/TikTokers-Are-Playing-Virtual-Matches-Representing-Israel-and-Palestine-And-TikTok-Is-Profiting-GettyImages-1715813881.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>TikTok Streamers Are Staging ‘Israel vs. Palestine’ Live Matches to Cash In on Virtual Gifts</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 26, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/okta-support-system-breach-disclosure/" target="_blank"> \
 <img src="https://media.wired.com/photos/65380a84fd3d190c7a1f5c5d/master/pass/Okta\'s-Latest-Security-Breach-Is-Haunted-by-the-Ghost-of-Incidents-Past-Security-Alamy-WBA899.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -14,24 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Elon Musk Mocked Ukraine, and Russian Trolls Went Wild</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 25, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/" target="_blank"> \
-<img src="https://media.wired.com/photos/65370e2cec27098bc7d13884/master/pass/They-Cracked-a-Locked-$200-Million-Bitcoin-Thumb-Drive-Social.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 24, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/section-702-nsa-abuses-reauthorization/" target="_blank"> \
-<img src="https://media.wired.com/photos/65256ea05f11119fb77b3aab/master/pass/NSA-Officer-Used-Spy-Tool-on-Dating-Site-Matches-Security-GettyImages-690591674.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>A Powerful Tool US Spies Misused to Stalk Women Faces Its Potential Demise</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">October 24, 2023</p> \
 </div> \
 </a> \
 </div> \
