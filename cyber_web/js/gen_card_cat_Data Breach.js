@@ -192,24 +192,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/06/22/maltego-check-exposed-online/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2014/02/que-es-Maltego-como-funciona-herramienta-recopilar-información.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/06/22/maltego-check-exposed-online/" target="_blank"> Maltego: Check how exposed you are online </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 22, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/ups-smishing-letter.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/" target="_blank"> SMS Phishers Harvested Phone Numbers, Shipment Data from UPS Tracking Tool </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 22, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/06/22/maltego-check-exposed-online/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2014/02/que-es-Maltego-como-funciona-herramienta-recopilar-información.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/06/22/maltego-check-exposed-online/" target="_blank"> Maltego: Check how exposed you are online </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 22, 2023</span></small> \
@@ -288,24 +288,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/acropalyse-google-markup-windows-photo-cropping-bug/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/641a18ca8a80ebacb76000b5/master/pass/Some-Photo-Cropping-Tools-Aren\'t-Fully-Cropping-Your-Photos-Security-GettyImages-636945023.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/acropalyse-google-markup-windows-photo-cropping-bug/" target="_blank"> Bug in Google Markup, Windows Photo-Cropping Tools Exposes Removed Image Data </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 22, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2023/03/22/windows-11-also-vulnerable-to-acropalypse-image-data-leakage/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2023/03/22/windows-11-also-vulnerable-to-acropalypse-image-data-leakage/" target="_blank"> Windows 11 also vulnerable to “aCropalypse” image data leakage </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 22, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/acropalyse-google-markup-windows-photo-cropping-bug/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/641a18ca8a80ebacb76000b5/master/pass/Some-Photo-Cropping-Tools-Aren\'t-Fully-Cropping-Your-Photos-Security-GettyImages-636945023.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/acropalyse-google-markup-windows-photo-cropping-bug/" target="_blank"> Bug in Google Markup, Windows Photo-Cropping Tools Exposes Removed Image Data </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 22, 2023</span></small> \
@@ -425,7 +425,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/us-border-patrol-epassport-verification/" target="_blank"> US Border Protection Is Finally Able to Check E-Passport Data </a> \
+<a href="https://www.wired.com/story/us-border-patrol-epassport-verification/" target="_blank"> US Border Patrol Is Finally Able to Check E-Passport Data </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 15, 2023</span></small> \
@@ -437,7 +437,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/us-border-patrol-epassport-verification/" target="_blank"> US Border Patrol Is Finally Able to Check E-Passport Data </a> \
+<a href="https://www.wired.com/story/us-border-patrol-epassport-verification/" target="_blank"> US Border Protection Is Finally Able to Check E-Passport Data </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 15, 2023</span></small> \
@@ -468,24 +468,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/biden-2023-sotu-data-privacy/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63e30ebb552920ecdc857e56/master/pass/SOTU-Biden-1246876778.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/biden-2023-sotu-data-privacy/" target="_blank"> Biden’s SOTU: Data Privacy Is Now a Must-Hit US State of the Union Topic </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 08, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/fcra-letter-data-brokers-privacy-regulation/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/63e2dc52552920ecdc857e54/master/pass/Sec-copcars-1405671694.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/fcra-letter-data-brokers-privacy-regulation/" target="_blank"> How the US Can Stop Data Brokers\' Worst Practices—Right Now </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 08, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/biden-2023-sotu-data-privacy/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63e30ebb552920ecdc857e56/master/pass/SOTU-Biden-1246876778.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/biden-2023-sotu-data-privacy/" target="_blank"> Biden’s SOTU: Data Privacy Is Now a Must-Hit US State of the Union Topic </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 08, 2023</span></small> \
@@ -948,36 +948,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/lastpass-confirms-breach/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/lastpassadmitsbreach.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/twitter-to-roll-out-podcasts/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_666017836.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/lastpass-confirms-breach/" target="_blank"> LastPass confirms breach </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 26, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/twilio-breach-phishing-supply-chain-attacks/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/630921ccf64c675d6d1a5056/master/pass/Twilio-Hack-Security-GettyImages-1281229452.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/twilio-breach-phishing-supply-chain-attacks/" target="_blank"> Why the Twilio Breach Cuts So Deep </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 26, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/doordash-customer-and-driver-information-exposed-in-data-breach/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/doordash.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/doordash-customer-and-driver-information-exposed-in-data-breach/" target="_blank"> LastPass confirms breach </a> \
+<a href="https://cybernews.com/news/twitter-to-roll-out-podcasts/" target="_blank"> DoorDash customer and driver information exposed in data breach </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 26, 2022</span></small> \
@@ -996,24 +972,48 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/twitter-to-roll-out-podcasts/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_666017836.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/doordash-customer-and-driver-information-exposed-in-data-breach/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/doordash.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/twitter-to-roll-out-podcasts/" target="_blank"> DoorDash customer and driver information exposed in data breach </a> \
+<a href="https://cybernews.com/news/doordash-customer-and-driver-information-exposed-in-data-breach/" target="_blank"> LastPass confirms breach </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 26, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/23/personal-data-all-over-internet-7-steps-cleaning-up-online-presence/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/clean-up-digital-footprint-1.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/twilio-breach-phishing-supply-chain-attacks/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/630921ccf64c675d6d1a5056/master/pass/Twilio-Hack-Security-GettyImages-1281229452.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/23/personal-data-all-over-internet-7-steps-cleaning-up-online-presence/" target="_blank"> Is your personal data all over the internet? 7 steps to cleaning up your online presence </a> \
+<a href="https://www.wired.com/story/twilio-breach-phishing-supply-chain-attacks/" target="_blank"> Why the Twilio Breach Cuts So Deep </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 26, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/lastpass-confirms-breach/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/lastpassadmitsbreach.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/lastpass-confirms-breach/" target="_blank"> LastPass confirms breach </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 26, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/lockbit-hit-by-ddos-after-entrust-hack/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Entrustdatacardlogo.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/lockbit-hit-by-ddos-after-entrust-hack/" target="_blank"> Hackers post data dump from UK water company cyberattack, says Twitter pundit </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 23, 2022</span></small> \
@@ -1032,12 +1032,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/lockbit-hit-by-ddos-after-entrust-hack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Entrustdatacardlogo.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/08/23/personal-data-all-over-internet-7-steps-cleaning-up-online-presence/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/clean-up-digital-footprint-1.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/lockbit-hit-by-ddos-after-entrust-hack/" target="_blank"> Hackers post data dump from UK water company cyberattack, says Twitter pundit </a> \
+<a href="https://www.welivesecurity.com/2022/08/23/personal-data-all-over-internet-7-steps-cleaning-up-online-presence/" target="_blank"> Is your personal data all over the internet? 7 steps to cleaning up your online presence </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 23, 2022</span></small> \
@@ -1069,18 +1069,6 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/pentagon-data-profit-freedom-information-of-information-act/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63079f4a9fbbe8d3536bf947/master/pass/The-Poseys-vs-the-Pentagon--High_v1.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/pentagon-data-profit-freedom-information-of-information-act/" target="_blank"> The Family That Mined the Pentagon\'s Data for Profit </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/pentagon-data-profit-freedom-information-of-information-act/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/62fbd2c8922c62d7df489f6a/master/pass/1.%20The%20Poseys%20vs%20the%20Pentagon%20-Web%20Hero%202400%20x%201600%20v2.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
@@ -1092,15 +1080,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/twilio-breach-exposes-1900-signal-users-phone-numbers/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/signalphonenumbers.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/pentagon-data-profit-freedom-information-of-information-act/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63079f4a9fbbe8d3536bf947/master/pass/The-Poseys-vs-the-Pentagon--High_v1.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/twilio-breach-exposes-1900-signal-users-phone-numbers/" target="_blank"> Twilio breach exposes 1,900 Signal users\' phone numbers </a> \
+<a href="https://www.wired.com/story/pentagon-data-profit-freedom-information-of-information-act/" target="_blank"> The Family That Mined the Pentagon\'s Data for Profit </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 16, 2022</span></small> \
+<span>August 18, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1116,12 +1104,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/data-breach-romance-scams-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/0-7.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/twilio-breach-exposes-1900-signal-users-phone-numbers/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/signalphonenumbers.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/data-breach-romance-scams-week-in-security-with-tony-anscombe/" target="_blank"> The potential consequences of a data breach, plus romance scams – Week in security with Tony Anscombe </a> \
+<a href="https://cybernews.com/news/twilio-breach-exposes-1900-signal-users-phone-numbers/" target="_blank"> Twilio breach exposes 1,900 Signal users\' phone numbers </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 16, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/videos/data-breach-romance-scams-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/ESET_welivesecurity_square_6_12_August-e1660321006126.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/videos/data-breach-romance-scams-week-in-security-with-tony-anscombe/" target="_blank"> The potential consequences of data breach, and romance scams – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 12, 2022</span></small> \
@@ -1141,26 +1141,14 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/data-breach-romance-scams-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/ESET_welivesecurity_square_6_12_August-e1660321006126.jpg" alt="" class="img-fluid"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/0-7.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/data-breach-romance-scams-week-in-security-with-tony-anscombe/" target="_blank"> The potential consequences of data breach, and romance scams – Week in security with Tony Anscombe </a> \
+<a href="https://www.welivesecurity.com/videos/data-breach-romance-scams-week-in-security-with-tony-anscombe/" target="_blank"> The potential consequences of a data breach, plus romance scams – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/cisco-network-breach-google/180385/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/06/20102756/cisco-patch.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/cisco-network-breach-google/180385/" target="_blank"> Cisco Confirms Network Breach Via Hacked Employee Google Account </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 11, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1176,15 +1164,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Classified.png" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/cisco-network-breach-google/180385/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/06/20102756/cisco-patch.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" target="_blank"> Russian threat group targets online vendors in Singapore </a> \
+<a href="https://threatpost.com/cisco-network-breach-google/180385/" target="_blank"> Cisco Confirms Network Breach Via Hacked Employee Google Account </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 09, 2022</span></small> \
+<span>August 11, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1200,6 +1188,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Classified.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" target="_blank"> Russian threat group targets online vendors in Singapore </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 09, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/north-korean-hackers-use-fake-coinbase-job-ads-to-lure-crypto-buffs/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.cybernews.com/images/thumbnail/2022/08/coinbase-logo-app.png" alt="" class="img-fluid"> \
 </a> \
@@ -1209,18 +1209,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 08, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/India-hacker-data.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" target="_blank"> Sensitive records of over 280m Indian citizens exposed </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 05, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1248,6 +1236,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/India-hacker-data.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" target="_blank"> Sensitive records of over 280m Indian citizens exposed </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 05, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/winamp-is-back-after-revamp-nostalgia-inducing-looks-intact/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.cybernews.com/images/thumbnail/2022/08/winamp.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -1257,18 +1257,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 04, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/MBDA-missile-breach2.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" target="_blank"> Missile maker MBDA denies being hacked, admits to data loss </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 02, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1284,15 +1272,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/cyberattack-on-radiation-alert-system-ends-with-double-arrest/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Spain-nuclear-power.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/MBDA-missile-breach2.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/cyberattack-on-radiation-alert-system-ends-with-double-arrest/" target="_blank"> Russia fines Snapchat owner for data law breach </a> \
+<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" target="_blank"> Missile maker MBDA denies being hacked, admits to data loss </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 29, 2022</span></small> \
+<span>August 02, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1314,6 +1302,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/" target="_blank"> 911 Proxy Service Implodes After Disclosing Breach </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 29, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/cyberattack-on-radiation-alert-system-ends-with-double-arrest/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Spain-nuclear-power.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/cyberattack-on-radiation-alert-system-ends-with-double-arrest/" target="_blank"> Russia fines Snapchat owner for data law breach </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 29, 2022</span></small> \
