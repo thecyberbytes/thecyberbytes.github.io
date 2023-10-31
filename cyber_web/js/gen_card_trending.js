@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/cryptominer-espionage-campaign-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/apple-google-microsoft-critical-update-october-2023/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">This Cryptomining Tool Is Stealing Secrets</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Apple, Google, and Microsoft Just Patched Some Spooky Security Flaws</h6> \
 </div> \
 </a> \
 </li> \
