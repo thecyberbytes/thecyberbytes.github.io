@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/microsoft-secure-future-initiative/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/culturepulse-ai-israeli-palestinian-crisis/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Does Damage Control With Its New \'Secure Future Initiative\'</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The UN Hired an AI Company to Untangle the Israeli-Palestinian Crisis</h6> \
 </div> \
 </a> \
 </li> \
