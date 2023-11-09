@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/gop-debate-rumble-livestream-nick-fuentes/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/how-to-get-ad-free-facebook-instagram-meta-privacy/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The GOP Presidential Debate Is Livestreaming on Rumble, Home to White Nationalist Nick Fuentes</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How to Get Facebook Without Ads—if It’s Available for You</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/myanmar-doxxing-airstrike/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/sandworm-ukraine-third-blackout-cyberattack/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">They Supported Air Strike Victims. Then They Were Doxed and Arrested</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Sandworm Hackers Caused Another Blackout in Ukraine—During a Missile Strike</h6> \
 </div> \
 </a> \
 </li> \
