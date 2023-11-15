@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/aapi-section-702-letter/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/cisa-ai-roadmap/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Asian Americans Raise Alarm Over ‘Chilling Effects’ of Section 702 Surveillance Program</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">CISA Has a New Road Map for Handling Weaponized AI</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/nsa-china-hacking-criticial-us-infrastructure/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/11/microsoft-patch-tuesday-november-2023-edition/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The NSA Seems Pretty Stressed About the Threat of Chinese Hackers in US Critical Infrastructure</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, November 2023 Edition</h6> \
 </div> \
 </a> \
 </li> \
