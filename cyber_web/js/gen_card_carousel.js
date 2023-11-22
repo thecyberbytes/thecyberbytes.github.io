@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/usa-binance-money-laundering-charges/" target="_blank"> \
+<img src="https://media.wired.com/photos/655cfa1ebca7c5da5ada0a06/master/pass/Binance-Criminal-Charges-Security-2MAARRT.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>DOJ Charges Binance With Vast Money-Laundering Scheme and Sanctions Violations</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 21, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/hemisphere-das-white-house-surveillance-trillions-us-call-records/" target="_blank"> \
 <img src="https://media.wired.com/photos/655b89e9dadcc35dd438a9e1/master/pass/Mysterious-Surveillance-Program-Tracks-%E2%80%98Trillions%E2%80%99-of-Calls,-US-Senator-Says-Security-GettyImages-1302773936.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Inside the Race to Secure the F1 Las Vegas Grand Prix</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 18, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/far-right-bin-laden-letter-to-america-conspiracies/" target="_blank"> \
-<img src="https://media.wired.com/photos/65578f8b6923d07226cddb2e/master/pass/New-Bin-Laden-Letter-Tik-Tok-Politics-51424119.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The Bin Laden Letter Is Being Weaponized by the Far Right</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 17, 2023</p> \
 </div> \
 </a> \
 </div> \
