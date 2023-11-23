@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/usa-binance-money-laundering-charges/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/doomscrolling-bad-news-mental-health/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">DOJ Charges Binance With Vast Money-Laundering Scheme and Sanctions Violations</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">It\'s Time to Log Off</h6> \
 </div> \
 </a> \
 </li> \
