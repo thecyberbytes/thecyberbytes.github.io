@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/how-to-stop-google-delete-account-inactive/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/how-to-make-web-searches-secure-private/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">How to Stop Google From Deleting Your Inactive Account</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Private and Secure Web Search Engines: DuckDuckGo, Brave, Kagi, Startpage</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ntmc-bangladesh-database-leak/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/signal-operating-costs/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">A Spy Agency Leaked People\'s Data Online—Then the Data Was Stolen</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Running Signal Will Soon Cost $50 Million a Year</h6> \
 </div> \
 </a> \
 </li> \
