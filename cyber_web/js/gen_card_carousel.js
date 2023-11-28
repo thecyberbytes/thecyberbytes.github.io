@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/section-702-reauthorization-ndaa-2023/" target="_blank"> \
+<img src="https://media.wired.com/photos/6564f9eb971cdadbf317f3a0/master/pass/Mike-Johnson-Section-702-Security-1754110292.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Section 702 Surveillance Reauthorization May Get Slipped Into ‘Must-Pass’ NDAA</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 27, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/apple-iphone-namedrop-ios17/" target="_blank"> \
 <img src="https://media.wired.com/photos/6564abf23dbf6a669da7ae03/master/pass/sec-Apple-iOS-17-NameDrop.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -14,15 +23,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Private and Secure Web Search Engines: DuckDuckGo, Brave, Kagi, Startpage</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 26, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/how-to-stop-google-delete-account-inactive/" target="_blank"> \
-<img src="https://media.wired.com/photos/646662152cc57777ec67efd0/master/pass/Google-Deleting-Old-Accounts-Gear-GettyImages-613754154.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>How to Stop Google From Deleting Your Inactive Account</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 25, 2023</p> \
 </div> \
 </a> \
 </div> \
