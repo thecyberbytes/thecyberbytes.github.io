@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/elon-musk-qanon-2024-election/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/openai-custom-chatbots-gpts-prompt-injection-attacks/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Elon Musk Is Giving QAnon Believers Hope Just in Time for the 2024 Elections</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">OpenAI’s Custom Chatbots Are Leaking Their Secrets</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ntmc-bangladesh-database-leak/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/okta-breach-disclosure-all-customer-support-users/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">A Spy Agency Leaked People\'s Data Online—Then the Data Was Stolen</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Okta Breach Impacted All Customer Support Users—Not 1 Percent</h6> \
 </div> \
 </a> \
 </li> \
