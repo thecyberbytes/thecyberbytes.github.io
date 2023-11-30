@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/openai-custom-chatbots-gpts-prompt-injection-attacks/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/cdc-gun-violence-research-gop-proposal/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">OpenAI’s Custom Chatbots Are Leaking Their Secrets</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The CDC\'s Gun Violence Research Is in Danger</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/okta-breach-disclosure-all-customer-support-users/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2023/11/okta-breach-affected-all-customer-support-users/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Okta Breach Impacted All Customer Support Users—Not 1 Percent</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Okta: Breach Affected All Customer Support Users</h6> \
 </div> \
 </a> \
 </li> \
@@ -35,9 +35,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/11/microsoft-patch-tuesday-november-2023-edition/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/google-chrome-seven-zero-day-flaws-critical-update-november-2023/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Microsoft Patch Tuesday, November 2023 Edition</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Google Fixes a Seventh Zero-Day Flaw in Chrome—Update Now</h6> \
 </div> \
 </a> \
 </li> \
