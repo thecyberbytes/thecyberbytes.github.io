@@ -14,9 +14,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2023/11/okta-breach-affected-all-customer-support-users/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/okta-breach-disclosure-all-customer-support-users/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Okta: Breach Affected All Customer Support Users</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Okta Breach Impacted All Customer Support Users—Not 1 Percent</h6> \
 </div> \
 </a> \
 </li> \
