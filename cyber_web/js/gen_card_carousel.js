@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/how-to-qr-code-hacks-avoid/" target="_blank"> \
+<img src="https://media.wired.com/photos/656a1ad6f8b0b4ca60e7a974/master/pass/How-not-to-get-hacked-by-a-QR-code-Gear.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>How to Not Get Hacked by a QR Code</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 03, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/chatgpt-poem-forever-security-roundup/" target="_blank"> \
 <img src="https://media.wired.com/photos/656a2455c4fa45d57439c911/master/pass/ChatGPT-Security-Roundup-GettyImages-1817371215.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Anduril’s New Drone Killer Is Locked on to AI-Powered Warfare</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 01, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/cdc-gun-violence-research-gop-proposal/" target="_blank"> \
-<img src="https://media.wired.com/photos/6567ae2b3e2f63900ec5d893/master/pass/CDC-guns-sec-GettyImages-1246717458.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The CDC\'s Gun Violence Research Is in Danger</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">November 30, 2023</p> \
 </div> \
 </a> \
 </div> \
