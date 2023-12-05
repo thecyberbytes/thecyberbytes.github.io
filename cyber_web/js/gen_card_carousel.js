@@ -1,5 +1,23 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/automated-ai-attack-gpt-4/" target="_blank"> \
+<img src="https://media.wired.com/photos/656e5672fab4cd193a0b3a65/master/pass/A-New-Trick-Uses-AI-to-Jailbreak-AI-Models%E2%80%94Including-GPT-4-Security-GettyImages-1303372363.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>A New Trick Uses AI to Jailbreak AI Models—Including GPT-4</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 05, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> \
+<img src="https://media.wired.com/photos/641e1a1b43ffd37beea02cdf/master/pass/Best%20Password%20Managers%20Gear%20GettyImages-1408198405.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>9 Best Password Managers (2023): Features, Pricing, and Tips</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 05, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/section-702-immigrant-families-surveillance/" target="_blank"> \
 <img src="https://media.wired.com/photos/656ddba48df40f19529e356c/master/pass/GettyImages-1173633491.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -14,24 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Inside America\'s School Internet Censorship Machine</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 04, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/how-to-qr-code-hacks-avoid/" target="_blank"> \
-<img src="https://media.wired.com/photos/656a1ad6f8b0b4ca60e7a974/master/pass/How-not-to-get-hacked-by-a-QR-code-Gear.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>How to Not Get Hacked by a QR Code</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 03, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/chatgpt-poem-forever-security-roundup/" target="_blank"> \
-<img src="https://media.wired.com/photos/656a2455c4fa45d57439c911/master/pass/ChatGPT-Security-Roundup-GettyImages-1817371215.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>ChatGPT Spit Out Sensitive Data When Told to Repeat ‘Poem’ Forever</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 02, 2023</p> \
 </div> \
 </a> \
 </div> \
