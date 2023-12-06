@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/automated-ai-attack-gpt-4/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/best-password-managers/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">A New Trick Uses AI to Jailbreak AI Models—Including GPT-4</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">9 Best Password Managers (2023): Features, Pricing, and Tips</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/chatgpt-poem-forever-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/23andme-breach-sec-update/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">ChatGPT Spit Out Sensitive Data When Told to Repeat ‘Poem’ Forever</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The 23andMe Data Breach Keeps Spiraling</h6> \
 </div> \
 </a> \
 </li> \
