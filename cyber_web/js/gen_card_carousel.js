@@ -1,10 +1,28 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> \
-<img src="https://media.wired.com/photos/641e1a1b43ffd37beea02cdf/master/pass/Best%20Password%20Managers%20Gear%20GettyImages-1408198405.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/apple-google-push-notification-surveillance/" target="_blank"> \
+<img src="https://media.wired.com/photos/65708cba9ff4d71c8bdf01fb/master/pass/pushnotif-ios-sec-GettyImages-1696244240.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>9 Best Password Managers (2023): Features, Pricing, and Tips</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 05, 2023</p> \
+<h2>Police Can Spy on Your iOS and Android Push Notifications</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 06, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/binance-settlement-transaction-histories/" target="_blank"> \
+<img src="https://media.wired.com/photos/655e55765a9f03a94854e2cd/master/pass/binance.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>The Binance Crackdown Will Be an \'Unprecedented\' Bonanza for Crypto Surveillance</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 06, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://krebsonsecurity.com/2023/12/icann-launches-service-to-help-with-whois-lookups/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2018/02/whois.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>ICANN Launches Service to Help With WHOIS Lookups</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 06, 2023</p> \
 </div> \
 </a> \
 </div> \
@@ -14,24 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>A New Trick Uses AI to Jailbreak AI Models—Including GPT-4</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 05, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/23andme-breach-sec-update/" target="_blank"> \
-<img src="https://media.wired.com/photos/656f9e7adaaad622dc840b1a/master/pass/breach-23andme-sec-GettyImages-1419172954.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The 23andMe Data Breach Keeps Spiraling</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 05, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/section-702-immigrant-families-surveillance/" target="_blank"> \
-<img src="https://media.wired.com/photos/656ddba48df40f19529e356c/master/pass/GettyImages-1173633491.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>US Lawmakers Want to Use a Powerful Spy Tool on Immigrants and Their Families</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 04, 2023</p> \
 </div> \
 </a> \
 </div> \
