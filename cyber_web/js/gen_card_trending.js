@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ukraine-war-rebuild-united24/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/section-702-house-bills-plewsa-frra/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Ukraine Is Crowdfunding Its Reconstruction</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Congress Clashes Over the Future of America’s Section 702 Spy Program</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/elon-musk-mocked-ukraine-russian-trolls-went-wild/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/ukraine-kyivstar-solntsepek-sandworm-gru/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Elon Musk Mocked Ukraine, and Russian Trolls Went Wild</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Hacker Group Linked to Russian Military Claims Credit for Cyberattack on Kyivstar</h6> \
 </div> \
 </a> \
 </li> \
