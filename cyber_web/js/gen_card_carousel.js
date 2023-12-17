@@ -1,19 +1,19 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/6557ed60591547359b3c7022/master/pass/The-Startup-That-Transformed-The-Hack-for-Hire-Industry-Security-GettyImages-685008639.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>The Startup That Transformed the Hack-for-Hire Industry</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 17, 2023</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/google-geofence-warrants-security-roundup/" target="_blank"> \
 <img src="https://media.wired.com/photos/657c8f64bfd20c034cdc2a41/master/pass/Security-News-This-Week--Google-Just-Denied-Cops-a-Key-Surveillance-Tool-Security-GettyImages-1402126273.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>Google Just Denied Cops a Key Surveillance Tool</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 16, 2023</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/" target="_blank"> \
-<img src="https://media.wired.com/photos/657a3fe5d50c518000e43e8c/master/pass/McDonald\'s-Ice-Cream-Machine-Hackers-Found-the-%E2%80%9CSmoking-Gun%E2%80%9D-That-Killed-Their-Startup-Security-GettyImages-sb10065848be-001.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">December 14, 2023</p> \
 </div> \
 </a> \
 </div> \
