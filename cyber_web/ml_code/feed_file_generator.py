@@ -12,7 +12,9 @@ import requests
 from bs4 import BeautifulSoup
 
 def pull_data(url):
-    response = requests.get(url)
+    HEADERS = {'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'}
+
+    response = requests.get(url, headers=HEADERS)
     response.raise_for_status()
 
     content = response.content#resp.content.decode('utf8')
@@ -268,7 +270,7 @@ def gen_feed_file(file_name, blog_file):
     URL = "https://medium.com/feed/@vinothu"
     URL = "https://blog.vinothv.com/feed"
     print(f"Pulling data from {URL}...")
-    blog_df = pd.DataFrame()#pull_blog_data(pull_data(URL), blog_df)
+    blog_df = pull_blog_data(pull_data(URL), blog_df)
     print(f"Done pulling data.")
     print(blog_df.shape)
     blog_df.to_excel(blog_file, index=False)
