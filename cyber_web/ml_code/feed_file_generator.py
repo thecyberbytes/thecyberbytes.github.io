@@ -267,9 +267,8 @@ def gen_feed_file(file_name, blog_file):
 
     URL = "https://medium.com/feed/@vinothu"
     URL = "https://blog.vinothv.com/feed"
-    URL = "https://thehackernews.com/feeds/posts/default"
     print(f"Pulling data from {URL}...")
-    blog_df = pull_blog_data(pull_data(URL), blog_df)
+    blog_df = pd.DataFrame()#pull_blog_data(pull_data(URL), blog_df)
     print(f"Done pulling data.")
     print(blog_df.shape)
     blog_df.to_excel(blog_file, index=False)
