@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/cryptography-algorithm-upgrade-security/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/israel-hamas-war-health-care-facilities-attack-study/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">A Celebrated Cryptography-Breaking Algorithm Just Got an Upgrade</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Satellite Images Point to Indiscriminate Israeli Attacks on Gaza’s Health Care Facilities</h6> \
 </div> \
 </a> \
 </li> \
