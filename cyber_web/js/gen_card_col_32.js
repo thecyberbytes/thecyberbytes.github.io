@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/how-to-qr-code-hacks-avoid/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/656a1ad6f8b0b4ca60e7a974/master/pass/How-not-to-get-hacked-by-a-QR-code-Gear.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/6581b41fcfc310dfaabb42d1/master/pass/YIR-fb-marketplace-scams-gear-GettyImages-88656979.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>December 03, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">How to Not Get Hacked by a QR Code</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>December 22, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Facebook Marketplace Is Being Ruined by Zelle Scammers</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/chatgpt-poem-forever-security-roundup/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/656a2455c4fa45d57439c911/master/pass/ChatGPT-Security-Roundup-GettyImages-1817371215.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/us-congress-children-privacy-reform-2023/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/65833754a1e2e944e2b454b0/master/pass/Congress-Made-2023-the-Year-of-Better-Privacy-for-Kids.-So-What-Went-Wrong--Security-GettyImages-1236142098.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>December 02, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">ChatGPT Spit Out Sensitive Data When Told to Repeat ‘Poem’ Forever</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>December 22, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Congress Sure Made a Lot of Noise About Kids’ Privacy in 2023—and Not Much Else</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/donald-trump-january-6-lawsuit-candidate-president/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/656a42a47c87ea6d6df22af5/master/pass/When-It-Comes-to-Getting-Sued,-a-Court-Splits-Donald-Trump-in-Two-Security-GettyImages-1771821990.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://krebsonsecurity.com/2023/12/blackcat-ransomware-raises-ante-after-fbi-disruption/" target="_blank" style="text-decoration:none"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/12/blackcatseizure-santaversion.png" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>December 01, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">When It Comes to January 6 Lawsuits, a Court Splits Donald Trump in Two</h5> \
+<small class="text-uppercase font-weight-bold"><span>Ransomware</span> <span class="mx-1">&bullet;</span> <span>December 19, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">BlackCat Ransomware Raises Ante After FBI Disruption</h5> \
 </div> \
 </a> \
 </div> \

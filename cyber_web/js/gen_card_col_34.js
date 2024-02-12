@@ -1,28 +1,28 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/how-to-make-web-searches-secure-private/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/60e8e249f7ad3fd19eba732d/master/pass/Sec_searchengine_GettyImages-56160487.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/elijah-wood-mike-tyson-russia-ukraine-disinformation/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/6571f6e3e5736884fcbcc20b/master/pass/The-Kremlin-Is-on-Cameo-Security.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>November 26, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Private and Secure Web Search Engines: DuckDuckGo, Brave, Kagi, Startpage</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>December 07, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Elijah Wood and Mike Tyson Cameo Videos Were Used in a Russian Disinformation Campaign</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/google-chrome-youtube-ad-blocker-crackdown/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/655e87dce7144a138a03b562/master/pass/Security-Ad-Blockers-Google-1319709925.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://krebsonsecurity.com/2023/12/icann-launches-service-to-help-with-whois-lookups/" target="_blank" style="text-decoration:none"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2018/02/whois.png" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>November 25, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Google’s Ad Blocker Crackdown Is Growing</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>December 06, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">ICANN Launches Service to Help With WHOIS Lookups</h5> \
 </div> \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/how-to-stop-google-delete-account-inactive/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/646662152cc57777ec67efd0/master/pass/Google-Deleting-Old-Accounts-Gear-GettyImages-613754154.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/binance-settlement-transaction-histories/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/655e55765a9f03a94854e2cd/master/pass/binance.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>November 25, 2023</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">How to Stop Google From Deleting Your Inactive Account</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>December 06, 2023</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">The Binance Crackdown Will Be an \'Unprecedented\' Bonanza for Crypto Surveillance</h5> \
 </div> \
 </a> \
 </div> \
