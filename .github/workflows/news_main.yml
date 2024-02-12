@@ -38,15 +38,15 @@ jobs:
       
       # If using Python:
       - name: Install dependencies
-        run: pip install -r cyber_web/ml_code/requirements.txt
+        run: pip install --upgrade --force-reinstall -r cyber_web/ml_code/requirements.txt
         
       # If using Python:
       - name: Install nltk downloads
-        run: python3 -m nltk.downloader punkt stopwords wordnet omw-1.4
+        run: python -m nltk.downloader punkt stopwords wordnet omw-1.4
         
       # If using Python:
       - name: Pull data
-        run: python3 cyber_web/ml_code/news_main.py
+        run: python cyber_web/ml_code/news_main.py
       
       #
       #    
