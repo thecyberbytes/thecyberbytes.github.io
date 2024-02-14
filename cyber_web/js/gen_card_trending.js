@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/02/fat-patch-tuesday-february-2024-edition/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Fat Patch Tuesday, February 2024 Edition</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">U.S. Internet Leaked Years of Internal, Customer Emails</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/02/from-cybercrime-saul-goodman-to-the-russian-gru/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/surveillance-fight-pits-the-white-house-opposite-reproductive-rights/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">From Cybercrime Saul Goodman to the Russian GRU</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Section 702 Surveillance Fight Pits the White House Opposite Reproductive Rights</h6> \
 </div> \
 </a> \
 </li> \
