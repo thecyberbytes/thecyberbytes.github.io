@@ -1,10 +1,10 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/securence-home.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/elon-musk-x-checkmarks-terrorist-groups/" target="_blank"> \
+<img src="https://media.wired.com/photos/65ce9b13fefe70e27faab041/master/pass/X-Verified-Terrorist-Groups-Security-GettyImages-1258608535.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>U.S. Internet Leaked Years of Internal, Customer Emails</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 14, 2024</p> \
+<h2>Elon Musk’s X Gave Check Marks to Terrorist Group Leaders, Report Says</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 15, 2024</p> \
 </div> \
 </a> \
 </div> \
@@ -27,11 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2024/02/fat-patch-tuesday-february-2024-edition/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2021/07/windupate.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/securence-home.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Fat Patch Tuesday, February 2024 Edition</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 13, 2024</p> \
+<h2>U.S. Internet Leaked Years of Internal, Customer Emails</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 14, 2024</p> \
 </div> \
 </a> \
 </div> \

@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/elon-musk-x-checkmarks-terrorist-groups/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">U.S. Internet Leaked Years of Internal, Customer Emails</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Elon Musk’s X Gave Check Marks to Terrorist Group Leaders, Report Says</h6> \
 </div> \
 </a> \
 </li> \
