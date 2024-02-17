@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/elon-musk-x-checkmarks-terrorist-groups/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/spacex-hypersonic-missile-satellites/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Elon Musk’s X Gave Check Marks to Terrorist Group Leaders, Report Says</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">SpaceX Launched Military Satellites Designed to Track Hypersonic Missiles</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/surveillance-fight-pits-the-white-house-opposite-reproductive-rights/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/section-702-privacy-reforms-sabotage-campaign/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Section 702 Surveillance Fight Pits the White House Opposite Reproductive Rights</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Leak of Russian ‘Threat’ Part of a Bid to Kill US Surveillance Reform, Sources Say</h6> \
 </div> \
 </a> \
 </li> \
