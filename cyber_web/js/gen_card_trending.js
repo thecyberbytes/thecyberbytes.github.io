@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/anne-neuberger-cybersecurity-q-and-a/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Signal Finally Rolls Out Usernames, So You Can Keep Your Phone Number Private</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Anne Neuberger, a Top White House Cyber Official, Sees the \'Promise and Peril\' in AI</h6> \
 </div> \
 </a> \
 </li> \
