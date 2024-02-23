@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">New Leak Shows Business Side of China’s APT Menace</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Here Are the Secret Locations of ShotSpotter Gunfire Sensors</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2024/02/feds-seize-lockbit-ransomware-websites-offer-decryption-tools-troll-affiliates/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Notorious Lockbit Ransomware Gang Has Been Disrupted by Law Enforcement</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Feds Seize LockBit Ransomware Websites, Offer Decryption Tools, Troll Affiliates</h6> \
 </div> \
 </a> \
 </li> \
