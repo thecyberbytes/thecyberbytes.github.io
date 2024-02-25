@@ -9,20 +9,20 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
+<a href="https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/" target="_blank"> \
+<img src="https://media.wired.com/photos/65d91d8d6248d84bf2a999c2/master/pass/vending%20machine%20facial%20recognition.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>A Vending Machine Error Revealed Secret Face Recognition Tech</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 24, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/" target="_blank"> \
 <img src="https://media.wired.com/photos/65d6a25352ec931ba5079b5b/master/pass/security_shotspotter_gunshot_detection_locations.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>Here Are the Secret Locations of ShotSpotter Gunfire Sensors</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 23, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/hpsci-russia-urgent-threat-leak/" target="_blank"> \
-<img src="https://media.wired.com/photos/65d794eb282528a964bf5409/master/pass/Scoop--The-Weird-Russian-\'Threat\'-Leak-Is-Even-Weirder-Than-You-Think-Security-GettyImages-1754907256.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Leak Reveals the Unusual Path of ‘Urgent’ Russian Threat Warning</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 22, 2024</p> \
 </div> \
 </a> \
 </div> \
