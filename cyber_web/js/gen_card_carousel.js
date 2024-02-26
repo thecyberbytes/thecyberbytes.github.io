@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/fultonga-lockbit.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>FBI’s LockBit Takedown Postponed a Ticking Time Bomb in Fulton County, Ga.</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 26, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/isoon-china-hack-for-hire-leak/" target="_blank"> \
 <img src="https://media.wired.com/photos/65d8d804b4c045eec70aee55/master/pass/A-Mysterious-Leak-Exposed-Chinese-Hacking-Secrets-Security-GettyImages-1205116066.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Here Are the Secret Locations of ShotSpotter Gunfire Sensors</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 23, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/i-soon-apt.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>New Leak Shows Business Side of China’s APT Menace</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 22, 2024</p> \
 </div> \
 </a> \
 </div> \
