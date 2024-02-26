@@ -9,6 +9,15 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
+<a href="https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/" target="_blank"> \
+<img src="https://media.wired.com/photos/65d90ce5a068349256683564/master/pass/How-a-Right-Wing-Controversy-Could-Sabotage-US-Election-Security-Security-GettyImages-83273505.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>How a Right-Wing Controversy Could Sabotage US Election Security</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 26, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/isoon-china-hack-for-hire-leak/" target="_blank"> \
 <img src="https://media.wired.com/photos/65d8d804b4c045eec70aee55/master/pass/A-Mysterious-Leak-Exposed-Chinese-Hacking-Secrets-Security-GettyImages-1205116066.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>A Vending Machine Error Revealed Secret Face Recognition Tech</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 24, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/" target="_blank"> \
-<img src="https://media.wired.com/photos/65d6a25352ec931ba5079b5b/master/pass/security_shotspotter_gunshot_detection_locations.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Here Are the Secret Locations of ShotSpotter Gunfire Sensors</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 23, 2024</p> \
 </div> \
 </a> \
 </div> \
