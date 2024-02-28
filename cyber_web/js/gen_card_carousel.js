@@ -1,37 +1,37 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/fultonga-lockbit.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/gps-tags-migrants/" target="_blank"> \
+<img src="https://media.wired.com/photos/65d90e463821b22f42c20077/master/pass/Britain-Is-GPS-Tagging-Thousands-of-Migrants-Security-GettyImages-1392356345.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>FBI’s LockBit Takedown Postponed a Ticking Time Bomb in Fulton County, Ga.</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 26, 2024</p> \
+<h2>The UK Is GPS-Tagging Thousands of Migrants</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 27, 2024</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/" target="_blank"> \
-<img src="https://media.wired.com/photos/65d90ce5a068349256683564/master/pass/How-a-Right-Wing-Controversy-Could-Sabotage-US-Election-Security-Security-GettyImages-83273505.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/" target="_blank"> \
+<img src="https://media.wired.com/photos/65de4369d7afba84ab89dabb/master/pass/Ransomware-Groups-Are-Bouncing-Back-Faster-from-Law-Enforcement-Busts-Security-GettyImages-121352268.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>How a Right-Wing Controversy Could Sabotage US Election Security</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 26, 2024</p> \
+<h2>Change Healthcare Ransomware Attack: BlackCat Hackers Quickly Returned After FBI Bust</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 27, 2024</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/isoon-china-hack-for-hire-leak/" target="_blank"> \
-<img src="https://media.wired.com/photos/65d8d804b4c045eec70aee55/master/pass/A-Mysterious-Leak-Exposed-Chinese-Hacking-Secrets-Security-GettyImages-1205116066.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/best-vpn/" target="_blank"> \
+<img src="https://media.wired.com/photos/63eaa0cf1b87b32b35988c1e/master/pass/Best-VPNs-Guide-2023-Gear-GettyImages-1223865512.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>A Mysterious Leak Exposed Chinese Hacking Secrets</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 24, 2024</p> \
+<h2>5 Best VPN Services (2024): For Routers, PC, iPhone, Android, and More</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 27, 2024</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/" target="_blank"> \
-<img src="https://media.wired.com/photos/65d91d8d6248d84bf2a999c2/master/pass/vending%20machine%20facial%20recognition.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/how-pentagon-learned-targeted-ads-to-find-targets-and-vladimir-putin/" target="_blank"> \
+<img src="https://media.wired.com/photos/65dcd3aeca2194c4e2e5c3e8/master/pass/meansofcontrol-final.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>A Vending Machine Error Revealed Secret Face Recognition Tech</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 24, 2024</p> \
+<h2>How the Pentagon Learned to Use Targeted Ads to Find Its Targets—and Vladimir Putin</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">February 27, 2024</p> \
 </div> \
 </a> \
 </div> \
