@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/sandvine-us-sanctions-egypt-internet-censorship/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/pornhub-chatbot-csam-help/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Dictators Used Sandvine Tech to Censor the Internet. The US Finally Did Something About It</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">A Pornhub Chatbot Stopped Millions From Searching for Child Abuse Videos</h6> \
 </div> \
 </a> \
 </li> \
@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/blackcat-ransomware-disruptions-comebacks/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/lockbit-fulton-county-georgia-trump-ransomware-leak/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Change Healthcare Ransomware Attack: BlackCat Hackers Quickly Returned After FBI Bust</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Mysterious Case of the Missing Trump Trial Ransomware Leak</h6> \
 </div> \
 </a> \
 </li> \
