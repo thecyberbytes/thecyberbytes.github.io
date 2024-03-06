@@ -9,6 +9,15 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
+<a href="https://www.wired.com/story/meta-hacked-users-draining-resources/" target="_blank"> \
+<img src="https://media.wired.com/photos/65e7c232eeebaaa58cda3a92/master/pass/Meta-Phishing-Scam-Problem-Security-1240854109.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Meta Abandons Hacking Victims, Draining Law Enforcement Resources, Officials Say</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 06, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/registered-agents-inc-fake-personas/" target="_blank"> \
 <img src="https://media.wired.com/photos/65de62d10e4d62d76c2529a7/master/pass/022724-security-registered-agents-inc.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>How to Turn Off Facebook’s Two-Factor Authentication Change</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 05, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/" target="_blank"> \
-<img src="https://media.wired.com/photos/65e5f048505aa2df678569bd/master/pass/Change-Healthcare-Pays-Ransom-Security-Alamy-BNWJJ3.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 04, 2024</p> \
 </div> \
 </a> \
 </div> \
