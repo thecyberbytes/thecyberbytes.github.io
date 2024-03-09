@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/russia-hackers-microsoft-source-code/" target="_blank"> \
+<img src="https://media.wired.com/photos/65eb4c36b7cb6be700970ab7/master/pass/Security-Roundup-Microsoft-Russian-Hackers-GettyImages-1913821927.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Russian Hackers Stole Microsoft Source Code—and the Attack Isn’t Over</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 09, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://krebsonsecurity.com/2024/03/a-close-up-look-at-the-consumer-data-broker-radaris/" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2024/03/radarisbtk.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Meta Abandons Hacking Victims, Draining Law Enforcement Resources, Officials Say</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 06, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/registered-agents-inc-fake-personas/" target="_blank"> \
-<img src="https://media.wired.com/photos/65de62d10e4d62d76c2529a7/master/pass/022724-security-registered-agents-inc.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Inside Registered Agents Inc., the Shadowy Firm Pushing the Limits of Business Privacy</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 05, 2024</p> \
 </div> \
 </a> \
 </div> \
