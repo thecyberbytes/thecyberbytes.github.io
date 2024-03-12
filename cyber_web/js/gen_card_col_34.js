@@ -1,10 +1,10 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/spacex-hypersonic-missile-satellites/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/65cecbd71c398a03e9494040/master/pass/SpaceX-launches-military-satellites-tuned-to-track-hypersonic-missiles-GettyImages-1935921645.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/how-to-not-get-scammed-out-of-50000/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/65cfc0a11dbea08b10a4278c/master/pass/How-To-Not-Get-Scammed-For-50k-Security-200392681-001.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>February 16, 2024</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">SpaceX Launched Military Satellites Designed to Track Hypersonic Missiles</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>February 17, 2024</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">How to Not Get Scammed Out of $50,000</h5> \
 </div> \
 </a> \
 </div> \
@@ -18,11 +18,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/elon-musk-x-checkmarks-terrorist-groups/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/photos/65ce9b13fefe70e27faab041/master/pass/X-Verified-Terrorist-Groups-Security-GettyImages-1258608535.jpg" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/spacex-hypersonic-missile-satellites/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/65cecbd71c398a03e9494040/master/pass/SpaceX-launches-military-satellites-tuned-to-track-hypersonic-missiles-GettyImages-1935921645.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>February 15, 2024</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Elon Musk’s X Gave Check Marks to Terrorist Group Leaders, Report Says</h5> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>February 16, 2024</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">SpaceX Launched Military Satellites Designed to Track Hypersonic Missiles</h5> \
 </div> \
 </a> \
 </div> \
