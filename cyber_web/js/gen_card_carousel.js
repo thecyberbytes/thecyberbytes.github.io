@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/automakers-sharing-driver-data-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/65f4bc752a4b729889d78ac6/master/pass/Security-News-This-Week--Automakers-Are-Telling-Your-Insurance-Company-How-You-Really-Drive-GettyImages-108291313.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Automakers Are Telling Your Insurance Company How You Really Drive</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 16, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/section-702-safe-act-compromise/" target="_blank"> \
 <img src="https://media.wired.com/photos/65f339c906d51debbd676f32/master/pass/Senators-Offer-FBI-a-Compromise-to-Surveillance-Demands-Security.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -14,15 +23,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>CEO of Data Privacy Company Onerep.com Founded Dozens of People-Search Firms</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 14, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/donald-trump-emergency-powers/" target="_blank"> \
-<img src="https://media.wired.com/photos/65eb572eb7cb6be700970ab9/master/pass/Trump%20Emergency%20Powers%20Security.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The ‘Emergency Powers’ Risk of a Second Trump Presidency</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 13, 2024</p> \
 </div> \
 </a> \
 </div> \

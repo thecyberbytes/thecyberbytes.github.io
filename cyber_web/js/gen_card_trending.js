@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/section-702-safe-act-compromise/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/automakers-sharing-driver-data-security-roundup/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Sinking Section 702 Wiretap Program Offered One Last Lifeboat</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Automakers Are Telling Your Insurance Company How You Really Drive</h6> \
 </div> \
 </a> \
 </li> \
