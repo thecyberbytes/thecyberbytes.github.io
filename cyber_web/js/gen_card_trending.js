@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/automakers-sharing-driver-data-security-roundup/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Automakers Are Telling Your Insurance Company How You Really Drive</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Glassdoor Wants to Know Your Real Name</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/03/a-close-up-look-at-the-consumer-data-broker-radaris/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/cookie-pop-up-ad-tech-partner-top-websites/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">A Close Up Look at the Consumer Data Broker Radaris</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Some of the Most Popular Websites Share Your Data With Over 1,500 Companies</h6> \
 </div> \
 </a> \
 </li> \
