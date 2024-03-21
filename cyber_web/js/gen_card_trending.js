@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Glassdoor Wants to Know Your Real Name</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Hackers Found a Way to Open Any of 3 Million Hotel Keycard Locks in Seconds</h6> \
 </div> \
 </a> \
 </li> \
@@ -21,9 +21,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/section-702-privacy-reforms-sabotage-campaign/" target="_blank" style="text-decoration:none"> \
+<a href="https://krebsonsecurity.com/2024/03/the-not-so-true-people-search-network-from-china/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Leak of Russian ‘Threat’ Part of a Bid to Kill US Surveillance Reform, Sources Say</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Not-so-True People-Search Network from China</h6> \
 </div> \
 </a> \
 </li> \
