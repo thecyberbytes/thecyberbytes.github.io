@@ -18,11 +18,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/" target="_blank"> \
-<img src="https://media.wired.com/photos/65f8df55d8cc6b75e09224a6/master/pass/business_glassdoor_anonymous_user_data.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/" target="_blank"> \
+<img src="https://media.wired.com/photos/65fc74d9a634d6e751c3e122/master/pass/Is-the-Apple-Antitrust-Suit-Good-for-Security-or-Bad--Security-GettyImages-1237654774.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Glassdoor Wants to Know Your Real Name</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 20, 2024</p> \
+<h2>Apple\'s iMessage Encryption Puts Its Security Practices in the DOJ\'s Crosshairs</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 21, 2024</p> \
 </div> \
 </a> \
 </div> \
