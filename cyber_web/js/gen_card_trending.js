@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/apple-m-chip-flaw-leak-encryption-keys/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Mozilla Drops Onerep After CEO Admits to Running People-Search Networks</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Apple Chip Flaw Leaks Secret Encryption Keys</h6> \
 </div> \
 </a> \
 </li> \
