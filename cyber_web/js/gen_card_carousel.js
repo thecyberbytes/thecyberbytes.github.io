@@ -1,5 +1,23 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2024/03/patelpass.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Recent ‘MFA Bombing’ Attacks Targeting Apple Users</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 26, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/julian-assange-extradite-court-decision-wikileaks/" target="_blank"> \
+<img src="https://media.wired.com/photos/65d6223871fc93894dc94095/master/pass/Julian-Assange-Extradition-Hearing-Security-GettyImages-2027448755.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Judges Block US Extradition of WikiLeaks Founder Julian Assange—for Now</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 26, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/china-apt31-us-uk-hacking-espionage-charges-sanctions/" target="_blank"> \
 <img src="https://media.wired.com/photos/6601beebac08d674e827f3af/master/pass/Chinese-Hackers-UK-Election-Security-1555636785.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -14,24 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Apple Chip Flaw Leaks Secret Encryption Keys</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 23, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2024/03/mozilla-drops-onerep-after-ceo-admits-to-running-people-search-networks/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/03/mozillamonitor.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Mozilla Drops Onerep After CEO Admits to Running People-Search Networks</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 22, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2024/03/the-not-so-true-people-search-network-from-china/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/03/MarilynGaskell.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The Not-so-True People-Search Network from China</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">March 21, 2024</p> \
 </div> \
 </a> \
 </div> \
