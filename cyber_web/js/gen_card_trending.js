@@ -1,15 +1,15 @@
 document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/01/fla-man-charged-in-sim-swapping-spree-is-key-suspect-in-hacker-groups-oktapus-scattered-spider/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/identity-thief-lived-as-a-different-man-for-33-years/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Fla. Man Charged in SIM-Swapping Spree is Key Suspect in Hacker Groups Oktapus, Scattered Spider</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Identity Thief Lived as a Different Man for 33 Years</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/jia-tan-xz-backdoor/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/privacy-browsers-duckduckgo-ghostery-brave/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Best Privacy Browsers (2024): Brave, Safari, Ghostery, Firefox, DuckDuckGo</h6> \
 </div> \
 </a> \
 </li> \

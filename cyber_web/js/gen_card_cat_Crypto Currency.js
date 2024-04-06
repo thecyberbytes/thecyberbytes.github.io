@@ -1,5 +1,17 @@
 document.write(' \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/identity-thief-lived-as-a-different-man-for-33-years/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/66104192c874bfc82b991645/master/pass/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/identity-thief-lived-as-a-different-man-for-33-years/" target="_blank"> Identity Thief Lived as a Different Man for 33 Years </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>April 06, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2024/01/fla-man-charged-in-sim-swapping-spree-is-key-suspect-in-hacker-groups-oktapus-scattered-spider/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2024/01/0ktopus-attacks-1.png" alt="" class="img-fluid"> \
 </a> \
@@ -288,24 +300,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/02/cryptocoin-token-swapper-nomad-loses-200-million-in-coding-blunder/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/nomad-img-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/02/cryptocoin-token-swapper-nomad-loses-200-million-in-coding-blunder/" target="_blank"> Cryptocoin “token swapper” Nomad loses $200 million in coding blunder </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 02, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/62e95bada1dc74857a858363/master/pass/Bitcoin-Fog-Security-GettyImages-1241143235.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/" target="_blank"> Bitcoin Fog Case Could Put Cryptocurrency Tracing on Trial </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 02, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/02/cryptocoin-token-swapper-nomad-loses-200-million-in-coding-blunder/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/nomad-img-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/02/cryptocoin-token-swapper-nomad-loses-200-million-in-coding-blunder/" target="_blank"> Cryptocoin “token swapper” Nomad loses $200 million in coding blunder </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 02, 2022</span></small> \

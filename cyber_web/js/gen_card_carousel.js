@@ -1,10 +1,19 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://krebsonsecurity.com/2024/04/fake-lawsuit-threat-exposes-privnote-phishing-sites/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/04/privnotedotcom.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/identity-thief-lived-as-a-different-man-for-33-years/" target="_blank"> \
+<img src="https://media.wired.com/photos/66104192c874bfc82b991645/master/pass/Fake-Identity-Security-Roundup-GettyImages-1718688461.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Fake Lawsuit Threat Exposes Privnote Phishing Sites</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 04, 2024</p> \
+<h2>Identity Thief Lived as a Different Man for 33 Years</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 06, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/privacy-browsers-duckduckgo-ghostery-brave/" target="_blank"> \
+<img src="https://media.wired.com/photos/5d02e96a5b82e3e7280511b7/master/pass/Security%20-%20Feature%20art%20-%20privacy%20browsers.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Best Privacy Browsers (2024): Brave, Safari, Ghostery, Firefox, DuckDuckGo</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 06, 2024</p> \
 </div> \
 </a> \
 </div> \
@@ -18,20 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/jia-tan-xz-backdoor/" target="_blank"> \
-<img src="https://media.wired.com/photos/660c78d0cf625ba36bc429b0/master/pass/The-Mystery-of-%E2%80%9CJia-Tan,%E2%80%9D-the-Persona-Behind-One-of-the-Stealthiest-Supply-Chain-Attacks-Security-GettyImages-596702519.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2024/04/fake-lawsuit-threat-exposes-privnote-phishing-sites/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2024/04/privnotedotcom.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 03, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2024/04/the-manipulaters-improve-phishing-still-fail-at-opsec/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/04/manipulaters-o365.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>‘The Manipulaters’ Improve Phishing, Still Fail at Opsec</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 03, 2024</p> \
+<h2>Fake Lawsuit Threat Exposes Privnote Phishing Sites</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 04, 2024</p> \
 </div> \
 </a> \
 </div> \
