@@ -180,24 +180,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65fc74d9a634d6e751c3e122/master/pass/Is-the-Apple-Antitrust-Suit-Good-for-Security-or-Bad--Security-GettyImages-1237654774.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/" target="_blank"> Apple\'s iMessage Encryption Puts Its Security Practices in the DOJ\'s Crosshairs </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 21, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65fb777e293f54ea2900acb4/master/pass/032024-security-hotel-locks-hack-site\'.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/" target="_blank"> Hackers Found a Way to Open Any of 3 Million Hotel Keycard Locks in Seconds </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 21, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65fc74d9a634d6e751c3e122/master/pass/Is-the-Apple-Antitrust-Suit-Good-for-Security-or-Bad--Security-GettyImages-1237654774.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/" target="_blank"> Apple\'s iMessage Encryption Puts Its Security Practices in the DOJ\'s Crosshairs </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 21, 2024</span></small> \
@@ -252,12 +252,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/donald-trump-emergency-powers/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65eb572eb7cb6be700970ab9/master/pass/Trump%20Emergency%20Powers%20Security.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/764-com-child-predator-network/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65f0c5333cb1bc85625353c8/master/pass/764_Investigation_c_burnett.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/donald-trump-emergency-powers/" target="_blank"> The ‘Emergency Powers’ Risk of a Second Trump Presidency </a> \
+<a href="https://www.wired.com/story/764-com-child-predator-network/" target="_blank"> There Are Dark Corners of the Internet. Then There\'s 764 </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 13, 2024</span></small> \
@@ -276,12 +276,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/764-com-child-predator-network/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65f0c5333cb1bc85625353c8/master/pass/764_Investigation_c_burnett.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/donald-trump-emergency-powers/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65eb572eb7cb6be700970ab9/master/pass/Trump%20Emergency%20Powers%20Security.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/764-com-child-predator-network/" target="_blank"> There Are Dark Corners of the Internet. Then There\'s 764 </a> \
+<a href="https://www.wired.com/story/donald-trump-emergency-powers/" target="_blank"> The ‘Emergency Powers’ Risk of a Second Trump Presidency </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 13, 2024</span></small> \
@@ -300,18 +300,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/binance-top-investigator-detained-nigeria/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65ef6c0641cbe13ff11ffb94/master/pass/security_binance_executives_detained_nigeria.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/binance-top-investigator-detained-nigeria/" target="_blank"> Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 12, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/hpsci-us-protests-section-702-presentation/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65ef9003161cdb99119aefcc/master/pass/031124-security-section-702-privacy-reforms.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -324,12 +312,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/airbnb-indoor-security-camera-ban/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65ef14d31e1ab0fe6bf1ec9c/master/pass/Airbnb-Bans-Indoor-Security-Cameras-in-All-Listings-Security-GettyImages-1420702843.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/binance-top-investigator-detained-nigeria/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65ef6c0641cbe13ff11ffb94/master/pass/security_binance_executives_detained_nigeria.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/airbnb-indoor-security-camera-ban/" target="_blank"> Airbnb Bans All Indoor Security Cameras </a> \
+<a href="https://www.wired.com/story/binance-top-investigator-detained-nigeria/" target="_blank"> Binance’s Top Crypto Crime Investigator Is Being Detained in Nigeria </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 12, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/questions-pentagon-ufo-report/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65ef3e5376ae188fbda84634/master/pass/4-Big-Questions-the-Pentagon\'s-New-UFO-Report-Doesn\'t-Answer-Security-GettyImages-1252170580.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/questions-pentagon-ufo-report/" target="_blank"> The 4 Big Questions the Pentagon’s New UFO Report Fails to Answer </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 11, 2024</span></small> \
@@ -360,12 +360,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/questions-pentagon-ufo-report/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65ef3e5376ae188fbda84634/master/pass/4-Big-Questions-the-Pentagon\'s-New-UFO-Report-Doesn\'t-Answer-Security-GettyImages-1252170580.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/airbnb-indoor-security-camera-ban/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65ef14d31e1ab0fe6bf1ec9c/master/pass/Airbnb-Bans-Indoor-Security-Cameras-in-All-Listings-Security-GettyImages-1420702843.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/questions-pentagon-ufo-report/" target="_blank"> The 4 Big Questions the Pentagon’s New UFO Report Fails to Answer </a> \
+<a href="https://www.wired.com/story/airbnb-indoor-security-camera-ban/" target="_blank"> Airbnb Bans All Indoor Security Cameras </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 11, 2024</span></small> \
@@ -384,24 +384,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/655564b0f213642b3b254446/master/pass/How-to-Opt-Out-of-Facebook%E2%80%99s-Latest-Two-Factor-Authentication-Change-Security-GettyImages-934277298.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/" target="_blank"> How to Turn Off Facebook’s Two-Factor Authentication Change </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 05, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/registered-agents-inc-fake-personas/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65de62d10e4d62d76c2529a7/master/pass/022724-security-registered-agents-inc.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/registered-agents-inc-fake-personas/" target="_blank"> Inside Registered Agents Inc., the Shadowy Firm Pushing the Limits of Business Privacy </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 05, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/655564b0f213642b3b254446/master/pass/How-to-Opt-Out-of-Facebook%E2%80%99s-Latest-Two-Factor-Authentication-Change-Security-GettyImages-934277298.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/" target="_blank"> How to Turn Off Facebook’s Two-Factor Authentication Change </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 05, 2024</span></small> \
@@ -420,18 +420,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/here-come-the-ai-worms/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65e0e13fef1050f96f06c160/master/pass/security_ai_worm_email_spam.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/here-come-the-ai-worms/" target="_blank"> Here Come the AI Worms </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 01, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/gps-ankle-tags-uk-privacy-illegal/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65e0d46dd4dc233b8a71f4d6/master/pass/Migrant-Surveillance-Tech-Suffers-Setback-with-Privacy-Ruling-Security-GettyImages-1271098982.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -444,24 +432,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/here-are-the-microsoft-and-google-security-updates-you-need-right-now/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65dfcc595e7030af474191d9/master/pass/022824-security-critical-updates-feb-01.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/here-come-the-ai-worms/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65e0e13fef1050f96f06c160/master/pass/security_ai_worm_email_spam.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/here-are-the-microsoft-and-google-security-updates-you-need-right-now/" target="_blank"> Here Are the Google and Microsoft Security Updates You Need Right Now </a> \
+<a href="https://www.wired.com/story/here-come-the-ai-worms/" target="_blank"> Here Come the AI Worms </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>February 29, 2024</span></small> \
+<span>March 01, 2024</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/russia-ukraine-power-war-crimes/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65df8a8a4f673424018eca0d/master/pass/Satellite-Images-Reveal-Russia\'s-Attacks-on-Ukraine\'s-Power-Infrastructure-Security-GettyImages-1822098879.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2024/02/fulton-county-security-experts-call-lockbits-bluff/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/fultonga-lockbit.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/russia-ukraine-power-war-crimes/" target="_blank"> Russia Attacked Ukraine\'s Power Grid at Least 66 Times to ‘Freeze It Into Submission’ </a> \
+<a href="https://krebsonsecurity.com/2024/02/fulton-county-security-experts-call-lockbits-bluff/" target="_blank"> Fulton County, Security Experts Call LockBit’s Bluff </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 29, 2024</span></small> \
@@ -480,24 +468,36 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/china-cars-national-security-threat-investigation/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65dfc6054f673424018eca12/master/pass/Biden-Chinese-Vehicles-Security-1933433961.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/russia-ukraine-power-war-crimes/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65df8a8a4f673424018eca0d/master/pass/Satellite-Images-Reveal-Russia\'s-Attacks-on-Ukraine\'s-Power-Infrastructure-Security-GettyImages-1822098879.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/china-cars-national-security-threat-investigation/" target="_blank"> The White House Warns Cars Made in China Could Unleash Chaos on US Highways </a> \
+<a href="https://www.wired.com/story/russia-ukraine-power-war-crimes/" target="_blank"> Russia Attacked Ukraine\'s Power Grid at Least 66 Times to ‘Freeze It Into Submission’ </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 29, 2024</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2024/02/fulton-county-security-experts-call-lockbits-bluff/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/fultonga-lockbit.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/here-are-the-microsoft-and-google-security-updates-you-need-right-now/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65dfcc595e7030af474191d9/master/pass/022824-security-critical-updates-feb-01.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2024/02/fulton-county-security-experts-call-lockbits-bluff/" target="_blank"> Fulton County, Security Experts Call LockBit’s Bluff </a> \
+<a href="https://www.wired.com/story/here-are-the-microsoft-and-google-security-updates-you-need-right-now/" target="_blank"> Here Are the Google and Microsoft Security Updates You Need Right Now </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 29, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/china-cars-national-security-threat-investigation/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65dfc6054f673424018eca12/master/pass/Biden-Chinese-Vehicles-Security-1933433961.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/china-cars-national-security-threat-investigation/" target="_blank"> The White House Warns Cars Made in China Could Unleash Chaos on US Highways </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 29, 2024</span></small> \
@@ -516,18 +516,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/doug-scammer.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/" target="_blank"> Calendar Meeting Links Used to Spread Mac Malware </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 28, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/sandvine-us-sanctions-egypt-internet-censorship/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65de772721aac0c076d9a318/master/pass/Sandvine-Sanction-GettyImages-1465480413.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -540,12 +528,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/best-vpn/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63eaa0cf1b87b32b35988c1e/master/pass/Best-VPNs-Guide-2023-Gear-GettyImages-1223865512.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/doug-scammer.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/best-vpn/" target="_blank"> 5 Best VPN Services (2024): For Routers, PC, iPhone, Android, and More </a> \
+<a href="https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/" target="_blank"> Calendar Meeting Links Used to Spread Mac Malware </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 28, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/gps-tags-migrants/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65d90e463821b22f42c20077/master/pass/Britain-Is-GPS-Tagging-Thousands-of-Migrants-Security-GettyImages-1392356345.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/gps-tags-migrants/" target="_blank"> The UK Is GPS-Tagging Thousands of Migrants </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 27, 2024</span></small> \
@@ -564,27 +564,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/gps-tags-migrants/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65d90e463821b22f42c20077/master/pass/Britain-Is-GPS-Tagging-Thousands-of-Migrants-Security-GettyImages-1392356345.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/best-vpn/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63eaa0cf1b87b32b35988c1e/master/pass/Best-VPNs-Guide-2023-Gear-GettyImages-1223865512.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/gps-tags-migrants/" target="_blank"> The UK Is GPS-Tagging Thousands of Migrants </a> \
+<a href="https://www.wired.com/story/best-vpn/" target="_blank"> 5 Best VPN Services (2024): For Routers, PC, iPhone, Android, and More </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 27, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/fultonga-lockbit.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/" target="_blank"> FBI’s LockBit Takedown Postponed a Ticking Time Bomb in Fulton County, Ga. </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 26, 2024</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -594,6 +582,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/" target="_blank"> How a Right-Wing Controversy Could Sabotage US Election Security </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 26, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/fultonga-lockbit.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2024/02/fbis-lockbit-takedown-postponed-a-ticking-time-bomb-in-fulton-county-ga/" target="_blank"> FBI’s LockBit Takedown Postponed a Ticking Time Bomb in Fulton County, Ga. </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 26, 2024</span></small> \
@@ -624,18 +624,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/hpsci-russia-urgent-threat-leak/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65d794eb282528a964bf5409/master/pass/Scoop--The-Weird-Russian-\'Threat\'-Leak-Is-Even-Weirder-Than-You-Think-Security-GettyImages-1754907256.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/hpsci-russia-urgent-threat-leak/" target="_blank"> Leak Reveals the Unusual Path of ‘Urgent’ Russian Threat Warning </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 22, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/i-soon-apt.png" alt="" class="img-fluid"> \
 </a> \
@@ -648,15 +636,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/apple-pq3-post-quantum-encryption/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65d60252f14794bc53bece50/master/pass/Apple%E2%80%99s-iMessage-Is-Getting-Post-Quantum-Encryption--Security-GettyImages-1978192381.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/hpsci-russia-urgent-threat-leak/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65d794eb282528a964bf5409/master/pass/Scoop--The-Weird-Russian-\'Threat\'-Leak-Is-Even-Weirder-Than-You-Think-Security-GettyImages-1754907256.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/apple-pq3-post-quantum-encryption/" target="_blank"> Apple iOS 17.4: iMessage Gets Post-Quantum Encryption in New Update </a> \
+<a href="https://www.wired.com/story/hpsci-russia-urgent-threat-leak/" target="_blank"> Leak Reveals the Unusual Path of ‘Urgent’ Russian Threat Warning </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>February 21, 2024</span></small> \
+<span>February 22, 2024</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -666,6 +654,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/anne-neuberger-cybersecurity-q-and-a/" target="_blank"> Anne Neuberger, a Top White House Cyber Official, Sees the \'Promise and Peril\' in AI </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 21, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/apple-pq3-post-quantum-encryption/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65d60252f14794bc53bece50/master/pass/Apple%E2%80%99s-iMessage-Is-Getting-Post-Quantum-Encryption--Security-GettyImages-1978192381.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/apple-pq3-post-quantum-encryption/" target="_blank"> Apple iOS 17.4: iMessage Gets Post-Quantum Encryption in New Update </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 21, 2024</span></small> \
@@ -732,24 +732,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/securence-home.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/" target="_blank"> U.S. Internet Leaked Years of Internal, Customer Emails </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 14, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/ai-girlfriends-privacy-nightmare/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65cbc66ab0ff8b95cb358d5c/master/pass/security_ai_girlfriends_privacy_data.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/ai-girlfriends-privacy-nightmare/" target="_blank"> ‘AI Girlfriends’ Are a Privacy Nightmare </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 14, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2024/02/securence-home.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/" target="_blank"> U.S. Internet Leaked Years of Internal, Customer Emails </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 14, 2024</span></small> \
@@ -768,24 +768,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/2054-part-vi-standoff-at-arlington/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65c65eaab94a96bfb8315dd6/master/pass/2054_Chapter_Six_Owen_Freeman.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/2054-part-vi-standoff-at-arlington/" target="_blank"> 2054, Part VI: Standoff at Arlington </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 12, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/section-702-reform-backroom-deal/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65ca464cb9f47e3f10ce2b7e/master/pass/Backroom-Deal-Eyed-Suspiciously-in-US-Surveillance-Fight-Security-GettyImages-1988344159.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/section-702-reform-backroom-deal/" target="_blank"> A Backroom Deal Looms Over Section 702 Surveillance Fight </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 12, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/israel-hamas-war-health-care-facilities-attack-study/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65a1de0d2972f20ce5741f87/master/pass/Gaza-Medical-Facilities-Security-1839083616.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/israel-hamas-war-health-care-facilities-attack-study/" target="_blank"> Satellite Images Point to Indiscriminate Israeli Attacks on Gaza’s Health Care Facilities </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 12, 2024</span></small> \
@@ -804,12 +804,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/israel-hamas-war-health-care-facilities-attack-study/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65a1de0d2972f20ce5741f87/master/pass/Gaza-Medical-Facilities-Security-1839083616.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/2054-part-vi-standoff-at-arlington/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65c65eaab94a96bfb8315dd6/master/pass/2054_Chapter_Six_Owen_Freeman.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/israel-hamas-war-health-care-facilities-attack-study/" target="_blank"> Satellite Images Point to Indiscriminate Israeli Attacks on Gaza’s Health Care Facilities </a> \
+<a href="https://www.wired.com/story/2054-part-vi-standoff-at-arlington/" target="_blank"> 2054, Part VI: Standoff at Arlington </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 12, 2024</span></small> \
@@ -852,30 +852,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/stopped-using-passwords-passkeys/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65c410280986bc7aa98652f1/master/pass/security_passkey_password_login_future.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/stopped-using-passwords-passkeys/" target="_blank"> I Stopped Using Passwords. It\'s Great—and a Total Mess </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 08, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/london-underground-ai-surveillance-documents/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65c4f86e5ad4a5424f33ec4b/master/pass/london-underground-using-ai-Security-GettyImages-1244382841.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/london-underground-ai-surveillance-documents/" target="_blank"> London Underground Is Testing Real-Time AI Surveillance Tools to Spot Crime </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 08, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/epik-domain-registrar-new-owner/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65c4f45e2c7e4e92e14f1226/master/pass/shadowfigure-science-GettyImages-1167588291.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -900,6 +876,30 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/stopped-using-passwords-passkeys/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65c410280986bc7aa98652f1/master/pass/security_passkey_password_login_future.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/stopped-using-passwords-passkeys/" target="_blank"> I Stopped Using Passwords. It\'s Great—and a Total Mess </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 08, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/london-underground-ai-surveillance-documents/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65c4f86e5ad4a5424f33ec4b/master/pass/london-underground-using-ai-Security-GettyImages-1244382841.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/london-underground-ai-surveillance-documents/" target="_blank"> London Underground Is Testing Real-Time AI Surveillance Tools to Spot Crime </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 08, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/2054-part-iii-the-singularity/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65c12ffa476898d30b680e7b/master/pass/2054_chapter_two_owen_freeman.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -912,24 +912,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/whatsapp-interoperability-messaging/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65c256bc5acbfbe155ad319e/master/pass/WhatsApp-Interoperabiltiy-Security.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/whatsapp-interoperability-messaging/" target="_blank"> WhatsApp Chats Will Soon Work With Other Encrypted Messaging Apps </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 06, 2024</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/2054-part-ii-next-big-thing/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65c0feca55cf94b548f18d46/master/pass/2054_Chapter_two_Owen_Freeman_web.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/2054-part-ii-next-big-thing/" target="_blank"> 2054, Part II: Next Big Thing </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 06, 2024</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/whatsapp-interoperability-messaging/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65c256bc5acbfbe155ad319e/master/pass/WhatsApp-Interoperabiltiy-Security.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/whatsapp-interoperability-messaging/" target="_blank"> WhatsApp Chats Will Soon Work With Other Encrypted Messaging Apps </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 06, 2024</span></small> \
@@ -1020,24 +1020,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6581b41fcfc310dfaabb42d1/master/pass/YIR-fb-marketplace-scams-gear-GettyImages-88656979.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/" target="_blank"> Facebook Marketplace Is Being Ruined by Zelle Scammers </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 22, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/us-congress-children-privacy-reform-2023/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65833754a1e2e944e2b454b0/master/pass/Congress-Made-2023-the-Year-of-Better-Privacy-for-Kids.-So-What-Went-Wrong--Security-GettyImages-1236142098.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/us-congress-children-privacy-reform-2023/" target="_blank"> Congress Sure Made a Lot of Noise About Kids’ Privacy in 2023—and Not Much Else </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 22, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6581b41fcfc310dfaabb42d1/master/pass/YIR-fb-marketplace-scams-gear-GettyImages-88656979.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/" target="_blank"> Facebook Marketplace Is Being Ruined by Zelle Scammers </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 22, 2023</span></small> \
@@ -1140,12 +1140,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/binance-settlement-transaction-histories/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/655e55765a9f03a94854e2cd/master/pass/binance.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/12/icann-launches-service-to-help-with-whois-lookups/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2018/02/whois.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/binance-settlement-transaction-histories/" target="_blank"> The Binance Crackdown Will Be an \'Unprecedented\' Bonanza for Crypto Surveillance </a> \
+<a href="https://krebsonsecurity.com/2023/12/icann-launches-service-to-help-with-whois-lookups/" target="_blank"> ICANN Launches Service to Help With WHOIS Lookups </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 06, 2023</span></small> \
@@ -1164,12 +1164,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/12/icann-launches-service-to-help-with-whois-lookups/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2018/02/whois.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/binance-settlement-transaction-histories/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/655e55765a9f03a94854e2cd/master/pass/binance.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/12/icann-launches-service-to-help-with-whois-lookups/" target="_blank"> ICANN Launches Service to Help With WHOIS Lookups </a> \
+<a href="https://www.wired.com/story/binance-settlement-transaction-histories/" target="_blank"> The Binance Crackdown Will Be an \'Unprecedented\' Bonanza for Crypto Surveillance </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 06, 2023</span></small> \
@@ -1200,24 +1200,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/inside-americas-school-internet-censorship-machine/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/656a385cb4bd4ee94b9f456a/master/pass/security_school_internet_censorship_1268517553.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/inside-americas-school-internet-censorship-machine/" target="_blank"> Inside America\'s School Internet Censorship Machine </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 04, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/section-702-immigrant-families-surveillance/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/656ddba48df40f19529e356c/master/pass/GettyImages-1173633491.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/section-702-immigrant-families-surveillance/" target="_blank"> US Lawmakers Want to Use a Powerful Spy Tool on Immigrants and Their Families </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 04, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/inside-americas-school-internet-censorship-machine/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/656a385cb4bd4ee94b9f456a/master/pass/security_school_internet_censorship_1268517553.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/inside-americas-school-internet-censorship-machine/" target="_blank"> Inside America\'s School Internet Censorship Machine </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 04, 2023</span></small> \
@@ -1236,24 +1236,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/donald-trump-january-6-lawsuit-candidate-president/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/656a42a47c87ea6d6df22af5/master/pass/When-It-Comes-to-Getting-Sued,-a-Court-Splits-Donald-Trump-in-Two-Security-GettyImages-1771821990.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/donald-trump-january-6-lawsuit-candidate-president/" target="_blank"> When It Comes to January 6 Lawsuits, a Court Splits Donald Trump in Two </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 01, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/anduril-roadrunner-drone/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/656940ddf21d7c82b4fdbe7b/master/pass/Anduril-drone-Business.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/anduril-roadrunner-drone/" target="_blank"> Anduril’s New Drone Killer Is Locked on to AI-Powered Warfare </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 01, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/donald-trump-january-6-lawsuit-candidate-president/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/656a42a47c87ea6d6df22af5/master/pass/When-It-Comes-to-Getting-Sued,-a-Court-Splits-Donald-Trump-in-Two-Security-GettyImages-1771821990.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/donald-trump-january-6-lawsuit-candidate-president/" target="_blank"> When It Comes to January 6 Lawsuits, a Court Splits Donald Trump in Two </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 01, 2023</span></small> \
@@ -1284,24 +1284,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/telegram-hamas-channels-deplatform/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6557c4dc65f11bb1e627563e/master/pass/Telegram_Lies_Final_Z.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/india-radio-elections-narendra-modi/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6565f481f082e4efb66daf97/master/pass/Radio-Waves-India-Business-1401047378.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/telegram-hamas-channels-deplatform/" target="_blank"> Telegram’s Bans on Extremist Channels Aren\'t Really Bans </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 28, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/2023-ndaa-privacy-lobbying/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65662d83fa25ced80447aaa1/master/pass/bill-housespeaker-sec-GettyImages-1763978971.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/2023-ndaa-privacy-lobbying/" target="_blank"> A Civil Rights Firestorm Erupts Around a Looming Surveillance Power Grab </a> \
+<a href="https://www.wired.com/story/india-radio-elections-narendra-modi/" target="_blank"> The Hundred-Year Battle for India’s Radio Airwaves </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 28, 2023</span></small> \
@@ -1320,18 +1308,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/india-radio-elections-narendra-modi/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6565f481f082e4efb66daf97/master/pass/Radio-Waves-India-Business-1401047378.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/india-radio-elections-narendra-modi/" target="_blank"> The Hundred-Year Battle for India’s Radio Airwaves </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 28, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/elon-musk-qanon-2024-election/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/6564a7ac38b869716d5be546/master/pass/QAnon-politics-GettyImages-1244812857.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -1344,15 +1320,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/section-702-reauthorization-ndaa-2023/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6564f9eb971cdadbf317f3a0/master/pass/Mike-Johnson-Section-702-Security-1754110292.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/2023-ndaa-privacy-lobbying/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65662d83fa25ced80447aaa1/master/pass/bill-housespeaker-sec-GettyImages-1763978971.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/section-702-reauthorization-ndaa-2023/" target="_blank"> Section 702 Surveillance Reauthorization May Get Slipped Into ‘Must-Pass’ NDAA </a> \
+<a href="https://www.wired.com/story/2023-ndaa-privacy-lobbying/" target="_blank"> A Civil Rights Firestorm Erupts Around a Looming Surveillance Power Grab </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>November 27, 2023</span></small> \
+<span>November 28, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/telegram-hamas-channels-deplatform/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6557c4dc65f11bb1e627563e/master/pass/Telegram_Lies_Final_Z.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/telegram-hamas-channels-deplatform/" target="_blank"> Telegram’s Bans on Extremist Channels Aren\'t Really Bans </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 28, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1362,6 +1350,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/apple-iphone-namedrop-ios17/" target="_blank"> You Don’t Need to Turn Off Apple’s NameDrop Feature in iOS 17 </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 27, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/section-702-reauthorization-ndaa-2023/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6564f9eb971cdadbf317f3a0/master/pass/Mike-Johnson-Section-702-Security-1754110292.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/section-702-reauthorization-ndaa-2023/" target="_blank"> Section 702 Surveillance Reauthorization May Get Slipped Into ‘Must-Pass’ NDAA </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 27, 2023</span></small> \
@@ -1380,24 +1380,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/how-to-stop-google-delete-account-inactive/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/646662152cc57777ec67efd0/master/pass/Google-Deleting-Old-Accounts-Gear-GettyImages-613754154.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/how-to-stop-google-delete-account-inactive/" target="_blank"> How to Stop Google From Deleting Your Inactive Account </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 25, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/google-chrome-youtube-ad-blocker-crackdown/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/655e87dce7144a138a03b562/master/pass/Security-Ad-Blockers-Google-1319709925.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/google-chrome-youtube-ad-blocker-crackdown/" target="_blank"> Google’s Ad Blocker Crackdown Is Growing </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 25, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/how-to-stop-google-delete-account-inactive/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/646662152cc57777ec67efd0/master/pass/Google-Deleting-Old-Accounts-Gear-GettyImages-613754154.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/how-to-stop-google-delete-account-inactive/" target="_blank"> How to Stop Google From Deleting Your Inactive Account </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 25, 2023</span></small> \
@@ -1428,24 +1428,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/take-down-trump-truth-social/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65559e6efcab296c7daee707/master/pass/Truth-Social-Takedown-Politics-1431869546.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/take-down-trump-truth-social/" target="_blank"> Inside the Operation to Bring Down Trump’s Truth Social </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 21, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/usa-binance-money-laundering-charges/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/655cfa1ebca7c5da5ada0a06/master/pass/Binance-Criminal-Charges-Security-2MAARRT.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/usa-binance-money-laundering-charges/" target="_blank"> DOJ Charges Binance With Vast Money-Laundering Scheme and Sanctions Violations </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 21, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/take-down-trump-truth-social/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65559e6efcab296c7daee707/master/pass/Truth-Social-Takedown-Politics-1431869546.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/take-down-trump-truth-social/" target="_blank"> Inside the Operation to Bring Down Trump’s Truth Social </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 21, 2023</span></small> \
@@ -1464,24 +1464,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/f1-las-vegas-grand-prix-security/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6557e61b8ba298d25d23d7f5/master/pass/Inside-The-Race-to-Secure-the-Formula-1-Las-Vegas-Grand-Prix-Security-GettyImages-1787267227.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/f1-las-vegas-grand-prix-security/" target="_blank"> Inside the Race to Secure the F1 Las Vegas Grand Prix </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 18, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/6557ed60591547359b3c7022/master/pass/The-Startup-That-Transformed-The-Hack-for-Hire-Industry-Security-GettyImages-685008639.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/indian-startup-hack-for-hire-security-roundup/" target="_blank"> The Startup That Transformed the Hack-for-Hire Industry </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 18, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/f1-las-vegas-grand-prix-security/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6557e61b8ba298d25d23d7f5/master/pass/Inside-The-Race-to-Secure-the-Formula-1-Las-Vegas-Grand-Prix-Security-GettyImages-1787267227.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/f1-las-vegas-grand-prix-security/" target="_blank"> Inside the Race to Secure the F1 Las Vegas Grand Prix </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 18, 2023</span></small> \
@@ -1497,6 +1497,18 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 17, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/house-intellligence-section-702-reform/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65563ef88d6138db7e351b5e/master/pass/US-House-Intelligence-Report-Calls-for-Privacy-Reforms-in-FISA-Surveillance-Security-GettyImages-1767723607.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/house-intellligence-section-702-reform/" target="_blank"> US Congress Report Calls for Privacy Reforms After FBI Surveillance \'Abuses\' </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 16, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1524,30 +1536,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/house-intellligence-section-702-reform/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65563ef88d6138db7e351b5e/master/pass/US-House-Intelligence-Report-Calls-for-Privacy-Reforms-in-FISA-Surveillance-Security-GettyImages-1767723607.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/house-intellligence-section-702-reform/" target="_blank"> US Congress Report Calls for Privacy Reforms After FBI Surveillance \'Abuses\' </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 16, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/social-media-ai-dead-bodies/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6554da55a85850053294708f/master/pass/C-Final.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/social-media-ai-dead-bodies/" target="_blank"> Social Media Sleuths, Armed With AI, Are Identifying Dead Bodies </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 15, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/qanon-shaman-runs-for-office/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/6554047934ab9ef1c2a319af/master/pass/qanonshaman-politics-GettyImages-1359579000.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -1572,27 +1560,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/cisa-ai-roadmap/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6552a9a6e292e505d5ee894e/master/pass/The-US%E2%80%99s-Top-Cybersecurity-Agency-Has-a-Plan-for-AI\'s-Weaponized-Future-Security-GettyImages-1247987718.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/social-media-ai-dead-bodies/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6554da55a85850053294708f/master/pass/C-Final.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/cisa-ai-roadmap/" target="_blank"> CISA Has a New Road Map for Handling Weaponized AI </a> \
+<a href="https://www.wired.com/story/social-media-ai-dead-bodies/" target="_blank"> Social Media Sleuths, Armed With AI, Are Identifying Dead Bodies </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>November 14, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6553a9acb2396fab4b07646f/master/pass/WIRED_Mirai_Full%20Page%20Collage_2.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/" target="_blank"> The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 14, 2023</span></small> \
+<span>November 15, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1620,15 +1596,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/section-702-surveillance-reauthorization-privacy-letter/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/655285b05622349ecdd3e177/master/pass/chuckschumer-sec-GettyImages-1717320570.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6553a9acb2396fab4b07646f/master/pass/WIRED_Mirai_Full%20Page%20Collage_2.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/section-702-surveillance-reauthorization-privacy-letter/" target="_blank"> US Privacy Groups Urge Senate Not to Ram Through NSA Spying Powers </a> \
+<a href="https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/" target="_blank"> The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>November 13, 2023</span></small> \
+<span>November 14, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/cisa-ai-roadmap/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6552a9a6e292e505d5ee894e/master/pass/The-US%E2%80%99s-Top-Cybersecurity-Agency-Has-a-Plan-for-AI\'s-Weaponized-Future-Security-GettyImages-1247987718.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/cisa-ai-roadmap/" target="_blank"> CISA Has a New Road Map for Handling Weaponized AI </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 14, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1638,6 +1626,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/" target="_blank"> The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 13, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/section-702-surveillance-reauthorization-privacy-letter/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/655285b05622349ecdd3e177/master/pass/chuckschumer-sec-GettyImages-1717320570.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/section-702-surveillance-reauthorization-privacy-letter/" target="_blank"> US Privacy Groups Urge Senate Not to Ram Through NSA Spying Powers </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 13, 2023</span></small> \
@@ -1668,18 +1668,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/section-702-nsa-surveillance-senate/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/654e9bd2487e919418959672/master/pass/US-Senate-Leaders-Plan-to-Extend-Surveillance-Program-Using-Federal-Budget-Security-GettyImages-1756847694.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/section-702-nsa-surveillance-senate/" target="_blank"> Senate Leaders Plan to Prolong NSA Surveillance Using a Must-Pass Bill </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 10, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/altitude-terrorism-content-removal-tool/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/654d5cecead917fc613de499/master/pass/This-New-Tool-Aims-To-Help-Keep-Terror-Content-Off-The-Internet-Security-GettyImages-1210458796.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -1692,24 +1680,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/how-to-get-ad-free-facebook-instagram-meta-privacy/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/654568cd555ea37fb2a4b3f3/master/pass/Use-Facebook-without-Ads-Security-GettyImages-1200899039.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/section-702-nsa-surveillance-senate/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/654e9bd2487e919418959672/master/pass/US-Senate-Leaders-Plan-to-Extend-Surveillance-Program-Using-Federal-Budget-Security-GettyImages-1756847694.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/how-to-get-ad-free-facebook-instagram-meta-privacy/" target="_blank"> How to Get Facebook Without Ads—if It’s Available for You </a> \
+<a href="https://www.wired.com/story/section-702-nsa-surveillance-senate/" target="_blank"> Senate Leaders Plan to Prolong NSA Surveillance Using a Must-Pass Bill </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>November 09, 2023</span></small> \
+<span>November 10, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/654d0f4af3c4c30aa39e1952/master/pass/Omegle-Should-Have-Died-Years-Ago-Security-GettyImages-1137810811.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/uk-police-face-recognition-expansion/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/654c2c7f0202a11bfdc62856/master/pass/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/" target="_blank"> Omegle Was Forced to Shut Down by a Lawsuit From a Sexual Abuse Survivor </a> \
+<a href="https://www.wired.com/story/uk-police-face-recognition-expansion/" target="_blank"> Police Use of Face Recognition Is Sweeping the UK </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 09, 2023</span></small> \
@@ -1728,15 +1716,39 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/uk-police-face-recognition-expansion/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/654c2c7f0202a11bfdc62856/master/pass/The-UK-Is-Turning-Into-a-Facial-Recognition-Police-State-Security-GettyImages-1224837570.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/654d0f4af3c4c30aa39e1952/master/pass/Omegle-Should-Have-Died-Years-Ago-Security-GettyImages-1137810811.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/uk-police-face-recognition-expansion/" target="_blank"> Police Use of Face Recognition Is Sweeping the UK </a> \
+<a href="https://www.wired.com/story/omegle-shutdown-lawsuit-child-sexual-abuse/" target="_blank"> Omegle Was Forced to Shut Down by a Lawsuit From a Sexual Abuse Survivor </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 09, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/how-to-get-ad-free-facebook-instagram-meta-privacy/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/654568cd555ea37fb2a4b3f3/master/pass/Use-Facebook-without-Ads-Security-GettyImages-1200899039.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/how-to-get-ad-free-facebook-instagram-meta-privacy/" target="_blank"> How to Get Facebook Without Ads—if It’s Available for You </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 09, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/dxe-animal-agriculture-investigation-guide/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/65441eb3957b9a8a40d7ab59/master/pass/DxE_Collage_Final.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/dxe-animal-agriculture-investigation-guide/" target="_blank"> This Is the Ops Manual for the Most Tech-Savvy Animal Liberation Group in the US </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 08, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -1764,30 +1776,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/dxe-animal-agriculture-investigation-guide/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/65441eb3957b9a8a40d7ab59/master/pass/DxE_Collage_Final.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/dxe-animal-agriculture-investigation-guide/" target="_blank"> This Is the Ops Manual for the Most Tech-Savvy Animal Liberation Group in the US </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 08, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/israel-gaza-internet-blackouts-weapon/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6549a751ffe219707629bcb0/master/pass/Communication-Towers-Gaza-Security-1749945926.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/israel-gaza-internet-blackouts-weapon/" target="_blank"> Internet Blackouts in Gaza Are a New Weapon in the Israel-Hamas War </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 07, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/san-francisco-doom-loop-citizen-surveillance/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/654271e660c83bd9a94a4c10/master/pass/LEDE-231021-IanBates--409.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -1800,12 +1788,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/youtube-ad-blocker-detection-eu-privacy-law/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/654a6afe9d82d9797b283cae/master/pass/YouTube-Ad-Blocker-EU-Security-GettyImages-1239319065.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/government-surveillance-reform-act-2023/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/654a6fc49d82d9797b283cb0/master/pass/US-Senate-to-Entertain-Saving---and-Totally-Reforming---FISA-Security-GettyImages-1252641523.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/youtube-ad-blocker-detection-eu-privacy-law/" target="_blank"> YouTube\'s Ad Blocker Detection Believed to Break EU Privacy Law </a> \
+<a href="https://www.wired.com/story/government-surveillance-reform-act-2023/" target="_blank"> Government Surveillance Reform Act of 2023 Seeks to End Warrantless Police and FBI Spying </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 07, 2023</span></small> \
@@ -1824,12 +1812,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/government-surveillance-reform-act-2023/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/654a6fc49d82d9797b283cb0/master/pass/US-Senate-to-Entertain-Saving---and-Totally-Reforming---FISA-Security-GettyImages-1252641523.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/youtube-ad-blocker-detection-eu-privacy-law/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/654a6afe9d82d9797b283cae/master/pass/YouTube-Ad-Blocker-EU-Security-GettyImages-1239319065.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/government-surveillance-reform-act-2023/" target="_blank"> Government Surveillance Reform Act of 2023 Seeks to End Warrantless Police and FBI Spying </a> \
+<a href="https://www.wired.com/story/youtube-ad-blocker-detection-eu-privacy-law/" target="_blank"> YouTube\'s Ad Blocker Detection Believed to Break EU Privacy Law </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 07, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/israel-gaza-internet-blackouts-weapon/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6549a751ffe219707629bcb0/master/pass/Communication-Towers-Gaza-Security-1749945926.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/israel-gaza-internet-blackouts-weapon/" target="_blank"> Internet Blackouts in Gaza Are a New Weapon in the Israel-Hamas War </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 07, 2023</span></small> \
@@ -2064,18 +2064,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/10/fakechromeupdate.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/" target="_blank"> The Fake Browser Update Scam Gets a Makeover </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 18, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/al-ahli-baptist-hospital-explosion-disinformation-osint/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/65301552d28937d298777db6/master/pass/Gazacity-hospital-strike-sec-GettyImages-1730514706.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -2088,15 +2076,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/x-community-notes-disinformation/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/652f2c5201293a47e79b81a7/master/pass/x-communityboards-biz-GettyImages-1255116322.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/10/fakechromeupdate.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/x-community-notes-disinformation/" target="_blank"> Insiders Say X’s Crowdsourced Anti-Disinformation Tool Is Making the Problem Worse </a> \
+<a href="https://krebsonsecurity.com/2023/10/the-fake-browser-update-scam-gets-a-makeover/" target="_blank"> The Fake Browser Update Scam Gets a Makeover </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>October 17, 2023</span></small> \
+<span>October 18, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -2106,6 +2094,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/" target="_blank"> Tech CEO Sentenced to 5 Years in IP Address Scheme </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 17, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/x-community-notes-disinformation/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/652f2c5201293a47e79b81a7/master/pass/x-communityboards-biz-GettyImages-1255116322.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/x-community-notes-disinformation/" target="_blank"> Insiders Say X’s Crowdsourced Anti-Disinformation Tool Is Making the Problem Worse </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 17, 2023</span></small> \
@@ -2184,18 +2184,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/x-community-notes-failures/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6526b0585f11119fb77b3ab8/master/pass/Community-Notes-Is-Making-X\'s-Disinformation-Problem-Worse-Not-Better-Security-GettyImages-1535931872.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/x-community-notes-failures/" target="_blank"> A Graphic Hamas Video Donald Trump Jr. Shared on X Is Actually Real, Research Confirms </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 11, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/united-nations-igf-saudi-arabia-russia/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/6525b8dac55060c7594b0d39/master/pass/Repressive-countries-hosting-UN-internet-body-Security-GettyImages-1246385753.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -2208,12 +2196,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/google-passkey-default/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6524a856e550e5079cd54a31/master/pass/Google-Passkey-Push-Security-1384541738.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/x-community-notes-failures/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6526b0585f11119fb77b3ab8/master/pass/Community-Notes-Is-Making-X\'s-Disinformation-Problem-Worse-Not-Better-Security-GettyImages-1535931872.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/google-passkey-default/" target="_blank"> Google Makes Passkeys Default, Stepping Up Its Push to Kill Passwords </a> \
+<a href="https://www.wired.com/story/x-community-notes-failures/" target="_blank"> A Graphic Hamas Video Donald Trump Jr. Shared on X Is Actually Real, Research Confirms </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 11, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2023/10/patch-tuesday-october-2023-edition/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2020/08/windowsec.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2023/10/patch-tuesday-october-2023-edition/" target="_blank"> Patch Tuesday, October 2023 Edition </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 10, 2023</span></small> \
@@ -2232,12 +2232,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/10/patch-tuesday-october-2023-edition/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2020/08/windowsec.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/google-passkey-default/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6524a856e550e5079cd54a31/master/pass/Google-Passkey-Push-Security-1384541738.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/10/patch-tuesday-october-2023-edition/" target="_blank"> Patch Tuesday, October 2023 Edition </a> \
+<a href="https://www.wired.com/story/google-passkey-default/" target="_blank"> Google Makes Passkeys Default, Stepping Up Its Push to Kill Passwords </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 10, 2023</span></small> \
@@ -2256,12 +2256,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2023/10/phishers-spoof-usps-12-other-natl-postal-services/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/10/uspsphish-sms.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2023/10/phishers-spoof-usps-12-other-natl-postal-services/" target="_blank"> Phishers Spoof USPS, 12 Other Natl’ Postal Services </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 09, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/israel-hamas-war-hacktivism/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/652475a1e80ea4e8f65267bb/master/pass/Israel%E2%80%99s-War-Brings-Out-Hacktivists-on-All-Sides-Security-GettyImages-1715335536.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/israel-hamas-war-hacktivism/" target="_blank"> The Israel-Hamas War Erupts in Digital Chaos </a> \
+<a href="https://www.wired.com/story/israel-hamas-war-hacktivism/" target="_blank"> Activist Hackers Are Racing Into the Israel-Hamas War—for Both Sides </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 09, 2023</span></small> \
@@ -2285,34 +2297,10 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/israel-hamas-war-hacktivism/" target="_blank"> Activist Hackers Are Racing Into the Israel-Hamas War—for Both Sides </a> \
+<a href="https://www.wired.com/story/israel-hamas-war-hacktivism/" target="_blank"> The Israel-Hamas War Erupts in Digital Chaos </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 09, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/10/phishers-spoof-usps-12-other-natl-postal-services/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/10/uspsphish-sms.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/10/phishers-spoof-usps-12-other-natl-postal-services/" target="_blank"> Phishers Spoof USPS, 12 Other Natl’ Postal Services </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 09, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/active-clubs-telegram/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/651d7d34638c0702bea2d768/master/pass/Tennessee-Active-Club-Security-GettyImages-1212813932.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/active-clubs-telegram/" target="_blank"> White Supremacist Active Clubs Are Breeding on Telegram </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 07, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -2328,15 +2316,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/the-experts-helping-women-fight-digital-domestic-abuse/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/651c4152ff50c54b5a401580/master/pass/EmmaPickering_07.14_AK_026_CCISO.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/active-clubs-telegram/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/651d7d34638c0702bea2d768/master/pass/Tennessee-Active-Club-Security-GettyImages-1212813932.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/the-experts-helping-women-fight-digital-domestic-abuse/" target="_blank"> The Team Helping Women Fight Digital Domestic Abuse </a> \
+<a href="https://www.wired.com/story/active-clubs-telegram/" target="_blank"> White Supremacist Active Clubs Are Breeding on Telegram </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>October 04, 2023</span></small> \
+<span>October 07, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -2346,6 +2334,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/" target="_blank"> How Neuralink Keeps Dead Monkey Photos Secret </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 04, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/the-experts-helping-women-fight-digital-domestic-abuse/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/651c4152ff50c54b5a401580/master/pass/EmmaPickering_07.14_AK_026_CCISO.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/the-experts-helping-women-fight-digital-domestic-abuse/" target="_blank"> The Team Helping Women Fight Digital Domestic Abuse </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 04, 2023</span></small> \
@@ -2448,24 +2448,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/09/26/update-on-naked-security/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/09/Naked-Security-For-NS-Site.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/09/26/update-on-naked-security/" target="_blank"> Update on Naked Security </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 26, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/us-government-shutdown-right-wing-bubble/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/6511d2cd8122e64edaa87efa/master/pass/The-Right-Wing-Bubble-That-Could-Shut-Down-the-US-Government-Security-GettyImages-1542489918.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/us-government-shutdown-right-wing-bubble/" target="_blank"> Risk of a US Government Shutdown Is Fueled by Very Online Republicans </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 26, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/09/26/update-on-naked-security/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/09/Naked-Security-For-NS-Site.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/09/26/update-on-naked-security/" target="_blank"> Update on Naked Security </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 26, 2023</span></small> \
@@ -2484,24 +2484,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/corporate-surveillance-train-ai/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64b1d28d3d9e6b1cb17a8a00/master/pass/How-to-Use-Generative-AI-Tools-While-Still-Protecting-Your-Privacy-Security.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/corporate-surveillance-train-ai/" target="_blank"> Your Boss’s Spyware Could Train AI to Replace You </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 25, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/equalitie-trojan-horse-internet-censorship/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/651dd1f30441c55c658400b2/master/pass/A-Tricky-New-Way-to-Sneak-Past-Repressive-Internet-Censorship-Security-W30.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/equalitie-trojan-horse-internet-censorship/" target="_blank"> A Tricky New Way to Sneak Past Repressive Internet Censorship </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 25, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/corporate-surveillance-train-ai/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/64b1d28d3d9e6b1cb17a8a00/master/pass/How-to-Use-Generative-AI-Tools-While-Still-Protecting-Your-Privacy-Security.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/corporate-surveillance-train-ai/" target="_blank"> Your Boss’s Spyware Could Train AI to Replace You </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 25, 2023</span></small> \
@@ -2544,24 +2544,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/congress-generative-ai-big-tech-briefing/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6500f79413ef7587fbe19ff2/master/pass/Can-Silicon-Valley-AI-fix-a-Senate-problem-Security-GettyImages-1660554150.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/congress-generative-ai-big-tech-briefing/" target="_blank"> The US Congress Has Trust Issues. Generative AI Is Making It Worse </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 13, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/buenos-aires-facial-recognition-scandal/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/6500f49ffe696bc8627e105a/master/pass/Sarahpabst_intervened_ARG_007.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/buenos-aires-facial-recognition-scandal/" target="_blank"> The Twisted Eye in the Sky Over Buenos Aires </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 13, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/congress-generative-ai-big-tech-briefing/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6500f79413ef7587fbe19ff2/master/pass/Can-Silicon-Valley-AI-fix-a-Senate-problem-Security-GettyImages-1660554150.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/congress-generative-ai-big-tech-briefing/" target="_blank"> The US Congress Has Trust Issues. Generative AI Is Making It Worse </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 13, 2023</span></small> \
@@ -2724,24 +2724,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64f0ce7c79a3ae9b3ddaa439/master/pass/Apple-CSAM-Controversy-Security-GettyImages-1462322900.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/" target="_blank"> Apple\'s Decision to Kill Its CSAM Photo-Scanning Tool Sparks Fresh Controversy </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 31, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/google-android-chrome-critical-update-august-2023/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/64efcf136c888abcc8b9fa28/master/pass/Security-illo-texture3.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/google-android-chrome-critical-update-august-2023/" target="_blank"> Google Fixes Serious Security Flaws in Chrome and Android </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 31, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/64f0ce7c79a3ae9b3ddaa439/master/pass/Apple-CSAM-Controversy-Security-GettyImages-1462322900.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/" target="_blank"> Apple\'s Decision to Kill Its CSAM Photo-Scanning Tool Sparks Fresh Controversy </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 31, 2023</span></small> \
@@ -2844,24 +2844,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/08/17/s3-ep148-remembering-crypto-heroes/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/08/s3-ep148-code-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/08/17/s3-ep148-remembering-crypto-heroes/" target="_blank"> S3 Ep148: Remembering crypto heroes </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 17, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2023/08/karma-catches-up-to-global-phishing-service-16shop/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2023/08/16shopphish.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://krebsonsecurity.com/2023/08/karma-catches-up-to-global-phishing-service-16shop/" target="_blank"> Karma Catches Up to Global Phishing Service 16Shop </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 17, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/08/17/s3-ep148-remembering-crypto-heroes/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/08/s3-ep148-code-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/08/17/s3-ep148-remembering-crypto-heroes/" target="_blank"> S3 Ep148: Remembering crypto heroes </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 17, 2023</span></small> \
@@ -2952,24 +2952,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/fourth-amendment-is-not-for-sale-act-2023/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64b5a7206296ebb3f086152d/master/pass/US-Lawmakers-Introduce-New-Bill-to-Restrict-FBI-Warrantless-Surveillance-Security-GettyImages-475449513.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/19/google-virus-total-leaks-list-of-spooky-email-addresses/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/vt-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/fourth-amendment-is-not-for-sale-act-2023/" target="_blank"> Fourth Amendment Is Not for Sale Act Goes Back to Congress </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 18, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/07/leakedsource-owner-quit-ashley-madison-a-month-before-2015-hack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/07/bloom-lambo.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/07/leakedsource-owner-quit-ashley-madison-a-month-before-2015-hack/" target="_blank"> LeakedSource Owner Quit Ashley Madison a Month Before 2015 Hack </a> \
+<a href="https://nakedsecurity.sophos.com/2023/07/19/google-virus-total-leaks-list-of-spooky-email-addresses/" target="_blank"> Google Virus Total leaks list of spooky email addresses </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 18, 2023</span></small> \
@@ -2988,12 +2976,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/19/google-virus-total-leaks-list-of-spooky-email-addresses/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/vt-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/07/leakedsource-owner-quit-ashley-madison-a-month-before-2015-hack/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/07/bloom-lambo.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/19/google-virus-total-leaks-list-of-spooky-email-addresses/" target="_blank"> Google Virus Total leaks list of spooky email addresses </a> \
+<a href="https://krebsonsecurity.com/2023/07/leakedsource-owner-quit-ashley-madison-a-month-before-2015-hack/" target="_blank"> LeakedSource Owner Quit Ashley Madison a Month Before 2015 Hack </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 18, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/fourth-amendment-is-not-for-sale-act-2023/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/64b5a7206296ebb3f086152d/master/pass/US-Lawmakers-Introduce-New-Bill-to-Restrict-FBI-Warrantless-Surveillance-Security-GettyImages-475449513.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/fourth-amendment-is-not-for-sale-act-2023/" target="_blank"> Fourth Amendment Is Not for Sale Act Goes Back to Congress </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 18, 2023</span></small> \
@@ -3024,18 +3024,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/key-findings-from-eset-threat-report-h1-2023-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/07/0-8.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/key-findings-from-eset-threat-report-h1-2023-week-in-security-with-tony-anscombe/" target="_blank"> Key findings from ESET Threat Report H1 2023 – Week in security with Tony Anscombe </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 14, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/fbi-spy-fears-us-congress/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/64b035820b67c709cbcaab26/master/pass/Mistrust-of-FBI-Temporarily-Unites-a-Badly-Broken-Congress-Security-GettyImages-1527767204.png" alt="" class="img-fluid"> \
 </a> \
@@ -3048,15 +3036,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2015/07/impactteam-580x657.png" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/key-findings-from-eset-threat-report-h1-2023-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/07/0-8.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/" target="_blank"> SEO Expert Hired and Fired By Ashley Madison Turned on Company, Promising Revenge </a> \
+<a href="https://www.welivesecurity.com/videos/key-findings-from-eset-threat-report-h1-2023-week-in-security-with-tony-anscombe/" target="_blank"> Key findings from ESET Threat Report H1 2023 – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>July 13, 2023</span></small> \
+<span>July 14, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -3084,6 +3072,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2015/07/impactteam-580x657.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/" target="_blank"> SEO Expert Hired and Fired By Ashley Madison Turned on Company, Promising Revenge </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 13, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/07/12/eset-research-podcast-finding-mythical-blacklotus-bootkit/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/07/eset-research-podcast-thumbnail.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -3093,18 +3093,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 12, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/silk-road-variety-jones-sentencing/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64ad9e4ee416fd283a85c56d/master/pass/silkroad_hearing_Sec_GettyImages-1230250642.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/silk-road-variety-jones-sentencing/" target="_blank"> Silk Road’s Second-in-Command, Variety Jones, Gets 20 Years in Prison </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 11, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -3144,12 +3132,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/10/serious-security-rowhammer-returns-to-gaslight-your-computer/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/hammer-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/silk-road-variety-jones-sentencing/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/64ad9e4ee416fd283a85c56d/master/pass/silkroad_hearing_Sec_GettyImages-1230250642.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/10/serious-security-rowhammer-returns-to-gaslight-your-computer/" target="_blank"> Serious Security: Rowhammer returns to gaslight your computer </a> \
+<a href="https://www.wired.com/story/silk-road-variety-jones-sentencing/" target="_blank"> Silk Road’s Second-in-Command, Variety Jones, Gets 20 Years in Prison </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 11, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/11/urgent-apple-fixes-critical-zero-day-hole-in-iphones-ipads-and-macs/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/jv-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/11/urgent-apple-fixes-critical-zero-day-hole-in-iphones-ipads-and-macs/" target="_blank"> Urgent! Apple fixes critical zero-day hole in iPhones, iPads and Macs </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 10, 2023</span></small> \
@@ -3168,12 +3168,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/11/urgent-apple-fixes-critical-zero-day-hole-in-iphones-ipads-and-macs/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/jv-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/10/serious-security-rowhammer-returns-to-gaslight-your-computer/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/hammer-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/11/urgent-apple-fixes-critical-zero-day-hole-in-iphones-ipads-and-macs/" target="_blank"> Urgent! Apple fixes critical zero-day hole in iPhones, iPads and Macs </a> \
+<a href="https://nakedsecurity.sophos.com/2023/07/10/serious-security-rowhammer-returns-to-gaslight-your-computer/" target="_blank"> Serious Security: Rowhammer returns to gaslight your computer </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 10, 2023</span></small> \
@@ -3192,24 +3192,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/07/amaffair.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/" target="_blank"> Top Suspect in 2015 Ashley Madison Hack Committed Suicide in 2014 </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 07, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/best-vpn/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/63eaa0cf1b87b32b35988c1e/master/pass/Best-VPNs-Guide-2023-Gear-GettyImages-1223865512.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/best-vpn/" target="_blank"> 4 Best VPN Services (2023): For Routers, PC, iPhone, Android, and More </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 07, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/07/amaffair.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/" target="_blank"> Top Suspect in 2015 Ashley Madison Hack Committed Suicide in 2014 </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 07, 2023</span></small> \
@@ -3240,24 +3240,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/meta-twitter-threads-bluesky-spill-hive-mastodon-privacy-comparison/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64a74f13065114c6bc3082fb/master/pass/Threads-Privacy-Policy-Security-GettyImages-1137804773.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/meta-twitter-threads-bluesky-spill-hive-mastodon-privacy-comparison/" target="_blank"> How Threads\' Privacy Policy Compares to Twitter\'s (and Its Rivals\') </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 06, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/meta-threads-privacy-decentralization/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/64a6f2af0cbc15924e602d94/master/pass/Don\'t-Join-Threads-Security-GettyImages-1508798453.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/meta-threads-privacy-decentralization/" target="_blank"> Don\'t Join Threads—Make Instagram\'s \'Twitter Killer\' Join You </a> \
+<a href="https://www.wired.com/story/meta-threads-privacy-decentralization/" target="_blank"> Don\'t Join Threads—Make Meta\'s Instagram-Linked Twitter Alternative Join You </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 06, 2023</span></small> \
@@ -3281,7 +3269,19 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/meta-threads-privacy-decentralization/" target="_blank"> Don\'t Join Threads—Make Meta\'s Instagram-Linked Twitter Alternative Join You </a> \
+<a href="https://www.wired.com/story/meta-threads-privacy-decentralization/" target="_blank"> Don\'t Join Threads—Make Instagram\'s \'Twitter Killer\' Join You </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 06, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/meta-twitter-threads-bluesky-spill-hive-mastodon-privacy-comparison/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/64a74f13065114c6bc3082fb/master/pass/Threads-Privacy-Policy-Security-GettyImages-1137804773.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/meta-twitter-threads-bluesky-spill-hive-mastodon-privacy-comparison/" target="_blank"> How Threads\' Privacy Policy Compares to Twitter\'s (and Its Rivals\') </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 06, 2023</span></small> \
@@ -3300,24 +3300,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/05/firefox-115-is-out-says-farewell-to-older-windows-and-mac-users/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/04/ff-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/05/firefox-115-is-out-says-farewell-to-older-windows-and-mac-users/" target="_blank"> Firefox 115 is out, says farewell to older Windows and Mac users </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 05, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/electric-vehicle-charging-station-hacks/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/64a571b49a01d944fee36052/master/pass/616-ElectrifyAmerica-BakerCA-security.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/electric-vehicle-charging-station-hacks/" target="_blank"> EV Charger Hacking Poses a ‘Catastrophic’ Risk </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 05, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/05/firefox-115-is-out-says-farewell-to-older-windows-and-mac-users/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/04/ff-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/05/firefox-115-is-out-says-farewell-to-older-windows-and-mac-users/" target="_blank"> Firefox 115 is out, says farewell to older Windows and Mac users </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 05, 2023</span></small> \
@@ -3348,24 +3348,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/03/wordpress-plugin-lets-users-become-admins-patch-early-patch-often/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/um-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/07/03/wordpress-plugin-lets-users-become-admins-patch-early-patch-often/" target="_blank"> WordPress plugin lets users become admins – Patch early, patch often! </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 03, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2023/07/whos-behind-the-domainnetworks-snail-mail-scam/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/domainnetworksletter.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://krebsonsecurity.com/2023/07/whos-behind-the-domainnetworks-snail-mail-scam/" target="_blank"> Who’s Behind the DomainNetworks Snail Mail Scam? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 03, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/03/wordpress-plugin-lets-users-become-admins-patch-early-patch-often/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/07/um-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/07/03/wordpress-plugin-lets-users-become-admins-patch-early-patch-often/" target="_blank"> WordPress plugin lets users become admins – Patch early, patch often! </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 03, 2023</span></small> \
@@ -3384,18 +3384,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/apple-google-moveit-security-patches-june-2023-critical-update/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/649e23b70cbc15924e602ce3/master/pass/062923-security-critical-updates-july.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/apple-google-moveit-security-patches-june-2023-critical-update/" target="_blank"> Apple, Google, and MOVEit Just Patched Serious Security Flaws </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 30, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/good-bad-ugly-ai-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/0-23.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -3408,12 +3396,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/06/29/employee-monitoring-is-bossware-right-company/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/employee-software-monitoring-bossware-tattleware.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/apple-google-moveit-security-patches-june-2023-critical-update/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/649e23b70cbc15924e602ce3/master/pass/062923-security-critical-updates-july.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/06/29/employee-monitoring-is-bossware-right-company/" target="_blank"> Employee monitoring: is ‘bossware’ right for your company? </a> \
+<a href="https://www.wired.com/story/apple-google-moveit-security-patches-june-2023-critical-update/" target="_blank"> Apple, Google, and MOVEit Just Patched Serious Security Flaws </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 30, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2023/06/russian-cybersecurity-executive-arrested-for-alleged-role-in-2012-megahacks/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/kislitsin.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2023/06/russian-cybersecurity-executive-arrested-for-alleged-role-in-2012-megahacks/" target="_blank"> Russian Cybersecurity Executive Arrested for Alleged Role in 2012 Megahacks </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 29, 2023</span></small> \
@@ -3432,6 +3432,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/06/29/employee-monitoring-is-bossware-right-company/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/employee-software-monitoring-bossware-tattleware.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/06/29/employee-monitoring-is-bossware-right-company/" target="_blank"> Employee monitoring: is ‘bossware’ right for your company? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 29, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2023/06/29/s3-ep141-what-was-steve-jobss-first-job/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/pong-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
@@ -3441,30 +3453,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 29, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/06/russian-cybersecurity-executive-arrested-for-alleged-role-in-2012-megahacks/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/kislitsin.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/06/russian-cybersecurity-executive-arrested-for-alleged-role-in-2012-megahacks/" target="_blank"> Russian Cybersecurity Executive Arrested for Alleged Role in 2012 Megahacks </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 29, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/06/28/avoid-juice-jacking-recharge-batteries-safely-summer/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/juice-jacking-public-usb-chargers.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/06/28/avoid-juice-jacking-recharge-batteries-safely-summer/" target="_blank"> Avoid juice jacking and recharge your batteries safely this summer </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 28, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -3480,15 +3468,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-gets-5-years-in-prison/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2021/07/plugwalkjoe.png" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/06/28/avoid-juice-jacking-recharge-batteries-safely-summer/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/juice-jacking-public-usb-chargers.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-gets-5-years-in-prison/" target="_blank"> U.K. Cyber Thug “PlugwalkJoe” Gets 5 Years in Prison </a> \
+<a href="https://www.welivesecurity.com/2023/06/28/avoid-juice-jacking-recharge-batteries-safely-summer/" target="_blank"> Avoid juice jacking and recharge your batteries safely this summer </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>June 27, 2023</span></small> \
+<span>June 28, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -3504,15 +3492,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/us-ai-regulation-congress-briefings/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64962ab46279e36472844619/master/pass/062323-security-us-senate-artificial-intelligence-future.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-gets-5-years-in-prison/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2021/07/plugwalkjoe.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/us-ai-regulation-congress-briefings/" target="_blank"> The US Senate Wants to Rein In AI. Good Luck With That </a> \
+<a href="https://krebsonsecurity.com/2023/06/u-k-cyber-thug-plugwalkjoe-gets-5-years-in-prison/" target="_blank"> U.K. Cyber Thug “PlugwalkJoe” Gets 5 Years in Prison </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>June 26, 2023</span></small> \
+<span>June 27, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -3522,6 +3510,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2023/06/26/uk-hacker-busted-in-spain-gets-5-years-over-twitter-hack-and-more/" target="_blank"> UK hacker busted in Spain gets 5 years over Twitter hack and more </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 26, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/us-ai-regulation-congress-briefings/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/64962ab46279e36472844619/master/pass/062323-security-us-senate-artificial-intelligence-future.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/us-ai-regulation-congress-briefings/" target="_blank"> The US Senate Wants to Rein In AI. Good Luck With That </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 26, 2023</span></small> \
@@ -3549,18 +3549,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 24, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/what-to-know-about-the-moveit-hack-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/0-19.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/what-to-know-about-the-moveit-hack-week-in-security-with-tony-anscombe/" target="_blank"> What to know about the MoveIT hack – Week in security with Tony Anscombe </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 23, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -3612,6 +3600,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/videos/what-to-know-about-the-moveit-hack-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/0-19.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/videos/what-to-know-about-the-moveit-hack-week-in-security-with-tony-anscombe/" target="_blank"> What to know about the MoveIT hack – Week in security with Tony Anscombe </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 23, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2023/06/22/apple-patch-fixes-zero-day-kernel-hole-reported-by-kaspersky-update-now/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
@@ -3641,31 +3641,19 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/06/21/vacation-stay-step-ahead-travel-scammers/" target="_blank"> Going on vacation soon? Stay one step ahead of travel scammers </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 21, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/06/why-malware-crypting-services-deserve-more-scrutiny/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/bwhatglass.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/06/why-malware-crypting-services-deserve-more-scrutiny/" target="_blank"> Why Malware Crypting Services Deserve More Scrutiny </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 21, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/06/21/vacation-stay-step-ahead-travel-scammers/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/vacation-cybercrime-threats.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/06/21/vacation-stay-step-ahead-travel-scammers/" target="_blank"> Going on vacation soon? Stay one step ahead of travel scams </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 21, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/car-data-privacy-toyota-honda-ford/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/64923c24e416fd283a85c3db/master/pass/How-Your-New-Car-Tracks-You-Security-GettyImages-1088377386.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/car-data-privacy-toyota-honda-ford/" target="_blank"> How the Most Popular Cars in the US Track Drivers </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 21, 2023</span></small> \
@@ -3684,12 +3672,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/car-data-privacy-toyota-honda-ford/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64923c24e416fd283a85c3db/master/pass/How-Your-New-Car-Tracks-You-Security-GettyImages-1088377386.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/06/21/vacation-stay-step-ahead-travel-scammers/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/vacation-cybercrime-threats.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/car-data-privacy-toyota-honda-ford/" target="_blank"> How the Most Popular Cars in the US Track Drivers </a> \
+<a href="https://www.welivesecurity.com/2023/06/21/vacation-stay-step-ahead-travel-scammers/" target="_blank"> Going on vacation soon? Stay one step ahead of travel scammers </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 21, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2023/06/why-malware-crypting-services-deserve-more-scrutiny/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/bwhatglass.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2023/06/why-malware-crypting-services-deserve-more-scrutiny/" target="_blank"> Why Malware Crypting Services Deserve More Scrutiny </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 21, 2023</span></small> \
@@ -3768,24 +3768,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/hualan-encryption-chips-entity-list-china/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6488d86988479249e0cc2a5a/master/pass/A-Shady-Chinese-Encryption-Chip-Got-Inside-the-US-Navy,-NATO,-and-NASA-Security-GettyImages-880940426.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2023/06/15/s3-ep139-are-password-rules-like-running-through-rain/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/s3-ep139-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/hualan-encryption-chips-entity-list-china/" target="_blank"> The US Navy, NATO, and NASA Are Using a Shady Chinese Company’s Encryption Chips </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 15, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/06/cisa-order-highlights-persistent-risk-at-network-edge/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/networkedge.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/06/cisa-order-highlights-persistent-risk-at-network-edge/" target="_blank"> CISA Order Highlights Persistent Risk at Network Edge </a> \
+<a href="https://nakedsecurity.sophos.com/2023/06/15/s3-ep139-are-password-rules-like-running-through-rain/" target="_blank"> S3 Ep139: Are password rules like running through rain? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 15, 2023</span></small> \
@@ -3804,12 +3792,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/15/s3-ep139-are-password-rules-like-running-through-rain/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/s3-ep139-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/06/cisa-order-highlights-persistent-risk-at-network-edge/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/networkedge.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/15/s3-ep139-are-password-rules-like-running-through-rain/" target="_blank"> S3 Ep139: Are password rules like running through rain? </a> \
+<a href="https://krebsonsecurity.com/2023/06/cisa-order-highlights-persistent-risk-at-network-edge/" target="_blank"> CISA Order Highlights Persistent Risk at Network Edge </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 15, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/hualan-encryption-chips-entity-list-china/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6488d86988479249e0cc2a5a/master/pass/A-Shady-Chinese-Encryption-Chip-Got-Inside-the-US-Navy,-NATO,-and-NASA-Security-GettyImages-880940426.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/hualan-encryption-chips-entity-list-china/" target="_blank"> The US Navy, NATO, and NASA Are Using a Shady Chinese Company’s Encryption Chips </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 15, 2023</span></small> \
@@ -3825,6 +3825,18 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 14, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/06/14/patch-tuesday-fixes-4-critical-rce-bugs-and-a-bunch-of-office-holes/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/ms-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/06/14/patch-tuesday-fixes-4-critical-rce-bugs-and-a-bunch-of-office-holes/" target="_blank"> Patch Tuesday fixes 4 critical RCE bugs, and a bunch of Office holes </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 13, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -3864,18 +3876,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/14/patch-tuesday-fixes-4-critical-rce-bugs-and-a-bunch-of-office-holes/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/ms-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/14/patch-tuesday-fixes-4-critical-rce-bugs-and-a-bunch-of-office-holes/" target="_blank"> Patch Tuesday fixes 4 critical RCE bugs, and a bunch of Office holes </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 13, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/a-massive-vaccine-database-leak-exposes-ids-of-millions-of-indians/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/64876bcb8ca7067a92af16f3/master/pass/Needles_science_GettyImages-1195443864.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -3889,23 +3889,11 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/odni-commercially-available-information-report/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64874ce9f2de86183cf5b4ae/master/pass/stockpile_data_sec_GettyImages-1413768537.jpg" alt="" class="img-fluid"> \
+<img src="https://media.wired.com/photos/648a239f2cc57777ec67f090/master/pass/stockpile_data_biz_GettyImages-1383017365.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/odni-commercially-available-information-report/" target="_blank"> The US Is Openly Stockpiling Dirt on All Its Citizens </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 12, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/anti-porn-covenant-eyes-bond-revoked/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64823f41ef8671d76d4a885a/master/pass/060823-court-anti-shameware-surveillance.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/anti-porn-covenant-eyes-bond-revoked/" target="_blank"> An Anti-Porn App Put Him in Jail and His Family Under Surveillance </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 12, 2023</span></small> \
@@ -3924,8 +3912,20 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/anti-porn-covenant-eyes-bond-revoked/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/64823f41ef8671d76d4a885a/master/pass/060823-court-anti-shameware-surveillance.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/anti-porn-covenant-eyes-bond-revoked/" target="_blank"> An Anti-Porn App Put Him in Jail and His Family Under Surveillance </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 12, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/odni-commercially-available-information-report/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/648a239f2cc57777ec67f090/master/pass/stockpile_data_biz_GettyImages-1383017365.jpg" alt="" class="img-fluid"> \
+<img src="https://media.wired.com/photos/64874ce9f2de86183cf5b4ae/master/pass/stockpile_data_sec_GettyImages-1413768537.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -3960,18 +3960,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/09/thoughts-on-scheduled-password-changes-dont-call-them-rotations/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/locks-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/06/09/thoughts-on-scheduled-password-changes-dont-call-them-rotations/" target="_blank"> Thoughts on scheduled password changes (don’t call them rotations!) </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 09, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2023/06/09/more-moveit-mitigations-new-patches-published-for-further-protection/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/dl-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
@@ -3996,36 +3984,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/06/09/thoughts-on-scheduled-password-changes-dont-call-them-rotations/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/06/locks-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/06/09/thoughts-on-scheduled-password-changes-dont-call-them-rotations/" target="_blank"> Thoughts on scheduled password changes (don’t call them rotations!) </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 09, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/06/08/asylum-ambuscade-crimeware-or-cyberespionage/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/asylum-ambuscade-crimeware-cyberespionage.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/06/08/asylum-ambuscade-crimeware-or-cyberespionage/" target="_blank"> Asylum Ambuscade: crimeware or cyberespionage? </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 08, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/internet-reality-north-korea/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6481274ada92561daff93b10/master/pass/N_Korea_Surv_Final.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/internet-reality-north-korea/" target="_blank"> The Bizarre Reality of Getting Online in North Korea </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 08, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/barracuda.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/" target="_blank"> Barracuda Urges Replacing — Not Patching — Its Email Security Gateways </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 08, 2023</span></small> \
@@ -4044,15 +4020,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/06/07/hear-no-evil-ultrasound-attacks-voice-assistants/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/nuit-ultrasound-attacks-voice-assistants.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/06/barracuda.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/06/07/hear-no-evil-ultrasound-attacks-voice-assistants/" target="_blank"> Hear no evil: Ultrasound attacks on voice assistants </a> \
+<a href="https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/" target="_blank"> Barracuda Urges Replacing — Not Patching — Its Email Security Gateways </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>June 07, 2023</span></small> \
+<span>June 08, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/internet-reality-north-korea/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6481274ada92561daff93b10/master/pass/N_Korea_Surv_Final.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/internet-reality-north-korea/" target="_blank"> The Bizarre Reality of Getting Online in North Korea </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 08, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -4062,6 +4050,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/ut-austin-cybersecurity-clinic-311/" target="_blank"> The Bold Plan to Create Cyber 311 Hotlines </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 07, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/06/07/hear-no-evil-ultrasound-attacks-voice-assistants/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/nuit-ultrasound-attacks-voice-assistants.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/06/07/hear-no-evil-ultrasound-attacks-voice-assistants/" target="_blank"> Hear no evil: Ultrasound attacks on voice assistants </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 07, 2023</span></small> \
@@ -4116,24 +4116,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/apple-communication-safety-nude-detection/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/647e5ff2c859c4a1cdecc337/master/pass/Apple-CSAM-Alternatives-Security.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/apple-communication-safety-nude-detection/" target="_blank"> Apple Expands Its On-Device Nudity Detection to Combat CSAM </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 05, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/cloudflare-project-galileo-ukraine/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/647a7ca9c30f50376ee87492/master/pass/Hacks-Against-Ukrainian-Emergency-Response-Services-Rise-During-Bombings-Security-GettyImages-1428598236.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/cloudflare-project-galileo-ukraine/" target="_blank"> Hacks Against Ukraine\'s Emergency Response Services Rise During Bombings </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 05, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/apple-communication-safety-nude-detection/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/647e5ff2c859c4a1cdecc337/master/pass/Apple-CSAM-Alternatives-Security.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/apple-communication-safety-nude-detection/" target="_blank"> Apple Expands Its On-Device Nudity Detection to Combat CSAM </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>June 05, 2023</span></small> \
@@ -4200,6 +4200,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/06/01/top-3-api-security-risks-mitigate/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/api-cybersecurity-risks.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/06/01/top-3-api-security-risks-mitigate/" target="_blank"> All eyes on APIs: Top 3 API security risks and how to mitigate them </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>June 01, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2023/06/ask-fitis-the-bear-real-crooks-sign-their-malware/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2023/05/megatraffer.png" alt="" class="img-fluid"> \
 </a> \
@@ -4236,60 +4248,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/06/01/top-3-api-security-risks-mitigate/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/06/api-cybersecurity-risks.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/06/01/top-3-api-security-risks-mitigate/" target="_blank"> All eyes on APIs: Top 3 API security risks and how to mitigate them </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>June 01, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/apple-ios-16-5-security-flaws-critical-update-may-2023/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/647777cd90167265276c87a0/master/pass/053123-security-critical-updates-may.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/apple-ios-16-5-security-flaws-critical-update-may-2023/" target="_blank"> Apple\'s iOS 16.5 Fixes 3 Security Bugs Already Used in Attacks </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>May 31, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/05/31/serious-security-that-keepass-master-password-crack-and-what-we-can-learn-from-it/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/kp-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/05/31/serious-security-that-keepass-master-password-crack-and-what-we-can-learn-from-it/" target="_blank"> Serious Security: That KeePass “master password crack”, and what we can learn from it </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>May 31, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/05/31/5-free-osint-tools-social-media/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/herramientas-osint-redes-sociales-3.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/05/31/5-free-osint-tools-social-media/" target="_blank"> 5 free OSINT tools for social media </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>May 31, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/05/discord-admins-hacked-by-malicious-bookmarks/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/05/dragmediscord.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/05/discord-admins-hacked-by-malicious-bookmarks/" target="_blank"> Discord Admins Hacked by Malicious Bookmarks </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>May 31, 2023</span></small> \
@@ -4308,15 +4272,39 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/05/30/tricks-trade-cybercrime-ring-fraud-scheme/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/cybercrime-ring-fraud-nigerian-scammers.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/05/discord-admins-hacked-by-malicious-bookmarks/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/05/dragmediscord.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/05/30/tricks-trade-cybercrime-ring-fraud-scheme/" target="_blank"> Tricks of the trade: How a cybercrime ring operated a multi‑level fraud scheme </a> \
+<a href="https://krebsonsecurity.com/2023/05/discord-admins-hacked-by-malicious-bookmarks/" target="_blank"> Discord Admins Hacked by Malicious Bookmarks </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>May 30, 2023</span></small> \
+<span>May 31, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/05/31/serious-security-that-keepass-master-password-crack-and-what-we-can-learn-from-it/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/kp-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/05/31/serious-security-that-keepass-master-password-crack-and-what-we-can-learn-from-it/" target="_blank"> Serious Security: That KeePass “master password crack”, and what we can learn from it </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>May 31, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/apple-ios-16-5-security-flaws-critical-update-may-2023/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/647777cd90167265276c87a0/master/pass/053123-security-critical-updates-may.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/apple-ios-16-5-security-flaws-critical-update-may-2023/" target="_blank"> Apple\'s iOS 16.5 Fixes 3 Security Bugs Already Used in Attacks </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>May 31, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -4326,6 +4314,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2023/05/30/serious-security-verification-is-vital-examining-an-oauth-login-bug/" target="_blank"> Serious Security: Verification is vital – examining an OAUTH login bug </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>May 30, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/05/30/tricks-trade-cybercrime-ring-fraud-scheme/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/cybercrime-ring-fraud-nigerian-scammers.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/05/30/tricks-trade-cybercrime-ring-fraud-scheme/" target="_blank"> Tricks of the trade: How a cybercrime ring operated a multi‑level fraud scheme </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>May 30, 2023</span></small> \
@@ -4368,12 +4368,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/chatgpt-prompt-injection-attack-security/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/646ea845f2de86183cf5b400/master/pass/The-Security-Hole-at-the-Heart-of-ChatGPT-and-Bing-Security-GettyImages-1264516882.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2023/05/25/s3-ep136-navigating-a-manic-malware-maelstrom/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/05/s3-ep136-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/chatgpt-prompt-injection-attack-security/" target="_blank"> The Security Hole at the Heart of ChatGPT and Bing </a> \
+<a href="https://nakedsecurity.sophos.com/2023/05/25/s3-ep136-navigating-a-manic-malware-maelstrom/" target="_blank"> S3 Ep136: Navigating a manic malware maelstrom </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>May 25, 2023</span></small> \
@@ -4392,15 +4392,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/05/25/s3-ep136-navigating-a-manic-malware-maelstrom/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/05/s3-ep136-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/chatgpt-prompt-injection-attack-security/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/646ea845f2de86183cf5b400/master/pass/The-Security-Hole-at-the-Heart-of-ChatGPT-and-Bing-Security-GettyImages-1264516882.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/05/25/s3-ep136-navigating-a-manic-malware-maelstrom/" target="_blank"> S3 Ep136: Navigating a manic malware maelstrom </a> \
+<a href="https://www.wired.com/story/chatgpt-prompt-injection-attack-security/" target="_blank"> The Security Hole at the Heart of ChatGPT and Bing </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>May 25, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/05/24/digital-security-self-employed-staying-safe-without-it-team/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/cybersecurity-self-employed-sole-traders.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/05/24/digital-security-self-employed-staying-safe-without-it-team/" target="_blank"> Digital security for the self‑employed: Staying safe without an IT team to help </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>May 24, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -4416,15 +4428,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/05/24/digital-security-self-employed-staying-safe-without-it-team/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/cybersecurity-self-employed-sole-traders.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/04/cryptopeople.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/05/24/digital-security-self-employed-staying-safe-without-it-team/" target="_blank"> Digital security for the self‑employed: Staying safe without an IT team to help </a> \
+<a href="https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/" target="_blank"> Interview With a Crypto Scam Investment Spammer </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>May 24, 2023</span></small> \
+<span>May 23, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -4452,18 +4464,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/android-app-ahmyth-rat-file-exfiltration.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/" target="_blank"> Android app breaking bad: From legitimate screen recording to file exfiltration within a year </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>May 23, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2023/05/23/pypi-open-source-code-repository-deals-with-manic-malware-maelstrom/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/05/vortex-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
@@ -4476,12 +4476,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/04/cryptopeople.png" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/android-app-ahmyth-rat-file-exfiltration.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/05/interview-with-a-crypto-scam-investment-spammer/" target="_blank"> Interview With a Crypto Scam Investment Spammer </a> \
+<a href="https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/" target="_blank"> Android app breaking bad: From legitimate screen recording to file exfiltration within a year </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>May 23, 2023</span></small> \
@@ -4584,18 +4584,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/05/18/5-search-engines-internet-connected-devices-services/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/buscadores-dispositivos-servicios-conectados-Internet.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/05/18/5-search-engines-internet-connected-devices-services/" target="_blank"> Top 5 search engines for internet‑connected devices and services </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>May 18, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2023/05/18/s3-ep135-sysadmin-by-day-extortionist-by-night/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/ns-1200-generic-featured-image-blue-digits.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
@@ -4620,6 +4608,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/05/18/5-search-engines-internet-connected-devices-services/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/buscadores-dispositivos-servicios-conectados-Internet.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/05/18/5-search-engines-internet-connected-devices-services/" target="_blank"> Top 5 search engines for internet‑connected devices and services </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>May 18, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/05/17/meet-ai-new-colleague-work-company-data/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/ai-chatbot-colleague-company-data-privacy-security.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -4629,18 +4629,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>May 17, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/05/16/you-may-not-care-where-download-software-malware-does/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/software-downloading-cybersecurity.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/05/16/you-may-not-care-where-download-software-malware-does/" target="_blank"> You may not care where you download software from, but malware does </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>May 16, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -4662,6 +4650,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2023/05/16/belkin-wemo-smart-plug-v2-the-buffer-overflow-that-wont-be-patched/" target="_blank"> Belkin Wemo Smart Plug V2 – the buffer overflow that won’t be patched </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>May 16, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/05/16/you-may-not-care-where-download-software-malware-does/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/software-downloading-cybersecurity.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/05/16/you-may-not-care-where-download-software-malware-does/" target="_blank"> You may not care where you download software from, but malware does </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>May 16, 2023</span></small> \
@@ -4752,24 +4752,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/05/09/how-war-ukraine-catalyst-private-public-collaborations/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/eecd-eset-european-cybersecurity-day.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/05/09/how-war-ukraine-catalyst-private-public-collaborations/" target="_blank"> How the war in Ukraine has been a catalyst in private‑public collaborations </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>May 09, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/05/09/eset-apt-activity-report-q42022-q12023/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/eset-apt-activity-report-q42022-q12023.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/05/09/eset-apt-activity-report-q42022-q12023/" target="_blank"> ESET APT Activity Report Q4 2022­–Q1 2023 </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>May 09, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/05/09/how-war-ukraine-catalyst-private-public-collaborations/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/05/eecd-eset-european-cybersecurity-day.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/05/09/how-war-ukraine-catalyst-private-public-collaborations/" target="_blank"> How the war in Ukraine has been a catalyst in private‑public collaborations </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>May 09, 2023</span></small> \
@@ -4836,24 +4836,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/ios-16-4-outlook-android-critical-update-march-2023/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64262877742c9db19ed4685f/master/pass/security-critical-update-march.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/31/world-backup-day-is-here-again-5-tips-to-keep-your-precious-data-safe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/03/hdd-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/ios-16-4-outlook-android-critical-update-march-2023/" target="_blank"> Apple\'s iOS 16.4: Security Updates Are Better Than New Emoji </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 31, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/flyhostingseizure.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/" target="_blank"> German Police Raid DDoS-Friendly Host ‘FlyHosting’ </a> \
+<a href="https://nakedsecurity.sophos.com/2023/03/31/world-backup-day-is-here-again-5-tips-to-keep-your-precious-data-safe/" target="_blank"> World Backup Day is here again – 5 tips to keep your precious data safe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 31, 2023</span></small> \
@@ -4872,27 +4860,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/31/world-backup-day-is-here-again-5-tips-to-keep-your-precious-data-safe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/03/hdd-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/flyhostingseizure.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/31/world-backup-day-is-here-again-5-tips-to-keep-your-precious-data-safe/" target="_blank"> World Backup Day is here again – 5 tips to keep your precious data safe </a> \
+<a href="https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/" target="_blank"> German Police Raid DDoS-Friendly Host ‘FlyHosting’ </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 31, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/30/supply-chain-blunder-puts-3cx-telephone-app-users-at-risk/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/3cx-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/ios-16-4-outlook-android-critical-update-march-2023/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/64262877742c9db19ed4685f/master/pass/security-critical-update-march.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/30/supply-chain-blunder-puts-3cx-telephone-app-users-at-risk/" target="_blank"> Supply chain blunder puts 3CX telephone app users at risk </a> \
+<a href="https://www.wired.com/story/ios-16-4-outlook-android-critical-update-march-2023/" target="_blank"> Apple\'s iOS 16.4: Security Updates Are Better Than New Emoji </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>March 30, 2023</span></small> \
+<span>March 31, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -4901,7 +4889,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/03/30/eset-research-podcast-year-fighting-rockets-soldiers-wipers-ukraine/" target="_blank"> ESET Research Podcast: A year of fighting rockets, soldiers, and wipers in Ukraine </a> \
+<a href="https://www.welivesecurity.com/2023/03/30/eset-research-podcast-year-fighting-rockets-soldiers-wipers-ukraine/" target="_blank"> ESET Research Podcast: A year of fighting rockets, soldiers, and wipers in Ukraine </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 30, 2023</span></small> \
@@ -4925,7 +4913,19 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/03/30/eset-research-podcast-year-fighting-rockets-soldiers-wipers-ukraine/" target="_blank"> ESET Research Podcast: A year of fighting rockets, soldiers, and wipers in Ukraine </a> \
+<a href="https://www.welivesecurity.com/2023/03/30/eset-research-podcast-year-fighting-rockets-soldiers-wipers-ukraine/" target="_blank"> ESET Research Podcast: A year of fighting rockets, soldiers, and wipers in Ukraine </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 30, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/30/supply-chain-blunder-puts-3cx-telephone-app-users-at-risk/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/3cx-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/30/supply-chain-blunder-puts-3cx-telephone-app-users-at-risk/" target="_blank"> Supply chain blunder puts 3CX telephone app users at risk </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 30, 2023</span></small> \
@@ -4944,24 +4944,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/porn-age-checks-id-laws/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6424de7ac76ea3e3a091082d/master/pass/You%E2%80%99ll-Soon-Need-to-Show-ID-to-Watch-Porn-Online-SECURITY-GettyImages-1044049362.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/porn-age-checks-id-laws/" target="_blank"> Porn ID Laws: Your State or Country May Soon Require Age Verification </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 30, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/white-house-costa-rica-albania-ransomware-aid/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/6424b7b131d5ffe5d5a72951/master/pass/The-US-Is-Sending-Money-to-Countries-Devastated-by-Cyberattacks-Security-GettyImages-641398272.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/white-house-costa-rica-albania-ransomware-aid/" target="_blank"> The US Is Sending Money to Countries Devastated by Cyberattacks </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 30, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/porn-age-checks-id-laws/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6424de7ac76ea3e3a091082d/master/pass/You%E2%80%99ll-Soon-Need-to-Show-ID-to-Watch-Porn-Online-SECURITY-GettyImages-1044049362.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/porn-age-checks-id-laws/" target="_blank"> Porn ID Laws: Your State or Country May Soon Require Age Verification </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 30, 2023</span></small> \
@@ -4980,48 +4980,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/28/cops-use-fake-ddos-services-to-take-aim-at-wannabe-cybercriminals/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/po-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/ncabootersplash.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/28/cops-use-fake-ddos-services-to-take-aim-at-wannabe-cybercriminals/" target="_blank"> Cops use fake DDoS services to take aim at wannabe cybercriminals </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 28, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/microsoft-security-copilot-chatgpt-ai-breaches/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6422410e3d96a5f2006bc7ad/master/pass/Microsoft\'s-\'Security-Copilot\'-Sics-ChatGPT-on-Security-Breaches-Security-GettyImages-1325644588.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/microsoft-security-copilot-chatgpt-ai-breaches/" target="_blank"> Microsoft\'s ‘Security Copilot’ Sics ChatGPT on Security Breaches </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 28, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/north-korea-apt43-crypto-mining-laundering/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/64223c901d8bed66b5b38e35/master/pass/North-Korea-Found-a-Clever-New-Way-to-Launder-Stolen-Crypto-Security-GettyImages-1280627476.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/north-korea-apt43-crypto-mining-laundering/" target="_blank"> North Korea Is Now Mining Crypto to Launder Its Stolen Loot </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 28, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/03/28/staying-safe-onlyfans-naked-truth/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/onlyfans-privacy-security.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/03/28/staying-safe-onlyfans-naked-truth/" target="_blank"> Staying safe on OnlyFans: The naked truth </a> \
+<a href="https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/" target="_blank"> UK Sets Up Fake Booter Sites To Muddy DDoS Market </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 28, 2023</span></small> \
@@ -5040,24 +5004,60 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/ncabootersplash.png" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/03/28/staying-safe-onlyfans-naked-truth/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/onlyfans-privacy-security.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/" target="_blank"> UK Sets Up Fake Booter Sites To Muddy DDoS Market </a> \
+<a href="https://www.welivesecurity.com/2023/03/28/staying-safe-onlyfans-naked-truth/" target="_blank"> Staying safe on OnlyFans: The naked truth </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 28, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/germany-twitter-porn-police/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/641e3f4c3491f4dd17124cf3/master/pass/Looking_Glass_3.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/north-korea-apt43-crypto-mining-laundering/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/64223c901d8bed66b5b38e35/master/pass/North-Korea-Found-a-Clever-New-Way-to-Launder-Stolen-Crypto-Security-GettyImages-1280627476.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/germany-twitter-porn-police/" target="_blank"> They Posted Porn on Twitter. German Authorities Called the Cops </a> \
+<a href="https://www.wired.com/story/north-korea-apt43-crypto-mining-laundering/" target="_blank"> North Korea Is Now Mining Crypto to Launder Its Stolen Loot </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 28, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/microsoft-security-copilot-chatgpt-ai-breaches/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6422410e3d96a5f2006bc7ad/master/pass/Microsoft\'s-\'Security-Copilot\'-Sics-ChatGPT-on-Security-Breaches-Security-GettyImages-1325644588.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/microsoft-security-copilot-chatgpt-ai-breaches/" target="_blank"> Microsoft\'s ‘Security Copilot’ Sics ChatGPT on Security Breaches </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 28, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/28/cops-use-fake-ddos-services-to-take-aim-at-wannabe-cybercriminals/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/po-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/28/cops-use-fake-ddos-services-to-take-aim-at-wannabe-cybercriminals/" target="_blank"> Cops use fake DDoS services to take aim at wannabe cybercriminals </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 28, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/best-password-managers/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/641e1a1b43ffd37beea02cdf/master/pass/Best%20Password%20Managers%20Gear%20GettyImages-1408198405.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> 5 Best Password Managers (2022): Features, Pricing, and Tips </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 27, 2023</span></small> \
@@ -5076,27 +5076,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/best-password-managers/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/641e1a1b43ffd37beea02cdf/master/pass/Best%20Password%20Managers%20Gear%20GettyImages-1408198405.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/germany-twitter-porn-police/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/641e3f4c3491f4dd17124cf3/master/pass/Looking_Glass_3.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> 5 Best Password Managers (2022): Features, Pricing, and Tips </a> \
+<a href="https://www.wired.com/story/germany-twitter-porn-police/" target="_blank"> They Posted Porn on Twitter. German Authorities Called the Cops </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 27, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/crypto-obfuscation-sxsw-2023/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/641e44573491f4dd17124cf5/master/pass/Crypto-Was-Afraid-To-Show-It\'s-Face-At-SXSW-Business-1474413784.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/crypto-obfuscation-sxsw-2023/" target="_blank"> Crypto Was Afraid to Show Its Face at SXSW 2023 </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 26, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -5112,24 +5100,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/03/24/what-tiktok-knows-you-should-know-tiktok/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/tiktok-personal-data-congress-ceo-testimony.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/crypto-obfuscation-sxsw-2023/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/641e44573491f4dd17124cf5/master/pass/Crypto-Was-Afraid-To-Show-It\'s-Face-At-SXSW-Business-1474413784.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/03/24/what-tiktok-knows-you-should-know-tiktok/" target="_blank"> What TikTok knows about you – and what you should know about TikTok </a> \
+<a href="https://www.wired.com/story/crypto-obfuscation-sxsw-2023/" target="_blank"> Crypto Was Afraid to Show Its Face at SXSW 2023 </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>March 24, 2023</span></small> \
+<span>March 26, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/tiktok-hearing-congress-us-privacy-law/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/641c95580837b0d4d2e8834e/master/pass/TikTok-Congressional-Hearing-w--CEO-Shou-Zi-Chew-Security-GettyImages-1249134314.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/24/woocommerce-payments-plugin-for-wordpress-has-an-admin-level-hole-patch-now/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/woo-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/tiktok-hearing-congress-us-privacy-law/" target="_blank"> The TikTok Hearing Revealed That Congress Is the Problem </a> \
+<a href="https://nakedsecurity.sophos.com/2023/03/24/woocommerce-payments-plugin-for-wordpress-has-an-admin-level-hole-patch-now/" target="_blank"> WooCommerce Payments plugin for WordPress has an admin-level hole – patch now! </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 24, 2023</span></small> \
@@ -5148,12 +5136,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/24/woocommerce-payments-plugin-for-wordpress-has-an-admin-level-hole-patch-now/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/woo-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/tiktok-hearing-congress-us-privacy-law/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/641c95580837b0d4d2e8834e/master/pass/TikTok-Congressional-Hearing-w--CEO-Shou-Zi-Chew-Security-GettyImages-1249134314.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/24/woocommerce-payments-plugin-for-wordpress-has-an-admin-level-hole-patch-now/" target="_blank"> WooCommerce Payments plugin for WordPress has an admin-level hole – patch now! </a> \
+<a href="https://www.wired.com/story/tiktok-hearing-congress-us-privacy-law/" target="_blank"> The TikTok Hearing Revealed That Congress Is the Problem </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 24, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/03/24/what-tiktok-knows-you-should-know-tiktok/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/tiktok-personal-data-congress-ceo-testimony.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/03/24/what-tiktok-knows-you-should-know-tiktok/" target="_blank"> What TikTok knows about you – and what you should know about TikTok </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 24, 2023</span></small> \
@@ -5172,12 +5172,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/03/23/understanding-managed-detection-response-what-look-mdr-solution/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/managed-detection-response-mdr-solution-1.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/tiktok-rally-washington-chew-testimony/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/641c5e0c80545eda57eee5f2/master/pass/protest_tiktok_sec_GettyImages-1249107281.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/03/23/understanding-managed-detection-response-what-look-mdr-solution/" target="_blank"> Understanding Managed Detection and Response – and what to look for in an MDR solution </a> \
+<a href="https://www.wired.com/story/tiktok-rally-washington-chew-testimony/" target="_blank"> TikTok Paid for Influencers to Attend the Pro-TikTok Rally in DC </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 23, 2023</span></small> \
@@ -5201,6 +5201,18 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/03/23/understanding-managed-detection-response-what-look-mdr-solution/" target="_blank"> Understanding Managed Detection and Response – and what to look for in an MDR solution </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 23, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/03/23/understanding-managed-detection-response-what-look-mdr-solution/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/managed-detection-response-mdr-solution-1.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/03/23/understanding-managed-detection-response-what-look-mdr-solution/" target="_blank"> Understanding Managed Detection and Response and what to look for in an MDR solution </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
@@ -5208,20 +5220,8 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/tiktok-rally-washington-chew-testimony/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/641c5e0c80545eda57eee5f2/master/pass/protest_tiktok_sec_GettyImages-1249107281.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/tiktok-rally-washington-chew-testimony/" target="_blank"> TikTok Paid for Influencers to Attend the Pro-TikTok Rally in DC </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 23, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/breached-pdd.png" alt="" class="img-fluid"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/dnec.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -5245,7 +5245,7 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2023/03/google-suspends-chinese-e-commerce-app-pinduoduo-over-malware/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/dnec.png" alt="" class="img-fluid"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/breached-pdd.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -5280,24 +5280,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/03/20/twitter-free-sms-2fa-secure-account/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/twitter-2fa-sms-account-security.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/03/20/twitter-free-sms-2fa-secure-account/" target="_blank"> Twitter ends free SMS 2FA: Here’s how you can protect your account now </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 20, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2023/03/20/bitcoin-atm-customers-hacked-by-video-upload-that-was-actually-an-app/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/upload-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2023/03/20/bitcoin-atm-customers-hacked-by-video-upload-that-was-actually-an-app/" target="_blank"> Bitcoin ATM customers hacked by video upload that was actually an app </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 20, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/03/20/twitter-free-sms-2fa-secure-account/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/twitter-2fa-sms-account-security.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/03/20/twitter-free-sms-2fa-secure-account/" target="_blank"> Twitter ends free SMS 2FA: Here’s how you can protect your account now </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 20, 2023</span></small> \
@@ -5328,12 +5328,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/svb-silicon-valley-bank-scams-fraud.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/banking-turmoil-opportunities-cybercriminals-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/0-22.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/" target="_blank"> SVB’s collapse is a scammer’s dream: Don’t get caught out </a> \
+<a href="https://www.welivesecurity.com/videos/banking-turmoil-opportunities-cybercriminals-week-security-tony-anscombe/" target="_blank"> Banking turmoil opens opportunities for fraud – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 17, 2023</span></small> \
@@ -5352,27 +5352,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/banking-turmoil-opportunities-cybercriminals-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/0-22.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/03/svb-silicon-valley-bank-scams-fraud.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/banking-turmoil-opportunities-cybercriminals-week-security-tony-anscombe/" target="_blank"> Banking turmoil opens opportunities for fraud – Week in security with Tony Anscombe </a> \
+<a href="https://www.welivesecurity.com/2023/03/17/svb-collapse-scammers-dream-dont-get-caught-out/" target="_blank"> SVB’s collapse is a scammer’s dream: Don’t get caught out </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 17, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/mark-warner-us-tiktok-ban-restrict-act/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/640fbaafdf4962e1cbeec9a3/master/pass/TikTok-Ban-Security-GettyImages-1247870203.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/mark-warner-us-tiktok-ban-restrict-act/" target="_blank"> Senator Warner on the Restrict Act and a US TikTok Ban </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 16, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -5382,6 +5370,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2023/03/16/s3-ep-126-the-price-of-fast-fashion-and-feature-creep-audio-text/" target="_blank"> S3 Ep 126: The price of fast fashion (and feature creep) [Audio + Text] </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 16, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/mark-warner-us-tiktok-ban-restrict-act/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/640fbaafdf4962e1cbeec9a3/master/pass/TikTok-Ban-Security-GettyImages-1247870203.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/mark-warner-us-tiktok-ban-restrict-act/" target="_blank"> Senator Warner on the Restrict Act and a US TikTok Ban </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 16, 2023</span></small> \
@@ -5400,12 +5400,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/the-worlds-real-cybercrime-problem/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6410cac20215f341456532be/master/pass/w30_MARCH_SECURITY_CYBER-CRIME.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/linkedin-fake-profiles-state-actors-scams/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6411171582e9e62cb09a3f31/master/pass/Security-Linkedin-fake-accounts-02.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/the-worlds-real-cybercrime-problem/" target="_blank"> The World’s Real ‘Cybercrime’ Problem </a> \
+<a href="https://www.wired.com/story/linkedin-fake-profiles-state-actors-scams/" target="_blank"> A Spy Wants to Connect With You on LinkedIn </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 15, 2023</span></small> \
@@ -5424,12 +5424,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/linkedin-fake-profiles-state-actors-scams/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6411171582e9e62cb09a3f31/master/pass/Security-Linkedin-fake-accounts-02.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/the-worlds-real-cybercrime-problem/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6410cac20215f341456532be/master/pass/w30_MARCH_SECURITY_CYBER-CRIME.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/linkedin-fake-profiles-state-actors-scams/" target="_blank"> A Spy Wants to Connect With You on LinkedIn </a> \
+<a href="https://www.wired.com/story/the-worlds-real-cybercrime-problem/" target="_blank"> The World’s Real ‘Cybercrime’ Problem </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 15, 2023</span></small> \
@@ -5520,24 +5520,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/09/s3-ep125-when-security-hardware-has-security-holes-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/ns-1200-generic-featured-image-blue-digits.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/09/s3-ep125-when-security-hardware-has-security-holes-audio-text/" target="_blank"> S3 Ep125: When security hardware has security holes [Audio + Text] </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 09, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/darin-lahood-fbi-backdoor-search/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/640a40c1d6703b9a3671a874/master/pass/DarinLahood_Sec_GettyImages-1240727905.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/darin-lahood-fbi-backdoor-search/" target="_blank"> Congressman Darin LaHood Says FBI Targeted Him With Unlawful \'Backdoor\' Searches </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 09, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/09/s3-ep125-when-security-hardware-has-security-holes-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/ns-1200-generic-featured-image-blue-digits.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/09/s3-ep125-when-security-hardware-has-security-holes-audio-text/" target="_blank"> S3 Ep125: When security hardware has security holes [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 09, 2023</span></small> \
@@ -5628,12 +5628,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/white-house-national-cybersecurity-strategy/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6400d9522ebbc2d0389fc291/master/pass/wh_cyber_sec_GettyImages-1244620702.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/what-to-do-boss-spying-surveillance-bossware/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/640261f7c8533bbdc5152a2f/master/pass/What-to-Do-When-Your-Boss-Is-Spying-on-You-Gear-GettyImages-BD6229-001.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/white-house-national-cybersecurity-strategy/" target="_blank"> The High-Stakes Blame Game in the White House Cybersecurity Plan </a> \
+<a href="https://www.wired.com/story/what-to-do-boss-spying-surveillance-bossware/" target="_blank"> What to Do When Your Boss Is Spying on You </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 04, 2023</span></small> \
@@ -5652,24 +5652,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/what-to-do-boss-spying-surveillance-bossware/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/640261f7c8533bbdc5152a2f/master/pass/What-to-Do-When-Your-Boss-Is-Spying-on-You-Gear-GettyImages-BD6229-001.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/white-house-national-cybersecurity-strategy/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6400d9522ebbc2d0389fc291/master/pass/wh_cyber_sec_GettyImages-1244620702.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/what-to-do-boss-spying-surveillance-bossware/" target="_blank"> What to Do When Your Boss Is Spying on You </a> \
+<a href="https://www.wired.com/story/white-house-national-cybersecurity-strategy/" target="_blank"> The High-Stakes Blame Game in the White House Cybersecurity Plan </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 04, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/russia-ncc-phone-android-sanctions/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/640119135ab66aa6140992ca/master/pass/Russia-Is-Building-Its-Own-Smartphone-Security-GettyImages-454395485.png" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2023/03/highlights-from-the-new-u-s-cybersecurity-strategy/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/nationalcyberstrategy2023.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/russia-ncc-phone-android-sanctions/" target="_blank"> The Sketchy Plan to Build a Russian Android Phone </a> \
+<a href="https://krebsonsecurity.com/2023/03/highlights-from-the-new-u-s-cybersecurity-strategy/" target="_blank"> Highlights from the New U.S. Cybersecurity Strategy </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 03, 2023</span></small> \
@@ -5688,27 +5688,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/03/highlights-from-the-new-u-s-cybersecurity-strategy/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/03/nationalcyberstrategy2023.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/russia-ncc-phone-android-sanctions/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/640119135ab66aa6140992ca/master/pass/Russia-Is-Building-Its-Own-Smartphone-Security-GettyImages-454395485.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/03/highlights-from-the-new-u-s-cybersecurity-strategy/" target="_blank"> Highlights from the New U.S. Cybersecurity Strategy </a> \
+<a href="https://www.wired.com/story/russia-ncc-phone-android-sanctions/" target="_blank"> The Sketchy Plan to Build a Russian Android Phone </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 03, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/02/s3-ep124-when-so-called-security-apps-go-rogue-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/s3-ep124-auth-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/03/02/s3-ep124-when-so-called-security-apps-go-rogue-audio-text/" target="_blank"> S3 Ep124: When so-called security apps go rogue [Audio + Text] </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>March 02, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -5718,6 +5706,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/03/02/mqsttang-mustang-panda-latest-backdoor-treads-new-ground-qt-mqtt/" target="_blank"> MQsTTang: Mustang Panda’s latest backdoor treads new ground with Qt and MQTT </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>March 02, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/02/s3-ep124-when-so-called-security-apps-go-rogue-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/03/s3-ep124-auth-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/03/02/s3-ep124-when-so-called-security-apps-go-rogue-audio-text/" target="_blank"> S3 Ep124: When so-called security apps go rogue [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>March 02, 2023</span></small> \
@@ -5832,12 +5832,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/02/24/year-wiper-attacks-ukraine/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/ukraine-wipers-malware-russia.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/twelve-months-war-ukraine-cyberspace-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/0-29.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/02/24/year-wiper-attacks-ukraine/" target="_blank"> A year of wiper attacks in Ukraine </a> \
+<a href="https://www.welivesecurity.com/videos/twelve-months-war-ukraine-cyberspace-week-security-tony-anscombe/" target="_blank"> One year on, how is the war playing out in cyberspace? – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 24, 2023</span></small> \
@@ -5856,48 +5856,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/twelve-months-war-ukraine-cyberspace-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/0-29.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/02/24/year-wiper-attacks-ukraine/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/ukraine-wipers-malware-russia.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/twelve-months-war-ukraine-cyberspace-week-security-tony-anscombe/" target="_blank"> One year on, how is the war playing out in cyberspace? – Week in security with Tony Anscombe </a> \
+<a href="https://www.welivesecurity.com/2023/02/24/year-wiper-attacks-ukraine/" target="_blank"> A year of wiper attacks in Ukraine </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 24, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/google-play-data-safety-forms-mozilla-research/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63f6c1587885d81b59d4702c/master/pass/security_app_safety.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/23/s3-ep123-crypto-company-compromise-kerfuffle-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/ns-1200-generic-featured-image-blue-digits.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/google-play-data-safety-forms-mozilla-research/" target="_blank"> You Can’t Trust App Developers’ Privacy Claims on Google Play </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 23, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/02/23/winordll64-backdoor-vast-lazarus-arsenal/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/lazarus-malware-north-korea-winordll64-backdoor.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/02/23/winordll64-backdoor-vast-lazarus-arsenal/" target="_blank"> WinorDLL64: A backdoor from the vast Lazarus arsenal? </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 23, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/ukraine-russia-power-grid-batteries/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63ea8733dcab861f7a4746d4/master/pass/Sec-ukraine-power-1245276857.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/ukraine-russia-power-grid-batteries/" target="_blank"> Batteries Are Ukraine’s Secret Weapon Against Russia </a> \
+<a href="https://nakedsecurity.sophos.com/2023/02/23/s3-ep123-crypto-company-compromise-kerfuffle-audio-text/" target="_blank"> S3 Ep123: Crypto company compromise kerfuffle [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 23, 2023</span></small> \
@@ -5916,27 +5892,39 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/23/s3-ep123-crypto-company-compromise-kerfuffle-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/ns-1200-generic-featured-image-blue-digits.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/ukraine-russia-power-grid-batteries/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63ea8733dcab861f7a4746d4/master/pass/Sec-ukraine-power-1245276857.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/23/s3-ep123-crypto-company-compromise-kerfuffle-audio-text/" target="_blank"> S3 Ep123: Crypto company compromise kerfuffle [Audio + Text] </a> \
+<a href="https://www.wired.com/story/ukraine-russia-power-grid-batteries/" target="_blank"> Batteries Are Ukraine’s Secret Weapon Against Russia </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 23, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/22/npm-javascript-packages-abused-to-create-scambait-links-in-bulk/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/package-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/02/23/winordll64-backdoor-vast-lazarus-arsenal/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/lazarus-malware-north-korea-winordll64-backdoor.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/22/npm-javascript-packages-abused-to-create-scambait-links-in-bulk/" target="_blank"> NPM JavaScript packages abused to create scambait links in bulk </a> \
+<a href="https://www.welivesecurity.com/2023/02/23/winordll64-backdoor-vast-lazarus-arsenal/" target="_blank"> WinorDLL64: A backdoor from the vast Lazarus arsenal? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>February 22, 2023</span></small> \
+<span>February 23, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/google-play-data-safety-forms-mozilla-research/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63f6c1587885d81b59d4702c/master/pass/security_app_safety.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/google-play-data-safety-forms-mozilla-research/" target="_blank"> You Can’t Trust App Developers’ Privacy Claims on Google Play </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 23, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -5958,6 +5946,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/ukraine-russia-wiper-malware/" target="_blank"> Ukraine Suffered More Wiper Malware in 2022 Than Anywhere, Ever </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 22, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/22/npm-javascript-packages-abused-to-create-scambait-links-in-bulk/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/package-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/22/npm-javascript-packages-abused-to-create-scambait-links-in-bulk/" target="_blank"> NPM JavaScript packages abused to create scambait links in bulk </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 22, 2023</span></small> \
@@ -6012,18 +6012,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/02/20/will-chatgpt-start-writing-killer-malware/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/chatgpt-malware-machine-learning-abilities.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/02/20/will-chatgpt-start-writing-killer-malware/" target="_blank"> Will ChatGPT start writing killer malware? </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 20, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2023/02/20/twitter-tells-users-pay-up-if-you-want-to-keep-using-insecure-2fa/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/twit-1220.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
@@ -6048,6 +6036,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/02/20/will-chatgpt-start-writing-killer-malware/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/chatgpt-malware-machine-learning-abilities.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/02/20/will-chatgpt-start-writing-killer-malware/" target="_blank"> Will ChatGPT start writing killer malware? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 20, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/how-to-unlock-iphone-physical-security-key/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/63efe87bdcab861f7a47474f/master/pass/Unlock-Phone-with-YubiKey-Gear-02-Featured.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -6065,7 +6065,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/twitter-sms-2fa-twitter-blue/" target="_blank"> Twitter’s Two-Factor Authentication Change ‘Doesn\'t Make Sense’ </a> \
+<a href="https://www.wired.com/story/twitter-sms-2fa-twitter-blue/" target="_blank"> Twitter\'s Two-Factor Authentication Change \'Doesn\'t Make Sense\' </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 18, 2023</span></small> \
@@ -6089,22 +6089,10 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/twitter-sms-2fa-twitter-blue/" target="_blank"> Twitter\'s Two-Factor Authentication Change \'Doesn\'t Make Sense\' </a> \
+<a href="https://www.wired.com/story/twitter-sms-2fa-twitter-blue/" target="_blank"> Twitter’s Two-Factor Authentication Change ‘Doesn\'t Make Sense’ </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 18, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/search-ads-abused-spread-malware-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/0-18.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/search-ads-abused-spread-malware-week-security-tony-anscombe/" target="_blank"> Search ads abused to spread malware – Week in security with Tony Anscombe </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 17, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -6114,6 +6102,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://krebsonsecurity.com/2023/02/new-protections-for-food-benefits-stolen-by-skimmers/" target="_blank"> New Protections for Food Benefits Stolen by Skimmers </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 17, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/videos/search-ads-abused-spread-malware-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/0-18.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/videos/search-ads-abused-spread-malware-week-security-tony-anscombe/" target="_blank"> Search ads abused to spread malware – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 17, 2023</span></small> \
@@ -6132,24 +6132,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/02/16/security-amidst-global-frost/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/security-defense-technology-war-cyber-kinetic.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/02/16/security-amidst-global-frost/" target="_blank"> Security amidst a global frost </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 16, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/02/16/these-arent-apps-youre-looking-for-fake-installers/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/malware-apps-installers-google-search-ads.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/02/16/these-arent-apps-youre-looking-for-fake-installers/" target="_blank"> These aren’t the apps you’re looking for: fake installers targeting Southeast and East Asia </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 16, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/02/16/security-amidst-global-frost/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/security-defense-technology-war-cyber-kinetic.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/02/16/security-amidst-global-frost/" target="_blank"> Security amidst a global frost </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 16, 2023</span></small> \
@@ -6252,24 +6252,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/13/serious-security-gnutls-follows-openssl-fixes-timing-attack-bug/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/gnutls-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/13/serious-security-gnutls-follows-openssl-fixes-timing-attack-bug/" target="_blank"> Serious Security: GnuTLS follows OpenSSL, fixes timing attack bug </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 13, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/02/13/confident-cybersecurity-fewer-headaches-smbs/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/smb-cybersecurity-digital-security-survey-sentiment.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/02/13/confident-cybersecurity-fewer-headaches-smbs/" target="_blank"> Confident cybersecurity means fewer headaches for SMBs </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 13, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/13/serious-security-gnutls-follows-openssl-fixes-timing-attack-bug/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/gnutls-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/13/serious-security-gnutls-follows-openssl-fixes-timing-attack-bug/" target="_blank"> Serious Security: GnuTLS follows OpenSSL, fixes timing attack bug </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 13, 2023</span></small> \
@@ -6300,18 +6300,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63e54dde552920ecdc857e5c/master/pass/sec-northkorea-1464338040.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/" target="_blank"> Meet the Creator of North Korea’s Favorite Crypto Privacy Service </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 10, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/key-findings-from-the-latest-eset-threat-report-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/0-11.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -6324,15 +6312,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/09/s3-ep121-can-you-get-hacked-and-then-prosecuted-for-it-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/nsp-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63e54dde552920ecdc857e5c/master/pass/sec-northkorea-1464338040.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/09/s3-ep121-can-you-get-hacked-and-then-prosecuted-for-it-audio-text/" target="_blank"> S3 Ep121: Can you get hacked and then prosecuted for it? [Audio + Text] </a> \
+<a href="https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/" target="_blank"> Meet the Creator of North Korea’s Favorite Crypto Privacy Service </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>February 09, 2023</span></small> \
+<span>February 10, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -6342,18 +6330,6 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2023/02/09/s3-ep121-can-you-get-hacked-and-then-prosecuted-for-it-audio-text/" target="_blank"> S3 Ep121: Can you get hacked and then prosecuted for it? [Audio + Text] </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 09, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/02/09/alexa-who-else-is-listening/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/alexa-smart-speaker-voice-assistant-listening-eavesdropping.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/02/09/alexa-who-else-is-listening/" target="_blank"> Alexa, who else is listening? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 09, 2023</span></small> \
@@ -6372,6 +6348,30 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/02/09/alexa-who-else-is-listening/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/alexa-smart-speaker-voice-assistant-listening-eavesdropping.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/02/09/alexa-who-else-is-listening/" target="_blank"> Alexa, who else is listening? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 09, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/09/s3-ep121-can-you-get-hacked-and-then-prosecuted-for-it-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/nsp-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/09/s3-ep121-can-you-get-hacked-and-then-prosecuted-for-it-audio-text/" target="_blank"> S3 Ep121: Can you get hacked and then prosecuted for it? [Audio + Text] </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 09, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/02/07/into-void-tech-security-digital-darkness/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/tech-security-internet-disconnected-digital-vacuum.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -6381,30 +6381,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 07, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/06/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-crypto/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/tracers-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/06/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-crypto/" target="_blank"> Tracers in the Dark: The Global Hunt for the Crime Lords of Crypto </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 06, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/06/finnish-psychotherapy-extortion-suspect-arrested-in-france/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/charges-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/02/06/finnish-psychotherapy-extortion-suspect-arrested-in-france/" target="_blank"> Finnish psychotherapy extortion suspect arrested in France </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 06, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -6420,12 +6396,36 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/06/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-crypto/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/tracers-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/06/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-crypto/" target="_blank"> Tracers in the Dark: The Global Hunt for the Crime Lords of Crypto </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 06, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/02/06/online-safety-laws-whats-store-childrens-digital-playgrounds/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/02/online-safety-privacy-data-laws-children-thumbnail.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/02/06/online-safety-laws-whats-store-childrens-digital-playgrounds/" target="_blank"> Online safety laws: What’s in store for children’s digital playgrounds? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 06, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/06/finnish-psychotherapy-extortion-suspect-arrested-in-france/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/02/charges-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/02/06/finnish-psychotherapy-extortion-suspect-arrested-in-france/" target="_blank"> Finnish psychotherapy extortion suspect arrested in France </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 06, 2023</span></small> \
@@ -6492,24 +6492,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/netflix-password-sharing-crackdown-us-mistake/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63db27c8e86be50408c46628/master/pass/Netflix%E2%80%99s-Password-Crackdown-Is-Creepy-and-Anti-Family-Security-GettyImages-1305191433.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/netflix-password-sharing-crackdown-us-mistake/" target="_blank"> Netflix’s US Password-Sharing Crackdown Isn’t Happening—Yet </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>February 02, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2023/02/02/s3-ep120-when-dud-crypto-simply-wont-let-go-audio-text/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/bn-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2023/02/02/s3-ep120-when-dud-crypto-simply-wont-let-go-audio-text/" target="_blank"> S3 Ep120: When dud crypto simply won’t let go [Audio + Text] </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>February 02, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/netflix-password-sharing-crackdown-us-mistake/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63db27c8e86be50408c46628/master/pass/Netflix%E2%80%99s-Password-Crackdown-Is-Creepy-and-Anti-Family-Security-GettyImages-1305191433.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/netflix-password-sharing-crackdown-us-mistake/" target="_blank"> Netflix’s US Password-Sharing Crackdown Isn’t Happening—Yet </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>February 02, 2023</span></small> \
@@ -6552,12 +6552,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/firefox-android-security-patch-critical-update-january-2023/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63d87b10e0c466cd5c195483/master/pass/Security-illo-texture2.png" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/01/31/eset-apt-activity-report-t3-2022/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/eset-t3-2022-apt-activity-report.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/firefox-android-security-patch-critical-update-january-2023/" target="_blank"> You Really Need to Update Firefox and Android Right Now </a> \
+<a href="https://www.welivesecurity.com/2023/01/31/eset-apt-activity-report-t3-2022/" target="_blank"> ESET APT Activity Report T3 2022 </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 31, 2023</span></small> \
@@ -6576,12 +6576,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/01/31/eset-apt-activity-report-t3-2022/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/eset-t3-2022-apt-activity-report.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/firefox-android-security-patch-critical-update-january-2023/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63d87b10e0c466cd5c195483/master/pass/Security-illo-texture2.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/01/31/eset-apt-activity-report-t3-2022/" target="_blank"> ESET APT Activity Report T3 2022 </a> \
+<a href="https://www.wired.com/story/firefox-android-security-patch-critical-update-january-2023/" target="_blank"> You Really Need to Update Firefox and Android Right Now </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 31, 2023</span></small> \
@@ -6612,12 +6612,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/control-your-personal-information-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/0-27.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/01/27/swiftslicer-new-destructive-wiper-malware-ukraine/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/swiftslicer-destructive-wipermalware-ukraine.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/control-your-personal-information-week-security-tony-anscombe/" target="_blank"> Are you in control of your personal data? – Week in security with Tony Anscombe </a> \
+<a href="https://www.welivesecurity.com/2023/01/27/swiftslicer-new-destructive-wiper-malware-ukraine/" target="_blank"> SwiftSlicer: New destructive wiper malware strikes Ukraine </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 27, 2023</span></small> \
@@ -6636,12 +6636,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/01/27/swiftslicer-new-destructive-wiper-malware-ukraine/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/swiftslicer-destructive-wipermalware-ukraine.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/control-your-personal-information-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/0-27.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/01/27/swiftslicer-new-destructive-wiper-malware-ukraine/" target="_blank"> SwiftSlicer: New destructive wiper malware strikes Ukraine </a> \
+<a href="https://www.welivesecurity.com/videos/control-your-personal-information-week-security-tony-anscombe/" target="_blank"> Are you in control of your personal data? – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 27, 2023</span></small> \
@@ -6672,24 +6672,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2023/01/experian-glitch-exposing-credit-files-lasted-47-days/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2023/01/experianresponse.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2023/01/experian-glitch-exposing-credit-files-lasted-47-days/" target="_blank"> Experian Glitch Exposing Credit Files Lasted 47 Days </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>January 25, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/01/25/mastodon-twitter-differences/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/mastodon-twitter-differences-security-privacy-settings.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/01/25/mastodon-twitter-differences/" target="_blank"> Mastodon vs. Twitter: Know the differences </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>January 25, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2023/01/experian-glitch-exposing-credit-files-lasted-47-days/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2023/01/experianresponse.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2023/01/experian-glitch-exposing-credit-files-lasted-47-days/" target="_blank"> Experian Glitch Exposing Credit Files Lasted 47 Days </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 25, 2023</span></small> \
@@ -6708,12 +6708,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/01/24/5-valuable-skills-children-learn-playing-video-games/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/gaming-video-games-children-skills.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/24/apple-patches-are-out-old-iphones-get-an-old-zero-day-fix-at-last/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/01/24/5-valuable-skills-children-learn-playing-video-games/" target="_blank"> 5 valuable skills your children can learn by playing video games </a> \
+<a href="https://nakedsecurity.sophos.com/2023/01/24/apple-patches-are-out-old-iphones-get-an-old-zero-day-fix-at-last/" target="_blank"> Apple patches are out – old iPhones get an old zero-day fix at last! </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 24, 2023</span></small> \
@@ -6732,27 +6732,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/24/apple-patches-are-out-old-iphones-get-an-old-zero-day-fix-at-last/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/01/24/5-valuable-skills-children-learn-playing-video-games/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/gaming-video-games-children-skills.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/24/apple-patches-are-out-old-iphones-get-an-old-zero-day-fix-at-last/" target="_blank"> Apple patches are out – old iPhones get an old zero-day fix at last! </a> \
+<a href="https://www.welivesecurity.com/2023/01/24/5-valuable-skills-children-learn-playing-video-games/" target="_blank"> 5 valuable skills your children can learn by playing video games </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 24, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/01/23/hybrid-play-leveling-playing-field-online-video-gaming-beyond/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/hybrid-work-lives-cybersecurity-trends-2023-thumbnail.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/01/23/hybrid-play-leveling-playing-field-online-video-gaming-beyond/" target="_blank"> Hybrid play: Leveling the playing field in online video gaming and beyond </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>January 23, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -6762,6 +6750,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2023/01/23/serious-security-how-deliberate-typos-might-improve-dns-security/" target="_blank"> Serious Security: How dEliBeRaTe tYpOs might imProVe DNS security </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>January 23, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2023/01/23/hybrid-play-leveling-playing-field-online-video-gaming-beyond/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/hybrid-work-lives-cybersecurity-trends-2023-thumbnail.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2023/01/23/hybrid-play-leveling-playing-field-online-video-gaming-beyond/" target="_blank"> Hybrid play: Leveling the playing field in online video gaming and beyond </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 23, 2023</span></small> \
@@ -6804,12 +6804,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/whats-behind-drop-ransomware-payments-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/0-20.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/cloudflare-internet-blackouts-report/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63c9c8d371c6b526845f1757/master/pass/Sec-cloudflare-ukrainenet-1245109810.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/whats-behind-drop-ransomware-payments-week-security-tony-anscombe/" target="_blank"> Ransomware payments down 40% in 2022 – Week in security with Tony Anscombe </a> \
+<a href="https://www.wired.com/story/cloudflare-internet-blackouts-report/" target="_blank"> Welcome to the Era of Internet Blackouts </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 20, 2023</span></small> \
@@ -6828,15 +6828,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/cloudflare-internet-blackouts-report/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63c9c8d371c6b526845f1757/master/pass/Sec-cloudflare-ukrainenet-1245109810.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/whats-behind-drop-ransomware-payments-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/0-20.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/cloudflare-internet-blackouts-report/" target="_blank"> Welcome to the Era of Internet Blackouts </a> \
+<a href="https://www.welivesecurity.com/videos/whats-behind-drop-ransomware-payments-week-security-tony-anscombe/" target="_blank"> Ransomware payments down 40% in 2022 – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 20, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/vastflux-ad-fraud/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63c953785c5e42a58922cb03/master/pass/ad%20fraud.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/vastflux-ad-fraud/" target="_blank"> A Sneaky Ad Scam Tore Through 11 Million Phones </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>January 19, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -6858,18 +6870,6 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/01/19/tech-support-scammers-still-at-it-what-look-out-for/" target="_blank"> Tech support scammers are still at it: Here’s what to look out for in 2023 </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>January 19, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/vastflux-ad-fraud/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63c953785c5e42a58922cb03/master/pass/ad%20fraud.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/vastflux-ad-fraud/" target="_blank"> A Sneaky Ad Scam Tore Through 11 Million Phones </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 19, 2023</span></small> \
@@ -6936,24 +6936,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/16/multi-million-investment-scammers-busted-in-four-country-europol-raid/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/01/scam-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/16/multi-million-investment-scammers-busted-in-four-country-europol-raid/" target="_blank"> Multi-million investment scammers busted in four-country Europol raid </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>January 16, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/01/16/hybrid-commerce-blurring-lines-business-pleasure/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/hybrid-work-lives-cybersecurity-trends-2023-thumbnail.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/01/16/hybrid-commerce-blurring-lines-business-pleasure/" target="_blank"> Hybrid commerce: Blurring the lines between business and pleasure </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>January 16, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/16/multi-million-investment-scammers-busted-in-four-country-europol-raid/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/01/scam-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/16/multi-million-investment-scammers-busted-in-four-country-europol-raid/" target="_blank"> Multi-million investment scammers busted in four-country Europol raid </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 16, 2023</span></small> \
@@ -7044,18 +7044,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/01/09/hybrid-work-turning-business-platforms-preferred-social-spaces/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/hybrid-work-lives-cybersecurity-trends-2023-thumbnail.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/01/09/hybrid-work-turning-business-platforms-preferred-social-spaces/" target="_blank"> Hybrid work: Turning business platforms into preferred social spaces </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>January 09, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2023/01/09/cracked-it-highlights-kringlecon-5-golden-rings/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/kringlecon-sans-holiday-hacking-challenge-walkthrough.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -7092,15 +7080,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/06/rsa-crypto-cracked-or-perhaps-not/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/01/2lock.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/01/09/hybrid-work-turning-business-platforms-preferred-social-spaces/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/hybrid-work-lives-cybersecurity-trends-2023-thumbnail.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/06/rsa-crypto-cracked-or-perhaps-not/" target="_blank"> RSA crypto cracked? Or perhaps not! </a> \
+<a href="https://www.welivesecurity.com/2023/01/09/hybrid-work-turning-business-platforms-preferred-social-spaces/" target="_blank"> Hybrid work: Turning business platforms into preferred social spaces </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>January 06, 2023</span></small> \
+<span>January 09, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -7113,6 +7101,30 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 06, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/06/rsa-crypto-cracked-or-perhaps-not/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/01/2lock.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/06/rsa-crypto-cracked-or-perhaps-not/" target="_blank"> RSA crypto cracked? Or perhaps not! </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>January 06, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/whatsapp-proxy-internet-censorship/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63b6f35a995aa119ba7ba739/master/pass/whatsapp-proxy.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/whatsapp-proxy-internet-censorship/" target="_blank"> WhatsApp Launches a Proxy Tool to Fight Internet Censorship </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>January 05, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -7152,24 +7164,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/whatsapp-proxy-internet-censorship/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63b6f35a995aa119ba7ba739/master/pass/whatsapp-proxy.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2023/01/04/serious-security-vital-cybersecurity-lessons-from-the-holiday-season/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/01/classroom-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/whatsapp-proxy-internet-censorship/" target="_blank"> WhatsApp Launches a Proxy Tool to Fight Internet Censorship </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>January 05, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/encrochat-phone-police-hacking-encryption-drugs/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63b5c70ac087b50c7b99b049/master/pass/mosaic_bluered_GettyImages-1438178994.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/encrochat-phone-police-hacking-encryption-drugs/" target="_blank"> Cops Hacked Thousands of Phones. Was It Legal? </a> \
+<a href="https://nakedsecurity.sophos.com/2023/01/04/serious-security-vital-cybersecurity-lessons-from-the-holiday-season/" target="_blank"> Serious Security: How to improve cryptography, resist supply chain attacks, and handle data breaches </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 04, 2023</span></small> \
@@ -7188,27 +7188,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/04/serious-security-vital-cybersecurity-lessons-from-the-holiday-season/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2023/01/classroom-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/encrochat-phone-police-hacking-encryption-drugs/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63b5c70ac087b50c7b99b049/master/pass/mosaic_bluered_GettyImages-1438178994.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2023/01/04/serious-security-vital-cybersecurity-lessons-from-the-holiday-season/" target="_blank"> Serious Security: How to improve cryptography, resist supply chain attacks, and handle data breaches </a> \
+<a href="https://www.wired.com/story/encrochat-phone-police-hacking-encryption-drugs/" target="_blank"> Cops Hacked Thousands of Phones. Was It Legal? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 04, 2023</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2023/01/03/gaming-how-much-too-much-children/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/gaming-children-screen-time-excessive.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2023/01/03/gaming-how-much-too-much-children/" target="_blank"> Gaming: How much is too much for our children? </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>January 03, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -7224,15 +7212,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/what-is-pig-butchering-scam/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63a399902b5612eae8066cd3/master/pass/YearEndReview_Texture03_Pig_Bitchering.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2023/01/03/gaming-how-much-too-much-children/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2023/01/gaming-children-screen-time-excessive.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/what-is-pig-butchering-scam/" target="_blank"> What Is a Pig Butchering Scam? </a> \
+<a href="https://www.welivesecurity.com/2023/01/03/gaming-how-much-too-much-children/" target="_blank"> Gaming: How much is too much for our children? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>January 02, 2023</span></small> \
+<span>January 03, 2023</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -7242,6 +7230,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2023/01/02/most-common-passwords-what-do-if-yours-list/" target="_blank"> The world’s most common passwords: What to do if yours is on the list </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>January 02, 2023</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/what-is-pig-butchering-scam/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63a399902b5612eae8066cd3/master/pass/YearEndReview_Texture03_Pig_Bitchering.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/what-is-pig-butchering-scam/" target="_blank"> What Is a Pig Butchering Scam? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>January 02, 2023</span></small> \
@@ -7260,24 +7260,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/30/naked-security-33-1-3-cybersecurity-predictions-for-2023-and-beyond/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/hny-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/30/naked-security-33-1-3-cybersecurity-predictions-for-2023-and-beyond/" target="_blank"> Naked Security 33 1/3 – Cybersecurity predictions for 2023 and beyond </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 30, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/hardware-security-key-passwords-passkeys/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/639b782520642730f95ffa01/master/pass/YearEndReview_YubiKey.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/hardware-security-key-passwords-passkeys/" target="_blank"> The Password Isn’t Dead Yet. You Need a Hardware Key </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 30, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/30/naked-security-33-1-3-cybersecurity-predictions-for-2023-and-beyond/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/hny-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/30/naked-security-33-1-3-cybersecurity-predictions-for-2023-and-beyond/" target="_blank"> Naked Security 33 1/3 – Cybersecurity predictions for 2023 and beyond </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 30, 2022</span></small> \
@@ -7296,36 +7296,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/worst-hacks-2022/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63a3aa90550e73743dfab497/master/pass/Security_YIR_WorstHacksof2022%20(1).jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/29/s3-ep115-true-crime-stories-a-day-in-the-life-of-a-cybercrime-fighter-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/pm-expert-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/worst-hacks-2022/" target="_blank"> The Worst Hacks of 2022 </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 29, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/12/happy-13th-birthday-krebsonsecurity/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/12/nortcrypto.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/12/happy-13th-birthday-krebsonsecurity/" target="_blank"> Happy 13th Birthday, KrebsOnSecurity! </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 29, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/29/us-passes-the-quantum-computing-cybersecurity-preparedness-act-and-why-not/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/sc-daa-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/29/us-passes-the-quantum-computing-cybersecurity-preparedness-act-and-why-not/" target="_blank"> US passes the Quantum Computing Cybersecurity Preparedness Act – and why not? </a> \
+<a href="https://nakedsecurity.sophos.com/2022/12/29/s3-ep115-true-crime-stories-a-day-in-the-life-of-a-cybercrime-fighter-audio-text/" target="_blank"> S3 Ep115: True crime stories – A day in the life of a cybercrime fighter [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 29, 2022</span></small> \
@@ -7344,12 +7320,36 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/29/s3-ep115-true-crime-stories-a-day-in-the-life-of-a-cybercrime-fighter-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/pm-expert-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/29/us-passes-the-quantum-computing-cybersecurity-preparedness-act-and-why-not/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/sc-daa-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/29/s3-ep115-true-crime-stories-a-day-in-the-life-of-a-cybercrime-fighter-audio-text/" target="_blank"> S3 Ep115: True crime stories – A day in the life of a cybercrime fighter [Audio + Text] </a> \
+<a href="https://nakedsecurity.sophos.com/2022/12/29/us-passes-the-quantum-computing-cybersecurity-preparedness-act-and-why-not/" target="_blank"> US passes the Quantum Computing Cybersecurity Preparedness Act – and why not? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 29, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2022/12/happy-13th-birthday-krebsonsecurity/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/12/nortcrypto.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2022/12/happy-13th-birthday-krebsonsecurity/" target="_blank"> Happy 13th Birthday, KrebsOnSecurity! </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 29, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/worst-hacks-2022/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63a3aa90550e73743dfab497/master/pass/Security_YIR_WorstHacksof2022%20(1).jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/worst-hacks-2022/" target="_blank"> The Worst Hacks of 2022 </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 29, 2022</span></small> \
@@ -7365,30 +7365,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 28, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/12/27/2022-review-10-biggest-cyberattacks/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/2022-biggest-cyberattacks-breaches.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/12/27/2022-review-10-biggest-cyberattacks/" target="_blank"> 2022 in review: 10 of the year’s biggest cyberattacks </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 27, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/hacktivism-russia-ukraine-ddos/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63a38cef07a81437614e7763/master/pass/hactivism.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/hacktivism-russia-ukraine-ddos/" target="_blank"> Hacktivism Is Back and Messier Than Ever </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 27, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -7410,6 +7386,30 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2022/12/27/critical-10-out-of-10-linux-kernel-smb-hole-should-you-worry/" target="_blank"> Critical “10-out-of-10” Linux kernel SMB hole – should you worry? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 27, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/hacktivism-russia-ukraine-ddos/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63a38cef07a81437614e7763/master/pass/hactivism.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/hacktivism-russia-ukraine-ddos/" target="_blank"> Hacktivism Is Back and Messier Than Ever </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 27, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/12/27/2022-review-10-biggest-cyberattacks/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/2022-biggest-cyberattacks-breaches.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/12/27/2022-review-10-biggest-cyberattacks/" target="_blank"> 2022 in review: 10 of the year’s biggest cyberattacks </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 27, 2022</span></small> \
@@ -7457,7 +7457,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/23/lastpass-finally-admits-they-did-steal-your-password-vaults-after-all/" target="_blank"> LastPass finally admits: Those crooks who got in? They did steal your password vaults, after all… </a> \
+<a href="https://nakedsecurity.sophos.com/2022/12/23/lastpass-finally-admits-they-did-steal-your-password-vaults-after-all/" target="_blank"> LastPass finally admits: They did steal your password vaults after all </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 23, 2022</span></small> \
@@ -7469,7 +7469,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/23/lastpass-finally-admits-they-did-steal-your-password-vaults-after-all/" target="_blank"> LastPass finally admits: They did steal your password vaults after all </a> \
+<a href="https://nakedsecurity.sophos.com/2022/12/23/lastpass-finally-admits-they-did-steal-your-password-vaults-after-all/" target="_blank"> LastPass finally admits: Those crooks who got in? They did steal your password vaults, after all… </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 23, 2022</span></small> \
@@ -7488,24 +7488,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/iran-internet-blackout-economy/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63a0faa70a562a39f7bea57e/master/pass/Iran-Protests-Security-1245673102.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/iran-internet-blackout-economy/" target="_blank"> Iran’s Internet Blackouts Are Sabotaging Its Own Economy </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 21, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/12/21/tis-season-gaming-keeping-children-safe-parents-sane/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/gaming-holiday-christmas-cybersecurity-privacy-kids.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2022/12/21/tis-season-gaming-keeping-children-safe-parents-sane/" target="_blank"> ‘Tis the season for gaming: Keeping children safe (and parents sane) </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 21, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/iran-internet-blackout-economy/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63a0faa70a562a39f7bea57e/master/pass/Iran-Protests-Security-1245673102.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/iran-internet-blackout-economy/" target="_blank"> Iran’s Internet Blackouts Are Sabotaging Its Own Economy </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 21, 2022</span></small> \
@@ -7548,24 +7548,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/19/onecoin-scammer-sebastian-greenwood-pleads-guilty-cryptoqueen-still-missing/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/onecoin-crime-scene-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/12/19/onecoin-scammer-sebastian-greenwood-pleads-guilty-cryptoqueen-still-missing/" target="_blank"> OneCoin scammer Sebastian Greenwood pleads guilty, “Cryptoqueen” still missing </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 19, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/12/19/how-set-up-parental-controls-childs-new-smartphone/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/children-smartphones-parental-controls-security-privacy.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2022/12/19/how-set-up-parental-controls-childs-new-smartphone/" target="_blank"> How to set up parental controls on your child’s new smartphone </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 19, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/19/onecoin-scammer-sebastian-greenwood-pleads-guilty-cryptoqueen-still-missing/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/12/onecoin-crime-scene-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/12/19/onecoin-scammer-sebastian-greenwood-pleads-guilty-cryptoqueen-still-missing/" target="_blank"> OneCoin scammer Sebastian Greenwood pleads guilty, “Cryptoqueen” still missing </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 19, 2022</span></small> \
@@ -7584,24 +7584,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/mirrorface-aims-high-value-targets-japan-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/0-32.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/mirrorface-aims-high-value-targets-japan-week-security-tony-anscombe/" target="_blank"> MirrorFace aims for high‑value targets in Japan – Week in security with Tony Anscombe </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 16, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/12/16/help-my-kid-asked-santa-smartphone/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/children-technology-smartphone-security-privacy.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2022/12/16/help-my-kid-asked-santa-smartphone/" target="_blank"> Help! My kid has asked Santa for a smartphone </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 16, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/videos/mirrorface-aims-high-value-targets-japan-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/0-32.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/videos/mirrorface-aims-high-value-targets-japan-week-security-tony-anscombe/" target="_blank"> MirrorFace aims for high‑value targets in Japan – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 16, 2022</span></small> \
@@ -7632,18 +7632,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/meta-hate-speech-lawsuit-ethiopia/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6398c932d87d46df54e99da1/master/pass/Business-Meta-Ethiopia-Genocide-1233615921.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/meta-hate-speech-lawsuit-ethiopia/" target="_blank"> A New Lawsuit Accuses Meta of Inflaming Civil War in Ethiopia </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 14, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2022/12/six-charged-in-mass-takedown-of-ddos-for-hire-sites/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2022/12/orphic.png" alt="" class="img-fluid"> \
 </a> \
@@ -7662,6 +7650,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2022/12/14/apple-patches-everything-finally-reveals-mystery-of-ios-16-1-2/" target="_blank"> Apple patches everything, finally reveals mystery of iOS 16.1.2 </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/meta-hate-speech-lawsuit-ethiopia/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6398c932d87d46df54e99da1/master/pass/Business-Meta-Ethiopia-Genocide-1233615921.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/meta-hate-speech-lawsuit-ethiopia/" target="_blank"> A New Lawsuit Accuses Meta of Inflaming Civil War in Ethiopia </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 14, 2022</span></small> \
@@ -7716,24 +7716,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/radicalization-extremism-us-uncertainty-social-media/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6393c262258cc1f5b2da9dd3/master/pass/Uncertainty,-Social-Media,-and-the-Radicalization-of-the-US-Security-GettyImages-1237886883.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/radicalization-extremism-us-uncertainty-social-media/" target="_blank"> Why Are People in the US Becoming Radicalized? </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/12/12/cybersecurity-trends-2023-securing-our-hybrid-lives/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/cybersecurity-trends-2023-hybrid-lives.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2022/12/12/cybersecurity-trends-2023-securing-our-hybrid-lives/" target="_blank"> Cybersecurity Trends 2023: Securing our hybrid lives </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/radicalization-extremism-us-uncertainty-social-media/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6393c262258cc1f5b2da9dd3/master/pass/Uncertainty,-Social-Media,-and-the-Radicalization-of-the-US-Security-GettyImages-1237886883.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/radicalization-extremism-us-uncertainty-social-media/" target="_blank"> Why Are People in the US Becoming Radicalized? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 12, 2022</span></small> \
@@ -7752,24 +7752,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6392663fdf2fe9c58ee95b55/master/pass/Security-LensaAI-Birth-Venus-92825836.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/" target="_blank"> Lensa AI and ‘Magic Avatars’: What to Know Before Using the App </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 09, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/diamond-industry-attack-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/0-26.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/videos/diamond-industry-attack-week-security-tony-anscombe/" target="_blank"> Diamond industry under attack – Week in security with Tony Anscombe </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 09, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6392663fdf2fe9c58ee95b55/master/pass/Security-LensaAI-Birth-Venus-92825836.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/lensa-ai-magic-avatars-security-tips/" target="_blank"> Lensa AI and ‘Magic Avatars’: What to Know Before Using the App </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 09, 2022</span></small> \
@@ -7812,30 +7812,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/cybercrime-hackers-scams-forums/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6390c68caa4a1f0bae395c46/master/pass/Scammers-Scamming-Scammers-Security-GettyImages-83393803.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/cybercrime-hackers-scams-forums/" target="_blank"> Scammers Are Scamming Other Scammers Out of Millions of Dollars </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 07, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/12/07/fantasy-new-agrius-wiper-supply-chain-attack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/fantasy-agrius-wiper-supply-chain-cyberattack.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/12/07/fantasy-new-agrius-wiper-supply-chain-attack/" target="_blank"> Fantasy – a new Agrius wiper deployed through a supply‑chain attack </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 07, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/apple-photo-scanning-csam-communication-safety-messages/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/639000b143ab6f113787af35/master/pass/security-apple-encryption-photos.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -7854,6 +7830,30 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/apple-end-to-end-encryption-icloud-backups/" target="_blank"> Apple Expands End-to-End Encryption to iCloud Backups </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 07, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/cybercrime-hackers-scams-forums/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6390c68caa4a1f0bae395c46/master/pass/Scammers-Scamming-Scammers-Security-GettyImages-83393803.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/cybercrime-hackers-scams-forums/" target="_blank"> Scammers Are Scamming Other Scammers Out of Millions of Dollars </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 07, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/12/07/fantasy-new-agrius-wiper-supply-chain-attack/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/fantasy-agrius-wiper-supply-chain-cyberattack.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/12/07/fantasy-new-agrius-wiper-supply-chain-attack/" target="_blank"> Fantasy – a new Agrius wiper deployed through a supply‑chain attack </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>December 07, 2022</span></small> \
@@ -7933,18 +7933,6 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/scarcruft-updates-its-toolset-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/0-24.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/scarcruft-updates-its-toolset-week-in-security-with-tony-anscombe/" target="_blank"> ScarCruft updates its toolset – Week in security with Tony Anscombe </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>December 02, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/scarcruft-updates-its-toolset-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/0-6.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
@@ -7956,15 +7944,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/protests-in-iran-twitter/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6387cd7947b8a22013fb85b1/master/pass/Security-Twitter-Iran-1243470122.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/scarcruft-updates-its-toolset-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/12/0-24.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/protests-in-iran-twitter/" target="_blank"> Iran’s Protests Reveal What’s Lost If Twitter Crumbles </a> \
+<a href="https://www.welivesecurity.com/videos/scarcruft-updates-its-toolset-week-in-security-with-tony-anscombe/" target="_blank"> ScarCruft updates its toolset – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>December 01, 2022</span></small> \
+<span>December 02, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -7992,6 +7980,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/protests-in-iran-twitter/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6387cd7947b8a22013fb85b1/master/pass/Security-Twitter-Iran-1243470122.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/protests-in-iran-twitter/" target="_blank"> Iran’s Protests Reveal What’s Lost If Twitter Crumbles </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>December 01, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/11/30/serious-security-md5-considered-harmful-to-the-tune-of-600000/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/pwd-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
@@ -8004,24 +8004,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/heliconia-spyware-google-tag/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63878db371d644d5872a5690/master/pass/Security-Google-Tag-Variston-IT--1235037082.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/heliconia-spyware-google-tag/" target="_blank"> Google Moves to Block Invasive Spanish Spyware Framework </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 30, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/11/30/whos-swimming-south-korean-waters-meet-scarcrufts-dolphin/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/scarcruft-apt-dolphin-south-korea-Copy.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2022/11/30/whos-swimming-south-korean-waters-meet-scarcrufts-dolphin/" target="_blank"> Who’s swimming in South Korean waters? Meet ScarCruft’s Dolphin </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 30, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/heliconia-spyware-google-tag/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63878db371d644d5872a5690/master/pass/Security-Google-Tag-Variston-IT--1235037082.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/heliconia-spyware-google-tag/" target="_blank"> Google Moves to Block Invasive Spanish Spyware Framework </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 30, 2022</span></small> \
@@ -8052,12 +8052,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/fbi-google-geofence-warrant-january-6/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/637e9bbd3bd3559b45ea04b4/master/pass/Geofence-Warrants-jan6-Riots-Security-1230453521.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/fbi-google-geofence-warrant-january-6/" target="_blank"> A Peek Inside the FBI\'s Unprecedented January 6 Geofence Dragnet </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 28, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/11/28/chrome-fixes-8th-zero-day-of-2022-check-your-version-now/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/04/chrome-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/28/chrome-fixes-8th-zero-day-of-2022-check-your-version-now/" target="_blank"> Chrome fixes 8th zero-day of 2022 – check your version now </a> \
+<a href="https://nakedsecurity.sophos.com/2022/11/28/chrome-fixes-8th-zero-day-of-2022-check-your-version-now/" target="_blank"> Chrome fixes 8th zero-day of 2022 – check your version now (Edge too!) </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 28, 2022</span></small> \
@@ -8081,19 +8093,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/28/chrome-fixes-8th-zero-day-of-2022-check-your-version-now/" target="_blank"> Chrome fixes 8th zero-day of 2022 – check your version now (Edge too!) </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 28, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/fbi-google-geofence-warrant-january-6/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/637e9bbd3bd3559b45ea04b4/master/pass/Geofence-Warrants-jan6-Riots-Security-1230453521.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/fbi-google-geofence-warrant-january-6/" target="_blank"> A Peek Inside the FBI\'s Unprecedented January 6 Geofence Dragnet </a> \
+<a href="https://nakedsecurity.sophos.com/2022/11/28/chrome-fixes-8th-zero-day-of-2022-check-your-version-now/" target="_blank"> Chrome fixes 8th zero-day of 2022 – check your version now </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 28, 2022</span></small> \
@@ -8112,24 +8112,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/11/25/know-payment-options-how-shop-pay-safely-holiday-season/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/holiday-shopping-black-friday-cyber-monday-payments-safety.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/25/voice-scamming-site-ispoof-seized-100s-arrested-in-massive-crackdown/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/call-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/11/25/know-payment-options-how-shop-pay-safely-holiday-season/" target="_blank"> Know your payment options: How to shop and pay safely this holiday season </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 25, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/spyware-posing-vpn-apps-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/0-27.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/spyware-posing-vpn-apps-week-security-tony-anscombe/" target="_blank"> Spyware posing as VPN apps – Week in security with Tony Anscombe </a> \
+<a href="https://nakedsecurity.sophos.com/2022/11/25/voice-scamming-site-ispoof-seized-100s-arrested-in-massive-crackdown/" target="_blank"> Voice-scamming site “iSpoof” seized, 100s arrested in massive crackdown </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 25, 2022</span></small> \
@@ -8148,27 +8136,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/25/voice-scamming-site-ispoof-seized-100s-arrested-in-massive-crackdown/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/call-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/spyware-posing-vpn-apps-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/0-27.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/25/voice-scamming-site-ispoof-seized-100s-arrested-in-massive-crackdown/" target="_blank"> Voice-scamming site “iSpoof” seized, 100s arrested in massive crackdown </a> \
+<a href="https://www.welivesecurity.com/videos/spyware-posing-vpn-apps-week-security-tony-anscombe/" target="_blank"> Spyware posing as VPN apps – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 25, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/24/s3-ep110-spotlight-on-cyberthreats-an-expert-speaks-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/nycu-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/11/25/know-payment-options-how-shop-pay-safely-holiday-season/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/holiday-shopping-black-friday-cyber-monday-payments-safety.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/24/s3-ep110-spotlight-on-cyberthreats-an-expert-speaks-audio-text/" target="_blank"> S3 Ep110: Spotlight on cyberthreats – an expert speaks [Audio + Text] </a> \
+<a href="https://www.welivesecurity.com/2022/11/25/know-payment-options-how-shop-pay-safely-holiday-season/" target="_blank"> Know your payment options: How to shop and pay safely this holiday season </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>November 24, 2022</span></small> \
+<span>November 25, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -8196,15 +8184,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/23/cryptorom-pig-butchering-scam-sites-seized-suspects-arrested-in-us/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/cryptorom-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/24/s3-ep110-spotlight-on-cyberthreats-an-expert-speaks-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/nycu-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/23/cryptorom-pig-butchering-scam-sites-seized-suspects-arrested-in-us/" target="_blank"> CryptoRom “pig butchering” scam sites seized, suspects arrested in US </a> \
+<a href="https://nakedsecurity.sophos.com/2022/11/24/s3-ep110-spotlight-on-cyberthreats-an-expert-speaks-audio-text/" target="_blank"> S3 Ep110: Spotlight on cyberthreats – an expert speaks [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>November 23, 2022</span></small> \
+<span>November 24, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -8220,12 +8208,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/us-bomb-dog-shortage/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/637d1d57dde91ab53394455f/master/pass/Bomb-Sniffing-Dogs-Security-GettyImages-664957338.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/23/cryptorom-pig-butchering-scam-sites-seized-suspects-arrested-in-us/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/cryptorom-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/us-bomb-dog-shortage/" target="_blank"> The US Has a Bomb-Sniffing Dog Shortage </a> \
+<a href="https://nakedsecurity.sophos.com/2022/11/23/cryptorom-pig-butchering-scam-sites-seized-suspects-arrested-in-us/" target="_blank"> CryptoRom “pig butchering” scam sites seized, suspects arrested in US </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 23, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/alphabay-series-part-5-takedown/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63531a11164b1ee55dd6a442/master/pass/WIRED_darkweb_5_final.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/alphabay-series-part-5-takedown/" target="_blank"> The Hunt for the Dark Web’s Biggest Kingpin, Part 5: Takedown </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 22, 2022</span></small> \
@@ -8244,27 +8244,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/alphabay-series-part-5-takedown/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63531a11164b1ee55dd6a442/master/pass/WIRED_darkweb_5_final.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/us-bomb-dog-shortage/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/637d1d57dde91ab53394455f/master/pass/Bomb-Sniffing-Dogs-Security-GettyImages-664957338.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/alphabay-series-part-5-takedown/" target="_blank"> The Hunt for the Dark Web’s Biggest Kingpin, Part 5: Takedown </a> \
+<a href="https://www.wired.com/story/us-bomb-dog-shortage/" target="_blank"> The US Has a Bomb-Sniffing Dog Shortage </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 22, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/autonomous-vehicles-china-us-national-security/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/637be42e08d21cc2614f8ae1/master/pass/AUTO_Biz_GettyImages-1240599777.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/autonomous-vehicles-china-us-national-security/" target="_blank"> Autonomous Vehicles Join the List of US National Security Threats </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 21, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -8274,6 +8262,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2022/11/21/how-social-media-scammers-buy-time-to-steal-your-2fa-codes/" target="_blank"> How social media scammers buy time to steal your 2FA codes </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 21, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/autonomous-vehicles-china-us-national-security/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/637be42e08d21cc2614f8ae1/master/pass/AUTO_Biz_GettyImages-1240599777.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/autonomous-vehicles-china-us-national-security/" target="_blank"> Autonomous Vehicles Join the List of US National Security Threats </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 21, 2022</span></small> \
@@ -8304,24 +8304,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/best-password-managers/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/5ce82f0838916bbaffa0c591/master/pass/Managing-Passwords.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/11/18/tor-vs-vpn-which-choose/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/tor-vpn-comparison.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> 5 Best Password Managers (2022): Features, Pricing, and Tips </a> \
+<a href="https://www.welivesecurity.com/2022/11/18/tor-vs-vpn-which-choose/" target="_blank"> Tor vs. VPN: Which should you choose? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 18, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/insights-apt-activity-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/0-24.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/best-password-managers/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/5ce82f0838916bbaffa0c591/master/pass/Managing-Passwords.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/insights-apt-activity-week-security-tony-anscombe/" target="_blank"> Latest insights on APT activity – Week in security with Tony Anscombe </a> \
+<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> 5 Best Password Managers (2022): Features, Pricing, and Tips </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 18, 2022</span></small> \
@@ -8340,12 +8340,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/11/18/tor-vs-vpn-which-choose/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/tor-vpn-comparison.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/insights-apt-activity-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/0-24.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/11/18/tor-vs-vpn-which-choose/" target="_blank"> Tor vs. VPN: Which should you choose? </a> \
+<a href="https://www.welivesecurity.com/videos/insights-apt-activity-week-security-tony-anscombe/" target="_blank"> Latest insights on APT activity – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 18, 2022</span></small> \
@@ -8357,7 +8357,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/17/s3-ep109-how-one-leaked-email-password-could-drain-your-business/" target="_blank"> S3 Ep109: How one leaked email password could drain your business [Audio + Transcript] </a> \
+<a href="https://nakedsecurity.sophos.com/2022/11/17/s3-ep109-how-one-leaked-email-password-could-drain-your-business/" target="_blank"> S3 Ep109: How one leaked email password could drain your business </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 17, 2022</span></small> \
@@ -8381,22 +8381,10 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/17/s3-ep109-how-one-leaked-email-password-could-drain-your-business/" target="_blank"> S3 Ep109: How one leaked email password could drain your business </a> \
+<a href="https://nakedsecurity.sophos.com/2022/11/17/s3-ep109-how-one-leaked-email-password-could-drain-your-business/" target="_blank"> S3 Ep109: How one leaked email password could drain your business [Audio + Transcript] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 17, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/11/16/open-banking-tell-me-what-you-buy-ill-tell-you-who-you-are/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/open-banking-privacy-data-personal-implications.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/11/16/open-banking-tell-me-what-you-buy-ill-tell-you-who-you-are/" target="_blank"> Open banking: Tell me what you buy, and I’ll tell you who you are </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 16, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -8406,6 +8394,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://krebsonsecurity.com/2022/11/disneyland-malware-team-its-a-puny-world-after-all/" target="_blank"> Disneyland Malware Team: It’s a Puny World After All </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 16, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/11/16/open-banking-tell-me-what-you-buy-ill-tell-you-who-you-are/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/open-banking-privacy-data-personal-implications.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/11/16/open-banking-tell-me-what-you-buy-ill-tell-you-who-you-are/" target="_blank"> Open banking: Tell me what you buy, and I’ll tell you who you are </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 16, 2022</span></small> \
@@ -8424,12 +8424,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/15/log4shell-like-code-execution-hole-in-popular-backstage-dev-tool/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/bs-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2022/11/top-zeus-botnet-suspect-tank-arrested-in-geneva/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/11/penchukov-fbiwanted.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/15/log4shell-like-code-execution-hole-in-popular-backstage-dev-tool/" target="_blank"> Log4Shell-like code execution hole in popular Backstage dev tool </a> \
+<a href="https://krebsonsecurity.com/2022/11/top-zeus-botnet-suspect-tank-arrested-in-geneva/" target="_blank"> Top Zeus Botnet Suspect “Tank” Arrested in Geneva </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 15, 2022</span></small> \
@@ -8448,27 +8448,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/11/top-zeus-botnet-suspect-tank-arrested-in-geneva/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/11/penchukov-fbiwanted.png" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/15/log4shell-like-code-execution-hole-in-popular-backstage-dev-tool/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/bs-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/11/top-zeus-botnet-suspect-tank-arrested-in-geneva/" target="_blank"> Top Zeus Botnet Suspect “Tank” Arrested in Geneva </a> \
+<a href="https://nakedsecurity.sophos.com/2022/11/15/log4shell-like-code-execution-hole-in-popular-backstage-dev-tool/" target="_blank"> Log4Shell-like code execution hole in popular Backstage dev tool </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 15, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/14/gucci-master-business-email-scammer-hushpuppi-gets-11-years/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/puppi-car-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/14/gucci-master-business-email-scammer-hushpuppi-gets-11-years/" target="_blank"> “Gucci Master” business email scammer Hushpuppi gets 11 years </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 14, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -8478,6 +8466,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2022/11/14/eset-apt-activity-report-t2-2022/" target="_blank"> ESET APT Activity Report T2 2022 </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/14/gucci-master-business-email-scammer-hushpuppi-gets-11-years/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/puppi-car-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/14/gucci-master-business-email-scammer-hushpuppi-gets-11-years/" target="_blank"> “Gucci Master” business email scammer Hushpuppi gets 11 years </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 14, 2022</span></small> \
@@ -8556,18 +8556,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/twitter-blue-check-verification-buy-scams/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/636d25261f24b6f9091f7b7a/master/pass/Elon-Musk%E2%80%99s-Twitter-Verification-Is-a-Scammers%E2%80%99-Paradise-Security-alamy-2KDKBXA.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/twitter-blue-check-verification-buy-scams/" target="_blank"> Elon Musk\'s Twitter Blue Verification Is a Gift to Scammers </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 10, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/11/10/toward-cutting-edge-smbs-contemplating-enterprise-security/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/eset-smb-sentiment-report-2022.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -8628,24 +8616,36 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/money-privacy-security-settings-apple-google-pay/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/636ab33e0d25973ba5f9bc7d/master/pass/Before-You-Go-Cashless,-Check-these-Settings-On-Your-Phone-Gear-GettyImages-1412514428.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/twitter-blue-check-verification-buy-scams/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/636d25261f24b6f9091f7b7a/master/pass/Elon-Musk%E2%80%99s-Twitter-Verification-Is-a-Scammers%E2%80%99-Paradise-Security-alamy-2KDKBXA.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/money-privacy-security-settings-apple-google-pay/" target="_blank"> How to Use Apple Pay or Google Wallet Instead of Plastic Cards </a> \
+<a href="https://www.wired.com/story/twitter-blue-check-verification-buy-scams/" target="_blank"> Elon Musk\'s Twitter Blue Verification Is a Gift to Scammers </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 10, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/09/exchange-0-days-fixed-at-last-plus-4-brand-new-patch-tuesday-0-days/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/ms-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/09/exchange-0-days-fixed-at-last-plus-4-brand-new-patch-tuesday-0-days/" target="_blank"> Exchange 0-days fixed (at last) – plus 4 brand new Patch Tuesday 0-days! </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 09, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/11/patch-tuesday-november-2022-election-edition/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/money-privacy-security-settings-apple-google-pay/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/636ab33e0d25973ba5f9bc7d/master/pass/Before-You-Go-Cashless,-Check-these-Settings-On-Your-Phone-Gear-GettyImages-1412514428.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/11/patch-tuesday-november-2022-election-edition/" target="_blank"> Patch Tuesday, November 2022 Election Edition </a> \
+<a href="https://www.wired.com/story/money-privacy-security-settings-apple-google-pay/" target="_blank"> How to Use Apple Pay or Google Wallet Instead of Plastic Cards </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 09, 2022</span></small> \
@@ -8664,27 +8664,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/09/exchange-0-days-fixed-at-last-plus-4-brand-new-patch-tuesday-0-days/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/ms-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2022/11/patch-tuesday-november-2022-election-edition/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/09/exchange-0-days-fixed-at-last-plus-4-brand-new-patch-tuesday-0-days/" target="_blank"> Exchange 0-days fixed (at last) – plus 4 brand new Patch Tuesday 0-days! </a> \
+<a href="https://krebsonsecurity.com/2022/11/patch-tuesday-november-2022-election-edition/" target="_blank"> Patch Tuesday, November 2022 Election Edition </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 09, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6369a8f55835030b1507e8a3/master/pass/A-Peek-Inside-the-Most-Controversial-\'Election-Integrity\'-App-in-the-US-Security-GettyImages-1264542515.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/" target="_blank"> Inside the ‘Election Integrity App’ Built to Purge US Voter Rolls </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>November 08, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -8700,12 +8688,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/11/07/hacking-baby-monitors-childs-play-how-stay-safe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/baby-monitors-cybersecurity-privacy-risks.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6369a8f55835030b1507e8a3/master/pass/A-Peek-Inside-the-Most-Controversial-\'Election-Integrity\'-App-in-the-US-Security-GettyImages-1264542515.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/11/07/hacking-baby-monitors-childs-play-how-stay-safe/" target="_blank"> Hacking baby monitors can be child’s play: Here’s how to stay safe </a> \
+<a href="https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/" target="_blank"> Inside the ‘Election Integrity App’ Built to Purge US Voter Rolls </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>November 08, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/07/public-url-scanning-tools-when-security-leads-to-insecurity/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/typewriter-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/07/public-url-scanning-tools-when-security-leads-to-insecurity/" target="_blank"> Public URL scanning tools – when security leads to insecurity </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 07, 2022</span></small> \
@@ -8724,24 +8724,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/twitter-election-integrity-2022-midterms/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6365c3d87484c01b9b6e964f/master/pass/Twitter%E2%80%99s-Ex-Election-Chief-Is-Worried-About-the-US-Midterms-Security-GettyImages-83273505.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/11/07/hacking-baby-monitors-childs-play-how-stay-safe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/11/baby-monitors-cybersecurity-privacy-risks.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/twitter-election-integrity-2022-midterms/" target="_blank"> Twitter’s Ex-Election Chief Is Worried About the US Midterms </a> \
+<a href="https://www.welivesecurity.com/2022/11/07/hacking-baby-monitors-childs-play-how-stay-safe/" target="_blank"> Hacking baby monitors can be child’s play: Here’s how to stay safe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 07, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/07/public-url-scanning-tools-when-security-leads-to-insecurity/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/typewriter-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/twitter-election-integrity-2022-midterms/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6365c3d87484c01b9b6e964f/master/pass/Twitter%E2%80%99s-Ex-Election-Chief-Is-Worried-About-the-US-Midterms-Security-GettyImages-83273505.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/07/public-url-scanning-tools-when-security-leads-to-insecurity/" target="_blank"> Public URL scanning tools – when security leads to insecurity </a> \
+<a href="https://www.wired.com/story/twitter-election-integrity-2022-midterms/" target="_blank"> Twitter’s Ex-Election Chief Is Worried About the US Midterms </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 07, 2022</span></small> \
@@ -8784,12 +8784,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/03/the-openssl-security-update-story-how-can-you-tell-what-needs-fixing/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/ossl-code-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/03/s3-ep107-eight-months-to-kick-out-the-crooks-and-you-think-thats-good-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/bn-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/03/the-openssl-security-update-story-how-can-you-tell-what-needs-fixing/" target="_blank"> The OpenSSL security update story – how can you tell what needs fixing? </a> \
+<a href="https://nakedsecurity.sophos.com/2022/11/03/s3-ep107-eight-months-to-kick-out-the-crooks-and-you-think-thats-good-audio-text/" target="_blank"> S3 Ep107: Eight months to kick out the crooks and you think that’s GOOD? [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 03, 2022</span></small> \
@@ -8820,12 +8820,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/03/s3-ep107-eight-months-to-kick-out-the-crooks-and-you-think-thats-good-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/bn-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/11/03/the-openssl-security-update-story-how-can-you-tell-what-needs-fixing/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/11/ossl-code-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/11/03/s3-ep107-eight-months-to-kick-out-the-crooks-and-you-think-thats-good-audio-text/" target="_blank"> S3 Ep107: Eight months to kick out the crooks and you think that’s GOOD? [Audio + Text] </a> \
+<a href="https://nakedsecurity.sophos.com/2022/11/03/the-openssl-security-update-story-how-can-you-tell-what-needs-fixing/" target="_blank"> The OpenSSL security update story – how can you tell what needs fixing? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>November 03, 2022</span></small> \
@@ -8940,24 +8940,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/china-police-stations-security-roundup/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/635c29153c668b3d58192325/master/pass/Secret-Chinese-Police-Security-GettyImages-647038906.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/china-police-stations-security-roundup/" target="_blank"> China Operates Secret ‘Police Stations’ in Other Countries </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 29, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/10/29/chrome-issues-urgent-zero-day-fix-update-now/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/04/chrome-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2022/10/29/chrome-issues-urgent-zero-day-fix-update-now/" target="_blank"> Chrome issues urgent zero-day fix – update now! </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 29, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/china-police-stations-security-roundup/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/635c29153c668b3d58192325/master/pass/Secret-Chinese-Police-Security-GettyImages-647038906.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/china-police-stations-security-roundup/" target="_blank"> China Operates Secret ‘Police Stations’ in Other Countries </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 29, 2022</span></small> \
@@ -9024,30 +9024,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/apple-macos-ventura-bug-security-tools/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/635981d43d7842cc349a21f2/master/pass/MacOS-Ventura-Security-GettyImages-1252420069.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/apple-macos-ventura-bug-security-tools/" target="_blank"> Apple MacOS Ventura Bug Breaks Third-Party Security Tools </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 26, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/10/26/parcel-delivery-scams-know-what-watch-out-for/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/parcel-delivery-scams-email-phishing.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/10/26/parcel-delivery-scams-know-what-watch-out-for/" target="_blank"> Parcel delivery scams are on the rise: Do you know what to watch out for? </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 26, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/10/26/online-ticketing-company-see-pwned-for-2-5-years-by-attackers/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/st-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
@@ -9072,6 +9048,42 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/apple-macos-ventura-bug-security-tools/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/635981d43d7842cc349a21f2/master/pass/MacOS-Ventura-Security-GettyImages-1252420069.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/apple-macos-ventura-bug-security-tools/" target="_blank"> Apple MacOS Ventura Bug Breaks Third-Party Security Tools </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 26, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/10/26/parcel-delivery-scams-know-what-watch-out-for/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/parcel-delivery-scams-email-phishing.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/10/26/parcel-delivery-scams-know-what-watch-out-for/" target="_blank"> Parcel delivery scams are on the rise: Do you know what to watch out for? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 26, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/25/apple-megaupdate-ventura-out-ios-and-ipad-kernel-zero-day-act-now/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/25/apple-megaupdate-ventura-out-ios-and-ipad-kernel-zero-day-act-now/" target="_blank"> Apple megaupdate: Ventura out, iOS and iPad kernel zero-day – act now! </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 25, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/alphabay-series-part-1-the-shadow/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/6345ba77df241d47294a020b/master/pass/WI110122_EX_Tracers_AlphaBay1_01.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -9084,36 +9096,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/25/apple-megaupdate-ventura-out-ios-and-ipad-kernel-zero-day-act-now/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/10/24/5-reasons-keep-software-devices-up-to-date/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/updates-software-devices-importance-1024x576-1.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/25/apple-megaupdate-ventura-out-ios-and-ipad-kernel-zero-day-act-now/" target="_blank"> Apple megaupdate: Ventura out, iOS and iPad kernel zero-day – act now! </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 25, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/24/serious-security-you-cant-beat-the-house-at-blackjack-or-can-you/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/card-fan-1200-1.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/24/serious-security-you-cant-beat-the-house-at-blackjack-or-can-you/" target="_blank"> Serious Security: How randomly (or not) can you shuffle cards? </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 24, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/25/apple-megaupdate-ventura-out-ios-and-ipad-kernel-zero-day-act-now/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/25/apple-megaupdate-ventura-out-ios-and-ipad-kernel-zero-day-act-now/" target="_blank"> Apple megaupdate: Ventura out, iOS and iPad kernel zero-day – act now! </a> \
+<a href="https://www.welivesecurity.com/2022/10/24/5-reasons-keep-software-devices-up-to-date/" target="_blank"> 5 reasons to keep your software and devices up to date </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 24, 2022</span></small> \
@@ -9132,12 +9120,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/10/24/5-reasons-keep-software-devices-up-to-date/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/updates-software-devices-importance-1024x576-1.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/25/apple-megaupdate-ventura-out-ios-and-ipad-kernel-zero-day-act-now/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/10/24/5-reasons-keep-software-devices-up-to-date/" target="_blank"> 5 reasons to keep your software and devices up to date </a> \
+<a href="https://nakedsecurity.sophos.com/2022/10/25/apple-megaupdate-ventura-out-ios-and-ipad-kernel-zero-day-act-now/" target="_blank"> Apple megaupdate: Ventura out, iOS and iPad kernel zero-day – act now! </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 24, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/24/serious-security-you-cant-beat-the-house-at-blackjack-or-can-you/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/card-fan-1200-1.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/24/serious-security-you-cant-beat-the-house-at-blackjack-or-can-you/" target="_blank"> Serious Security: How randomly (or not) can you shuffle cards? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 24, 2022</span></small> \
@@ -9180,24 +9180,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/21/when-cops-hack-back-dutch-police-fleece-deadbolt-criminals-legally/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/politie-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/apt-c-50-updates-furball-android-malware-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/0-17.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/21/when-cops-hack-back-dutch-police-fleece-deadbolt-criminals-legally/" target="_blank"> When cops hack back: Dutch police fleece DEADBOLT criminals (legally!) </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 21, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/microsoft-exchange-server-vulnerabilities/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/635193ee470620c1e69a25e3/master/pass/microsoft-patch-vulnerability-sec-GettyImages-1298559615.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/microsoft-exchange-server-vulnerabilities/" target="_blank"> Your Microsoft Exchange Server Is a Security Liability </a> \
+<a href="https://www.welivesecurity.com/videos/apt-c-50-updates-furball-android-malware-week-security-tony-anscombe/" target="_blank"> APT‑C‑50 updates FurBall Android malware – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 21, 2022</span></small> \
@@ -9216,27 +9204,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/apt-c-50-updates-furball-android-malware-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/0-17.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/microsoft-exchange-server-vulnerabilities/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/635193ee470620c1e69a25e3/master/pass/microsoft-patch-vulnerability-sec-GettyImages-1298559615.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/apt-c-50-updates-furball-android-malware-week-security-tony-anscombe/" target="_blank"> APT‑C‑50 updates FurBall Android malware – Week in security with Tony Anscombe </a> \
+<a href="https://www.wired.com/story/microsoft-exchange-server-vulnerabilities/" target="_blank"> Your Microsoft Exchange Server Is a Security Liability </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 21, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/20/s3-ep105-wontfix-the-ms-office-cryptofail-that-isnt-a-security-flaw-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/pic-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/21/when-cops-hack-back-dutch-police-fleece-deadbolt-criminals-legally/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/politie-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/20/s3-ep105-wontfix-the-ms-office-cryptofail-that-isnt-a-security-flaw-audio-text/" target="_blank"> S3 Ep105: WONTFIX! The MS Office cryptofail that “isn’t a security flaw” [Audio + Text] </a> \
+<a href="https://nakedsecurity.sophos.com/2022/10/21/when-cops-hack-back-dutch-police-fleece-deadbolt-criminals-legally/" target="_blank"> When cops hack back: Dutch police fleece DEADBOLT criminals (legally!) </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>October 20, 2022</span></small> \
+<span>October 21, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -9246,6 +9234,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2022/10/20/domestic-kitten-campaign-spying-iranian-citizens-furball-malware/" target="_blank"> Domestic Kitten campaign spying on Iranian citizens with new FurBall malware </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 20, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/20/s3-ep105-wontfix-the-ms-office-cryptofail-that-isnt-a-security-flaw-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/pic-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/20/s3-ep105-wontfix-the-ms-office-cryptofail-that-isnt-a-security-flaw-audio-text/" target="_blank"> S3 Ep105: WONTFIX! The MS Office cryptofail that “isn’t a security flaw” [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 20, 2022</span></small> \
@@ -9300,18 +9300,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/18/dangerous-hole-in-apache-commons-text-like-log4shell-all-over-again/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/act-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/18/dangerous-hole-in-apache-commons-text-like-log4shell-all-over-again/" target="_blank"> Dangerous hole in Apache Commons Text – like Log4Shell all over again </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.wired.com/story/best-password-managers/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.wired.com/photos/5ce82f0838916bbaffa0c591/master/pass/Managing-Passwords.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -9324,15 +9312,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/wikipedia-state-sponsored-disinformation/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63471a3b53082046d89aca56/master/pass/security-wikipedia-russian-disinformation.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/18/dangerous-hole-in-apache-commons-text-like-log4shell-all-over-again/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/act-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/wikipedia-state-sponsored-disinformation/" target="_blank"> The Hunt for Wikipedia\'s Disinformation Moles </a> \
+<a href="https://nakedsecurity.sophos.com/2022/10/18/dangerous-hole-in-apache-commons-text-like-log4shell-all-over-again/" target="_blank"> Dangerous hole in Apache Commons Text – like Log4Shell all over again </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>October 17, 2022</span></small> \
+<span>October 18, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -9342,6 +9330,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2022/10/17/5-steps-protect-school-cyberattacks/" target="_blank"> 5 steps to protect your school from cyberattacks </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 17, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/wikipedia-state-sponsored-disinformation/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63471a3b53082046d89aca56/master/pass/security-wikipedia-russian-disinformation.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/wikipedia-state-sponsored-disinformation/" target="_blank"> The Hunt for Wikipedia\'s Disinformation Moles </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 17, 2022</span></small> \
@@ -9360,18 +9360,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/elon-musk-starlink-funding-ukraine/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6349cce17fa81ffa8c2b0117/master/pass/Elon-Musk-Starlink-Ukraine-GettyImages-1243505805.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/elon-musk-starlink-funding-ukraine/" target="_blank"> Elon Musk’s SpaceX Bails on Starlink Funding for Ukraine </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 15, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2022/10/anti-money-laundering-service-amlbot-cleans-house/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2021/08/ant-result.png" alt="" class="img-fluid"> \
 </a> \
@@ -9384,15 +9372,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/14/serious-security-microsoft-office-365-attacked-over-feeble-encryption/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/lock-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/elon-musk-starlink-funding-ukraine/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6349cce17fa81ffa8c2b0117/master/pass/Elon-Musk-Starlink-Ukraine-GettyImages-1243505805.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/14/serious-security-microsoft-office-365-attacked-over-feeble-encryption/" target="_blank"> Serious Security: Microsoft Office 365 attacked over feeble encryption </a> \
+<a href="https://www.wired.com/story/elon-musk-starlink-funding-ukraine/" target="_blank"> Elon Musk’s SpaceX Bails on Starlink Funding for Ukraine </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>October 14, 2022</span></small> \
+<span>October 15, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -9402,6 +9390,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/videos/eset-research-poloniums-creepy-toolset-week-security-tony-anscombe/" target="_blank"> ESET research into POLONIUM’s arsenal – Week in security with Tony Anscombe </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/14/serious-security-microsoft-office-365-attacked-over-feeble-encryption/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/lock-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/14/serious-security-microsoft-office-365-attacked-over-feeble-encryption/" target="_blank"> Serious Security: Microsoft Office 365 attacked over feeble encryption </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 14, 2022</span></small> \
@@ -9425,7 +9425,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/10/12/how-scammers-target-zelle-users-stay-safe/" target="_blank"> How scammers target Zelle users – and how you can stay safe </a> \
+<a href="https://www.welivesecurity.com/2022/10/12/how-scammers-target-zelle-users-stay-safe/" target="_blank"> 10 common Zelle scams – and how to avoid them </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 12, 2022</span></small> \
@@ -9437,7 +9437,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/10/12/how-scammers-target-zelle-users-stay-safe/" target="_blank"> 10 common Zelle scams – and how to avoid them </a> \
+<a href="https://www.welivesecurity.com/2022/10/12/how-scammers-target-zelle-users-stay-safe/" target="_blank"> How scammers target Zelle users – and how you can stay safe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 12, 2022</span></small> \
@@ -9516,54 +9516,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/meta-facebook-login-stealing-android-ios-apps/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/633e1b0c7e8d589e28665ae0/master/pass/Meta-Passwords-Theft-Security-GettyImages-1309960820.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/meta-facebook-login-stealing-android-ios-apps/" target="_blank"> Meta Says It Has Busted More Than 400 Login-Stealing Apps This Year </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 07, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/10/zelle.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/" target="_blank"> Report: Big U.S. Banks Are Stiffing Account Takeover Victims </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 07, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/biden-eu-us-data-privacy-executive-order/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/634078765a49457c993f53eb/master/pass/US-EU-Privacy-Shield-Executive-Order-Business-1369394329.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/biden-eu-us-data-privacy-executive-order/" target="_blank"> Biden’s Privacy Order Slaps a Band-Aid on the EU-US Data Crisis </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 07, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/russia-ukraine-cryptocurrency-funding/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/633f659f4bb7933eb61831fc/master/pass/The-Fight-to-Cut-Off-the-Crypto-Fueling-Russia%E2%80%99s-Ukraine-Invasion-Security-GettyImages-1240747827.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/russia-ukraine-cryptocurrency-funding/" target="_blank"> The Fight to Cut Off the Crypto Fueling Russia\'s Ukraine Invasion </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>October 07, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/key-takeaways-eset-threat-report-t2-2022-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/10/0-2.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -9588,12 +9540,60 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/06/former-uber-cso-convicted-of-covering-up-megabreach-back-in-2016/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/uber-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/russia-ukraine-cryptocurrency-funding/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/633f659f4bb7933eb61831fc/master/pass/The-Fight-to-Cut-Off-the-Crypto-Fueling-Russia%E2%80%99s-Ukraine-Invasion-Security-GettyImages-1240747827.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/06/former-uber-cso-convicted-of-covering-up-megabreach-back-in-2016/" target="_blank"> Former Uber CSO convicted of covering up megabreach back in 2016 </a> \
+<a href="https://www.wired.com/story/russia-ukraine-cryptocurrency-funding/" target="_blank"> The Fight to Cut Off the Crypto Fueling Russia\'s Ukraine Invasion </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 07, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/biden-eu-us-data-privacy-executive-order/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/634078765a49457c993f53eb/master/pass/US-EU-Privacy-Shield-Executive-Order-Business-1369394329.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/biden-eu-us-data-privacy-executive-order/" target="_blank"> Biden’s Privacy Order Slaps a Band-Aid on the EU-US Data Crisis </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 07, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/10/zelle.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2022/10/report-big-u-s-banks-are-stiffing-account-takeover-victims/" target="_blank"> Report: Big U.S. Banks Are Stiffing Account Takeover Victims </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 07, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/meta-facebook-login-stealing-android-ios-apps/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/633e1b0c7e8d589e28665ae0/master/pass/Meta-Passwords-Theft-Security-GettyImages-1309960820.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/meta-facebook-login-stealing-android-ios-apps/" target="_blank"> Meta Says It Has Busted More Than 400 Login-Stealing Apps This Year </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>October 07, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/swatting-schools-us-september-2022/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/633e0ab8fe6027f6ad16e5c2/master/pass/security-swatting-schools.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/swatting-schools-us-september-2022/" target="_blank"> Swatted: A Shooting Hoax Spree Is Terrorizing Schools Across the US </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 06, 2022</span></small> \
@@ -9612,12 +9612,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/swatting-schools-us-september-2022/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/633e0ab8fe6027f6ad16e5c2/master/pass/security-swatting-schools.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/06/former-uber-cso-convicted-of-covering-up-megabreach-back-in-2016/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/uber-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/swatting-schools-us-september-2022/" target="_blank"> Swatted: A Shooting Hoax Spree Is Terrorizing Schools Across the US </a> \
+<a href="https://nakedsecurity.sophos.com/2022/10/06/former-uber-cso-convicted-of-covering-up-megabreach-back-in-2016/" target="_blank"> Former Uber CSO convicted of covering up megabreach back in 2016 </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 06, 2022</span></small> \
@@ -9648,12 +9648,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/04/scammers-and-rogue-callers-can-anything-ever-stop-them/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/phonescam-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/04/romance-scammer-and-bec-fraudster-sent-to-prison-for-25-years/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/rs-1200-2.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/04/scammers-and-rogue-callers-can-anything-ever-stop-them/" target="_blank"> Scammers and rogue callers – can anything ever stop them? </a> \
+<a href="https://nakedsecurity.sophos.com/2022/10/04/romance-scammer-and-bec-fraudster-sent-to-prison-for-25-years/" target="_blank"> BEC fraudster and romance scammer sent to prison for 25 years </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 04, 2022</span></small> \
@@ -9672,12 +9672,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/04/romance-scammer-and-bec-fraudster-sent-to-prison-for-25-years/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/rs-1200-2.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/10/04/scammers-and-rogue-callers-can-anything-ever-stop-them/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/10/phonescam-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/10/04/romance-scammer-and-bec-fraudster-sent-to-prison-for-25-years/" target="_blank"> BEC fraudster and romance scammer sent to prison for 25 years </a> \
+<a href="https://nakedsecurity.sophos.com/2022/10/04/scammers-and-rogue-callers-can-anything-ever-stop-them/" target="_blank"> Scammers and rogue callers – can anything ever stop them? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>October 04, 2022</span></small> \
@@ -9721,11 +9721,11 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/eset-research-uncovers-new-lazarus-campaigns-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/0-42.jpg" alt="" class="img-fluid"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/0-41.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/eset-research-uncovers-new-lazarus-campaigns-week-security-tony-anscombe/" target="_blank"> ESET research into new attacks by Lazarus – Week in security with Tony Anscombe </a> \
+<a href="https://www.welivesecurity.com/videos/eset-research-uncovers-new-lazarus-campaigns-week-security-tony-anscombe/" target="_blank"> ESET Research into new attacks by Lazarus – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 30, 2022</span></small> \
@@ -9745,11 +9745,11 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/eset-research-uncovers-new-lazarus-campaigns-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/0-41.jpg" alt="" class="img-fluid"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/0-42.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/eset-research-uncovers-new-lazarus-campaigns-week-security-tony-anscombe/" target="_blank"> ESET Research into new attacks by Lazarus – Week in security with Tony Anscombe </a> \
+<a href="https://www.welivesecurity.com/videos/eset-research-uncovers-new-lazarus-campaigns-week-security-tony-anscombe/" target="_blank"> ESET research into new attacks by Lazarus – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 30, 2022</span></small> \
@@ -9761,7 +9761,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/matrix-patches-vulnerabilities-that-completely-subvert-e2ee-guarantees/" target="_blank"> A Matrix Update Patches Serious End-to-End Encryption Flaws </a> \
+<a href="https://www.wired.com/story/matrix-patches-vulnerabilities-that-completely-subvert-e2ee-guarantees/" target="_blank"> A Matrix Update Will Patch Serious End-to-End Encryption Flaws </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 29, 2022</span></small> \
@@ -9773,7 +9773,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/matrix-patches-vulnerabilities-that-completely-subvert-e2ee-guarantees/" target="_blank"> A Matrix Update Will Patch Serious End-to-End Encryption Flaws </a> \
+<a href="https://www.wired.com/story/matrix-patches-vulnerabilities-that-completely-subvert-e2ee-guarantees/" target="_blank"> A Matrix Update Patches Serious End-to-End Encryption Flaws </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 29, 2022</span></small> \
@@ -9876,12 +9876,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/best-vpn/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/5e586f50ffd9380009895d8d/master/pass/feature_art-best_vpn.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/2022-itu-secretary-general-election/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/632e50efc9bb1af7ef24988d/master/pass/UN-Vote-ITU-Security-GettyImages-1335882101.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/best-vpn/" target="_blank"> The Best VPNs to Protect Yourself Online </a> \
+<a href="https://www.wired.com/story/2022-itu-secretary-general-election/" target="_blank"> This Vote Could Change the Course of Internet History </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 26, 2022</span></small> \
@@ -9900,24 +9900,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/2022-itu-secretary-general-election/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/632e50efc9bb1af7ef24988d/master/pass/UN-Vote-ITU-Security-GettyImages-1335882101.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/best-vpn/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/5e586f50ffd9380009895d8d/master/pass/feature_art-best_vpn.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/2022-itu-secretary-general-election/" target="_blank"> This Vote Could Change the Course of Internet History </a> \
+<a href="https://www.wired.com/story/best-vpn/" target="_blank"> The Best VPNs to Protect Yourself Online </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 26, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/child-predators-twitch-russia-internet-regulator-security-roundup/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/632e452520bc56769c4131e8/master/pass/Twitch-Child-Predators-Security-GettyImages-1320999349.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/24/uber-and-rockstar-has-a-lapsus-linchpin-just-been-busted-again/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/colp-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/child-predators-twitch-russia-internet-regulator-security-roundup/" target="_blank"> Child Predators Mine Twitch to Prey on Kids </a> \
+<a href="https://nakedsecurity.sophos.com/2022/09/24/uber-and-rockstar-has-a-lapsus-linchpin-just-been-busted-again/" target="_blank"> Uber and Rockstar – has a LAPSUS$ linchpin just been busted (again)? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 24, 2022</span></small> \
@@ -9936,27 +9936,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/24/uber-and-rockstar-has-a-lapsus-linchpin-just-been-busted-again/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/colp-1200-1.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/child-predators-twitch-russia-internet-regulator-security-roundup/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/632e452520bc56769c4131e8/master/pass/Twitch-Child-Predators-Security-GettyImages-1320999349.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/24/uber-and-rockstar-has-a-lapsus-linchpin-just-been-busted-again/" target="_blank"> Uber and Rockstar – has a LAPSUS$ linchpin just been busted (again)? </a> \
+<a href="https://www.wired.com/story/child-predators-twitch-russia-internet-regulator-security-roundup/" target="_blank"> Child Predators Mine Twitch to Prey on Kids </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 24, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/09/23/5-tips-help-children-navigate-internet-safely/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/children-online-safety-tips.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/09/23/5-tips-help-children-navigate-internet-safely/" target="_blank"> 5 tips to help children navigate the internet safely </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 23, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -9972,12 +9960,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/slack-microsoft-teams-app-security/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/632d0df220bc56769c4131d5/master/pass/security-slack-teams.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/09/23/5-tips-help-children-navigate-internet-safely/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/children-online-safety-tips.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/slack-microsoft-teams-app-security/" target="_blank"> Slack’s and Teams’ Lax App Security Raises Alarms </a> \
+<a href="https://www.welivesecurity.com/2022/09/23/5-tips-help-children-navigate-internet-safely/" target="_blank"> 5 tips to help children navigate the internet safely </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 23, 2022</span></small> \
@@ -10020,15 +10008,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/09/22/hey-welivesecurity-how-biometric-authentication-work/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/biometric-authentication-how-works-pros-cons.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/slack-microsoft-teams-app-security/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/632d0df220bc56769c4131d5/master/pass/security-slack-teams.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/09/22/hey-welivesecurity-how-biometric-authentication-work/" target="_blank"> Hey WeLiveSecurity, how does biometric authentication work? </a> \
+<a href="https://www.wired.com/story/slack-microsoft-teams-app-security/" target="_blank"> Slack’s and Teams’ Lax App Security Raises Alarms </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>September 22, 2022</span></small> \
+<span>September 23, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -10068,15 +10056,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/ukraine-war-mobile-networks-russia/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/632a4347995b6da54b57efd7/master/pass/Shadowy-Russian-Cell-Companies-Security-GettyImages-713877183.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/09/22/hey-welivesecurity-how-biometric-authentication-work/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/biometric-authentication-how-works-pros-cons.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/ukraine-war-mobile-networks-russia/" target="_blank"> Shadowy Russian Cell Phone Companies Are Cropping Up in Ukraine </a> \
+<a href="https://www.welivesecurity.com/2022/09/22/hey-welivesecurity-how-biometric-authentication-work/" target="_blank"> Hey WeLiveSecurity, how does biometric authentication work? </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>September 21, 2022</span></small> \
+<span>September 22, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -10086,6 +10074,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2022/09/21/interested-in-cybersecurity-join-us-for-security-sos-week-2022/" target="_blank"> Interested in cybersecurity? Join us for Security SOS Week 2022! </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 21, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/ukraine-war-mobile-networks-russia/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/632a4347995b6da54b57efd7/master/pass/Shadowy-Russian-Cell-Companies-Security-GettyImages-713877183.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/ukraine-war-mobile-networks-russia/" target="_blank"> Shadowy Russian Cell Phone Companies Are Cropping Up in Ukraine </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 21, 2022</span></small> \
@@ -10104,18 +10104,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/nigeria-cybersecurity-issues/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6325236a036b54662b51058f/master/pass/Nigeria-Cybersecurity-Security-GettyImages-1193599505.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/nigeria-cybersecurity-issues/" target="_blank"> The Deep Roots of Nigeria’s Cybersecurity Problem </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 19, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/09/19/can-iphone-be-hacked-what-know-ios-security/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/iphone-ios-hacking-malware-removal.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -10128,15 +10116,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/how-to-use-duckduckgo-privacy-first-email/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6324febb20bc56769c41311a/master/pass/How-to-Use-DuckDuckGo-Email-Privacy-Gear.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/nigeria-cybersecurity-issues/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6325236a036b54662b51058f/master/pass/Nigeria-Cybersecurity-Security-GettyImages-1193599505.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/how-to-use-duckduckgo-privacy-first-email/" target="_blank"> How to Use DuckDuckGo’s Privacy-First Email Service </a> \
+<a href="https://www.wired.com/story/nigeria-cybersecurity-issues/" target="_blank"> The Deep Roots of Nigeria’s Cybersecurity Problem </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>September 18, 2022</span></small> \
+<span>September 19, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -10146,6 +10134,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.wired.com/story/queen-elizabeth-ii-funeral-details-security/" target="_blank"> The Queen’s Funeral Sets Off the Biggest UK Police Operation Ever </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 18, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/how-to-use-duckduckgo-privacy-first-email/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6324febb20bc56769c41311a/master/pass/How-to-Use-DuckDuckGo-Email-Privacy-Gear.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/how-to-use-duckduckgo-privacy-first-email/" target="_blank"> How to Use DuckDuckGo’s Privacy-First Email Service </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 18, 2022</span></small> \
@@ -10164,12 +10164,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/09/botched-crypto-mugging-lands-three-u-k-men-in-jail/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/09/btcbehindbars.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/uber-hack-mfa-phishing/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6324bd9ac4d3ebc9237bc60e/master/pass/Uber-Hack-Security-GettyImages-1238322525.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/09/botched-crypto-mugging-lands-three-u-k-men-in-jail/" target="_blank"> Botched Crypto Mugging Lands Three U.K. Men in Jail </a> \
+<a href="https://www.wired.com/story/uber-hack-mfa-phishing/" target="_blank"> The Uber Hack’s Devastation Is Just Starting to Reveal Itself </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 16, 2022</span></small> \
@@ -10188,36 +10188,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/uber-hack-mfa-phishing/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6324bd9ac4d3ebc9237bc60e/master/pass/Uber-Hack-Security-GettyImages-1238322525.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2022/09/botched-crypto-mugging-lands-three-u-k-men-in-jail/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/09/btcbehindbars.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/uber-hack-mfa-phishing/" target="_blank"> The Uber Hack’s Devastation Is Just Starting to Reveal Itself </a> \
+<a href="https://krebsonsecurity.com/2022/09/botched-crypto-mugging-lands-three-u-k-men-in-jail/" target="_blank"> Botched Crypto Mugging Lands Three U.K. Men in Jail </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 16, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/15/s3-ep100-imagine-you-went-to-the-moon-how-would-you-prove-it-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/s3-ep100-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/sparklinggoblin-apt-new-linux-backdoor-week-security-special/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/0-22.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/15/s3-ep100-imagine-you-went-to-the-moon-how-would-you-prove-it-audio-text/" target="_blank"> S3 Ep100: Imagine you went to the moon – how would you prove it? [Audio + Text] </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 15, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/09/15/third-party-cookies-how-work-stop-tracking-across-web/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/third-party-cookies-blocking-privacy.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/09/15/third-party-cookies-how-work-stop-tracking-across-web/" target="_blank"> Third‑party cookies: How they work and how to stop them from tracking you across the web </a> \
+<a href="https://www.welivesecurity.com/videos/sparklinggoblin-apt-new-linux-backdoor-week-security-special/" target="_blank"> SparklingGoblin deploys new Linux backdoor – Week in security, special edition </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 15, 2022</span></small> \
@@ -10236,39 +10224,27 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/sparklinggoblin-apt-new-linux-backdoor-week-security-special/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/0-22.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/09/15/third-party-cookies-how-work-stop-tracking-across-web/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/third-party-cookies-blocking-privacy.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/sparklinggoblin-apt-new-linux-backdoor-week-security-special/" target="_blank"> SparklingGoblin deploys new Linux backdoor – Week in security, special edition </a> \
+<a href="https://www.welivesecurity.com/2022/09/15/third-party-cookies-how-work-stop-tracking-across-web/" target="_blank"> Third‑party cookies: How they work and how to stop them from tracking you across the web </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 15, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/09/14/you-never-walk-alone-sidewalk-backdoor-linux-variant/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/sidewalk-sparklinggoblin-malware-linux.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/15/s3-ep100-imagine-you-went-to-the-moon-how-would-you-prove-it-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/s3-ep100-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/09/14/you-never-walk-alone-sidewalk-backdoor-linux-variant/" target="_blank"> You never walk alone: The SideWalk backdoor gets a Linux variant </a> \
+<a href="https://nakedsecurity.sophos.com/2022/09/15/s3-ep100-imagine-you-went-to-the-moon-how-would-you-prove-it-audio-text/" target="_blank"> S3 Ep100: Imagine you went to the moon – how would you prove it? [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>September 14, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/peiter-mudge-zatko-twitter-senate-judiciary-testimony/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/632115df20bc56769c4130e7/master/pass/Congress\'s%20takeaways%20from%20the%20Twitter%20whistleblower%20hearing-GettyImages-1423404059.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/peiter-mudge-zatko-twitter-senate-judiciary-testimony/" target="_blank"> The Twitter Whistleblower’s Testimony Has Senators Out for Blood </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 14, 2022</span></small> \
+<span>September 15, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -10296,8 +10272,44 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/peiter-mudge-zatko-twitter-senate-judiciary-testimony/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/632115df20bc56769c4130e7/master/pass/Congress\'s%20takeaways%20from%20the%20Twitter%20whistleblower%20hearing-GettyImages-1423404059.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/peiter-mudge-zatko-twitter-senate-judiciary-testimony/" target="_blank"> The Twitter Whistleblower’s Testimony Has Senators Out for Blood </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/09/14/you-never-walk-alone-sidewalk-backdoor-linux-variant/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/sidewalk-sparklinggoblin-malware-linux.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/09/14/you-never-walk-alone-sidewalk-backdoor-linux-variant/" target="_blank"> You never walk alone: The SideWalk backdoor gets a Linux variant </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 14, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/whistleblower-safety-mudge-twitter-senate-hearing/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/631fc39f00704d14b5ffb878/master/pass/How-Whistleblowers-Navigate-a-Security-Minefield-Security-GettyImages-1242680586.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/whistleblower-safety-mudge-twitter-senate-hearing/" target="_blank"> How Whistleblowers Navigate a Security Minefield </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 13, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/09/13/serious-security-browser-in-the-browser-attacks-watch-out-for-windows-that-arent/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/pipe-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/pipe-light-not-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -10321,7 +10333,7 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/09/13/serious-security-browser-in-the-browser-attacks-watch-out-for-windows-that-arent/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/pipe-light-not-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/pipe-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -10329,30 +10341,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 13, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/whistleblower-safety-mudge-twitter-senate-hearing/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/631fc39f00704d14b5ffb878/master/pass/How-Whistleblowers-Navigate-a-Security-Minefield-Security-GettyImages-1242680586.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/whistleblower-safety-mudge-twitter-senate-hearing/" target="_blank"> How Whistleblowers Navigate a Security Minefield </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 13, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/12/apple-patches-a-zero-day-hole-even-in-the-brand-new-ios-16/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/apple-plus-16-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/12/apple-patches-a-zero-day-hole-even-in-the-brand-new-ios-16/" target="_blank"> Apple patches zero-day holes – even in the brand new iOS 16 </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 12, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -10368,12 +10356,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/09/how-to-deal-with-dates-and-times-without-any-timezone-tantrums/" class="me-4 thumbnail" target="_blank"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/12/apple-patches-a-zero-day-hole-even-in-the-brand-new-ios-16/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/apple-plus-16-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/12/apple-patches-a-zero-day-hole-even-in-the-brand-new-ios-16/" target="_blank"> Apple patches zero-day holes – even in the brand new iOS 16 </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/09/hoe-to-deal-with-dates-and-times-without-any-timezone-tantrums/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/2.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/09/how-to-deal-with-dates-and-times-without-any-timezone-tantrums/" target="_blank"> How to deal with dates and times without any timezone tantrums… </a> \
+<a href="https://nakedsecurity.sophos.com/2022/09/09/hoe-to-deal-with-dates-and-times-without-any-timezone-tantrums/" target="_blank"> How to deal with dates and times without any timezone tantrums… </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 09, 2022</span></small> \
@@ -10392,6 +10392,18 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/09/how-to-deal-with-dates-and-times-without-any-timezone-tantrums/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/2.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/09/09/how-to-deal-with-dates-and-times-without-any-timezone-tantrums/" target="_blank"> How to deal with dates and times without any timezone tantrums… </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 09, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://krebsonsecurity.com/2022/09/transacting-in-person-with-strangers-from-the-internet/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://krebsonsecurity.com/wp-content/uploads/2022/09/internetxchangesafe.png" alt="" class="img-fluid"> \
 </a> \
@@ -10401,30 +10413,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 09, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/09/hoe-to-deal-with-dates-and-times-without-any-timezone-tantrums/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/09/2.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/09/09/hoe-to-deal-with-dates-and-times-without-any-timezone-tantrums/" target="_blank"> How to deal with dates and times without any timezone tantrums… </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 09, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/09/08/toys-behaving-badly-how-parents-protect-family-iot-threats/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/toys-smart-internet-things-children.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/09/08/toys-behaving-badly-how-parents-protect-family-iot-threats/" target="_blank"> Toys behaving badly: How parents can protect their family from IoT threats </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>September 08, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -10440,15 +10428,15 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6318d57fc9bb1af7ef249672/master/pass/security-apple-password.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/09/08/toys-behaving-badly-how-parents-protect-family-iot-threats/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/09/toys-smart-internet-things-children.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/" target="_blank"> Apple’s Killing the Password. Here’s Everything You Need to Know </a> \
+<a href="https://www.welivesecurity.com/2022/09/08/toys-behaving-badly-how-parents-protect-family-iot-threats/" target="_blank"> Toys behaving badly: How parents can protect their family from IoT threats </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>September 07, 2022</span></small> \
+<span>September 08, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -10458,6 +10446,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2022/09/07/rdp-radar-up-close-view-evolving-remote-access-threats/" target="_blank"> RDP on the radar: An up‑close view of evolving remote access threats </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>September 07, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6318d57fc9bb1af7ef249672/master/pass/security-apple-password.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/" target="_blank"> Apple’s Killing the Password. Here’s Everything You Need to Know </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 07, 2022</span></small> \
@@ -10524,12 +10524,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/windows-11-power-automate-attack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/631135648eb3383ad69a2495/master/pass/security-windows-11.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/tiktok-android-app-deep-link-vulnerability/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6310e0fef89e2120665181e7/master/pass/The-Issue-with-TikTok-Security-Alamy-WNCK07.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/windows-11-power-automate-attack/" target="_blank"> A Windows 11 Automation Tool Can Easily Be Hijacked </a> \
+<a href="https://www.wired.com/story/tiktok-android-app-deep-link-vulnerability/" target="_blank"> TikTok Users Were Vulnerable to a Single-Click Attack </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 02, 2022</span></small> \
@@ -10548,12 +10548,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/tiktok-android-app-deep-link-vulnerability/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6310e0fef89e2120665181e7/master/pass/The-Issue-with-TikTok-Security-Alamy-WNCK07.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/windows-11-power-automate-attack/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/631135648eb3383ad69a2495/master/pass/security-windows-11.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/tiktok-android-app-deep-link-vulnerability/" target="_blank"> TikTok Users Were Vulnerable to a Single-Click Attack </a> \
+<a href="https://www.wired.com/story/windows-11-power-automate-attack/" target="_blank"> A Windows 11 Automation Tool Can Easily Be Hijacked </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>September 02, 2022</span></small> \
@@ -10584,12 +10584,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/how-to-use-burner-phone/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/630e6f7fba2a66af641b12c6/master/pass/Burner-Phone-Security-GettyImages-1415243111.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/31/chrome-patches-24-security-holes-enables-sanitizer-safety-system/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/04/chrome-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/how-to-use-burner-phone/" target="_blank"> You’re Not Stringer Bell, but You May Still Need a Burner Phone </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/31/chrome-patches-24-security-holes-enables-sanitizer-safety-system/" target="_blank"> Chrome patches 24 security holes, enables “Sanitizer” safety system </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 31, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/08/31/how-take-control-digital-legacy/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/digital-legacy-assets-facebook-instagram-google.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/08/31/how-take-control-digital-legacy/" target="_blank"> How to take control over your digital legacy </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 31, 2022</span></small> \
@@ -10608,36 +10620,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/31/chrome-patches-24-security-holes-enables-sanitizer-safety-system/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/04/chrome-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/hacktivists-turn-belarusian-presidents-passport-into-nft/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Dictator-Aleksandr-Lukashenko.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/31/chrome-patches-24-security-holes-enables-sanitizer-safety-system/" target="_blank"> Chrome patches 24 security holes, enables “Sanitizer” safety system </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 31, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/china-taiwan-military-tension-fuels-an-active-cyberwar/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/China-Flag-Reuters.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/china-taiwan-military-tension-fuels-an-active-cyberwar/" target="_blank"> China-Taiwan military tension fuels an active cyberwar </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 31, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/31/urgent-apple-quietly-slips-out-zero-day-update-for-older-iphones/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/31/urgent-apple-quietly-slips-out-zero-day-update-for-older-iphones/" target="_blank"> URGENT! Apple slips out zero-day update for older iPhones and iPads </a> \
+<a href="https://cybernews.com/news/hacktivists-turn-belarusian-presidents-passport-into-nft/" target="_blank"> Hacktivists turn Belarusian president’s passport into NFT </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 31, 2022</span></small> \
@@ -10656,24 +10644,36 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/hacktivists-turn-belarusian-presidents-passport-into-nft/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Dictator-Aleksandr-Lukashenko.png" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/31/urgent-apple-quietly-slips-out-zero-day-update-for-older-iphones/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/hacktivists-turn-belarusian-presidents-passport-into-nft/" target="_blank"> Hacktivists turn Belarusian president’s passport into NFT </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/31/urgent-apple-quietly-slips-out-zero-day-update-for-older-iphones/" target="_blank"> URGENT! Apple slips out zero-day update for older iPhones and iPads </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 31, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/31/how-take-control-digital-legacy/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/digital-legacy-assets-facebook-instagram-google.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/china-taiwan-military-tension-fuels-an-active-cyberwar/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/China-Flag-Reuters.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/31/how-take-control-digital-legacy/" target="_blank"> How to take control over your digital legacy </a> \
+<a href="https://cybernews.com/news/china-taiwan-military-tension-fuels-an-active-cyberwar/" target="_blank"> China-Taiwan military tension fuels an active cyberwar </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 31, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/how-to-use-burner-phone/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/630e6f7fba2a66af641b12c6/master/pass/Burner-Phone-Security-GettyImages-1415243111.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/how-to-use-burner-phone/" target="_blank"> You’re Not Stringer Bell, but You May Still Need a Burner Phone </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 31, 2022</span></small> \
@@ -10764,48 +10764,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/february-morning-russia-ukraine-war/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/6303eb981814a994d3a6340b/master/pass/Telegram-Russian-Forces-Security-AP_22173448993355.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/akasa-air-confirms-the-company-was-breached/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Aircraft-Cabin-View.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/february-morning-russia-ukraine-war/" target="_blank"> The Telegram-Powered News Outlet Waging Guerrilla War on Russia </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 29, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/end-to-end-grocery-shopping-comes-to-whatsapp-in-a-new-partnership-with-indias-jiomart/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_2044893080.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/end-to-end-grocery-shopping-comes-to-whatsapp-in-a-new-partnership-with-indias-jiomart/" target="_blank"> End-to-end grocery shopping comes to WhatsApp in a new partnership with India’s JioMart </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 29, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/jack-dorseys-company-block-sued-over-security-breach/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Square-Block-Dorsey.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/jack-dorseys-company-block-sued-over-security-breach/" target="_blank"> End-to-end grocery shopping comes to WhatsApp in a new partnership with India’s JioMart </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 29, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/italian-firm-accused-of-running-pegasus-style-spyware/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/RCSLabHack.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/italian-firm-accused-of-running-pegasus-style-spyware/" target="_blank"> Akasa Air confirms the company was breached </a> \
+<a href="https://cybernews.com/news/akasa-air-confirms-the-company-was-breached/" target="_blank"> Twitter to roll out podcasts </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 29, 2022</span></small> \
@@ -10824,12 +10788,48 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/akasa-air-confirms-the-company-was-breached/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Aircraft-Cabin-View.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/italian-firm-accused-of-running-pegasus-style-spyware/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/RCSLabHack.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/akasa-air-confirms-the-company-was-breached/" target="_blank"> Twitter to roll out podcasts </a> \
+<a href="https://cybernews.com/news/italian-firm-accused-of-running-pegasus-style-spyware/" target="_blank"> Akasa Air confirms the company was breached </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 29, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/end-to-end-grocery-shopping-comes-to-whatsapp-in-a-new-partnership-with-indias-jiomart/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_2044893080.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/end-to-end-grocery-shopping-comes-to-whatsapp-in-a-new-partnership-with-indias-jiomart/" target="_blank"> End-to-end grocery shopping comes to WhatsApp in a new partnership with India’s JioMart </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 29, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/february-morning-russia-ukraine-war/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/6303eb981814a994d3a6340b/master/pass/Telegram-Russian-Forces-Security-AP_22173448993355.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/february-morning-russia-ukraine-war/" target="_blank"> The Telegram-Powered News Outlet Waging Guerrilla War on Russia </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 29, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/jack-dorseys-company-block-sued-over-security-breach/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Square-Block-Dorsey.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/jack-dorseys-company-block-sued-over-security-breach/" target="_blank"> End-to-end grocery shopping comes to WhatsApp in a new partnership with India’s JioMart </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 29, 2022</span></small> \
@@ -10848,12 +10848,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/twitter-to-roll-out-podcasts/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_666017836.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/videos/french-hospital-cyberattack-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/0-10.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/twitter-to-roll-out-podcasts/" target="_blank"> Twitter to roll out podcasts </a> \
+<a href="https://www.welivesecurity.com/videos/french-hospital-cyberattack-week-security-tony-anscombe/" target="_blank"> French hospital crippled by cyberattack – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 26, 2022</span></small> \
@@ -10872,12 +10872,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/french-hospital-cyberattack-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/0-10.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/twitter-to-roll-out-podcasts/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_666017836.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/french-hospital-cyberattack-week-security-tony-anscombe/" target="_blank"> French hospital crippled by cyberattack – Week in security with Tony Anscombe </a> \
+<a href="https://cybernews.com/news/twitter-to-roll-out-podcasts/" target="_blank"> Twitter to roll out podcasts </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 26, 2022</span></small> \
@@ -10885,11 +10885,11 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/fired-bank-worker-accused-of-cyberstalking-female-former-colleagues/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/CyberstalkingCharges.png" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/CyberstalkingCharges.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/fired-bank-worker-accused-of-cyberstalking-female-former-colleagues/" target="_blank"> Fired bank worker accused of cyberstalking female former colleagues </a> \
+<a href="https://cybernews.com/news/fired-bank-worker-accused-of-cyberstalking-female-former-colleagues/" target="_blank"> Plex allegedly hacked, emails and hashed passwords stolen </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 25, 2022</span></small> \
@@ -10902,6 +10902,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/" target="_blank"> Cybercriminals Are Selling Access to Chinese Surveillance Cameras </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 25, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/fired-bank-worker-accused-of-cyberstalking-female-former-colleagues/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/CyberstalkingCharges.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/fired-bank-worker-accused-of-cyberstalking-female-former-colleagues/" target="_blank"> Fired bank worker accused of cyberstalking female former colleagues </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 25, 2022</span></small> \
@@ -10968,24 +10980,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/fired-bank-worker-accused-of-cyberstalking-female-former-colleagues/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/CyberstalkingCharges.png" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/24/breaching-airgap-security-using-your-phones-compass-as-a-microphone/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/sig-1200.png.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/fired-bank-worker-accused-of-cyberstalking-female-former-colleagues/" target="_blank"> Plex allegedly hacked, emails and hashed passwords stolen </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 25, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/plex-allegedly-hacked-emails-and-hashed-passwords-stolen/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Plexstreaming.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/plex-allegedly-hacked-emails-and-hashed-passwords-stolen/" target="_blank"> French hospital forced to switch to pen and paper following a disruptive cyberattack </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/24/breaching-airgap-security-using-your-phones-compass-as-a-microphone/" target="_blank"> Breaching airgap security: using your phone’s compass as a microphone! </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 24, 2022</span></small> \
@@ -11004,12 +11004,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/24/breaching-airgap-security-using-your-phones-compass-as-a-microphone/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/sig-1200.png.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/plex-allegedly-hacked-emails-and-hashed-passwords-stolen/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Plexstreaming.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/24/breaching-airgap-security-using-your-phones-compass-as-a-microphone/" target="_blank"> Breaching airgap security: using your phone’s gyroscope as a microphone </a> \
+<a href="https://cybernews.com/news/plex-allegedly-hacked-emails-and-hashed-passwords-stolen/" target="_blank"> French hospital forced to switch to pen and paper following a disruptive cyberattack </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 24, 2022</span></small> \
@@ -11021,7 +11021,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/24/breaching-airgap-security-using-your-phones-compass-as-a-microphone/" target="_blank"> Breaching airgap security: using your phone’s compass as a microphone! </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/24/breaching-airgap-security-using-your-phones-compass-as-a-microphone/" target="_blank"> Breaching airgap security: using your phone’s gyroscope as a microphone </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 24, 2022</span></small> \
@@ -11040,8 +11040,56 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/23/bitcoin-atms-leeched-by-attackers-who-created-fake-admin-accounts/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/btc-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/23/bitcoin-atms-leeched-by-attackers-who-created-fake-admin-accounts/" target="_blank"> Bitcoin ATMs leeched by attackers who created fake admin accounts </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 23, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/mudge-twitter-whistleblower-security/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63050c6235e945940dec1c8e/master/pass/Twitter-Whistleblower-Business-GettyImages-1236173576.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/mudge-twitter-whistleblower-security/" target="_blank"> The Most Damning Allegation in the Twitter Whistleblower’s Report </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 23, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/mudge-twitter-whistleblower-security/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/63050c6235e945940dec1c8e/master/pass/Twitter-Whistleblower-Business-GettyImages-1236173576.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/mudge-twitter-whistleblower-security/" target="_blank"> The Twitter Whistleblower Report’s Most Damning Allegation </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 23, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/one-third-of-american-parents-think-tiktok-should-be-banned-in-the-us/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1774658300.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/one-third-of-american-parents-think-tiktok-should-be-banned-in-the-us/" target="_blank"> Oracle faces civil lawsuit over alleged privacy violations </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 23, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/french-hospital-ransomware-attack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/hospitalnearparis.jpg" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/hospitalnearparis.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -11064,20 +11112,8 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/23/bitcoin-atms-leeched-by-attackers-who-created-fake-admin-accounts/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/btc-1200.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/23/bitcoin-atms-leeched-by-attackers-who-created-fake-admin-accounts/" target="_blank"> Bitcoin ATMs leeched by attackers who created fake admin accounts </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 23, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/french-hospital-ransomware-attack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/hospitalnearparis.jpg" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/hospitalnearparis.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -11088,48 +11124,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/one-third-of-american-parents-think-tiktok-should-be-banned-in-the-us/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1774658300.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/viasat-hack-impacted-french-critical-services/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/Ambulancecarinfrance.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/one-third-of-american-parents-think-tiktok-should-be-banned-in-the-us/" target="_blank"> Oracle faces civil lawsuit over alleged privacy violations </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 23, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/mudge-twitter-whistleblower-security/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63050c6235e945940dec1c8e/master/pass/Twitter-Whistleblower-Business-GettyImages-1236173576.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/mudge-twitter-whistleblower-security/" target="_blank"> The Twitter Whistleblower Report’s Most Damning Allegation </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 23, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/mudge-twitter-whistleblower-security/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/63050c6235e945940dec1c8e/master/pass/Twitter-Whistleblower-Business-GettyImages-1236173576.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/mudge-twitter-whistleblower-security/" target="_blank"> The Most Damning Allegation in the Twitter Whistleblower’s Report </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 23, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/hackers-post-data-dump-from-uk-water-company-cyberattack-says-twitter-pundit/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/BurstWaterPipe.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/hackers-post-data-dump-from-uk-water-company-cyberattack-says-twitter-pundit/" target="_blank"> VIASAT hack impacted French critical services </a> \
+<a href="https://cybernews.com/news/viasat-hack-impacted-french-critical-services/" target="_blank"> VIASAT hack impacted French critical services </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 22, 2022</span></small> \
@@ -11141,7 +11141,7 @@ document.write(' \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/viasat-hack-impacted-french-critical-services/" target="_blank"> VIASAT hack impacted French critical services </a> \
+<a href="https://cybernews.com/news/viasat-hack-impacted-french-critical-services/" target="_blank"> VPNs on iOS are “a scam” as they have been leaking traffic for years, security researcher says </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 22, 2022</span></small> \
@@ -11161,7 +11161,7 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/viasat-hack-impacted-french-critical-services/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/Ambulancecarinfrance.jpg" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Ambulancecarinfrance.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -11184,12 +11184,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/viasat-hack-impacted-french-critical-services/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Ambulancecarinfrance.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/hackers-post-data-dump-from-uk-water-company-cyberattack-says-twitter-pundit/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/BurstWaterPipe.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/viasat-hack-impacted-french-critical-services/" target="_blank"> VPNs on iOS are “a scam” as they have been leaking traffic for years, security researcher says </a> \
+<a href="https://cybernews.com/news/hackers-post-data-dump-from-uk-water-company-cyberattack-says-twitter-pundit/" target="_blank"> VIASAT hack impacted French critical services </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 22, 2022</span></small> \
@@ -11220,48 +11220,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/videos/google-apple-patches-against-zero-day-vulnerabilities-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/0-5.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/videos/google-apple-patches-against-zero-day-vulnerabilities-week-security-tony-anscombe/" target="_blank"> Google and Apple both release patches against zero‑day vulnerabilities – Week in security with Tony Anscombe </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 19, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/amazon-fixes-a-bug-in-the-ring-camera-app/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/amazonringdoorbell.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/amazon-fixes-a-bug-in-the-ring-camera-app/" target="_blank"> Amazon fixes a bug in the Ring camera app </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 19, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/vpns-on-ios-are-a-scam-as-they-have-been-leaking-traffic-for-years-security-researcher-says/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_1779443291.jpg" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1779443291.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/vpns-on-ios-are-a-scam-as-they-have-been-leaking-traffic-for-years-security-researcher-says/" target="_blank"> VPNs on iOS are “a scam” as they have been leaking traffic for years, security researcher says </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 19, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/19112256/always-update-safari-on-iphone-featured.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/" target="_blank"> iPhone Users Urged to Update to Patch 2 Zero-Days </a> \
+<a href="https://cybernews.com/news/vpns-on-ios-are-a-scam-as-they-have-been-leaking-traffic-for-years-security-researcher-says/" target="_blank"> Amazon fixes a bug in the Ring camera app </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 19, 2022</span></small> \
@@ -11280,12 +11244,48 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/vpns-on-ios-are-a-scam-as-they-have-been-leaking-traffic-for-years-security-researcher-says/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1779443291.jpg" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/19112256/always-update-safari-on-iphone-featured.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/vpns-on-ios-are-a-scam-as-they-have-been-leaking-traffic-for-years-security-researcher-says/" target="_blank"> Amazon fixes a bug in the Ring camera app </a> \
+<a href="https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/" target="_blank"> iPhone Users Urged to Update to Patch 2 Zero-Days </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 19, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/vpns-on-ios-are-a-scam-as-they-have-been-leaking-traffic-for-years-security-researcher-says/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_1779443291.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/vpns-on-ios-are-a-scam-as-they-have-been-leaking-traffic-for-years-security-researcher-says/" target="_blank"> VPNs on iOS are “a scam” as they have been leaking traffic for years, security researcher says </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 19, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/amazon-fixes-a-bug-in-the-ring-camera-app/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/amazonringdoorbell.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/amazon-fixes-a-bug-in-the-ring-camera-app/" target="_blank"> Amazon fixes a bug in the Ring camera app </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 19, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/videos/google-apple-patches-against-zero-day-vulnerabilities-week-security-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/0-5.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/videos/google-apple-patches-against-zero-day-vulnerabilities-week-security-tony-anscombe/" target="_blank"> Google and Apple both release patches against zero‑day vulnerabilities – Week in security with Tony Anscombe </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 19, 2022</span></small> \
@@ -11304,12 +11304,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/08/paypalinvoiceupdated.png" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/18/s3-ep96-zoom-0-day-aepic-leak-conti-reward-heathcare-security-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/bn-1200-2.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/" target="_blank"> PayPal Phishing Scam Uses Invoices Sent Via PayPal </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/18/s3-ep96-zoom-0-day-aepic-leak-conti-reward-heathcare-security-audio-text/" target="_blank"> S3 Ep96: Zoom 0-day, AEPIC leak, Conti reward, heathcare security [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 18, 2022</span></small> \
@@ -11328,120 +11328,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/russian-citizen-to-face-ransomware-laundering-charges-in-us/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/HandcuffsCustody.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/russian-citizen-to-face-ransomware-laundering-charges-in-us/" target="_blank"> Kindle removes a key feature in today’s update: learn who’s impacted </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/estonia-suffers-the-most-extensive-cyberattack-since-2007-after-removing-soviet-monuments/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1774136900.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/estonia-suffers-the-most-extensive-cyberattack-since-2007-after-removing-soviet-monuments/" target="_blank"> Students envision teamwork for robots exploring distant worlds on their own </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/students-envision-teamwork-for-robots-exploring-distant-worlds-on-their-own/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/viterbi_robot.PNG" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/students-envision-teamwork-for-robots-exploring-distant-worlds-on-their-own/" target="_blank"> Emirati artificial intelligence firm sets up $10 billion tech fund </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/18/apple-patches-double-zero-day-in-browser-and-kernel-update-now/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/18/apple-patches-double-zero-day-in-browser-and-kernel-update-now/" target="_blank"> Apple patches double zero-day in browser and kernel – update now! </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/signal-tips-private-messaging-encryption/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/5ed96cccb63c1cc1a08d94be/master/pass/Security_signal_813099398.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/signal-tips-private-messaging-encryption/" target="_blank"> How to Use Signal Encrypted Messaging </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f413c41037f5e51b672909/master/pass/macOS_Sec_GettyImages-1401408918-(1).jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/" target="_blank"> Spyware Hunters Are Expanding Their Tool Set </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/18/guide-enjoy-linkedin-safely/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1022748394-1-small.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/18/guide-enjoy-linkedin-safely/" target="_blank"> A step‑by‑step guide to enjoying LinkedIn safely </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/08/18/s3-ep96-zoom-0-day-aepic-leak-conti-reward-heathcare-security-audio-text/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/bn-1200-2.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/18/s3-ep96-zoom-0-day-aepic-leak-conti-reward-heathcare-security-audio-text/" target="_blank"> S3 Ep96: Zoom 0-day, AEPIC leak, Conti reward, heathcare security [Audio + Text] </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/emirati-ai-firm-sets-up-10-billion-tech-fund/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/UAEtechshow.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/emirati-ai-firm-sets-up-10-billion-tech-fund/" target="_blank"> Apple in patch emergency after spotting two bugs </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 18, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/18/guide-enjoy-linkedin-safely/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1022748394-1-small.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/18/guide-enjoy-linkedin-safely/" target="_blank"> A step‑by‑step guide to enjoy LinkedIn safely </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/18/s3-ep96-zoom-0-day-aepic-leak-conti-reward-heathcare-security-audio-text/" target="_blank"> S3 Ep96: Zoom 0-day, AEPIC leak, Conti reward, healthcare security [Audio + Text] </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 18, 2022</span></small> \
@@ -11460,12 +11352,60 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/18/s3-ep96-zoom-0-day-aepic-leak-conti-reward-heathcare-security-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/06/bn-1200-2.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/08/18/guide-enjoy-linkedin-safely/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1022748394-1-small.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/18/s3-ep96-zoom-0-day-aepic-leak-conti-reward-heathcare-security-audio-text/" target="_blank"> S3 Ep96: Zoom 0-day, AEPIC leak, Conti reward, healthcare security [Audio + Text] </a> \
+<a href="https://www.welivesecurity.com/2022/08/18/guide-enjoy-linkedin-safely/" target="_blank"> A step‑by‑step guide to enjoy LinkedIn safely </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 18, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/emirati-ai-firm-sets-up-10-billion-tech-fund/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/UAEtechshow.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/emirati-ai-firm-sets-up-10-billion-tech-fund/" target="_blank"> Apple in patch emergency after spotting two bugs </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 18, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/08/paypalinvoiceupdated.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/" target="_blank"> PayPal Phishing Scam Uses Invoices Sent Via PayPal </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 18, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/08/18/guide-enjoy-linkedin-safely/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1022748394-1-small.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/08/18/guide-enjoy-linkedin-safely/" target="_blank"> A step‑by‑step guide to enjoying LinkedIn safely </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 18, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/signal-tips-private-messaging-encryption/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/5ed96cccb63c1cc1a08d94be/master/pass/Security_signal_813099398.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/signal-tips-private-messaging-encryption/" target="_blank"> How to Use Signal Encrypted Messaging </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 18, 2022</span></small> \
@@ -11480,43 +11420,55 @@ document.write(' \
 <a href="https://nakedsecurity.sophos.com/2022/08/18/apple-patches-double-zero-day-in-browser-and-kernel-update-now/" target="_blank"> Apple patches double zero-day in browser and kernel – update now! </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 17, 2022</span></small> \
+<span>August 18, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/iran-backed-threat-group-targeting-israeli-shipping-says-analyst/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/JaffaPortTelAviv.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/students-envision-teamwork-for-robots-exploring-distant-worlds-on-their-own/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/viterbi_robot.PNG" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/iran-backed-threat-group-targeting-israeli-shipping-says-analyst/" target="_blank"> Bruce Lee\'s house recreated in metaverse </a> \
+<a href="https://cybernews.com/news/students-envision-teamwork-for-robots-exploring-distant-worlds-on-their-own/" target="_blank"> Emirati artificial intelligence firm sets up $10 billion tech fund </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 17, 2022</span></small> \
+<span>August 18, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/apt-lazarus-macos-malware/180426/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/02/04145722/APT_Lazarus_APT.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/estonia-suffers-the-most-extensive-cyberattack-since-2007-after-removing-soviet-monuments/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1774136900.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/apt-lazarus-macos-malware/180426/" target="_blank"> APT Lazarus Targets Engineers with macOS Malware </a> \
+<a href="https://cybernews.com/news/estonia-suffers-the-most-extensive-cyberattack-since-2007-after-removing-soviet-monuments/" target="_blank"> Students envision teamwork for robots exploring distant worlds on their own </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 17, 2022</span></small> \
+<span>August 18, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/kindle-removes-a-key-feature-in-todays-update-learn-whos-impacted/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_1921639616.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/russian-citizen-to-face-ransomware-laundering-charges-in-us/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/HandcuffsCustody.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/kindle-removes-a-key-feature-in-todays-update-learn-whos-impacted/" target="_blank"> Kindle removes a key feature in today’s update: learn who’s impacted </a> \
+<a href="https://cybernews.com/news/russian-citizen-to-face-ransomware-laundering-charges-in-us/" target="_blank"> Kindle removes a key feature in today’s update: learn who’s impacted </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 17, 2022</span></small> \
+<span>August 18, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f413c41037f5e51b672909/master/pass/macOS_Sec_GettyImages-1401408918-(1).jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/spyware-hunting-tools-mac-pc-black-hat/" target="_blank"> Spyware Hunters Are Expanding Their Tool Set </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 18, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -11526,6 +11478,54 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2022/08/17/chrome-browser-gets-11-security-fixes-with-1-zero-day-update-now/" target="_blank"> Chrome browser gets 11 security fixes with 1 zero-day – update now! </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 17, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/bruce-lee-to-get-an-address-in-the-metaverse/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/bruce_lee.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/bruce-lee-to-get-an-address-in-the-metaverse/" target="_blank"> Bruce Lee\'s house recreated in metaverse </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 17, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/kindle-removes-a-key-feature-in-todays-update-learn-whos-impacted/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1921639616.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/kindle-removes-a-key-feature-in-todays-update-learn-whos-impacted/" target="_blank"> Iran-backed threat group targeting Israeli shipping, says analyst </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 17, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/russian-cyber-espionage-gang-targets-nato-ngos-and-think-tanks-microsoft/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/NATOmirror.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/russian-cyber-espionage-gang-targets-nato-ngos-and-think-tanks-microsoft/" target="_blank"> Redwire developing first commercial space greenhouse </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 17, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/redwire-developing-first-commercial-space-greenhouse/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/ISS.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/redwire-developing-first-commercial-space-greenhouse/" target="_blank"> Mailchimp admits to being hijacked </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 17, 2022</span></small> \
@@ -11556,24 +11556,36 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/redwire-developing-first-commercial-space-greenhouse/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/ISS.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/18/apple-patches-double-zero-day-in-browser-and-kernel-update-now/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/01/apple-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/redwire-developing-first-commercial-space-greenhouse/" target="_blank"> Mailchimp admits to being hijacked </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/18/apple-patches-double-zero-day-in-browser-and-kernel-update-now/" target="_blank"> Apple patches double zero-day in browser and kernel – update now! </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 17, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/russian-cyber-espionage-gang-targets-nato-ngos-and-think-tanks-microsoft/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/NATOmirror.jpg" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/apt-lazarus-macos-malware/180426/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/02/04145722/APT_Lazarus_APT.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/russian-cyber-espionage-gang-targets-nato-ngos-and-think-tanks-microsoft/" target="_blank"> Redwire developing first commercial space greenhouse </a> \
+<a href="https://threatpost.com/apt-lazarus-macos-malware/180426/" target="_blank"> APT Lazarus Targets Engineers with macOS Malware </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 17, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/iran-backed-threat-group-targeting-israeli-shipping-says-analyst/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/JaffaPortTelAviv.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/iran-backed-threat-group-targeting-israeli-shipping-says-analyst/" target="_blank"> Bruce Lee\'s house recreated in metaverse </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 17, 2022</span></small> \
@@ -11581,71 +11593,23 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/kindle-removes-a-key-feature-in-todays-update-learn-whos-impacted/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1921639616.jpg" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/Shutterstock_1921639616.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/kindle-removes-a-key-feature-in-todays-update-learn-whos-impacted/" target="_blank"> Iran-backed threat group targeting Israeli shipping, says analyst </a> \
+<a href="https://cybernews.com/news/kindle-removes-a-key-feature-in-todays-update-learn-whos-impacted/" target="_blank"> Kindle removes a key feature in today’s update: learn who’s impacted </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 17, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/bruce-lee-to-get-an-address-in-the-metaverse/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/bruce_lee.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/uk-water-supplier-with-over-a-million-customers-hit-by-cyberattack/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_473392108.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/bruce-lee-to-get-an-address-in-the-metaverse/" target="_blank"> Bruce Lee\'s house recreated in metaverse </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 17, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/facebook-owned-free-apps-are-data-hungriest-study-finds/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/FacebookMessengerGenericPic.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/facebook-owned-free-apps-are-data-hungriest-study-finds/" target="_blank"> Women are more prone to cybersickness, study indicates </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 16, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/16/def-con-2022-elections-safe-edition/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1853749987-e1660611798433.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/16/def-con-2022-elections-safe-edition/" target="_blank"> DEF CON – “don’t worry, the elections are safe” edition </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 16, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/xiaomi-phones-found-vulnerable-to-payment-forgery/180416/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/04/04130521/Xiaomi-control-gaurd-phone.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/xiaomi-phones-found-vulnerable-to-payment-forgery/180416/" target="_blank"> Xiaomi Phone Bug Allowed Payment Forgery </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 16, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/16/spoofed-email-passed-spf-check-inbox/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_449510731-SMALL.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/16/spoofed-email-passed-spf-check-inbox/" target="_blank"> How a spoofed email passed the SPF check and landed in my inbox </a> \
+<a href="https://cybernews.com/news/uk-water-supplier-with-over-a-million-customers-hit-by-cyberattack/" target="_blank"> Facebook-owned free apps are data-hungriest, study finds </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 16, 2022</span></small> \
@@ -11664,27 +11628,51 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/uk-water-supplier-with-over-a-million-customers-hit-by-cyberattack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_473392108.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/08/16/spoofed-email-passed-spf-check-inbox/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_449510731-SMALL.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/uk-water-supplier-with-over-a-million-customers-hit-by-cyberattack/" target="_blank"> Facebook-owned free apps are data-hungriest, study finds </a> \
+<a href="https://www.welivesecurity.com/2022/08/16/spoofed-email-passed-spf-check-inbox/" target="_blank"> How a spoofed email passed the SPF check and landed in my inbox </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 16, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/15/black-hat-2022-burnout-significant-issue/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1434785840.jpg" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/xiaomi-phones-found-vulnerable-to-payment-forgery/180416/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/04/04130521/Xiaomi-control-gaurd-phone.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/15/black-hat-2022-burnout-significant-issue/" target="_blank"> Black Hat USA 2022: Burnout, a significant issue </a> \
+<a href="https://threatpost.com/xiaomi-phones-found-vulnerable-to-payment-forgery/180416/" target="_blank"> Xiaomi Phone Bug Allowed Payment Forgery </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 15, 2022</span></small> \
+<span>August 16, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/08/16/def-con-2022-elections-safe-edition/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1853749987-e1660611798433.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/08/16/def-con-2022-elections-safe-edition/" target="_blank"> DEF CON – “don’t worry, the elections are safe” edition </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 16, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/facebook-owned-free-apps-are-data-hungriest-study-finds/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/FacebookMessengerGenericPic.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/facebook-owned-free-apps-are-data-hungriest-study-finds/" target="_blank"> Women are more prone to cybersickness, study indicates </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 16, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -11706,6 +11694,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/2022/08/15/black-hat-cloud-hacking-casualty-platform/" target="_blank"> Black Hat – Windows isn’t the only mass casualty platform anymore </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 15, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/08/15/black-hat-2022-burnout-significant-issue/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1434785840.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/08/15/black-hat-2022-burnout-significant-issue/" target="_blank"> Black Hat USA 2022: Burnout, a significant issue </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 15, 2022</span></small> \
@@ -11760,90 +11760,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/zoom-auto-update-mac-flaws/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f6888e7e7512dc132d18ba/master/pass/Zoom-Hack-Security-GettyImages-1398864433.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/zoom-auto-update-mac-flaws/" target="_blank"> Zoom’s Auto-Update Feature Came With Hidden Risks on Mac </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/us-unmasks-conti-suspect-for-first-time-asks-public-help-to-identify-him/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/AmericanJusticesSystem.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/us-unmasks-conti-suspect-for-first-time-asks-public-help-to-identify-him/" target="_blank"> US unmasks Conti suspect for first time, asks public help to identify him </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/a-single-flaw-broke-every-layer-of-security-in-macos/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f6a62e16995ea7b1a92d7e/master/pass/MacOS-Vulnerability-Security-GettyImages-1233013970.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/a-single-flaw-broke-every-layer-of-security-in-macos/" target="_blank"> A Single Flaw Broke Every Layer of Security in MacOS </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/study-reveals-ai-prediction-model-that-could-help-save-firefighter-lives/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Flashover.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/study-reveals-ai-prediction-model-that-could-help-save-firefighter-lives/" target="_blank"> Boston crook jailed for scamming elderly online </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/nuclear-documents-us-classification-system/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f669c03879da9895f527ff/master/pass/Nuclear_documents_Sec_GettyImages-134059951.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/nuclear-documents-us-classification-system/" target="_blank"> Here’s What Trump’s ‘Nuclear Documents’ Could Be </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/australian-court-orders-google-to-pay-43-million-for-misleading-users/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/Shutterstock_2111602964.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/australian-court-orders-google-to-pay-43-million-for-misleading-users/" target="_blank"> FTC zeroes in on Big Tech with public consultation </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/12/black-hat-2022-cyberdefense-ukraine/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1940179153-e1660267202236.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/12/black-hat-2022-cyberdefense-ukraine/" target="_blank"> Black Hat 2022‑ Cyberdefense in a global threats era </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://threatpost.com/facebook-ios-tracks-anything/180395/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2018/12/19091350/facebook_monitoring_700.jpg" alt="" class="img-fluid"> \
 </a> \
@@ -11856,12 +11772,48 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/us-unmasks-conti-suspect-for-first-time-asks-public-help-to-identify-him/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/AmericanJusticesSystem.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2022/08/sounding-the-alarm-on-emergency-alert-system-flaws/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/08/das-eas.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/us-unmasks-conti-suspect-for-first-time-asks-public-help-to-identify-him/" target="_blank"> Meta failing to stamp out cyberbullying, says report </a> \
+<a href="https://krebsonsecurity.com/2022/08/sounding-the-alarm-on-emergency-alert-system-flaws/" target="_blank"> Sounding the Alarm on Emergency Alert System Flaws </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/meta-failing-to-stamp-out-cyberbullying-says-report/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/meta_hq.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/meta-failing-to-stamp-out-cyberbullying-says-report/" target="_blank"> Meta failing to stamp out cyberbullying, says report </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/08/12/safety-first-how-to-tweak-the-settings-on-your-dating-apps/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1850354170-1-e1660262759567.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/08/12/safety-first-how-to-tweak-the-settings-on-your-dating-apps/" target="_blank"> Safety first: how to tweak the settings on your dating apps </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/us-unmasks-conti-suspect-for-first-time-asks-public-help-to-identify-him/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/AmericanJusticesSystem.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/us-unmasks-conti-suspect-for-first-time-asks-public-help-to-identify-him/" target="_blank"> US unmasks Conti suspect for first time, asks public help to identify him </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 12, 2022</span></small> \
@@ -11881,7 +11833,79 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/us-unmasks-conti-suspect-for-first-time-asks-public-help-to-identify-him/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/AmericanJusticesSystem.jpg" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/AmericanJusticesSystem.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/us-unmasks-conti-suspect-for-first-time-asks-public-help-to-identify-him/" target="_blank"> Meta failing to stamp out cyberbullying, says report </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/08/12/black-hat-2022-cyberdefense-ukraine/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1940179153-e1660267202236.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/08/12/black-hat-2022-cyberdefense-ukraine/" target="_blank"> Black Hat 2022‑ Cyberdefense in a global threats era </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/australian-court-orders-google-to-pay-43-million-for-misleading-users/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/Shutterstock_2111602964.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/australian-court-orders-google-to-pay-43-million-for-misleading-users/" target="_blank"> FTC zeroes in on Big Tech with public consultation </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/nuclear-documents-us-classification-system/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f669c03879da9895f527ff/master/pass/Nuclear_documents_Sec_GettyImages-134059951.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/nuclear-documents-us-classification-system/" target="_blank"> Here’s What Trump’s ‘Nuclear Documents’ Could Be </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/study-reveals-ai-prediction-model-that-could-help-save-firefighter-lives/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Flashover.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/study-reveals-ai-prediction-model-that-could-help-save-firefighter-lives/" target="_blank"> Boston crook jailed for scamming elderly online </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/a-single-flaw-broke-every-layer-of-security-in-macos/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f6a62e16995ea7b1a92d7e/master/pass/MacOS-Vulnerability-Security-GettyImages-1233013970.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/a-single-flaw-broke-every-layer-of-security-in-macos/" target="_blank"> A Single Flaw Broke Every Layer of Security in MacOS </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 12, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/us-unmasks-conti-suspect-for-first-time-asks-public-help-to-identify-him/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/AmericanJusticesSystem.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -11892,140 +11916,20 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/12/safety-first-how-to-tweak-the-settings-on-your-dating-apps/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1850354170-1-e1660262759567.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/zoom-auto-update-mac-flaws/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f6888e7e7512dc132d18ba/master/pass/Zoom-Hack-Security-GettyImages-1398864433.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/12/safety-first-how-to-tweak-the-settings-on-your-dating-apps/" target="_blank"> Safety first: how to tweak the settings on your dating apps </a> \
+<a href="https://www.wired.com/story/zoom-auto-update-mac-flaws/" target="_blank"> Zoom’s Auto-Update Feature Came With Hidden Risks on Mac </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/meta-failing-to-stamp-out-cyberbullying-says-report/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/meta_hq.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/meta-failing-to-stamp-out-cyberbullying-says-report/" target="_blank"> Meta failing to stamp out cyberbullying, says report </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/08/sounding-the-alarm-on-emergency-alert-system-flaws/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/08/das-eas.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/08/sounding-the-alarm-on-emergency-alert-system-flaws/" target="_blank"> Sounding the Alarm on Emergency Alert System Flaws </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 12, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/11/s3-ep95-slack-leak-github-onslaught-and-post-quantum-crypto-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/schroe-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/11/s3-ep95-slack-leak-github-onslaught-and-post-quantum-crypto-audio-text/" target="_blank"> S3 Ep95: Slack leak, Github onslaught, and post-quantum crypto [Audio + Text] </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/boston-crook-jailed-for-scamming-elderly-online/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/OldWomanGettingRomanceScammed.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/boston-crook-jailed-for-scamming-elderly-online/" target="_blank"> Public healthcare service in UK hit by ransomware </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/researchers-discover-an-architectural-bug-in-intel-cpus/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/IntelCPUpic.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/researchers-discover-an-architectural-bug-in-intel-cpus/" target="_blank"> Samsung showcases new foldables </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/public-healthcare-service-in-uk-hit-by-ransomware/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/HospitalAnE.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/public-healthcare-service-in-uk-hit-by-ransomware/" target="_blank"> Cybersecurity firm Cisco admits to being hacked </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/meta-messenger-encryption-nebraska-abortion/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f48ec470af0aae2b39935a/master/pass/Meta-E2EE_Default-Test-Experience-Security.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/meta-messenger-encryption-nebraska-abortion/" target="_blank"> Meta Just Happens to Expand Messenger’s End-to-End Encryption </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/public-healthcare-service-in-uk-hit-by-ransomware/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/HospitalAnE.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/public-healthcare-service-in-uk-hit-by-ransomware/" target="_blank"> Public healthcare service in UK hit by ransomware </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/robots-hired-to-stock-shelves-in-japans-stores-short-of-staff/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/scara_robot.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/robots-hired-to-stock-shelves-in-japans-stores-short-of-staff/" target="_blank"> Nigerians extradited to US to face email scam charges </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 11, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/11/building-trust-zero-trust-channelcon/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1958585461-thumb.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/11/building-trust-zero-trust-channelcon/" target="_blank"> An eighties classic – Zero Trust </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 11, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://threatpost.com/starlink-hack/180389/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/12093423/space-report-resize.jpg" alt="" class="img-fluid"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/11114539/space-report-2021.jpeg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -12042,6 +11946,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://cybernews.com/news/robots-hired-to-stock-shelves-in-japans-stores-short-of-staff/" target="_blank"> Robots hired to stock shelves in Japan’s stores short of staff </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 11, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/08/11/building-trust-zero-trust-channelcon/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/shutterstock_1958585461-thumb.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/08/11/building-trust-zero-trust-channelcon/" target="_blank"> An eighties classic – Zero Trust </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 11, 2022</span></small> \
@@ -12072,12 +11988,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/starlink-hack/180389/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/11114539/space-report-2021.jpeg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/this-anti-tracking-tool-checks-if-youre-being-followed/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f435bf922c62d7df489f30/master/pass/silhoette_man_sec_GettyImages-1143750062.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/starlink-hack/180389/" target="_blank"> Starlink Successfully Hacked Using $25 Modchip </a> \
+<a href="https://www.wired.com/story/this-anti-tracking-tool-checks-if-youre-being-followed/" target="_blank"> This Anti-Tracking Tool Checks If You’re Being Followed </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 11, 2022</span></small> \
@@ -12120,48 +12036,108 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/this-anti-tracking-tool-checks-if-youre-being-followed/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f435bf922c62d7df489f30/master/pass/silhoette_man_sec_GettyImages-1143750062.jpg" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/starlink-hack/180389/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/08/12093423/space-report-resize.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/this-anti-tracking-tool-checks-if-youre-being-followed/" target="_blank"> This Anti-Tracking Tool Checks If You’re Being Followed </a> \
+<a href="https://threatpost.com/starlink-hack/180389/" target="_blank"> Starlink Successfully Hacked Using $25 Modchip </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 11, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/starlink-internet-dish-hack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f3003116995ea7b1a92d59/master/pass/Starlink-Hack-Security-GettyImages-1239230849.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/robots-hired-to-stock-shelves-in-japans-stores-short-of-staff/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/scara_robot.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/starlink-internet-dish-hack/" target="_blank"> The Hacking of Starlink Terminals Has Begun </a> \
+<a href="https://cybernews.com/news/robots-hired-to-stock-shelves-in-japans-stores-short-of-staff/" target="_blank"> Nigerians extradited to US to face email scam charges </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 10, 2022</span></small> \
+<span>August 11, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/10/apic-epic-intel-chips-leak-secrets-even-the-kernel-shouldnt-see/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/aepic-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/meta-messenger-encryption-nebraska-abortion/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f48ec470af0aae2b39935a/master/pass/Meta-E2EE_Default-Test-Experience-Security.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/10/apic-epic-intel-chips-leak-secrets-even-the-kernel-shouldnt-see/" target="_blank"> APIC/EPIC! Intel chips leak secrets even the kernel shouldn’t see… </a> \
+<a href="https://www.wired.com/story/meta-messenger-encryption-nebraska-abortion/" target="_blank"> Meta Just Happens to Expand Messenger’s End-to-End Encryption </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 10, 2022</span></small> \
+<span>August 11, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/samsung-showcases-new-foldables/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/samsung_fold.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/public-healthcare-service-in-uk-hit-by-ransomware/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/HospitalAnE.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/samsung-showcases-new-foldables/" target="_blank"> Emotet continues its reign as the most widely used malware </a> \
+<a href="https://cybernews.com/news/public-healthcare-service-in-uk-hit-by-ransomware/" target="_blank"> Cybersecurity firm Cisco admits to being hacked </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 11, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/researchers-discover-an-architectural-bug-in-intel-cpus/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/IntelCPUpic.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/researchers-discover-an-architectural-bug-in-intel-cpus/" target="_blank"> Samsung showcases new foldables </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 11, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/boston-crook-jailed-for-scamming-elderly-online/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/OldWomanGettingRomanceScammed.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/boston-crook-jailed-for-scamming-elderly-online/" target="_blank"> Public healthcare service in UK hit by ransomware </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 11, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/11/s3-ep95-slack-leak-github-onslaught-and-post-quantum-crypto-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/schroe-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/11/s3-ep95-slack-leak-github-onslaught-and-post-quantum-crypto-audio-text/" target="_blank"> S3 Ep95: Slack leak, Github onslaught, and post-quantum crypto [Audio + Text] </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 11, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/public-healthcare-service-in-uk-hit-by-ransomware/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/HospitalAnE.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/public-healthcare-service-in-uk-hit-by-ransomware/" target="_blank"> Public healthcare service in UK hit by ransomware </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 11, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/ofrak-iot-reverse-engineering-tool/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f3f21b6896acbb4eb33937/master/pass/IOT_reverse_Sec_GettyImages-1266534030.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/ofrak-iot-reverse-engineering-tool/" target="_blank"> A Long-Awaited IoT Reverse Engineering Tool Is Finally Here </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 10, 2022</span></small> \
@@ -12180,18 +12156,6 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/ofrak-iot-reverse-engineering-tool/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f3f21b6896acbb4eb33937/master/pass/IOT_reverse_Sec_GettyImages-1266534030.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/ofrak-iot-reverse-engineering-tool/" target="_blank"> A Long-Awaited IoT Reverse Engineering Tool Is Finally Here </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 10, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/cloudflare-targeted-by-a-sophisticated-phishing-attack/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://media.cybernews.com/images/thumbnail/2022/07/Cloudflare-logo-website.png" alt="" class="img-fluid"> \
 </a> \
@@ -12204,108 +12168,48 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/whatsapp-to-let-users-leave-group-chats-unnoticed/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/whatsapp.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/samsung-showcases-new-foldables/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/samsung_fold.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/whatsapp-to-let-users-leave-group-chats-unnoticed/" target="_blank"> Google apologizes for a global services outage </a> \
+<a href="https://cybernews.com/news/samsung-showcases-new-foldables/" target="_blank"> Emotet continues its reign as the most widely used malware </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 09, 2022</span></small> \
+<span>August 10, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/us-extradites-french-cybercrime-suspect/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/ExtraditionOrder.png" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/10/apic-epic-intel-chips-leak-secrets-even-the-kernel-shouldnt-see/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/aepic-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/us-extradites-french-cybercrime-suspect/" target="_blank"> Slack leaked hashed passwords for 5 years </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/10/apic-epic-intel-chips-leak-secrets-even-the-kernel-shouldnt-see/" target="_blank"> APIC/EPIC! Intel chips leak secrets even the kernel shouldn’t see… </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 09, 2022</span></small> \
+<span>August 10, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/slack-leaked-hashed-passwords-for-5-years/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/slackhashedpasswords.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/starlink-internet-dish-hack/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f3003116995ea7b1a92d59/master/pass/Starlink-Hack-Security-GettyImages-1239230849.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/slack-leaked-hashed-passwords-for-5-years/" target="_blank"> Bots used to hijack pharmacy accounts and sell drugs illegally </a> \
+<a href="https://www.wired.com/story/starlink-internet-dish-hack/" target="_blank"> The Hacking of Starlink Terminals Has Begun </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 09, 2022</span></small> \
+<span>August 10, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/facebook-eu-us-data-transfers/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f262c31037f5e51b67287f/master/pass/Facebook-EU-Security-GettyImages-1302984202.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/google-apologizes-for-a-global-services-outage/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Google-outage-logo.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/facebook-eu-us-data-transfers/" target="_blank"> Will Europe Force a Facebook Blackout? </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 09, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/trump-fbi-raid-mar-a-lago/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f2a30c08728a31e5d3d25d/master/pass/Trump_Sec_AP_22221043485390.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/trump-fbi-raid-mar-a-lago/" target="_blank"> Big Takeaways From the FBI\'s Mar-a-Lago Raid </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 09, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/virtual-currency-platform-tornado-cash-accused-of-aiding-apts/180367/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/08/11103228/crypto-hack.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/virtual-currency-platform-tornado-cash-accused-of-aiding-apts/180367/" target="_blank"> Virtual Currency Platform ‘Tornado Cash’ Accused of Aiding APTs </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 09, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Classified.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" target="_blank"> WhatsApp to let users leave group chats unnoticed </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 09, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/09/howto-check-hacked-pc/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/hack-1080x1080-e1659649293308.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/09/howto-check-hacked-pc/" target="_blank"> How to check if your PC has been hacked, and what to do next </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 09, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/5g-api-flaws/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f2918e6f48e5c6d48d6f72/master/pass/Insecurity-in-5G-From-IoT-APIs-GettyImages-1397757498.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/5g-api-flaws/" target="_blank"> One of 5G’s Biggest Features Is a Security Minefield </a> \
+<a href="https://cybernews.com/news/google-apologizes-for-a-global-services-outage/" target="_blank"> US extradites French cybercrime suspect </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 09, 2022</span></small> \
@@ -12324,63 +12228,111 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/google-apologizes-for-a-global-services-outage/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Google-outage-logo.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/5g-api-flaws/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f2918e6f48e5c6d48d6f72/master/pass/Insecurity-in-5G-From-IoT-APIs-GettyImages-1397757498.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/google-apologizes-for-a-global-services-outage/" target="_blank"> US extradites French cybercrime suspect </a> \
+<a href="https://www.wired.com/story/5g-api-flaws/" target="_blank"> One of 5G’s Biggest Features Is a Security Minefield </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 09, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/pretty-good-phone-privacy-android/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62e4690aa524e4ef61bb692a/master/pass/A-Carrier-That-Doesn\'t-See-Your-Browsing-or-Where-You-Are-Security-GettyImages-966479188.jpg" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/08/09/howto-check-hacked-pc/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/hack-1080x1080-e1659649293308.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/pretty-good-phone-privacy-android/" target="_blank"> A Phone Carrier That Doesn’t Track Your Browsing or Location </a> \
+<a href="https://www.welivesecurity.com/2022/08/09/howto-check-hacked-pc/" target="_blank"> How to check if your PC has been hacked, and what to do next </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 08, 2022</span></small> \
+<span>August 09, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/german-chambers-of-industry-and-commerce-hit-by-a-massive-cyberattack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/systemhackedsigndihk.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Classified.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/german-chambers-of-industry-and-commerce-hit-by-a-massive-cyberattack/" target="_blank"> German Chambers of Industry and Commerce hit by a massive cyberattack </a> \
+<a href="https://cybernews.com/news/russian-threat-group-targets-online-vendors-in-singapore/" target="_blank"> WhatsApp to let users leave group chats unnoticed </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 08, 2022</span></small> \
+<span>August 09, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/phishers-2fa-coinbase/180356/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/01/11104331/2FA_two-factor-authentication.jpg" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/virtual-currency-platform-tornado-cash-accused-of-aiding-apts/180367/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/08/11103228/crypto-hack.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/phishers-2fa-coinbase/180356/" target="_blank"> Phishers Swim Around 2FA in Coinbase Account Heists </a> \
+<a href="https://threatpost.com/virtual-currency-platform-tornado-cash-accused-of-aiding-apts/180367/" target="_blank"> Virtual Currency Platform ‘Tornado Cash’ Accused of Aiding APTs </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 08, 2022</span></small> \
+<span>August 09, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/08/slack-admits-to-leaking-hashed-passwords-for-three-months/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/slk-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/trump-fbi-raid-mar-a-lago/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f2a30c08728a31e5d3d25d/master/pass/Trump_Sec_AP_22221043485390.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/08/slack-admits-to-leaking-hashed-passwords-for-three-months/" target="_blank"> Slack admits to leaking hashed passwords for five years </a> \
+<a href="https://www.wired.com/story/trump-fbi-raid-mar-a-lago/" target="_blank"> Big Takeaways From the FBI\'s Mar-a-Lago Raid </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 08, 2022</span></small> \
+<span>August 09, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/facebook-eu-us-data-transfers/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f262c31037f5e51b67287f/master/pass/Facebook-EU-Security-GettyImages-1302984202.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/facebook-eu-us-data-transfers/" target="_blank"> Will Europe Force a Facebook Blackout? </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 09, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/slack-leaked-hashed-passwords-for-5-years/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/slackhashedpasswords.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/slack-leaked-hashed-passwords-for-5-years/" target="_blank"> Bots used to hijack pharmacy accounts and sell drugs illegally </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 09, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/us-extradites-french-cybercrime-suspect/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/ExtraditionOrder.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/us-extradites-french-cybercrime-suspect/" target="_blank"> Slack leaked hashed passwords for 5 years </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 09, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/whatsapp-to-let-users-leave-group-chats-unnoticed/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/whatsapp.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/whatsapp-to-let-users-leave-group-chats-unnoticed/" target="_blank"> Google apologizes for a global services outage </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 09, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -12396,24 +12348,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/bots-used-to-hijack-pharmacy-accounts-and-sell-drugs-illegally/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/PharmacyonCell.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/github-code-signing-sigstore/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62f1457d922c62d7df489f06/master/pass/Github-Moves-to-Guard-Open-Source-Against-Supply-Chain-Attacks-Security-GettyImages-967228260.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/bots-used-to-hijack-pharmacy-accounts-and-sell-drugs-illegally/" target="_blank"> Meta’s new AI chatbot exposes anti-semite, homophobic views </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 08, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/no-human-at-wheel-baidu-secures-fully-driverless-robotaxi-license-in-china/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/baidu_car.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/no-human-at-wheel-baidu-secures-fully-driverless-robotaxi-license-in-china/" target="_blank"> No human at wheel: Baidu secures fully driverless robotaxi license in China </a> \
+<a href="https://www.wired.com/story/github-code-signing-sigstore/" target="_blank"> GitHub Moves to Guard Open Source Against Supply Chain Attacks </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 08, 2022</span></small> \
@@ -12432,12 +12372,72 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/github-code-signing-sigstore/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62f1457d922c62d7df489f06/master/pass/Github-Moves-to-Guard-Open-Source-Against-Supply-Chain-Attacks-Security-GettyImages-967228260.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/no-human-at-wheel-baidu-secures-fully-driverless-robotaxi-license-in-china/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/baidu_car.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/github-code-signing-sigstore/" target="_blank"> GitHub Moves to Guard Open Source Against Supply Chain Attacks </a> \
+<a href="https://cybernews.com/news/no-human-at-wheel-baidu-secures-fully-driverless-robotaxi-license-in-china/" target="_blank"> No human at wheel: Baidu secures fully driverless robotaxi license in China </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 08, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/bots-used-to-hijack-pharmacy-accounts-and-sell-drugs-illegally/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/PharmacyonCell.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/bots-used-to-hijack-pharmacy-accounts-and-sell-drugs-illegally/" target="_blank"> Meta’s new AI chatbot exposes anti-semite, homophobic views </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 08, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/08/slack-admits-to-leaking-hashed-passwords-for-three-months/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/slk-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/08/slack-admits-to-leaking-hashed-passwords-for-three-months/" target="_blank"> Slack admits to leaking hashed passwords for five years </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 08, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://threatpost.com/phishers-2fa-coinbase/180356/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/01/11104331/2FA_two-factor-authentication.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://threatpost.com/phishers-2fa-coinbase/180356/" target="_blank"> Phishers Swim Around 2FA in Coinbase Account Heists </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 08, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/german-chambers-of-industry-and-commerce-hit-by-a-massive-cyberattack/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/systemhackedsigndihk.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/german-chambers-of-industry-and-commerce-hit-by-a-massive-cyberattack/" target="_blank"> German Chambers of Industry and Commerce hit by a massive cyberattack </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 08, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/pretty-good-phone-privacy-android/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62e4690aa524e4ef61bb692a/master/pass/A-Carrier-That-Doesn\'t-See-Your-Browsing-or-Where-You-Are-Security-GettyImages-966479188.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/pretty-good-phone-privacy-android/" target="_blank"> A Phone Carrier That Doesn’t Track Your Browsing or Location </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 08, 2022</span></small> \
@@ -12492,48 +12492,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/slack-hashed-passwords-exposed/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62ed370fc899551de612435d/master/pass/Slack_Sec_GettyImages-1229912942.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/slack-hashed-passwords-exposed/" target="_blank"> A Slack Bug Exposed Some Users’ Hashed Passwords for 5 Years </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 05, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/India-hacker-data.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" target="_blank"> Tutanota calls for a tighter grip on Big Tech </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 05, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://cybernews.com/news/tutanota-calls-for-a-tighter-grip-on-big-tech/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/MSteamsicons.jpg" alt="" class="img-fluid"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/MSteamsicons.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/tutanota-calls-for-a-tighter-grip-on-big-tech/" target="_blank"> Tutanota calls for a tighter grip on Big Tech </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 05, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/05/traffic-light-protocol-for-cybersecurity-responders-gets-a-revamp/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/tl-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/05/traffic-light-protocol-for-cybersecurity-responders-gets-a-revamp/" target="_blank"> Traffic Light Protocol for cybersecurity responders gets a revamp </a> \
+<a href="https://cybernews.com/news/tutanota-calls-for-a-tighter-grip-on-big-tech/" target="_blank"> Winamp is back after revamp; nostalgia-inducing looks intact </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 05, 2022</span></small> \
@@ -12552,56 +12516,56 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/tutanota-calls-for-a-tighter-grip-on-big-tech/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/MSteamsicons.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/India-hacker-data.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/tutanota-calls-for-a-tighter-grip-on-big-tech/" target="_blank"> Winamp is back after revamp; nostalgia-inducing looks intact </a> \
+<a href="https://cybernews.com/news/sensitive-records-of-over-280m-indian-citizens-exposed/" target="_blank"> Tutanota calls for a tighter grip on Big Tech </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 05, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/04/s3-ep94-this-sort-of-crypto-graphy-and-the-other-sort-of-crypto-currency-audio-text/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/s3-ep94-200000000.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/05/traffic-light-protocol-for-cybersecurity-responders-gets-a-revamp/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/tl-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/04/s3-ep94-this-sort-of-crypto-graphy-and-the-other-sort-of-crypto-currency-audio-text/" target="_blank"> S3 Ep94: This sort of crypto (graphy), and the other sort of crypto (currency!) [Audio + Text] </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/05/traffic-light-protocol-for-cybersecurity-responders-gets-a-revamp/" target="_blank"> Traffic Light Protocol for cybersecurity responders gets a revamp </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 04, 2022</span></small> \
+<span>August 05, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/two-terabytes-of-data-released-as-hackers-strive-to-expose-companies-environmental-damage/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1301314369.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/tutanota-calls-for-a-tighter-grip-on-big-tech/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/MSteamsicons.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/two-terabytes-of-data-released-as-hackers-strive-to-expose-companies-environmental-damage/" target="_blank"> Robot to showcase its surgery skills on ISS </a> \
+<a href="https://cybernews.com/news/tutanota-calls-for-a-tighter-grip-on-big-tech/" target="_blank"> Tutanota calls for a tighter grip on Big Tech </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 04, 2022</span></small> \
+<span>August 05, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/robot-to-showcase-its-surgery-skills-on-iss/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/mira_robot.jpg" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/slack-hashed-passwords-exposed/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62ed370fc899551de612435d/master/pass/Slack_Sec_GettyImages-1229912942.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/robot-to-showcase-its-surgery-skills-on-iss/" target="_blank"> UK to invest £6m in quantum computing </a> \
+<a href="https://www.wired.com/story/slack-hashed-passwords-exposed/" target="_blank"> A Slack Bug Exposed Some Users’ Hashed Passwords for 5 Years </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 04, 2022</span></small> \
+<span>August 05, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/08/04/protect-yourself-scammers-tinder-dating-app/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/tinder-1080x1080.jpg" alt="" class="img-fluid"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/wls_tinder-scams_1000x667.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -12612,12 +12576,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2022/08/rideawaits.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/04/github-blighted-by-researcher-who-created-thousands-of-malicious-projects/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/ppcp-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/" target="_blank"> Scammers Sent Uber to Take Elderly Lady to the Bank </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/04/github-blighted-by-researcher-who-created-thousands-of-malicious-projects/" target="_blank"> GitHub blighted by “researcher” who created thousands of malicious projects </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 04, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/iran-cyberattack-albania/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62ec1b9d08728a31e5d3d1d0/master/pass/Attack-on-Albanian-Government-Security-GettyImages-1132369974.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/iran-cyberattack-albania/" target="_blank"> An Attack on Albanian Government Suggests New Iranian Aggression </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 04, 2022</span></small> \
@@ -12625,7 +12601,7 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/08/04/protect-yourself-scammers-tinder-dating-app/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/wls_tinder-scams_1000x667.jpg" alt="" class="img-fluid"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/tinder-scams.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -12648,8 +12624,32 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/04/s3-ep94-this-sort-of-crypto-graphy-and-the-other-sort-of-crypto-currency-audio-text/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/s3-ep94-200000000.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/04/s3-ep94-this-sort-of-crypto-graphy-and-the-other-sort-of-crypto-currency-audio-text/" target="_blank"> S3 Ep94: This sort of crypto (graphy), and the other sort of crypto (currency!) [Audio + Text] </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 04, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2022/08/rideawaits.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://krebsonsecurity.com/2022/08/scammers-sent-uber-to-take-elderly-lady-to-the-bank/" target="_blank"> Scammers Sent Uber to Take Elderly Lady to the Bank </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 04, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/2022/08/04/protect-yourself-scammers-tinder-dating-app/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/tinder-scams.jpg" alt="" class="img-fluid"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/tinder-1080x1080.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -12660,96 +12660,60 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/iran-cyberattack-albania/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62ec1b9d08728a31e5d3d1d0/master/pass/Attack-on-Albanian-Government-Security-GettyImages-1132369974.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/robot-to-showcase-its-surgery-skills-on-iss/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/mira_robot.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/iran-cyberattack-albania/" target="_blank"> An Attack on Albanian Government Suggests New Iranian Aggression </a> \
+<a href="https://cybernews.com/news/robot-to-showcase-its-surgery-skills-on-iss/" target="_blank"> UK to invest £6m in quantum computing </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 04, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/04/github-blighted-by-researcher-who-created-thousands-of-malicious-projects/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/ppcp-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/two-terabytes-of-data-released-as-hackers-strive-to-expose-companies-environmental-damage/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1301314369.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/04/github-blighted-by-researcher-who-created-thousands-of-malicious-projects/" target="_blank"> GitHub blighted by “researcher” who created thousands of malicious projects </a> \
+<a href="https://cybernews.com/news/two-terabytes-of-data-released-as-hackers-strive-to-expose-companies-environmental-damage/" target="_blank"> Robot to showcase its surgery skills on ISS </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 04, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/german-semiconductor-maker-semikron-hit-by-cyberattack/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Semikron-Company-Photo.png" alt="" class="img-fluid"> \
+<a href="https://www.wired.com/story/new-attack-sike-post-quantum-computing-encryption-algorithm/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62e9bbe9d7368105da057de2/master/pass/Quantum-Computer-Encryption-Algorithm-Security-GettyImages-1296317448.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/german-semiconductor-maker-semikron-hit-by-cyberattack/" target="_blank"> TikTok Music may be in the works, patent filing shows </a> \
+<a href="https://www.wired.com/story/new-attack-sike-post-quantum-computing-encryption-algorithm/" target="_blank"> A New Attack Easily Knocked Out a Potential Encryption Algorithm </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 03, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/uk-to-invest-6m-in-quantum-computing/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/atominaneye.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/03/post-quantum-cryptography-new-algorithm-gone-in-60-minutes/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/cat-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/uk-to-invest-6m-in-quantum-computing/" target="_blank"> UK to invest £6m in quantum computing </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/03/post-quantum-cryptography-new-algorithm-gone-in-60-minutes/" target="_blank"> Post-quantum cryptography – new algorithm “gone in 60 minutes” </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 03, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/reddit-awards-hero-hacker-10k-bounty/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/RedditRedditReddit.png" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/vmware-patch-critical-bug/180346/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2016/11/06232507/vmware-patch.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/reddit-awards-hero-hacker-10k-bounty/" target="_blank"> Reddit awards hero hacker $10k bounty </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 03, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/taiwans-presidential-website-hit-by-a-cyberattack-shortly-before-pelosis-visit/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1930019666.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/taiwans-presidential-website-hit-by-a-cyberattack-shortly-before-pelosis-visit/" target="_blank"> League of Legends players targeted with file-locking malware </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 03, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/04/github-blighted-by-researcher-who-created-thousands-of-malicious-projects/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/ppcp-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/04/github-blighted-by-researcher-who-created-thousands-of-malicious-projects/" target="_blank"> GitHub blighted by “researcher” who created thousands of malicious projects </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 03, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/uk-to-invest-6m-in-quantum-computing/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/atominaneye.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/uk-to-invest-6m-in-quantum-computing/" target="_blank"> Reddit awards hero hacker $10k bounty </a> \
+<a href="https://threatpost.com/vmware-patch-critical-bug/180346/" target="_blank"> VMWare Urges Users to Patch Critical Authentication Bypass Bug </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 03, 2022</span></small> \
@@ -12780,108 +12744,84 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/vmware-patch-critical-bug/180346/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2016/11/06232507/vmware-patch.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/uk-to-invest-6m-in-quantum-computing/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/atominaneye.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/vmware-patch-critical-bug/180346/" target="_blank"> VMWare Urges Users to Patch Critical Authentication Bypass Bug </a> \
+<a href="https://cybernews.com/news/uk-to-invest-6m-in-quantum-computing/" target="_blank"> Reddit awards hero hacker $10k bounty </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 03, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/03/post-quantum-cryptography-new-algorithm-gone-in-60-minutes/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/cat-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/08/04/github-blighted-by-researcher-who-created-thousands-of-malicious-projects/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/08/ppcp-1200.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/08/03/post-quantum-cryptography-new-algorithm-gone-in-60-minutes/" target="_blank"> Post-quantum cryptography – new algorithm “gone in 60 minutes” </a> \
+<a href="https://nakedsecurity.sophos.com/2022/08/04/github-blighted-by-researcher-who-created-thousands-of-malicious-projects/" target="_blank"> GitHub blighted by “researcher” who created thousands of malicious projects </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 03, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/new-attack-sike-post-quantum-computing-encryption-algorithm/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62e9bbe9d7368105da057de2/master/pass/Quantum-Computer-Encryption-Algorithm-Security-GettyImages-1296317448.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/taiwans-presidential-website-hit-by-a-cyberattack-shortly-before-pelosis-visit/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Shutterstock_1930019666.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/new-attack-sike-post-quantum-computing-encryption-algorithm/" target="_blank"> A New Attack Easily Knocked Out a Potential Encryption Algorithm </a> \
+<a href="https://cybernews.com/news/taiwans-presidential-website-hit-by-a-cyberattack-shortly-before-pelosis-visit/" target="_blank"> League of Legends players targeted with file-locking malware </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 03, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/deceased-spider-inspires-new-field-of-necrobotics/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/spider.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/reddit-awards-hero-hacker-10k-bounty/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/RedditRedditReddit.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/deceased-spider-inspires-new-field-of-necrobotics/" target="_blank"> 11 people charged in a “massive” Ponzi pyramid scheme </a> \
+<a href="https://cybernews.com/news/reddit-awards-hero-hacker-10k-bounty/" target="_blank"> Reddit awards hero hacker $10k bounty </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 02, 2022</span></small> \
+<span>August 03, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/tiktok-music-may-be-in-the-works-patent-filing-shows/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/tiktok.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/uk-to-invest-6m-in-quantum-computing/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/atominaneye.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/tiktok-music-may-be-in-the-works-patent-filing-shows/" target="_blank"> TikTok Music may be in the works, patent filing shows </a> \
+<a href="https://cybernews.com/news/uk-to-invest-6m-in-quantum-computing/" target="_blank"> UK to invest £6m in quantum computing </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 02, 2022</span></small> \
+<span>August 03, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/universities-email-cyber-risk/180342/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/02/11095955/Business-Email-Compromise.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/german-semiconductor-maker-semikron-hit-by-cyberattack/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Semikron-Company-Photo.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/universities-email-cyber-risk/180342/" target="_blank"> Universities Put Email Users at Cyber Risk </a> \
+<a href="https://cybernews.com/news/german-semiconductor-maker-semikron-hit-by-cyberattack/" target="_blank"> TikTok Music may be in the works, patent filing shows </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 02, 2022</span></small> \
+<span>August 03, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://krebsonsecurity.com/2022/08/no-socks-no-shoes-no-malware-proxy-services/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2015/06/proxy.png" alt="" class="img-fluid"> \
+<a href="https://www.welivesecurity.com/2022/08/02/10-steps-securing-your-new-computer/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/1200x628-square.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://krebsonsecurity.com/2022/08/no-socks-no-shoes-no-malware-proxy-services/" target="_blank"> No SOCKS, No Shoes, No Malware Proxy Services! </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 02, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/tiktok-music-may-be-in-the-works-patent-filing-shows/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/tiktok.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/tiktok-music-may-be-in-the-works-patent-filing-shows/" target="_blank"> California man facing life for $25m T-Mobile fraud scheme </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>August 02, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/MBDA-missile-breach2.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" target="_blank"> Two billion people affected by internet restrictions </a> \
+<a href="https://www.welivesecurity.com/2022/08/02/10-steps-securing-your-new-computer/" target="_blank"> Start as you mean to go on: the top 10 steps to securing your new computer </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 02, 2022</span></small> \
@@ -12900,60 +12840,84 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/08/02/10-steps-securing-your-new-computer/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/08/1200x628-square.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/MBDA-missile-breach2.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/08/02/10-steps-securing-your-new-computer/" target="_blank"> Start as you mean to go on: the top 10 steps to securing your new computer </a> \
+<a href="https://cybernews.com/news/missile-maker-mbda-denies-being-hacked-admits-to-data-loss/" target="_blank"> Two billion people affected by internet restrictions </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 02, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/best-password-managers/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/5ce82f0838916bbaffa0c591/master/pass/Managing-Passwords.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/tiktok-music-may-be-in-the-works-patent-filing-shows/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/tiktok.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> You Need a Password Manager. Here Are the Best Ones </a> \
+<a href="https://cybernews.com/news/tiktok-music-may-be-in-the-works-patent-filing-shows/" target="_blank"> California man facing life for $25m T-Mobile fraud scheme </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 01, 2022</span></small> \
+<span>August 02, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/two-billion-people-affected-by-internet-restrictions/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/featured/2022/08/nointernetsignrestrictions.jpg" alt="" class="img-fluid"> \
+<a href="https://krebsonsecurity.com/2022/08/no-socks-no-shoes-no-malware-proxy-services/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2015/06/proxy.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/two-billion-people-affected-by-internet-restrictions/" target="_blank"> Two billion people affected by internet restrictions </a> \
+<a href="https://krebsonsecurity.com/2022/08/no-socks-no-shoes-no-malware-proxy-services/" target="_blank"> No SOCKS, No Shoes, No Malware Proxy Services! </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 01, 2022</span></small> \
+<span>August 02, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/secure-move-cloud/180335/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/04/29082135/cloud-digital.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/deceased-spider-inspires-new-field-of-necrobotics/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/spider.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/secure-move-cloud/180335/" target="_blank"> Securing Your Move to the Hybrid Cloud </a> \
+<a href="https://cybernews.com/news/deceased-spider-inspires-new-field-of-necrobotics/" target="_blank"> 11 people charged in a “massive” Ponzi pyramid scheme </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
-<span>August 01, 2022</span></small> \
+<span>August 02, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/ransomware-gang-says-it-hit-luxembourgs-energy-supplier/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/Gas-Pipeline-Hack.png" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/universities-email-cyber-risk/180342/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/02/11095955/Business-Email-Compromise.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/ransomware-gang-says-it-hit-luxembourgs-energy-supplier/" target="_blank"> Russia adds another VPN to its ban list </a> \
+<a href="https://threatpost.com/universities-email-cyber-risk/180342/" target="_blank"> Universities Put Email Users at Cyber Risk </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 02, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/tiktok-music-may-be-in-the-works-patent-filing-shows/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/tiktok.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/tiktok-music-may-be-in-the-works-patent-filing-shows/" target="_blank"> TikTok Music may be in the works, patent filing shows </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 02, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/russia-adds-another-vpn-to-its-ban-list/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/AdGuardVPNban.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/russia-adds-another-vpn-to-its-ban-list/" target="_blank"> Attackers claim they hacked European missiles maker MBDA </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 01, 2022</span></small> \
@@ -12972,12 +12936,48 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/russia-adds-another-vpn-to-its-ban-list/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/08/AdGuardVPNban.jpg" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/ransomware-gang-says-it-hit-luxembourgs-energy-supplier/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/08/Gas-Pipeline-Hack.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/russia-adds-another-vpn-to-its-ban-list/" target="_blank"> Attackers claim they hacked European missiles maker MBDA </a> \
+<a href="https://cybernews.com/news/ransomware-gang-says-it-hit-luxembourgs-energy-supplier/" target="_blank"> Russia adds another VPN to its ban list </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 01, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://threatpost.com/secure-move-cloud/180335/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2022/04/29082135/cloud-digital.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://threatpost.com/secure-move-cloud/180335/" target="_blank"> Securing Your Move to the Hybrid Cloud </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 01, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://cybernews.com/news/two-billion-people-affected-by-internet-restrictions/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/featured/2022/08/nointernetsignrestrictions.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://cybernews.com/news/two-billion-people-affected-by-internet-restrictions/" target="_blank"> Two billion people affected by internet restrictions </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>August 01, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/best-password-managers/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/5ce82f0838916bbaffa0c591/master/pass/Managing-Passwords.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> You Need a Password Manager. Here Are the Best Ones </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>August 01, 2022</span></small> \
@@ -13008,12 +13008,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/russia-fines-snapchat-owner-for-data-law-breach/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/shutterstock_1078509770.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/us-probing-federal-court-records-system-breach/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/DoJ-Department-Justice.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/russia-fines-snapchat-owner-for-data-law-breach/" target="_blank"> Attackers exploit Atlassian’s hard-coded password bug </a> \
+<a href="https://cybernews.com/news/us-probing-federal-court-records-system-breach/" target="_blank"> Attackers employ Telegram and Discord to peddle malware </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 29, 2022</span></small> \
@@ -13021,23 +13021,11 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/music-nft-platform-victim-of-a-crypto-theft-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/0-28.jpg" alt="" class="img-fluid"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/0-30.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://www.welivesecurity.com/videos/music-nft-platform-victim-of-a-crypto-theft-week-in-security-with-tony-anscombe/" target="_blank"> Music streaming platform victim of a crypto theft – Week in security with Tony Anscombe </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 29, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/07/29/staying-safe-online-browse-web-securely/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/Browse-Web-safely-WLS-1-e1658938886483.png" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/07/29/staying-safe-online-browse-web-securely/" target="_blank"> Staying safe online: How to browse the web securely </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 29, 2022</span></small> \
@@ -13057,7 +13045,7 @@ document.write(' \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://www.welivesecurity.com/videos/music-nft-platform-victim-of-a-crypto-theft-week-in-security-with-tony-anscombe/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/0-30.jpg" alt="" class="img-fluid"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/0-28.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
@@ -13068,12 +13056,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://cybernews.com/news/us-probing-federal-court-records-system-breach/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.cybernews.com/images/thumbnail/2022/07/DoJ-Department-Justice.png" alt="" class="img-fluid"> \
+<a href="https://cybernews.com/news/russia-fines-snapchat-owner-for-data-law-breach/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.cybernews.com/images/thumbnail/2022/07/shutterstock_1078509770.png" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://cybernews.com/news/us-probing-federal-court-records-system-breach/" target="_blank"> Attackers employ Telegram and Discord to peddle malware </a> \
+<a href="https://cybernews.com/news/russia-fines-snapchat-owner-for-data-law-breach/" target="_blank"> Attackers exploit Atlassian’s hard-coded password bug </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 29, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/07/29/staying-safe-online-browse-web-securely/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/Browse-Web-safely-WLS-1-e1658938886483.png" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/07/29/staying-safe-online-browse-web-securely/" target="_blank"> Staying safe online: How to browse the web securely </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 29, 2022</span></small> \
@@ -13092,24 +13092,24 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/messaging-apps-cybercriminals/180303/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2016/03/07000449/shutterstock_182196404.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/messaging-apps-cybercriminals/180303/" target="_blank"> Messaging Apps Tapped as Platform for Cybercriminal Activity </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 27, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
 <a href="https://nakedsecurity.sophos.com/2022/07/27/mild-monthly-security-update-from-firefox-but-update-anyway/" class="me-4 thumbnail" target="_blank"> \
 <img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/03/ff-2100.png?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://nakedsecurity.sophos.com/2022/07/27/mild-monthly-security-update-from-firefox-but-update-anyway/" target="_blank"> Mild monthly security update from Firefox – but update anyway </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 27, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.welivesecurity.com/2022/07/27/cash-app-fraud-scams-watch-out/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/cashapp-scams-fraud.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.welivesecurity.com/2022/07/27/cash-app-fraud-scams-watch-out/" target="_blank"> Cash App fraud: 10 common scams to watch out for </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 27, 2022</span></small> \
@@ -13128,12 +13128,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.welivesecurity.com/2022/07/27/cash-app-fraud-scams-watch-out/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://www.welivesecurity.com/wp-content/uploads/2022/07/cashapp-scams-fraud.jpg" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/messaging-apps-cybercriminals/180303/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2016/03/07000449/shutterstock_182196404.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.welivesecurity.com/2022/07/27/cash-app-fraud-scams-watch-out/" target="_blank"> Cash App fraud: 10 common scams to watch out for </a> \
+<a href="https://threatpost.com/messaging-apps-cybercriminals/180303/" target="_blank"> Messaging Apps Tapped as Platform for Cybercriminal Activity </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 27, 2022</span></small> \
@@ -13161,18 +13161,6 @@ document.write(' \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 26, 2022</span></small> \
-</div> \
-</div> \
-<div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://www.wired.com/story/russia-internet-censorship-splinternet/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.wired.com/photos/62db25c3a8cfdad40f878c27/master/pass/Russia-Internet-Censorship-Security-GettyImages-1369183250.jpg" alt="" class="img-fluid"> \
-</a> \
-<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
-<h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://www.wired.com/story/russia-internet-censorship-splinternet/" target="_blank"> Russia Is Quietly Ramping Up Its Internet Censorship Machine </a> \
-</h3> \
-<small class="text-uppercase font-weight-bold">  \
-<span>July 25, 2022</span></small> \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
@@ -13206,6 +13194,18 @@ document.write(' \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
 <a href="https://threatpost.com/physical-security-maintenance/180269/" target="_blank"> Why Physical Security Maintenance Should Never Be an Afterthought </a> \
+</h3> \
+<small class="text-uppercase font-weight-bold">  \
+<span>July 25, 2022</span></small> \
+</div> \
+</div> \
+<div class="d-md-flex post-entry-2 small-img"> \
+<a href="https://www.wired.com/story/russia-internet-censorship-splinternet/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.wired.com/photos/62db25c3a8cfdad40f878c27/master/pass/Russia-Internet-Censorship-Security-GettyImages-1369183250.jpg" alt="" class="img-fluid"> \
+</a> \
+<div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
+<h3 class="card-link text-dark font-weight-bold"> \
+<a href="https://www.wired.com/story/russia-internet-censorship-splinternet/" target="_blank"> Russia Is Quietly Ramping Up Its Internet Censorship Machine </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 25, 2022</span></small> \
@@ -13308,12 +13308,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://threatpost.com/contis-costa-rica/180258/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/06/20122305/Ransomware.jpg" alt="" class="img-fluid"> \
+<a href="https://nakedsecurity.sophos.com/2022/07/20/last-member-of-gozi-malware-troika-arrives-in-us-for-criminal-trial/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/troj.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://threatpost.com/contis-costa-rica/180258/" target="_blank"> Conti’s Reign of Chaos: Costa Rica in the Crosshairs </a> \
+<a href="https://nakedsecurity.sophos.com/2022/07/20/last-member-of-gozi-malware-troika-arrives-in-us-for-criminal-trial/" target="_blank"> Last member of Gozi malware troika arrives in US for criminal trial </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 20, 2022</span></small> \
@@ -13332,12 +13332,12 @@ document.write(' \
 </div> \
 </div> \
 <div class="d-md-flex post-entry-2 small-img"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/20/last-member-of-gozi-malware-troika-arrives-in-us-for-criminal-trial/" class="me-4 thumbnail" target="_blank"> \
-<img src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2022/07/troj.jpg?w=230&h=130&crop=1" alt="" class="img-fluid"> \
+<a href="https://threatpost.com/contis-costa-rica/180258/" class="me-4 thumbnail" target="_blank"> \
+<img src="https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2019/06/20122305/Ransomware.jpg" alt="" class="img-fluid"> \
 </a> \
 <div class="card-body p-0 mx-0" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <h3 class="card-link text-dark font-weight-bold"> \
-<a href="https://nakedsecurity.sophos.com/2022/07/20/last-member-of-gozi-malware-troika-arrives-in-us-for-criminal-trial/" target="_blank"> Last member of Gozi malware troika arrives in US for criminal trial </a> \
+<a href="https://threatpost.com/contis-costa-rica/180258/" target="_blank"> Conti’s Reign of Chaos: Costa Rica in the Crosshairs </a> \
 </h3> \
 <small class="text-uppercase font-weight-bold">  \
 <span>July 20, 2022</span></small> \
