@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/how-to-protect-yourself-ai-scam-calls-detect/" target="_blank"> \
+<img src="https://media.wired.com/photos/661076ef36eb33ece4690cb6/master/pass/040524-GEAR-AI-fake-calls-2x1.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>AI Scam Calls: How to Protect Yourself, How to Detect</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 08, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/apra-congress-online-privacy-proposal/" target="_blank"> \
 <img src="https://media.wired.com/photos/6612e9f91a7061c14cff55a4/master/pass/1235712586" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Best Privacy Browsers (2024): Brave, Safari, Ghostery, Firefox, DuckDuckGo</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 06, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/" target="_blank"> \
-<img src="https://media.wired.com/photos/660d9b183dcd47024015ca40/master/pass/P4x-Security-DVN_8879.jpeg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>A Vigilante Hacker Took Down North Korea’s Internet. Now He’s Taking Off His Mask</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 04, 2024</p> \
 </div> \
 </a> \
 </div> \
