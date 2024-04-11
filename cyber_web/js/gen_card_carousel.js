@@ -1,19 +1,19 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/04/ruseriousx.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/duckduckgo-vpn-data-removal-tool-privacy-pro/" target="_blank"> \
+<img src="https://media.wired.com/photos/6617453617d6790e7ef163d5/master/pass/DuckDuckGo-VPN-Security-2A940X3.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Twitter’s Clumsy Pivot to X.com Is a Gift to Phishers</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 10, 2024</p> \
+<h2>DuckDuckGo Is Taking Its Privacy Fight to Data Brokers</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 11, 2024</p> \
 </div> \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/" target="_blank"> \
-<img src="https://media.wired.com/photos/6615d5c0dc52e8ec9fd84d8f/master/pass/Opt-Out-of-AI-Security-GettyImages-1354144857.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/best-personal-safety-tech/" target="_blank"> \
+<img src="https://media.wired.com/photos/65ef42b446f73c56a8a848b9/master/pass/Plegium-Smart-Emergency-Button-Front-colorful-background---Source-Plegium.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>How to Stop Your Data From Being Used to Train AI</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 10, 2024</p> \
+<h2>The Best Personal Safety Devices, Apps, and Wearables (2024)</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 11, 2024</p> \
 </div> \
 </a> \
 </div> \
@@ -27,11 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://www.wired.com/live/section-702-reauthorization-congress-2024/" target="_blank"> \
-<img src="https://media.wired.com/photos/661424c354b6b55f1600967d/master/pass/Americans-Face-a-Congress-That-Wants-to-Surveil-Them-Security-GettyImages-1689511436.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2024/04/ruseriousx.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Section 702: The Future of the Biggest US Spy Program Hangs in the Balance</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 09, 2024</p> \
+<h2>Twitter’s Clumsy Pivot to X.com Is a Gift to Phishers</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 10, 2024</p> \
 </div> \
 </a> \
 </div> \

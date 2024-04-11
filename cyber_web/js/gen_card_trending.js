@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/best-personal-safety-tech/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Twitter’s Clumsy Pivot to X.com Is a Gift to Phishers</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Best Personal Safety Devices, Apps, and Wearables (2024)</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/duckduckgo-vpn-data-removal-tool-privacy-pro/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">How to Stop Your Data From Being Used to Train AI</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">DuckDuckGo Is Taking Its Privacy Fight to Data Brokers</h6> \
 </div> \
 </a> \
 </li> \
