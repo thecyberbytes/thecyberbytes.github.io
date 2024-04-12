@@ -28,9 +28,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/change-healthcare-ransomhub-threat/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">BlackCat Ransomware Group Implodes After Apparent $22M Payment by Change Healthcare</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Change Healthcare Faces Another Ransomware Threat—and It Looks Credible</h6> \
 </div> \
 </a> \
 </li> \

@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/change-healthcare-ransomhub-threat/" target="_blank"> \
+<img src="https://media.wired.com/photos/66194e33b6dbceed427548e2/master/pass/RansomHub-Change-Healthcare-Alamy-W5BW53.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Change Healthcare Faces Another Ransomware Threat—and It Looks Credible</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 12, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/duckduckgo-vpn-data-removal-tool-privacy-pro/" target="_blank"> \
 <img src="https://media.wired.com/photos/6617453617d6790e7ef163d5/master/pass/DuckDuckGo-VPN-Security-2A940X3.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>The Best Personal Safety Devices, Apps, and Wearables (2024)</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 11, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/" target="_blank"> \
-<img src="https://media.wired.com/photos/6615d5c0dc52e8ec9fd84d8f/master/pass/Opt-Out-of-AI-Security-GettyImages-1354144857.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>How to Stop Your Data From Being Used to Train AI</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 10, 2024</p> \
 </div> \
 </a> \
 </div> \

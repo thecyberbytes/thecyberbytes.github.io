@@ -1,5 +1,14 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
+<a href="https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/65f8df55d8cc6b75e09224a6/master/pass/business_glassdoor_anonymous_user_data.jpg" class="card-img-top img-fluid" alt="..."> \
+<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
+<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>March 20, 2024</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Glassdoor Wants to Know Your Real Name</h5> \
+</div> \
+</a> \
+</div> \
+<div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
 <a href="https://www.wired.com/story/automakers-sharing-driver-data-security-roundup/" target="_blank" style="text-decoration:none"> \
 <img src="https://media.wired.com/photos/65f4bc752a4b729889d78ac6/master/pass/Security-News-This-Week--Automakers-Are-Telling-Your-Insurance-Company-How-You-Really-Drive-GettyImages-108291313.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
@@ -14,15 +23,6 @@ document.write(' \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
 <small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>March 15, 2024</span></small> \
 <h5 class="card-link text-dark font-weight-bold my-3">Sinking Section 702 Wiretap Program Offered One Last Lifeboat</h5> \
-</div> \
-</a> \
-</div> \
-<div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/03/ceo-of-data-privacy-company-onerep-com-founded-dozens-of-people-search-firms/" target="_blank" style="text-decoration:none"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/03/onerep-permanente.png" class="card-img-top img-fluid" alt="..."> \
-<div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>March 14, 2024</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">CEO of Data Privacy Company Onerep.com Founded Dozens of People-Search Firms</h5> \
 </div> \
 </a> \
 </div> \
