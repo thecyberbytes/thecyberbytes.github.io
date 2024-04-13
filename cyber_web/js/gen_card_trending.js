@@ -7,16 +7,16 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/best-personal-safety-tech/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/space-force-military-exercise-satellite/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Best Personal Safety Devices, Apps, and Wearables (2024)</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Space Force Is Planning a Military Exercise in Orbit</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/roku-breach-hits-567000-users/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Why CISA is Warning CISOs About a Breach at Sisense</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Roku Breach Hits 567,000 Users</h6> \
 </div> \
 </a> \
 </li> \
