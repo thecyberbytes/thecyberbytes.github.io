@@ -3,6 +3,15 @@ document.write(' \
 <a href="https://www.wired.com/story/iran-israel-drone-attack-iron-dome/" target="_blank"> \
 <img src="https://media.wired.com/photos/661b18156f4d682d170b0481/master/pass/1242344494" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
+<h2>How Israel Fended Off Iran\'s Drone and Missile Attack</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 14, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/iran-israel-drone-attack-iron-dome/" target="_blank"> \
+<img src="https://media.wired.com/photos/661b18156f4d682d170b0481/master/pass/1242344494" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
 <h2>How Israel Is Defending Against Iran\'s Drone Attack</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 14, 2024</p> \
 </div> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Roku Breach Hits 567,000 Users</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 13, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/house-section-702-vote/" target="_blank"> \
-<img src="https://media.wired.com/photos/66194cbf42fcfc4408ab726c/master/pass/Section-702,-Part-Deux-GettyImages-2147028982.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>House Votes to Extend—and Expand—a Major US Spy Program</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 12, 2024</p> \
 </div> \
 </a> \
 </div> \
