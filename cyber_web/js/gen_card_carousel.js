@@ -21,7 +21,7 @@ document.write(' \
 <a href="https://www.wired.com/story/iran-israel-drone-attack-iron-dome/" target="_blank"> \
 <img src="https://media.wired.com/photos/661b18156f4d682d170b0481/master/pass/1242344494" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>How Israel Fended Off Iran\'s Drone and Missile Attack</h2> \
+<h2>How Israel Is Defending Against Iran\'s Drone Attack</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 14, 2024</p> \
 </div> \
 </a> \
@@ -30,7 +30,7 @@ document.write(' \
 <a href="https://www.wired.com/story/iran-israel-drone-attack-iron-dome/" target="_blank"> \
 <img src="https://media.wired.com/photos/661b18156f4d682d170b0481/master/pass/1242344494" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>How Israel Is Defending Against Iran\'s Drone Attack</h2> \
+<h2>How Israel Fended Off Iran\'s Drone and Missile Attack</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 14, 2024</p> \
 </div> \
 </a> \
