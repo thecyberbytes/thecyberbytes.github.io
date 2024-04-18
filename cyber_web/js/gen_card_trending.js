@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/cyber-army-of-russia-reborn-sandworm-us-cyberattacks/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/iti-section-702-expansion-opposition/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">Hackers Linked to Russia’s Military Claim Credit for Sabotaging US Water Utilities</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Big Tech Squares Off Against US Spies</h6> \
 </div> \
 </a> \
 </li> \
