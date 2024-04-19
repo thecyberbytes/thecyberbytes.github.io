@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/the-trump-jury-has-a-doxing-problem/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/the-biggest-deepfake-porn-website-is-now-blocked-in-the-uk/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Trump Jury Has a Doxing Problem</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Biggest Deepfake Porn Website Is Now Blocked in the UK</h6> \
 </div> \
 </a> \
 </li> \
