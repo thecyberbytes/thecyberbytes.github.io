@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/the-biggest-deepfake-porn-website-is-now-blocked-in-the-uk/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/ai-fighter-jets-dogfight-security-roundup/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">The Biggest Deepfake Porn Website Is Now Blocked in the UK</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">AI-Controlled Fighter Jets Are Dogfighting With Human Pilots Now</h6> \
 </div> \
 </a> \
 </li> \
@@ -23,7 +23,7 @@ document.write(' \
 <li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://www.wired.com/story/iran-israel-drone-attack-iron-dome/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">How Israel Fended Off Iran\'s Drone and Missile Attack</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How Israel Defended Against Iran\'s Drone and Missile Attack</h6> \
 </div> \
 </a> \
 </li> \

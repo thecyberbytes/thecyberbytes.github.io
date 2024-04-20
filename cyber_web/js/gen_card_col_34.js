@@ -1,10 +1,10 @@
 document.write(' \
 <div class="card mb-5 border-0 rounded zoom" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/jeffrey-epstein-island-visitors-data-broker-leak/" target="_blank" style="text-decoration:none"> \
-<img src="https://media.wired.com/clips/6605be9e51d91a7fb2f9c994/master/pass/250324-security-jeffrey-epstein-island-maps-wide-hp.mp4" class="card-img-top img-fluid" alt="..."> \
+<a href="https://www.wired.com/story/yogurt-heist-security-roundup/" target="_blank" style="text-decoration:none"> \
+<img src="https://media.wired.com/photos/6606f98c12bb914ce2738b5e/master/pass/Security-News-This-Week--Cybercriminals\'-Yogurt-Heist-Reveals-A-Rampant-Form-of-Online-Fraud-Security-GettyImages-158315555.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:12px"> \
-<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>March 28, 2024</span></small> \
-<h5 class="card-link text-dark font-weight-bold my-3">Jeffrey Epstein’s Island Visitors Exposed by Data Broker</h5> \
+<small class="text-uppercase font-weight-bold"><span>Data Breach</span> <span class="mx-1">&bullet;</span> <span>March 30, 2024</span></small> \
+<h5 class="card-link text-dark font-weight-bold my-3">Yogurt Heist Reveals a Rampant Form of Online Fraud</h5> \
 </div> \
 </a> \
 </div> \
