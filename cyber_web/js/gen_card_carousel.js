@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/best-password-managers/" target="_blank"> \
+<img src="https://media.wired.com/photos/641e1a1b43ffd37beea02cdf/master/pass/Best%20Password%20Managers%20Gear%20GettyImages-1408198405.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>9 Best Password Managers (2024): Features, Pricing, and Tips</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 28, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/russia-un-resolution-space-nuclear-weapons-satellites/" target="_blank"> \
 <img src="https://media.wired.com/photos/662bff9c7e1ff0154e168b16/master/pass/ars%20pickup_GettyImages-2147815932.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -22,15 +31,6 @@ document.write(' \
 <img src="https://media.wired.com/photos/66284838054b26b13d95a20c/master/pass/Cisco-Hack-Security-GettyImages-1238829383.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
 <h2>\'ArcaneDoor\' Cyberspies Hacked Cisco Firewalls to Access Government Networks</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 24, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/shotspotter-keeps-listening-contracts-expire/" target="_blank"> \
-<img src="https://media.wired.com/photos/662821c50ea1ff125a0f5cf2/master/pass/security_shotspotter_gunshot_data_police_contracts.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>ShotSpotter Keeps Listening for Gunfire After Contracts Expire</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">April 24, 2024</p> \
 </div> \
 </a> \
