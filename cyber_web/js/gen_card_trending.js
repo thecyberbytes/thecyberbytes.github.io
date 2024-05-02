@@ -7,23 +7,23 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/ukraine-drone-startups-russia/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">A Vast New Data Set Could Supercharge the AI Hunt for Crypto Money Laundering</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">Inside Ukraine’s Killer-Drone Startup Industry</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/outabox-facial-recognition-breach/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">The Breach of a Face Recognition Firm Reveals a Hidden Danger of Biometrics</h6> \
 </div> \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
 <a href="https://www.wired.com/story/iran-israel-drone-attack-iron-dome/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">How Israel Defended Against Iran\'s Drone and Missile Attack</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How Israel Fended Off Iran\'s Drone and Missile Attack</h6> \
 </div> \
 </a> \
 </li> \
