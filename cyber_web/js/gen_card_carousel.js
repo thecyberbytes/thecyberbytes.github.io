@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/border-surveillance-india-assassination-project-nimbus-security-roundup/" target="_blank"> \
+<img src="https://media.wired.com/photos/663563ad231b4f48281342dd/master/pass/A-New-Surveillance-Tool-Invades-Border-Towns-Security-GettyImages-2149617416.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>A New Surveillance Tool Invades Border Towns</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 04, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/yahoo-boys-scammers-facebook-telegram-tiktok-youtube/" target="_blank"> \
 <img src="https://media.wired.com/photos/6633e1fca3a7eb4fb0566633/master/pass/Yahoo-Boys-Security-GettyImages-1241008489.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Inside Ukraine’s Killer-Drone Startup Industry</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 02, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/cisa-cybersecurity-pledge/" target="_blank"> \
-<img src="https://media.wired.com/photos/66316632d6935f24a3420a92/master/pass/CISA-pledge-Security-GettyImages-1322885895.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The US Government Is Asking Big Tech to Promise Better Cybersecurity</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 01, 2024</p> \
 </div> \
 </a> \
 </div> \
