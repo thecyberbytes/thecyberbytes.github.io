@@ -1,10 +1,19 @@
 document.write(' \
 <div class="carousel-item active"> \
-<a href="https://krebsonsecurity.com/2024/05/u-s-charges-russian-man-as-boss-of-lockbit-ransomware-group/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/05/lockbitsupp-nca.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://www.wired.com/story/cyber-army-of-russia-interview/" target="_blank"> \
+<img src="https://media.wired.com/photos/66393100588f131dd8d770b0/master/pass/Cyber-Army-of-Russia-Security.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>U.S. Charges Russian Man as Boss of LockBit Ransomware Group</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 07, 2024</p> \
+<h2>A (Strange) Interview With the Russian-Military-Linked Hackers Targeting US Water Utilities</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 08, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
+<a href="https://www.wired.com/story/fbi-section-702-us-person-queries-email/" target="_blank"> \
+<img src="https://media.wired.com/photos/663ba5b93871b77aee1e6549/master/pass/050724-security-spy-program-us-residents.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>Top FBI Official Urges Agents to Use Warrantless Wiretaps on US Soil</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 08, 2024</p> \
 </div> \
 </a> \
 </div> \
@@ -18,20 +27,11 @@ document.write(' \
 </a> \
 </div> \
 <div class="carousel-item "> \
-<a href="https://krebsonsecurity.com/2024/05/why-your-vpn-may-not-be-as-secure-as-it-claims/" target="_blank"> \
-<img src="https://krebsonsecurity.com/wp-content/uploads/2024/05/tunnelvision.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<a href="https://krebsonsecurity.com/2024/05/u-s-charges-russian-man-as-boss-of-lockbit-ransomware-group/" target="_blank"> \
+<img src="https://krebsonsecurity.com/wp-content/uploads/2024/05/lockbitsupp-nca.png" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
-<h2>Why Your VPN May Not Be As Secure As It Claims</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 06, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/apple-iphone-spyware-101/" target="_blank"> \
-<img src="https://media.wired.com/photos/663568d2089ba3331125c81e/master/pass/iPhone-Spyware-Security-GettyImages-1527705905.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>Apple’s iPhone Spyware Problem Is Getting Worse. Here’s What You Should Know</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 06, 2024</p> \
+<h2>U.S. Charges Russian Man as Boss of LockBit Ransomware Group</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 07, 2024</p> \
 </div> \
 </a> \
 </div> \
