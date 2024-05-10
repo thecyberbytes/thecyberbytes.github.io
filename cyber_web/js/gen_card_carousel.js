@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/tunnelvision-vpn-attack/" target="_blank"> \
+<img src="https://media.wired.com/photos/663e39c734a53f6e0f3e067e/master/pass/VPN-Attack-GettyImages-896761626.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>‘TunnelVision’ Attack Leaves Nearly All VPNs Vulnerable to Spying</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 10, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/cyber-army-of-russia-interview/" target="_blank"> \
 <img src="https://media.wired.com/photos/66393100588f131dd8d770b0/master/pass/Cyber-Army-of-Russia-Security.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -14,15 +23,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Top FBI Official Urges Agents to Use Warrantless Wiretaps on US Soil</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 08, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/lockbitsupp-lockbit-ransomware/" target="_blank"> \
-<img src="https://media.wired.com/photos/663a35133fe811c0af69d61e/master/pass/DK1.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The Alleged LockBit Ransomware Mastermind Has Been Identified</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 07, 2024</p> \
 </div> \
 </a> \
 </div> \
