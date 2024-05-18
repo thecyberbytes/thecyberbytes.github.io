@@ -1,5 +1,14 @@
 document.write(' \
 <div class="carousel-item active"> \
+<a href="https://www.wired.com/story/ss7-vulnerability-spies-north-korea-tesla-breachforums/" target="_blank"> \
+<img src="https://media.wired.com/photos/6647d6aeaef4cb09881cd0a2/master/pass/US-Official-Warns-a-Cell-Network-Flaw-Is-Being-Exploited-for-Spying-Security-GettyImages-1425154697.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
+<div class="carousel-caption"> \
+<h2>US Official Warns a Cell Network Flaw Is Being Exploited for Spying</h2> \
+<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 18, 2024</p> \
+</div> \
+</a> \
+</div> \
+<div class="carousel-item "> \
 <a href="https://www.wired.com/story/android-15-theft-detection-lock/" target="_blank"> \
 <img src="https://media.wired.com/photos/6643a65f0d862750ee5fe25f/master/pass/Google-IO-Anti-Theft-Security.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
 <div class="carousel-caption"> \
@@ -23,15 +32,6 @@ document.write(' \
 <div class="carousel-caption"> \
 <h2>Patch Tuesday, May 2024 Edition</h2> \
 <p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 14, 2024</p> \
-</div> \
-</a> \
-</div> \
-<div class="carousel-item "> \
-<a href="https://www.wired.com/story/tornado-cash-money-laundering-case-crypto-privacy/" target="_blank"> \
-<img src="https://media.wired.com/photos/663ea8ce95c3a662fa97d519/master/pass/Tornado-Crypto-Currency.jpg" alt="" class="d-block w-100" style="height:50vh;filter: brightness(50%);"> \
-<div class="carousel-caption"> \
-<h2>The $2.3 Billion Tornado Cash Case Is a Pivotal Moment for Crypto Privacy</h2> \
-<p class="text-uppercase font-weight-bold" style="letter-spacing: 0.07rem;font-family:serif;font-size:12px">May 13, 2024</p> \
 </div> \
 </a> \
 </div> \
