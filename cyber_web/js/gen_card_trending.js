@@ -7,9 +7,9 @@ document.write(' \
 </a> \
 </li> \
 <li class="list-group-item" style="background: #fafafa;"> \
-<a href="https://www.wired.com/story/registered-agents-north-korean-scam-wmds/" target="_blank" style="text-decoration:none"> \
+<a href="https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/" target="_blank" style="text-decoration:none"> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;;font-size:10px"> \
-<h6 class="card-link text-dark font-weight-bold my-3">A US Company Enabled a North Korean Scam That Raised Money for WMDs</h6> \
+<h6 class="card-link text-dark font-weight-bold my-3">How to Lead an Army of Digital Sleuths in the Age of AI</h6> \
 </div> \
 </a> \
 </li> \
