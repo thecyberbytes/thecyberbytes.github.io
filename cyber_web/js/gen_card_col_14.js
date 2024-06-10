@@ -17,7 +17,7 @@ document.write(' \
 <img src="https://media.wired.com/photos/6629392ea620d99a9e8ea90e/master/pass/evolv-ny-subway-eric-adams.jpg" class="card-img-top img-fluid" alt="..."> \
 <div class="card-body p-0 mx-0 my-3" style="letter-spacing: 0.07rem;font-family:serif;color:#ADADAD;font-size:12px"> \
 <small class="text-uppercase font-weight-bold"><span>Cyber Knowledge</span> <span class="mx-1">&bullet;</span> <span>May 13, 2024</span></small> \
-<h2 class="card-link text-dark font-weight-bold my-3">Internal Emails Reveal How a Controversial Gun-Detection AI System Found Its Way to NYC</h2> \
+<h2 class="card-link text-dark font-weight-bold my-3">Internal Emails Show How a Controversial Gun-Detection AI System Found Its Way to NYC</h2> \
 </div> \
 </a> \
 </div> \
