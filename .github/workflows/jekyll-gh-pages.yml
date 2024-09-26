@@ -61,7 +61,7 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f my-priv-repo/cyber_web/ml_code/requirements.txt ]; then pip install --upgrade --force-reinstall -r my-priv-repo/cyber_web/ml_code/requirements.txt; fi
       - name: Install nltk downloads
-        run: python -m nltk.downloader punkt stopwords wordnet omw-1.4
+        run: python -m nltk.downloader punkt punkt_tab stopwords wordnet omw-1.4
       - name: Run the application
         run: |
           python my-priv-repo/cyber_web/ml_code/news_main.py
